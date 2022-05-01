@@ -1,0 +1,727 @@
+,school,gamedate,type,opponent,conf,result,team_points,opp_points,ot,w,l,streak,arena,rank,gametime
+0,michigan,2009-11-14,REG,Northern Michigan,,W,97,50,,1,0,W 1,Crisler Arena,15,
+1,michigan,2009-11-20,REG,Houston Baptist,GWC,W,77,55,,2,0,W 2,Crisler Arena,15,
+2,michigan,2009-11-26,REG,Creighton,MVC,W,83,76,OT,3,0,W 3,The Milk House,15,
+3,michigan,2009-11-27,REG,Marquette,Big East,L,65,79,,3,1,L 1,The Milk House,15,
+4,michigan,2009-11-29,REG,Alabama,SEC,L,66,68,,3,2,L 2,The Milk House,15,
+5,michigan,2009-12-02,REG,Boston College,ACC,L,58,62,,3,3,L 3,Crisler Arena,-,
+6,michigan,2009-12-05,REG,Arkansas-Pine Bluff,SWAC,W,67,53,,4,3,W 1,Crisler Arena,-,
+7,michigan,2009-12-09,REG,Utah,MWC,L,52,68,,4,4,L 1,Jon M. Huntsman Center,-,
+8,michigan,2009-12-13,REG,Detroit Mercy,Horizon,W,75,64,,5,4,W 1,Crisler Arena,-,
+9,michigan,2009-12-19,REG,Kansas (1),Big 12,L,64,75,,5,5,L 1,Allen Fieldhouse,-,
+10,michigan,2009-12-22,REG,Coppin State,MEAC,W,76,46,,6,5,W 1,Crisler Arena,-,
+11,michigan,2009-12-31,REG,Indiana,Big Ten,L,65,71,,6,6,L 1,Assembly Hall,-,
+12,michigan,2010-01-03,REG,Ohio State (15),Big Ten,W,73,64,,7,6,W 1,Crisler Arena,-,
+13,michigan,2010-01-07,REG,Penn State,Big Ten,W,64,55,,8,6,W 2,Bryce Jordan Center,-,
+14,michigan,2010-01-10,REG,Northwestern,Big Ten,L,62,68,,8,7,L 1,Crisler Arena,-,
+15,michigan,2010-01-14,REG,Indiana,Big Ten,W,69,45,,9,7,W 1,Crisler Arena,-,
+16,michigan,2010-01-17,REG,Connecticut (15),Big East,W,68,63,,10,7,W 2,Crisler Arena,-,
+17,michigan,2010-01-20,REG,Wisconsin (18),Big Ten,L,48,54,,10,8,L 1,Kohl Center,-,
+18,michigan,2010-01-23,REG,Purdue (13),Big Ten,L,59,69,,10,9,L 2,Mackey Arena,-,
+19,michigan,2010-01-26,REG,Michigan State (5),Big Ten,L,56,57,,10,10,L 3,Crisler Arena,-,
+20,michigan,2010-01-30,REG,Iowa,Big Ten,W,60,46,,11,10,W 1,Crisler Arena,-,
+21,michigan,2010-02-02,REG,Northwestern,Big Ten,L,52,67,,11,11,L 1,Welsh-Ryan Arena,-,
+22,michigan,2010-02-06,REG,Wisconsin (16),Big Ten,L,44,62,,11,12,L 2,Crisler Arena,-,
+23,michigan,2010-02-11,REG,Minnesota,Big Ten,W,71,63,,12,12,W 1,Williams Arena,-,
+24,michigan,2010-02-16,REG,Iowa,Big Ten,W,80,78,OT,13,12,W 2,Carver-Hawkeye Arena,-,
+25,michigan,2010-02-20,REG,Penn State,Big Ten,L,51,55,,13,13,L 1,Crisler Arena,-,
+26,michigan,2010-02-23,REG,Illinois,Big Ten,L,44,51,,13,14,L 2,Crisler Arena,-,
+27,michigan,2010-02-27,REG,Ohio State (9),Big Ten,L,55,66,,13,15,L 3,Value City Arena,-,
+28,michigan,2010-03-02,REG,Minnesota,Big Ten,W,83,55,,14,15,W 1,Crisler Arena,-,
+29,michigan,2010-03-07,REG,Michigan State (11),Big Ten,L,48,64,,14,16,L 1,Breslin Events Center,-,
+31,michigan,2010-03-11,CTOURN,Iowa,Big Ten,W,59,52,,15,16,W 1,Conseco Fieldhouse,-,
+32,michigan,2010-03-12,CTOURN,Ohio State (5),Big Ten,L,68,69,,15,17,L 1,Conseco Fieldhouse,-,
+33,michigan,2010-11-13,REG,South Carolina Upstate,A-Sun,W,66,35,,1,0,W 1,Crisler Arena,-,
+34,michigan,2010-11-18,REG,Bowling Green State,MAC,W,69,50,,2,0,W 2,Crisler Arena,-,
+35,michigan,2010-11-21,REG,Gardner-Webb,Big South,W,80,58,,3,0,W 3,Crisler Arena,-,
+36,michigan,2010-11-26,REG,Syracuse (9),Big East,L,50,53,,3,1,L 1,Boardwalk Hall,-,
+37,michigan,2010-11-27,REG,UTEP,CUSA,L,56,65,,3,2,L 2,Boardwalk Hall,-,
+38,michigan,2010-11-30,REG,Clemson,ACC,W,69,61,,4,2,W 1,Littlejohn Coliseum,-,
+39,michigan,2010-12-04,REG,Harvard,Ivy,W,65,62,,5,2,W 2,Crisler Arena,-,
+40,michigan,2010-12-06,REG,Concordia (MI),,W,86,65,,6,2,W 3,Crisler Arena,-,
+41,michigan,2010-12-10,REG,Utah,MWC,W,75,64,,7,2,W 4,Crisler Arena,-,
+42,michigan,2010-12-14,REG,North Carolina Central,Ind,W,64,44,,8,2,W 5,Crisler Arena,-,
+43,michigan,2010-12-18,REG,Oakland,Summit,W,69,51,,9,2,W 6,Crisler Arena,-,
+44,michigan,2010-12-23,REG,Bryant,NEC,W,87,71,,10,2,W 7,Crisler Arena,-,
+45,michigan,2010-12-28,REG,Purdue (12),Big Ten,L,57,80,,10,3,L 1,Crisler Arena,-,
+46,michigan,2011-01-02,REG,Penn State,Big Ten,W,76,69,,11,3,W 1,Crisler Arena,-,
+47,michigan,2011-01-05,REG,Wisconsin,Big Ten,L,50,66,,11,4,L 1,Kohl Center,-,
+48,michigan,2011-01-09,REG,Kansas (3),Big 12,L,60,67,OT,11,5,L 2,Crisler Arena,-,
+49,michigan,2011-01-12,REG,Ohio State (2),Big Ten,L,64,68,,11,6,L 3,Crisler Arena,-,
+50,michigan,2011-01-15,REG,Indiana,Big Ten,L,61,80,,11,7,L 4,Assembly Hall,-,
+51,michigan,2011-01-18,REG,Northwestern,Big Ten,L,60,74,,11,8,L 5,Welsh-Ryan Arena,-,
+52,michigan,2011-01-22,REG,Minnesota (15),Big Ten,L,64,69,,11,9,L 6,Crisler Arena,-,
+53,michigan,2011-01-27,REG,Michigan State (25),Big Ten,W,61,57,,12,9,W 1,Breslin Events Center,-,
+54,michigan,2011-01-30,REG,Iowa,Big Ten,W,87,73,,13,9,W 2,Crisler Arena,-,
+55,michigan,2011-02-03,REG,Ohio State (1),Big Ten,L,53,62,,13,10,L 1,Value City Arena,-,
+56,michigan,2011-02-06,REG,Penn State,Big Ten,W,65,62,,14,10,W 1,Bryce Jordan Center,-,
+57,michigan,2011-02-09,REG,Northwestern,Big Ten,W,75,66,,15,10,W 2,Crisler Arena,-,
+58,michigan,2011-02-12,REG,Indiana,Big Ten,W,73,69,,16,10,W 3,Crisler Arena,-,
+59,michigan,2011-02-16,REG,Illinois,Big Ten,L,52,54,,16,11,L 1,Assembly Hall,-,
+60,michigan,2011-02-19,REG,Iowa,Big Ten,W,75,72,OT,17,11,W 1,Carver-Hawkeye Arena,-,
+61,michigan,2011-02-23,REG,Wisconsin (12),Big Ten,L,52,53,,17,12,L 1,Crisler Arena,-,
+62,michigan,2011-02-26,REG,Minnesota,Big Ten,W,70,63,,18,12,W 1,Williams Arena,-,
+63,michigan,2011-03-05,REG,Michigan State,Big Ten,W,70,63,,19,12,W 2,Crisler Arena,-,
+65,michigan,2011-03-11,CTOURN,Illinois,Big Ten,W,60,55,,20,12,W 3,,-,
+66,michigan,2011-03-12,CTOURN,Ohio State (1),Big Ten,L,61,68,,20,13,L 1,,-,
+68,michigan,2011-03-18,NCAA,Tennessee,SEC,W,75,45,,21,13,W 1,Times Warner Cable Arena,,
+69,michigan,2011-03-20,NCAA,Duke (3),ACC,L,71,73,,21,14,L 1,Times Warner Cable Arena,,
+70,michigan,2011-11-11,REG,Ferris State,,W,59,33,,1,0,W 1,Crisler Arena,18,
+71,michigan,2011-11-14,REG,Towson,CAA,W,64,47,,2,0,W 2,Crisler Arena,17,
+72,michigan,2011-11-17,REG,Western Illinois,Summit,W,59,55,,3,0,W 3,Crisler Arena,17,
+73,michigan,2011-11-21,REG,Memphis (8),CUSA,W,73,61,,4,0,W 4,Lahaina Civic Center,15,
+74,michigan,2011-11-22,REG,Duke (6),ACC,L,75,82,,4,1,L 1,,15,
+75,michigan,2011-11-23,REG,UCLA,Pac-12,W,79,63,,5,1,W 1,,15,
+76,michigan,2011-11-29,REG,Virginia,ACC,L,58,70,,5,2,L 1,John Paul Jones Arena,14,
+77,michigan,2011-12-03,REG,Iowa State,Big 12,W,76,66,,6,2,W 1,Crisler Arena,14,
+78,michigan,2011-12-10,REG,Oakland,Summit,W,90,80,,7,2,W 2,,20,
+79,michigan,2011-12-13,REG,Arkansas-Pine Bluff,SWAC,W,63,50,,8,2,W 3,Crisler Arena,20,
+80,michigan,2011-12-17,REG,Alabama A&M,SWAC,W,87,57,,9,2,W 4,Crisler Arena,20,
+81,michigan,2011-12-22,REG,Bradley,MVC,W,77,66,,10,2,W 5,Crisler Arena,20,
+82,michigan,2011-12-29,REG,Penn State,Big Ten,W,71,53,,11,2,W 6,Crisler Arena,18,
+83,michigan,2012-01-01,REG,Minnesota,Big Ten,W,61,56,,12,2,W 7,Crisler Arena,18,
+84,michigan,2012-01-05,REG,Indiana (12),Big Ten,L,71,73,,12,3,L 1,Assembly Hall,16,
+85,michigan,2012-01-08,REG,Wisconsin (18),Big Ten,W,59,41,,13,3,W 1,Crisler Arena,16,
+86,michigan,2012-01-11,REG,Northwestern,Big Ten,W,66,64,OT,14,3,W 2,Crisler Arena,13,
+87,michigan,2012-01-14,REG,Iowa,Big Ten,L,59,75,,14,4,L 1,Carver-Hawkeye Arena,13,
+88,michigan,2012-01-17,REG,Michigan State (9),Big Ten,W,60,59,,15,4,W 1,Crisler Arena,20,
+89,michigan,2012-01-21,REG,Arkansas,SEC,L,64,66,,15,5,L 1,Bud Walton Arena,20,
+90,michigan,2012-01-24,REG,Purdue,Big Ten,W,66,64,,16,5,W 1,Mackey Arena,20,
+91,michigan,2012-01-29,REG,Ohio State (4),Big Ten,L,49,64,,16,6,L 1,Value City Arena,20,
+92,michigan,2012-02-01,REG,Indiana (20),Big Ten,W,68,56,,17,6,W 1,Crisler Arena,23,
+93,michigan,2012-02-05,REG,Michigan State (9),Big Ten,L,54,64,,17,7,L 1,Breslin Events Center,23,
+94,michigan,2012-02-08,REG,Nebraska,Big Ten,W,62,46,,18,7,W 1,Bob Devaney Sports Center,22,
+95,michigan,2012-02-12,REG,Illinois,Big Ten,W,70,61,,19,7,W 2,Crisler Arena,22,
+96,michigan,2012-02-18,REG,Ohio State (6),Big Ten,W,56,51,,20,7,W 3,Crisler Arena,17,
+97,michigan,2012-02-21,REG,Northwestern,Big Ten,W,67,55,OT,21,7,W 4,Welsh-Ryan Arena,11,
+98,michigan,2012-02-25,REG,Purdue,Big Ten,L,61,75,,21,8,L 1,Crisler Arena,11,
+99,michigan,2012-03-01,REG,Illinois,Big Ten,W,72,61,,22,8,W 1,Assembly Hall,13,
+100,michigan,2012-03-04,REG,Penn State,Big Ten,W,71,65,,23,8,W 2,Bryce Jordan Center,13,
+102,michigan,2012-03-09,CTOURN,Minnesota,Big Ten,W,73,69,OT,24,8,W 3,,10,
+103,michigan,2012-03-10,CTOURN,Ohio State (7),Big Ten,L,55,77,,24,9,L 1,Conseco Fieldhouse,10,
+105,michigan,2012-03-16,NCAA,Ohio,MAC,L,60,65,,24,10,L 2,Bridgestone Arena,,
+106,michigan,2012-11-09,REG,Slippery Rock,,W,100,62,,1,0,W 1,Crisler Arena,5,
+107,michigan,2012-11-12,REG,IUPUI,Summit,W,91,54,,2,0,W 2,Crisler Arena,5,
+108,michigan,2012-11-13,REG,Cleveland State,Horizon,W,77,47,,3,0,W 3,Crisler Arena,5,
+109,michigan,2012-11-21,REG,Pittsburgh,Big East,W,67,62,,4,0,W 4,,4,
+110,michigan,2012-11-23,REG,Kansas State,Big 12,W,71,57,,5,0,W 5,Madison Square Garden (IV),4,
+111,michigan,2012-11-27,REG,NC State (18),ACC,W,79,72,,6,0,W 6,Crisler Arena,3,
+112,michigan,2012-12-01,REG,Bradley,MVC,W,74,66,,7,0,W 7,Carver Arena,3,
+113,michigan,2012-12-04,REG,Western Michigan,MAC,W,73,41,,8,0,W 8,Crisler Arena,3,
+114,michigan,2012-12-08,REG,Arkansas,SEC,W,80,67,,9,0,W 9,Crisler Arena,3,
+115,michigan,2012-12-11,REG,Binghamton,AEC,W,67,39,,10,0,W 10,Crisler Arena,3,
+116,michigan,2012-12-15,REG,West Virginia,Big 12,W,81,66,,11,0,W 11,WVU Coliseum,3,
+117,michigan,2012-12-20,REG,Eastern Michigan,MAC,W,93,54,,12,0,W 12,Crisler Arena,2,
+118,michigan,2012-12-29,REG,Central Michigan,MAC,W,88,73,,13,0,W 13,Crisler Arena,2,
+119,michigan,2013-01-03,REG,Northwestern,Big Ten,W,94,66,,14,0,W 14,Welsh-Ryan Arena,2,
+120,michigan,2013-01-06,REG,Iowa,Big Ten,W,95,67,,15,0,W 15,Crisler Arena,2,
+121,michigan,2013-01-09,REG,Nebraska,Big Ten,W,62,47,,16,0,W 16,Crisler Arena,2,
+122,michigan,2013-01-13,REG,Ohio State (15),Big Ten,L,53,56,,16,1,L 1,Value City Arena,2,
+123,michigan,2013-01-17,REG,Minnesota (9),Big Ten,W,83,75,,17,1,W 1,Williams Arena,5,
+124,michigan,2013-01-24,REG,Purdue,Big Ten,W,68,53,,18,1,W 2,Crisler Arena,2,
+125,michigan,2013-01-27,REG,Illinois,Big Ten,W,74,60,,19,1,W 3,Assembly Hall,2,
+126,michigan,2013-01-30,REG,Northwestern,Big Ten,W,68,46,,20,1,W 4,Crisler Arena,1,
+127,michigan,2013-02-02,REG,Indiana (3),Big Ten,L,73,81,,20,2,L 1,Assembly Hall,1,
+128,michigan,2013-02-05,REG,Ohio State (10),Big Ten,W,76,74,OT,21,2,W 1,Crisler Arena,3,
+129,michigan,2013-02-09,REG,Wisconsin,Big Ten,L,62,65,OT,21,3,L 1,Kohl Center,3,
+130,michigan,2013-02-12,REG,Michigan State (8),Big Ten,L,52,75,,21,4,L 2,Breslin Events Center,4,
+131,michigan,2013-02-17,REG,Penn State,Big Ten,W,79,71,,22,4,W 1,Crisler Arena,4,
+132,michigan,2013-02-24,REG,Illinois,Big Ten,W,71,58,,23,4,W 2,Crisler Arena,7,
+133,michigan,2013-02-27,REG,Penn State,Big Ten,L,78,84,,23,5,L 1,Bryce Jordan Center,4,
+134,michigan,2013-03-03,REG,Michigan State (9),Big Ten,W,58,57,,24,5,W 1,Crisler Arena,4,
+135,michigan,2013-03-06,REG,Purdue,Big Ten,W,80,75,,25,5,W 2,Mackey Arena,7,
+136,michigan,2013-03-10,REG,Indiana (2),Big Ten,L,71,72,,25,6,L 1,Crisler Arena,7,
+138,michigan,2013-03-14,CTOURN,Penn State,Big Ten,W,83,66,,26,6,W 1,,6,
+139,michigan,2013-03-15,CTOURN,Wisconsin (22),Big Ten,L,59,68,,26,7,L 1,United Center,6,
+141,michigan,2013-03-21,NCAA,South Dakota State,Summit,W,71,56,,27,7,W 1,Palace of Auburn Hills,,
+142,michigan,2013-03-23,NCAA,Virginia Commonwealth,A-10,W,78,53,,28,7,W 2,Palace of Auburn Hills,,
+143,michigan,2013-03-29,NCAA,Kansas (3),Big 12,W,87,85,OT,29,7,W 3,Cowboy's Stadium,,
+144,michigan,2013-03-31,NCAA,Florida (14),SEC,W,79,59,,30,7,W 4,Cowboy's Stadium,,
+145,michigan,2013-04-06,NCAA,Syracuse (16),Big East,W,61,56,,31,7,W 5,Georgia Dome,,
+146,michigan,2013-04-08,NCAA,Louisville (2),Big East,L,76,82,,31,8,L 1,Georgia Dome,,
+147,michigan,2013-11-08,REG,Massachusetts-Lowell,AEC,W,69,42,,1,0,W 1,Crisler Arena,7,
+148,michigan,2013-11-12,REG,South Carolina State,MEAC,W,93,59,,2,0,W 2,Crisler Arena,7,
+149,michigan,2013-11-17,REG,Iowa State,Big 12,L,70,77,,2,1,L 1,James H. Hilton Coliseum ,7,
+150,michigan,2013-11-21,REG,Long Beach State,Big West,W,85,61,,3,1,W 1,Roberto Clemente Coliseum,15,
+151,michigan,2013-11-22,REG,Florida State,ACC,W,82,80,OT,4,1,W 2,Roberto Clemente Coliseum,15,
+152,michigan,2013-11-24,REG,Charlotte,CUSA,L,61,63,,4,2,L 1,Roberto Clemente Coliseum,15,
+153,michigan,2013-11-29,REG,Coppin State,MEAC,W,87,45,,5,2,W 1,Crisler Arena,22,
+154,michigan,2013-12-03,REG,Duke (10),ACC,L,69,79,,5,3,L 1,Cameron Indoor Stadium,22,
+155,michigan,2013-12-07,REG,Houston Baptist,Southland,W,107,53,,6,3,W 1,Crisler Arena,22,
+156,michigan,2013-12-14,REG,Arizona (1),Pac-12,L,70,72,,6,4,L 1,Crisler Arena,-,
+157,michigan,2013-12-21,REG,Stanford,Pac-12,W,68,65,,7,4,W 1,Barclays Center,-,
+158,michigan,2013-12-28,REG,Holy Cross,Patriot,W,88,66,,8,4,W 2,Crisler Arena,-,
+159,michigan,2014-01-02,REG,Minnesota,Big Ten,W,63,60,,9,4,W 3,Williams Arena,-,
+160,michigan,2014-01-05,REG,Northwestern,Big Ten,W,74,51,,10,4,W 4,Crisler Arena,-,
+161,michigan,2014-01-09,REG,Nebraska,Big Ten,W,71,70,,11,4,W 5,Pinnacle Bank Arena,-,
+162,michigan,2014-01-14,REG,Penn State,Big Ten,W,80,67,,12,4,W 6,Crisler Arena,-,
+163,michigan,2014-01-18,REG,Wisconsin (3),Big Ten,W,77,70,,13,4,W 7,Kohl Center,-,
+164,michigan,2014-01-22,REG,Iowa (10),Big Ten,W,75,67,,14,4,W 8,Crisler Arena,21,
+165,michigan,2014-01-25,REG,Michigan State (3),Big Ten,W,80,75,,15,4,W 9,Breslin Events Center,21,
+166,michigan,2014-01-30,REG,Purdue,Big Ten,W,75,66,,16,4,W 10,Crisler Arena,10,
+167,michigan,2014-02-02,REG,Indiana,Big Ten,L,52,63,,16,5,L 1,Assembly Hall,10,
+168,michigan,2014-02-05,REG,Nebraska,Big Ten,W,79,50,,17,5,W 1,Crisler Arena,10,
+169,michigan,2014-02-08,REG,Iowa (17),Big Ten,L,67,85,,17,6,L 1,Carver-Hawkeye Arena,10,
+170,michigan,2014-02-11,REG,Ohio State (22),Big Ten,W,70,60,,18,6,W 1,Value City Arena,15,
+171,michigan,2014-02-16,REG,Wisconsin (21),Big Ten,L,62,75,,18,7,L 1,Crisler Arena,15,
+172,michigan,2014-02-23,REG,Michigan State (13),Big Ten,W,79,70,,19,7,W 1,Crisler Arena,20,
+173,michigan,2014-02-26,REG,Purdue,Big Ten,W,77,76,OT,20,7,W 2,Mackey Arena,16,
+174,michigan,2014-03-01,REG,Minnesota,Big Ten,W,66,56,,21,7,W 3,Crisler Arena,16,
+175,michigan,2014-03-04,REG,Illinois,Big Ten,W,84,53,,22,7,W 4,Assembly Hall,12,
+176,michigan,2014-03-08,REG,Indiana,Big Ten,W,84,80,,23,7,W 5,Crisler Arena,12,
+178,michigan,2014-03-14,CTOURN,Illinois,Big Ten,W,64,63,,24,7,W 6,Conseco Fieldhouse,8,
+179,michigan,2014-03-15,CTOURN,Ohio State (24),Big Ten,W,72,69,,25,7,W 7,,8,
+180,michigan,2014-03-16,CTOURN,Michigan State (22),Big Ten,L,55,69,,25,8,L 1,Conseco Fieldhouse,8,
+182,michigan,2014-03-20,NCAA,Wofford,Southern,W,57,40,,26,8,W 1,Bradley Center,,
+183,michigan,2014-03-22,NCAA,Texas,Big 12,W,79,65,,27,8,W 2,Bradley Center,,
+184,michigan,2014-03-28,NCAA,Tennessee,SEC,W,73,71,,28,8,W 3,Lucas Oil Stadium,,
+185,michigan,2014-03-30,NCAA,Kentucky,SEC,L,72,75,,28,9,L 1,Lucas Oil Stadium,,
+186,michigan,2014-11-15,REG,Hillsdale,,W,92,68,,1,0,W 1,Crisler Arena,24,2:00p
+187,michigan,2014-11-17,REG,Bucknell,Patriot,W,77,53,,2,0,W 2,Crisler Arena,24,8:00p
+188,michigan,2014-11-20,REG,Detroit Mercy,Horizon,W,71,62,,3,0,W 3,Crisler Arena,24,6:00p
+189,michigan,2014-11-24,REG,Oregon,Pac-12,W,70,63,,4,0,W 4,Barclays Center,19,9:45p
+190,michigan,2014-11-25,REG,Villanova (12),Big East,L,55,60,,4,1,L 1,Barclays Center,19,10:15p
+191,michigan,2014-11-29,REG,Nicholls State,Southland,W,91,62,,5,1,W 1,Crisler Arena,19,4:00p
+192,michigan,2014-12-02,REG,Syracuse,ACC,W,68,65,,6,1,W 2,Crisler Arena,17,7:30p
+193,michigan,2014-12-06,REG,NJIT,Ind,L,70,72,,6,2,L 1,Crisler Arena,17,12:00p
+194,michigan,2014-12-09,REG,Eastern Michigan,MAC,L,42,45,,6,3,L 2,Crisler Arena,-,9:00p
+195,michigan,2014-12-13,REG,Arizona (3),Pac-12,L,53,80,,6,4,L 3,McKale Center,-,5:15p
+196,michigan,2014-12-20,REG,Southern Methodist,AAC,L,51,62,,6,5,L 4,Crisler Arena,-,12:00p
+197,michigan,2014-12-22,REG,Coppin State,MEAC,W,72,56,,7,5,W 1,Crisler Arena,-,8:00p
+198,michigan,2014-12-30,REG,Illinois,Big Ten,W,73,65,OT,8,5,W 2,Crisler Arena,-,3:00p
+199,michigan,2015-01-03,REG,Purdue,Big Ten,L,51,64,,8,6,L 1,Mackey Arena,-,2:15p
+200,michigan,2015-01-06,REG,Penn State,Big Ten,W,73,64,,9,6,W 1,Bryce Jordan Center,-,7:00p
+201,michigan,2015-01-10,REG,Minnesota,Big Ten,W,62,57,,10,6,W 2,Crisler Arena,-,1:00p
+202,michigan,2015-01-13,REG,Ohio State,Big Ten,L,52,71,,10,7,L 1,Value City Arena,-,7:00p
+203,michigan,2015-01-17,REG,Northwestern,Big Ten,W,56,54,,11,7,W 1,Crisler Arena,-,8:15p
+204,michigan,2015-01-20,REG,Rutgers,Big Ten,W,54,50,,12,7,W 2,Louis Brown Athletic Center,-,6:30p
+205,michigan,2015-01-24,REG,Wisconsin (6),Big Ten,L,64,69,OT,12,8,L 1,Crisler Arena,-,7:00p
+206,michigan,2015-01-27,REG,Nebraska,Big Ten,W,58,44,,13,8,W 1,Crisler Arena,-,7:00p
+207,michigan,2015-02-01,REG,Michigan State,Big Ten,L,66,76,OT,13,9,L 1,Breslin Events Center,-,1:00p
+208,michigan,2015-02-05,REG,Iowa,Big Ten,L,54,72,,13,10,L 2,Crisler Arena,-,7:00p
+209,michigan,2015-02-08,REG,Indiana,Big Ten,L,67,70,,13,11,L 3,Assembly Hall,-,1:00p
+210,michigan,2015-02-12,REG,Illinois,Big Ten,L,52,64,OT,13,12,L 4,State Farm Center,-,9:00p
+211,michigan,2015-02-17,REG,Michigan State,Big Ten,L,67,80,,13,13,L 5,Crisler Arena,-,9:00p
+212,michigan,2015-02-22,REG,Ohio State (24),Big Ten,W,64,57,,14,13,W 1,Crisler Arena,-,1:00p
+213,michigan,2015-02-28,REG,Maryland (14),Big Ten,L,56,66,,14,14,L 1,Xfinity Center,-,12:00p
+214,michigan,2015-03-03,REG,Northwestern,Big Ten,L,78,82,2OT,14,15,L 2,Welsh-Ryan Arena,-,9:00p
+215,michigan,2015-03-07,REG,Rutgers,Big Ten,W,79,69,,15,15,W 1,Crisler Arena,-,2:15p
+217,michigan,2015-03-12,CTOURN,Illinois,Big Ten,W,73,55,,16,15,W 2,United Center,-,12:00p
+218,michigan,2015-03-13,CTOURN,Wisconsin (6),Big Ten,L,60,71,,16,16,L 1,United Center,-,12:00p
+219,michigan,2015-11-13,REG,Northern Michigan,,W,70,44,,1,0,W 1,Crisler Arena,25,7:00p
+220,michigan,2015-11-16,REG,Elon,CAA,W,88,68,,2,0,W 2,Crisler Arena,24,7:00p
+221,michigan,2015-11-20,REG,Xavier,Big East,L,70,86,,2,1,L 1,Crisler Arena,24,9:00p
+222,michigan,2015-11-25,REG,Connecticut (18),AAC,L,60,74,,2,2,L 2,Imperial Arena at Atlantis Resort,-,9:30p
+223,michigan,2015-11-26,REG,Charlotte,CUSA,W,102,47,,3,2,W 1,Imperial Arena at Atlantis Resort,-,9:30p
+224,michigan,2015-11-27,REG,Texas,Big 12,W,78,72,,4,2,W 2,Imperial Arena at Atlantis Resort,-,7:00p
+225,michigan,2015-12-01,REG,NC State,ACC,W,66,59,,5,2,W 3,PNC Arena,-,7:00p
+226,michigan,2015-12-05,REG,Houston Baptist,Southland,W,82,57,,6,2,W 4,Crisler Arena,-,2:00p
+227,michigan,2015-12-08,REG,Southern Methodist (19),AAC,L,58,82,,6,3,L 1,Moody Coliseum ,-,9:00p
+228,michigan,2015-12-12,REG,Delaware State,MEAC,W,80,33,,7,3,W 1,Crisler Arena,-,12:00p
+229,michigan,2015-12-15,REG,Northern Kentucky,Horizon,W,77,62,,8,3,W 2,Crisler Arena,-,7:00p
+230,michigan,2015-12-19,REG,Youngstown State,Horizon,W,105,46,,9,3,W 3,Crisler Arena,-,6:00p
+231,michigan,2015-12-23,REG,Bryant,NEC,W,96,60,,10,3,W 4,Crisler Arena,-,7:00p
+232,michigan,2015-12-30,REG,Illinois,Big Ten,W,78,68,,11,3,W 5,State Farm Center,-,3:00p
+233,michigan,2016-01-02,REG,Penn State,Big Ten,W,79,56,,12,3,W 6,Crisler Arena,-,12:00p
+234,michigan,2016-01-07,REG,Purdue (20),Big Ten,L,70,87,,12,4,L 1,Mackey Arena,-,7:00p
+235,michigan,2016-01-12,REG,Maryland (3),Big Ten,W,70,67,,13,4,W 1,Crisler Arena,-,9:00p
+236,michigan,2016-01-17,REG,Iowa (16),Big Ten,L,71,82,,13,5,L 1,Carver-Hawkeye Arena,-,4:30p
+237,michigan,2016-01-20,REG,Minnesota,Big Ten,W,74,69,,14,5,W 1,Crisler Arena,-,8:30p
+238,michigan,2016-01-23,REG,Nebraska,Big Ten,W,81,68,,15,5,W 2,Pinnacle Bank Arena,-,2:00p
+239,michigan,2016-01-27,REG,Rutgers,Big Ten,W,68,57,,16,5,W 3,Crisler Arena,-,7:00p
+240,michigan,2016-01-30,REG,Penn State,Big Ten,W,79,72,,17,5,W 4,Madison Square Garden (IV),-,12:00p
+241,michigan,2016-02-02,REG,Indiana (22),Big Ten,L,67,80,,17,6,L 1,Crisler Arena,-,9:00p
+242,michigan,2016-02-06,REG,Michigan State (10),Big Ten,L,73,89,,17,7,L 2,Crisler Arena,-,2:00p
+243,michigan,2016-02-10,REG,Minnesota,Big Ten,W,82,74,,18,7,W 1,Williams Arena,-,9:00p
+244,michigan,2016-02-13,REG,Purdue (18),Big Ten,W,61,56,,19,7,W 2,Crisler Arena,-,2:00p
+245,michigan,2016-02-16,REG,Ohio State,Big Ten,L,66,76,,19,8,L 1,Value City Arena,-,7:00p
+246,michigan,2016-02-21,REG,Maryland (6),Big Ten,L,82,86,,19,9,L 2,Xfinity Center,-,1:00p
+247,michigan,2016-02-24,REG,Northwestern,Big Ten,W,72,63,,20,9,W 1,Crisler Arena,-,7:00p
+248,michigan,2016-02-28,REG,Wisconsin,Big Ten,L,57,68,,20,10,L 1,Kohl Center,-,6:00p
+249,michigan,2016-03-05,REG,Iowa (16),Big Ten,L,61,71,,20,11,L 2,Crisler Arena,-,8:00p
+251,michigan,2016-03-10,CTOURN,Northwestern,Big Ten,W,72,70,OT,21,11,W 1,Bankers Life Fieldhouse,-,12:00p
+252,michigan,2016-03-11,CTOURN,Indiana (10),Big Ten,W,72,69,,22,11,W 2,Bankers Life Fieldhouse,-,12:00p
+253,michigan,2016-03-12,CTOURN,Purdue (13),Big Ten,L,59,76,,22,12,L 1,Bankers Life Fieldhouse,-,1:00p
+255,michigan,2016-03-16,NCAA,Tulsa,AAC,W,67,62,,23,12,W 1,University of Dayton Arena,,9:10p
+256,michigan,2016-03-18,NCAA,Notre Dame,ACC,L,63,70,,23,13,L 1,Barclays Center,,10:12p
+257,michigan,2016-11-11,REG,Howard,MEAC,W,76,58,,1,0,W 1,Crisler Arena,-,9:00p
+258,michigan,2016-11-13,REG,IUPUI,Summit,W,77,65,,2,0,W 2,Crisler Arena,-,12:00p
+259,michigan,2016-11-17,REG,Marquette,Big East,W,79,61,,3,0,W 3,Madison Square Garden (IV),-,9:30p
+260,michigan,2016-11-18,REG,Southern Methodist,AAC,W,76,54,,4,0,W 4,Madison Square Garden (IV),-,7:00p
+261,michigan,2016-11-23,REG,South Carolina,SEC,L,46,61,,4,1,L 1,The Colonial Life Arena,25,5:00p
+262,michigan,2016-11-26,REG,Mount St. Mary's,NEC,W,64,47,,5,1,W 1,Crisler Arena,25,7:00p
+263,michigan,2016-11-30,REG,Virginia Tech,ACC,L,70,73,,5,2,L 1,Crisler Arena,-,7:15p
+264,michigan,2016-12-03,REG,Kennesaw State,A-Sun,W,82,55,,6,2,W 1,Crisler Arena,-,1:00p
+265,michigan,2016-12-06,REG,Texas,Big 12,W,53,50,,7,2,W 2,Crisler Arena,-,9:00p
+266,michigan,2016-12-10,REG,UCLA (2),Pac-12,L,84,102,,7,3,L 1,Pauley Pavilion,-,8:00p
+267,michigan,2016-12-13,REG,Central Arkansas,Southland,W,97,53,,8,3,W 1,Crisler Arena,-,9:00p
+268,michigan,2016-12-17,REG,Maryland-Eastern Shore,MEAC,W,98,49,,9,3,W 2,Crisler Arena,-,3:00p
+269,michigan,2016-12-22,REG,Furman,Southern,W,68,62,,10,3,W 3,Crisler Arena,-,7:00p
+270,michigan,2017-01-01,REG,Iowa,Big Ten,L,83,86,OT,10,4,L 1,Carver-Hawkeye Arena,-,2:15p
+271,michigan,2017-01-04,REG,Penn State,Big Ten,W,72,69,,11,4,W 1,Crisler Arena,-,8:30p
+272,michigan,2017-01-07,REG,Maryland,Big Ten,L,70,77,,11,5,L 1,Crisler Arena,-,3:15p
+273,michigan,2017-01-11,REG,Illinois,Big Ten,L,69,85,,11,6,L 2,State Farm Center,-,9:00p
+274,michigan,2017-01-14,REG,Nebraska,Big Ten,W,91,85,,12,6,W 1,Crisler Arena,-,2:00p
+275,michigan,2017-01-17,REG,Wisconsin (17),Big Ten,L,64,68,,12,7,L 1,Kohl Center,-,9:00p
+276,michigan,2017-01-21,REG,Illinois,Big Ten,W,66,57,,13,7,W 1,Crisler Arena,-,2:15p
+277,michigan,2017-01-26,REG,Indiana,Big Ten,W,90,60,,14,7,W 2,Crisler Arena,-,9:00p
+278,michigan,2017-01-29,REG,Michigan State,Big Ten,L,62,70,,14,8,L 1,Breslin Events Center,-,1:00p
+279,michigan,2017-02-04,REG,Ohio State,Big Ten,L,66,70,,14,9,L 2,Crisler Arena,-,6:00p
+280,michigan,2017-02-07,REG,Michigan State,Big Ten,W,86,57,,15,9,W 1,Crisler Arena,-,9:00p
+281,michigan,2017-02-12,REG,Indiana,Big Ten,W,75,63,,16,9,W 2,Assembly Hall,-,1:00p
+282,michigan,2017-02-16,REG,Wisconsin (11),Big Ten,W,64,58,,17,9,W 3,Crisler Arena,-,7:00p
+283,michigan,2017-02-19,REG,Minnesota,Big Ten,L,78,83,OT,17,10,L 1,Williams Arena,-,7:00p
+284,michigan,2017-02-22,REG,Rutgers,Big Ten,W,68,64,,18,10,W 1,Louis Brown Athletic Center,-,6:30p
+285,michigan,2017-02-25,REG,Purdue (14),Big Ten,W,82,70,,19,10,W 2,Crisler Arena,-,4:00p
+286,michigan,2017-03-01,REG,Northwestern,Big Ten,L,65,67,,19,11,L 1,Welsh-Ryan Arena,-,7:00p
+287,michigan,2017-03-05,REG,Nebraska,Big Ten,W,93,57,,20,11,W 1,Pinnacle Bank Arena,-,8:00p
+289,michigan,2017-03-09,CTOURN,Illinois,Big Ten,W,75,55,,21,11,W 2,Verizon Center,-,12:00p
+290,michigan,2017-03-10,CTOURN,Purdue (13),Big Ten,W,74,70,OT,22,11,W 3,Verizon Center,-,12:00p
+291,michigan,2017-03-11,CTOURN,Minnesota,Big Ten,W,84,77,,23,11,W 4,Verizon Center,-,1:00p
+292,michigan,2017-03-12,CTOURN,Wisconsin (24),Big Ten,W,71,56,,24,11,W 5,Verizon Center,-,3:00p
+294,michigan,2017-03-17,NCAA,Oklahoma State,Big 12,W,92,91,,25,11,W 6,Bankers Life Fieldhouse,,12:15p
+295,michigan,2017-03-19,NCAA,Louisville (10),ACC,W,73,69,,26,11,W 7,Bankers Life Fieldhouse,,12:10p
+296,michigan,2017-03-23,NCAA,Oregon (9),Pac-12,L,68,69,,26,12,L 1,Sprint Center,,7:09p
+297,michigan,2017-11-11,REG,North Florida,A-Sun,W,86,66,,1,0,W 1,Crisler Arena,-,7:30p
+298,michigan,2017-11-13,REG,Central Michigan,MAC,W,72,65,,2,0,W 2,Crisler Arena,-,7:00p
+299,michigan,2017-11-16,REG,Southern Mississippi,CUSA,W,61,47,,3,0,W 3,Crisler Arena,-,7:00p
+300,michigan,2017-11-20,REG,Louisiana State,SEC,L,75,77,,3,1,L 1,Lahaina Civic Center,-,11:00p
+301,michigan,2017-11-21,REG,Chaminade,,W,102,64,,4,1,W 1,Lahaina Civic Center,-,8:00p
+302,michigan,2017-11-22,REG,Virginia Commonwealth,A-10,W,68,60,,5,1,W 2,Lahaina Civic Center,-,5:00p
+303,michigan,2017-11-26,REG,UC Riverside,Big West,W,87,42,,6,1,W 3,Crisler Arena,-,4:00p
+304,michigan,2017-11-29,REG,North Carolina (13),ACC,L,71,86,,6,2,L 1,Dean Smith Center,-,7:30p
+305,michigan,2017-12-02,REG,Indiana,Big Ten,W,69,55,,7,2,W 1,Crisler Arena,-,12:30p
+306,michigan,2017-12-04,REG,Ohio State,Big Ten,L,62,71,,7,3,L 1,Value City Arena,-,6:30p
+307,michigan,2017-12-09,REG,UCLA,Pac-12,W,78,69,OT,8,3,W 1,Crisler Arena,-,12:00p
+308,michigan,2017-12-12,REG,Texas,Big 12,W,59,52,,9,3,W 2,Frank Erwin Center,-,9:00p
+309,michigan,2017-12-16,REG,Detroit Mercy,Horizon,W,90,58,,10,3,W 3,Little Caesars Arena,-,12:00p
+310,michigan,2017-12-21,REG,Alabama A&M,SWAC,W,97,47,,11,3,W 4,Crisler Arena,-,9:00p
+311,michigan,2017-12-30,REG,Jacksonville,A-Sun,W,76,51,,12,3,W 5,Crisler Arena,-,6:00p
+312,michigan,2018-01-02,REG,Iowa,Big Ten,W,75,68,,13,3,W 6,Carver-Hawkeye Arena,-,7:00p
+313,michigan,2018-01-06,REG,Illinois,Big Ten,W,79,69,,14,3,W 7,Crisler Arena,-,12:00p
+314,michigan,2018-01-09,REG,Purdue (5),Big Ten,L,69,70,,14,4,L 1,Crisler Arena,-,9:00p
+315,michigan,2018-01-13,REG,Michigan State (4),Big Ten,W,82,72,,15,4,W 1,Breslin Events Center,-,12:00p
+316,michigan,2018-01-15,REG,Maryland,Big Ten,W,68,67,,16,4,W 2,Crisler Arena,23,6:30p
+317,michigan,2018-01-18,REG,Nebraska,Big Ten,L,52,72,,16,5,L 1,Pinnacle Bank Arena,23,9:00p
+318,michigan,2018-01-21,REG,Rutgers,Big Ten,W,62,47,,17,5,W 1,Crisler Arena,23,12:00p
+319,michigan,2018-01-25,REG,Purdue (3),Big Ten,L,88,92,,17,6,L 1,Mackey Arena,25,7:00p
+320,michigan,2018-01-29,REG,Northwestern,Big Ten,W,58,47,,18,6,W 1,Crisler Arena,24,7:00p
+321,michigan,2018-02-03,REG,Minnesota,Big Ten,W,76,73,OT,19,6,W 2,Crisler Arena,24,2:30p
+322,michigan,2018-02-06,REG,Northwestern,Big Ten,L,52,61,,19,7,L 1,Allstate Arena,20,7:00p
+323,michigan,2018-02-11,REG,Wisconsin,Big Ten,W,83,72,,20,7,W 1,Kohl Center,20,1:00p
+324,michigan,2018-02-14,REG,Iowa,Big Ten,W,74,59,,21,7,W 2,Crisler Arena,22,6:30p
+325,michigan,2018-02-18,REG,Ohio State (8),Big Ten,W,74,62,,22,7,W 3,Crisler Arena,22,1:00p
+326,michigan,2018-02-21,REG,Penn State,Big Ten,W,72,63,,23,7,W 4,Bryce Jordan Center,17,7:00p
+327,michigan,2018-02-24,REG,Maryland,Big Ten,W,85,61,,24,7,W 5,Xfinity Center,17,12:00p
+329,michigan,2018-03-01,CTOURN,Iowa,Big Ten,W,77,71,OT,25,7,W 6,Madison Square Garden (IV),15,2:25p
+330,michigan,2018-03-02,CTOURN,Nebraska,Big Ten,W,77,58,,26,7,W 7,Madison Square Garden (IV),15,2:30p
+331,michigan,2018-03-03,CTOURN,Michigan State (2),Big Ten,W,75,64,,27,7,W 8,Madison Square Garden (IV),15,2:00p
+332,michigan,2018-03-04,CTOURN,Purdue (8),Big Ten,W,75,66,,28,7,W 9,Madison Square Garden (IV),15,4:30p
+334,michigan,2018-03-15,NCAA,Montana,Big Sky,W,61,47,,29,7,W 10,Intrust Bank Arena,,9:50p
+335,michigan,2018-03-17,NCAA,Houston (21),AAC,W,64,63,,30,7,W 11,Intrust Bank Arena,,9:40p
+336,michigan,2018-03-22,NCAA,Texas A&M,SEC,W,99,72,,31,7,W 12,Staples Center,,7:37p
+337,michigan,2018-03-24,NCAA,Florida State,ACC,W,58,54,,32,7,W 13,Staples Center,,8:49p
+338,michigan,2018-03-31,NCAA,Loyola (IL),MVC,W,69,57,,33,7,W 14,Alamodome,,6:09p
+339,michigan,2018-04-02,NCAA,Villanova (2),Big East,L,62,79,,33,8,L 1,Alamodome,,9:20p
+340,michigan,2018-11-06,REG,Norfolk State,MEAC,W,63,44,,1,0,W 1,Crisler Arena,19,8:30p
+341,michigan,2018-11-10,REG,Holy Cross,Patriot,W,56,37,,2,0,W 2,Crisler Arena,19,7:30p
+342,michigan,2018-11-14,REG,Villanova (8),Big East,W,73,46,,3,0,W 3,Finneran Pavilion,18,6:30p
+343,michigan,2018-11-17,REG,George Washington,A-10,W,84,61,,4,0,W 4,Mohegan Sun Arena,18,12:00p
+344,michigan,2018-11-18,REG,Providence,Big East,W,66,47,,5,0,W 5,Mohegan Sun Arena,18,1:30p
+345,michigan,2018-11-23,REG,Chattanooga,Southern,W,83,55,,6,0,W 6,Crisler Arena,9,4:00p
+346,michigan,2018-11-28,REG,North Carolina (11),ACC,W,84,67,,7,0,W 7,Crisler Arena,7,9:30p
+347,michigan,2018-12-01,REG,Purdue (19),Big Ten,W,76,57,,8,0,W 8,Crisler Arena,7,3:30p
+348,michigan,2018-12-04,REG,Northwestern,Big Ten,W,62,60,,9,0,W 9,Welsh-Ryan Arena,5,9:00p
+349,michigan,2018-12-08,REG,South Carolina,SEC,W,89,78,,10,0,W 10,Crisler Arena,5,12:00p
+350,michigan,2018-12-15,REG,Western Michigan,MAC,W,70,62,,11,0,W 11,Crisler Arena,5,2:00p
+351,michigan,2018-12-22,REG,Air Force,MWC,W,71,50,,12,0,W 12,Crisler Arena,4,4:00p
+352,michigan,2018-12-30,REG,Binghamton,AEC,W,74,52,,13,0,W 13,Crisler Arena,2,12:00p
+353,michigan,2019-01-03,REG,Penn State,Big Ten,W,68,55,,14,0,W 14,Crisler Arena,2,7:00p
+354,michigan,2019-01-06,REG,Indiana (21),Big Ten,W,74,63,,15,0,W 15,Crisler Arena,2,4:30p
+355,michigan,2019-01-10,REG,Illinois,Big Ten,W,79,69,,16,0,W 16,State Farm Center,2,8:00p
+356,michigan,2019-01-13,REG,Northwestern,Big Ten,W,80,60,,17,0,W 17,Crisler Arena,2,7:30p
+357,michigan,2019-01-19,REG,Wisconsin,Big Ten,L,54,64,,17,1,L 1,Kohl Center,2,12:00p
+358,michigan,2019-01-22,REG,Minnesota,Big Ten,W,59,57,,18,1,W 1,Crisler Arena,5,7:00p
+359,michigan,2019-01-25,REG,Indiana,Big Ten,W,69,46,,19,1,W 2,Assembly Hall,5,6:30p
+360,michigan,2019-01-29,REG,Ohio State,Big Ten,W,65,49,,20,1,W 3,Crisler Arena,5,9:00p
+361,michigan,2019-02-01,REG,Iowa,Big Ten,L,59,74,,20,2,L 1,Carver-Hawkeye Arena,5,7:00p
+362,michigan,2019-02-05,REG,Rutgers,Big Ten,W,77,65,,21,2,W 1,Louis Brown Athletic Center,7,8:00p
+363,michigan,2019-02-09,REG,Wisconsin (19),Big Ten,W,61,52,,22,2,W 2,Crisler Arena,7,12:00p
+364,michigan,2019-02-12,REG,Penn State,Big Ten,L,69,75,,22,3,L 1,Bryce Jordan Center,6,8:30p
+365,michigan,2019-02-16,REG,Maryland (24),Big Ten,W,65,52,,23,3,W 1,Crisler Arena,6,12:00p
+366,michigan,2019-02-21,REG,Minnesota,Big Ten,W,69,60,,24,3,W 2,Williams Arena,7,7:00p
+367,michigan,2019-02-24,REG,Michigan State (10),Big Ten,L,70,77,,24,4,L 1,Crisler Arena,7,3:45p
+368,michigan,2019-02-28,REG,Nebraska,Big Ten,W,82,53,,25,4,W 1,Crisler Arena,9,7:00p
+369,michigan,2019-03-03,REG,Maryland (17),Big Ten,W,69,62,,26,4,W 2,Xfinity Center,9,3:45p
+370,michigan,2019-03-09,REG,Michigan State (9),Big Ten,L,63,75,,26,5,L 1,Breslin Events Center,7,8:00p
+372,michigan,2019-03-15,CTOURN,Iowa,Big Ten,W,74,53,,27,5,W 1,United Center,10,9:25p
+373,michigan,2019-03-16,CTOURN,Minnesota,Big Ten,W,76,49,,28,5,W 2,United Center,10,3:30p
+374,michigan,2019-03-17,CTOURN,Michigan State (6),Big Ten,L,60,65,,28,6,L 1,United Center,10,3:30p
+376,michigan,2019-03-21,NCAA,Montana,Big Sky,W,74,55,,29,6,W 1,Wells Fargo Arena,,9:20p
+377,michigan,2019-03-23,NCAA,Florida,SEC,W,64,49,,30,6,W 2,Wells Fargo Arena,,5:15p
+378,michigan,2019-03-28,NCAA,Texas Tech (9),Big 12,L,44,63,,30,7,L 1,Honda Center,,9:39p
+379,michigan-state,2009-11-13,REG,Florida Gulf Coast,A-Sun,W,97,58,,1,0,W 1,Breslin Events Center,2,
+380,michigan-state,2009-11-17,REG,Gonzaga,WCC,W,75,71,,2,0,W 2,Breslin Events Center,2,
+381,michigan-state,2009-11-20,REG,Toledo,MAC,W,75,62,,3,0,W 3,Breslin Events Center,2,
+382,michigan-state,2009-11-22,REG,Valparaiso,Horizon,W,90,60,,4,0,W 4,Breslin Events Center,2,
+383,michigan-state,2009-11-27,REG,Florida,SEC,L,74,77,,4,1,L 1,Boardwalk Hall,2,
+384,michigan-state,2009-11-28,REG,Massachusetts,A-10,W,106,68,,5,1,W 1,Boardwalk Hall,2,
+385,michigan-state,2009-12-01,REG,North Carolina (10),ACC,L,82,89,,5,2,L 1,Dean Smith Center,9,
+386,michigan-state,2009-12-04,REG,Wofford,Southern,W,72,60,,6,2,W 1,Breslin Events Center,9,
+387,michigan-state,2009-12-07,REG,The Citadel,Southern,W,69,56,,7,2,W 2,McAlister Field House,12,
+388,michigan-state,2009-12-10,REG,Oakland,Summit,W,88,57,,8,2,W 3,Breslin Events Center,12,
+389,michigan-state,2009-12-19,REG,Purdue-Fort Wayne,Summit,W,80,58,,9,2,W 4,Breslin Events Center,12,
+390,michigan-state,2009-12-22,REG,Texas (2),Big 12,L,68,79,,9,3,L 1,Frank Erwin Center,9,
+391,michigan-state,2009-12-30,REG,UT Arlington,Southland,W,87,68,,10,3,W 1,Breslin Events Center,11,
+392,michigan-state,2010-01-02,REG,Northwestern (25),Big Ten,W,91,70,,11,3,W 2,Welsh-Ryan Arena,11,
+393,michigan-state,2010-01-06,REG,Wisconsin (17),Big Ten,W,54,47,,12,3,W 3,Breslin Events Center,10,
+394,michigan-state,2010-01-09,REG,Iowa,Big Ten,W,71,53,,13,3,W 4,Carver-Hawkeye Arena,10,
+395,michigan-state,2010-01-13,REG,Minnesota,Big Ten,W,60,53,,14,3,W 5,Breslin Events Center,7,
+396,michigan-state,2010-01-16,REG,Illinois,Big Ten,W,73,63,,15,3,W 6,Breslin Events Center,7,
+397,michigan-state,2010-01-20,REG,Iowa,Big Ten,W,70,63,,16,3,W 7,Breslin Events Center,6,
+398,michigan-state,2010-01-23,REG,Minnesota,Big Ten,W,65,64,,17,3,W 8,Williams Arena,6,
+399,michigan-state,2010-01-26,REG,Michigan,Big Ten,W,57,56,,18,3,W 9,Crisler Arena,5,
+400,michigan-state,2010-01-30,REG,Northwestern,Big Ten,W,79,70,,19,3,W 10,Breslin Events Center,5,
+401,michigan-state,2010-02-02,REG,Wisconsin (16),Big Ten,L,49,67,,19,4,L 1,Kohl Center,5,
+402,michigan-state,2010-02-06,REG,Illinois,Big Ten,L,73,78,,19,5,L 2,Assembly Hall,5,
+403,michigan-state,2010-02-09,REG,Purdue (6),Big Ten,L,64,76,,19,6,L 3,Breslin Events Center,10,
+404,michigan-state,2010-02-13,REG,Penn State,Big Ten,W,65,54,,20,6,W 1,Bryce Jordan Center,10,
+405,michigan-state,2010-02-16,REG,Indiana,Big Ten,W,72,58,,21,6,W 2,Assembly Hall,11,
+406,michigan-state,2010-02-21,REG,Ohio State (9),Big Ten,L,67,74,,21,7,L 1,Breslin Events Center,11,
+407,michigan-state,2010-02-28,REG,Purdue (3),Big Ten,W,53,44,,22,7,W 1,Mackey Arena,14,
+408,michigan-state,2010-03-04,REG,Penn State,Big Ten,W,67,65,,23,7,W 2,Breslin Events Center,11,
+409,michigan-state,2010-03-07,REG,Michigan,Big Ten,W,64,48,,24,7,W 3,Breslin Events Center,11,
+411,michigan-state,2010-03-12,CTOURN,Minnesota,Big Ten,L,67,72,OT,24,8,L 1,Conseco Fieldhouse,11,
+413,michigan-state,2010-03-19,NCAA,New Mexico State,WAC,W,70,67,,25,8,W 1,Spokane Veterans Memorial Arena,,
+414,michigan-state,2010-03-21,NCAA,Maryland (20),ACC,W,85,83,,26,8,W 2,Spokane Veterans Memorial Arena,,
+415,michigan-state,2010-03-26,NCAA,Northern Iowa,MVC,W,59,52,,27,8,W 3,Edward Jones Dome,,
+416,michigan-state,2010-03-28,NCAA,Tennessee (15),SEC,W,70,69,,28,8,W 4,Edward Jones Dome,,
+417,michigan-state,2010-04-03,NCAA,Butler (11),Horizon,L,50,52,,28,9,L 1,Lucas Oil Stadium,,
+418,michigan-state,2010-11-12,REG,Eastern Michigan,MAC,W,96,66,,1,0,W 1,Breslin Events Center,2,
+419,michigan-state,2010-11-16,REG,South Carolina,SEC,W,82,73,,2,0,W 2,Breslin Events Center,2,
+420,michigan-state,2010-11-22,REG,Chaminade,,W,82,74,,3,0,W 3,Lahaina Civic Center,2,
+421,michigan-state,2010-11-23,REG,Connecticut,Big East,L,67,70,,3,1,L 1,Lahaina Civic Center,2,
+422,michigan-state,2010-11-24,REG,Washington (13),Pac-10,W,76,71,,4,1,W 1,Lahaina Civic Center,2,
+423,michigan-state,2010-11-28,REG,Tennessee Tech,OVC,W,73,55,,5,1,W 2,Breslin Events Center,2,
+424,michigan-state,2010-12-01,REG,Duke (1),ACC,L,79,84,,5,2,L 1,Cameron Indoor Stadium,6,
+425,michigan-state,2010-12-04,REG,Bowling Green State,MAC,W,74,39,,6,2,W 1,Breslin Events Center,6,
+426,michigan-state,2010-12-07,REG,Syracuse (8),Big East,L,58,72,,6,3,L 1,Madison Square Garden (IV),7,
+427,michigan-state,2010-12-11,REG,Oakland,Summit,W,77,76,,7,3,W 1,Palace of Auburn Hills,7,
+428,michigan-state,2010-12-18,REG,Prairie View,SWAC,W,90,51,,8,3,W 2,Breslin Events Center,14,
+429,michigan-state,2010-12-22,REG,Texas (18),Big 12,L,55,67,,8,4,L 1,Breslin Events Center,12,
+430,michigan-state,2010-12-31,REG,Minnesota (14),Big Ten,W,71,62,,9,4,W 1,Breslin Events Center,20,
+431,michigan-state,2011-01-03,REG,Northwestern,Big Ten,W,65,62,,10,4,W 2,Welsh-Ryan Arena,18,
+432,michigan-state,2011-01-08,REG,Penn State,Big Ten,L,62,66,,10,5,L 1,Bryce Jordan Center,18,
+433,michigan-state,2011-01-11,REG,Wisconsin (20),Big Ten,W,64,61,OT,11,5,W 1,Breslin Events Center,-,
+434,michigan-state,2011-01-15,REG,Northwestern,Big Ten,W,71,67,OT,12,5,W 2,Breslin Events Center,-,
+435,michigan-state,2011-01-18,REG,Illinois (23),Big Ten,L,62,71,,12,6,L 1,Assembly Hall,17,
+436,michigan-state,2011-01-22,REG,Purdue (14),Big Ten,L,76,86,,12,7,L 2,Mackey Arena,17,
+437,michigan-state,2011-01-27,REG,Michigan,Big Ten,L,57,61,,12,8,L 3,Breslin Events Center,25,
+438,michigan-state,2011-01-30,REG,Indiana,Big Ten,W,84,83,OT,13,8,W 1,Breslin Events Center,25,
+439,michigan-state,2011-02-02,REG,Iowa,Big Ten,L,52,72,,13,9,L 1,Carver-Hawkeye Arena,-,
+440,michigan-state,2011-02-06,REG,Wisconsin (19),Big Ten,L,56,82,,13,10,L 2,Kohl Center,-,
+441,michigan-state,2011-02-10,REG,Penn State,Big Ten,W,75,57,,14,10,W 1,Breslin Events Center,-,
+442,michigan-state,2011-02-15,REG,Ohio State (2),Big Ten,L,61,71,,14,11,L 1,Value City Arena,-,
+443,michigan-state,2011-02-19,REG,Illinois,Big Ten,W,61,57,,15,11,W 1,Breslin Events Center,-,
+444,michigan-state,2011-02-22,REG,Minnesota,Big Ten,W,53,48,,16,11,W 2,Williams Arena,-,
+445,michigan-state,2011-02-27,REG,Purdue (8),Big Ten,L,47,67,,16,12,L 1,Breslin Events Center,-,
+446,michigan-state,2011-03-02,REG,Iowa,Big Ten,W,85,66,,17,12,W 1,Breslin Events Center,-,
+447,michigan-state,2011-03-05,REG,Michigan,Big Ten,L,63,70,,17,13,L 1,Crisler Arena,-,
+449,michigan-state,2011-03-10,CTOURN,Iowa,Big Ten,W,66,61,,18,13,W 1,,-,
+450,michigan-state,2011-03-11,CTOURN,Purdue (9),Big Ten,W,74,56,,19,13,W 2,Conseco Fieldhouse,-,
+451,michigan-state,2011-03-12,CTOURN,Penn State,Big Ten,L,48,61,,19,14,L 1,,-,
+453,michigan-state,2011-03-17,NCAA,UCLA,Pac-10,L,76,78,,19,15,L 2,St. Pete Times Forum,,
+454,michigan-state,2011-11-11,REG,North Carolina (1),ACC,L,55,67,,0,1,L 1,USS Carl Vinson,-,
+455,michigan-state,2011-11-15,REG,Duke (6),ACC,L,69,74,,0,2,L 2,,-,
+456,michigan-state,2011-11-18,REG,Texas Southern,SWAC,W,76,41,,1,2,W 1,Breslin Events Center,-,
+457,michigan-state,2011-11-20,REG,Little Rock,Sun Belt,W,69,47,,2,2,W 2,Breslin Events Center,-,
+458,michigan-state,2011-11-23,REG,Milwaukee,Horizon,W,68,55,,3,2,W 3,Breslin Events Center,-,
+459,michigan-state,2011-11-27,REG,Eastern Michigan,MAC,W,72,40,,4,2,W 4,Convocation Center,-,
+460,michigan-state,2011-11-30,REG,Florida State,ACC,W,65,49,,5,2,W 5,Breslin Events Center,-,
+461,michigan-state,2011-12-04,REG,Omaha,,W,110,68,,6,2,W 6,Breslin Events Center,-,
+462,michigan-state,2011-12-07,REG,Central Connecticut State,NEC,W,89,69,,7,2,W 7,Breslin Events Center,-,
+463,michigan-state,2011-12-10,REG,Gonzaga (23),WCC,W,74,67,,8,2,W 8,McCarthey Athletic Center,-,
+464,michigan-state,2011-12-17,REG,Bowling Green State,MAC,W,74,60,,9,2,W 9,Breslin Events Center,21,
+465,michigan-state,2011-12-19,REG,Kansas City,Summit,W,89,54,,10,2,W 10,Breslin Events Center,19,
+466,michigan-state,2011-12-22,REG,Lehigh,Patriot,W,90,81,,11,2,W 11,Breslin Events Center,19,
+467,michigan-state,2011-12-28,REG,Indiana (13),Big Ten,W,80,65,,12,2,W 12,Breslin Events Center,16,
+468,michigan-state,2011-12-31,REG,Nebraska,Big Ten,W,68,55,,13,2,W 13,Bob Devaney Sports Center,16,
+469,michigan-state,2012-01-03,REG,Wisconsin (18),Big Ten,W,63,60,OT,14,2,W 14,Kohl Center,10,
+470,michigan-state,2012-01-10,REG,Iowa,Big Ten,W,95,61,,15,2,W 15,Breslin Events Center,6,
+471,michigan-state,2012-01-14,REG,Northwestern,Big Ten,L,74,81,,15,3,L 1,Welsh-Ryan Arena,6,
+472,michigan-state,2012-01-17,REG,Michigan (20),Big Ten,L,59,60,,15,4,L 2,Crisler Arena,9,
+473,michigan-state,2012-01-21,REG,Purdue,Big Ten,W,83,58,,16,4,W 1,Breslin Events Center,9,
+474,michigan-state,2012-01-25,REG,Minnesota,Big Ten,W,68,52,,17,4,W 2,Breslin Events Center,10,
+475,michigan-state,2012-01-31,REG,Illinois,Big Ten,L,41,42,,17,5,L 1,Assembly Hall,9,
+476,michigan-state,2012-02-05,REG,Michigan (23),Big Ten,W,64,54,,18,5,W 1,Breslin Events Center,9,
+477,michigan-state,2012-02-08,REG,Penn State,Big Ten,W,77,57,,19,5,W 2,Breslin Events Center,11,
+478,michigan-state,2012-02-11,REG,Ohio State (3),Big Ten,W,58,48,,20,5,W 3,Value City Arena,11,
+479,michigan-state,2012-02-16,REG,Wisconsin (15),Big Ten,W,69,55,,21,5,W 4,Breslin Events Center,7,
+480,michigan-state,2012-02-19,REG,Purdue,Big Ten,W,76,62,,22,5,W 5,Mackey Arena,7,
+481,michigan-state,2012-02-22,REG,Minnesota,Big Ten,W,66,61,,23,5,W 6,Williams Arena,6,
+482,michigan-state,2012-02-25,REG,Nebraska,Big Ten,W,62,34,,24,5,W 7,Breslin Events Center,6,
+483,michigan-state,2012-02-28,REG,Indiana (18),Big Ten,L,55,70,,24,6,L 1,Assembly Hall,5,
+484,michigan-state,2012-03-04,REG,Ohio State (10),Big Ten,L,70,72,,24,7,L 2,Breslin Events Center,5,
+486,michigan-state,2012-03-09,CTOURN,Iowa,Big Ten,W,92,75,,25,7,W 1,Conseco Fieldhouse,8,
+487,michigan-state,2012-03-10,CTOURN,Wisconsin (14),Big Ten,W,65,52,,26,7,W 2,,8,
+488,michigan-state,2012-03-11,CTOURN,Ohio State (7),Big Ten,W,68,64,,27,7,W 3,,8,
+490,michigan-state,2012-03-16,NCAA,Long Island University,NEC,W,89,67,,28,7,W 4,Nationwide Arena,,
+491,michigan-state,2012-03-18,NCAA,Saint Louis,A-10,W,65,61,,29,7,W 5,Nationwide Arena,,
+492,michigan-state,2012-03-22,NCAA,Louisville (17),Big East,L,44,57,,29,8,L 1,US Airways Center,,
+493,michigan-state,2012-11-09,REG,Connecticut,Big East,L,62,66,,0,1,L 1,Harry A. Gampel Pavilion,14,
+494,michigan-state,2012-11-13,REG,Kansas (7),Big 12,W,67,64,,1,1,W 1,Georgia Dome,21,
+495,michigan-state,2012-11-18,REG,Texas Southern,SWAC,W,69,41,,2,1,W 2,Breslin Events Center,21,
+496,michigan-state,2012-11-20,REG,Boise State,MWC,W,74,70,,3,1,W 3,Breslin Events Center,15,
+497,michigan-state,2012-11-23,REG,Oakland,Summit,W,70,52,,4,1,W 4,Breslin Events Center,15,
+498,michigan-state,2012-11-25,REG,Louisiana,Sun Belt,W,63,60,,5,1,W 5,Breslin Events Center,15,
+499,michigan-state,2012-11-28,REG,Miami (FL),ACC,L,59,67,,5,2,L 1,BankUnited Center,13,
+500,michigan-state,2012-12-01,REG,Nicholls State,Southland,W,84,39,,6,2,W 1,Breslin Events Center,13,
+501,michigan-state,2012-12-05,REG,Arkansas-Pine Bluff,SWAC,W,76,44,,7,2,W 2,Breslin Events Center,19,
+502,michigan-state,2012-12-08,REG,Loyola (IL),Horizon,W,73,61,,8,2,W 3,Breslin Events Center,19,
+503,michigan-state,2012-12-15,REG,Tuskegee,,W,92,56,,9,2,W 4,Breslin Events Center,19,
+504,michigan-state,2012-12-18,REG,Bowling Green State,MAC,W,64,53,,10,2,W 5,Stroh Center,20,
+505,michigan-state,2012-12-22,REG,Texas,Big 12,W,67,56,,11,2,W 6,Breslin Events Center,20,
+506,michigan-state,2012-12-31,REG,Minnesota (9),Big Ten,L,63,76,,11,3,L 1,Williams Arena,18,
+507,michigan-state,2013-01-05,REG,Purdue,Big Ten,W,84,61,,12,3,W 1,Breslin Events Center,18,
+508,michigan-state,2013-01-10,REG,Iowa,Big Ten,W,62,59,,13,3,W 2,Carver-Hawkeye Arena,22,
+509,michigan-state,2013-01-13,REG,Nebraska,Big Ten,W,66,56,,14,3,W 3,Breslin Events Center,22,
+510,michigan-state,2013-01-16,REG,Penn State,Big Ten,W,81,72,,15,3,W 4,Bryce Jordan Center,18,
+511,michigan-state,2013-01-19,REG,Ohio State (11),Big Ten,W,59,56,,16,3,W 5,Breslin Events Center,18,
+512,michigan-state,2013-01-22,REG,Wisconsin,Big Ten,W,49,47,,17,3,W 6,Kohl Center,13,
+513,michigan-state,2013-01-27,REG,Indiana (7),Big Ten,L,70,75,,17,4,L 1,Assembly Hall,13,
+514,michigan-state,2013-01-31,REG,Illinois,Big Ten,W,80,75,,18,4,W 1,Breslin Events Center,13,
+515,michigan-state,2013-02-06,REG,Minnesota (18),Big Ten,W,61,50,,19,4,W 2,Breslin Events Center,12,
+516,michigan-state,2013-02-09,REG,Purdue,Big Ten,W,78,65,,20,4,W 3,Mackey Arena,12,
+517,michigan-state,2013-02-12,REG,Michigan (4),Big Ten,W,75,52,,21,4,W 4,Breslin Events Center,8,
+518,michigan-state,2013-02-16,REG,Nebraska,Big Ten,W,73,64,,22,4,W 5,Bob Devaney Sports Center,8,
+519,michigan-state,2013-02-19,REG,Indiana (1),Big Ten,L,68,72,,22,5,L 1,Breslin Events Center,4,
+520,michigan-state,2013-02-24,REG,Ohio State (18),Big Ten,L,60,68,,22,6,L 2,Value City Arena,4,
+521,michigan-state,2013-03-03,REG,Michigan (4),Big Ten,L,57,58,,22,7,L 3,Crisler Arena,9,
+522,michigan-state,2013-03-07,REG,Wisconsin (22),Big Ten,W,58,43,,23,7,W 1,Breslin Events Center,10,
+523,michigan-state,2013-03-10,REG,Northwestern,Big Ten,W,71,61,,24,7,W 2,Breslin Events Center,10,
+525,michigan-state,2013-03-15,CTOURN,Iowa,Big Ten,W,59,56,,25,7,W 3,United Center,8,
+526,michigan-state,2013-03-16,CTOURN,Ohio State (10),Big Ten,L,58,61,,25,8,L 1,United Center,8,
+528,michigan-state,2013-03-21,NCAA,Valparaiso,Horizon,W,65,54,,26,8,W 1,Palace of Auburn Hills,,
+529,michigan-state,2013-03-23,NCAA,Memphis (19),CUSA,W,70,48,,27,8,W 2,Palace of Auburn Hills,,
+530,michigan-state,2013-03-29,NCAA,Duke (6),ACC,L,61,71,,27,9,L 1,Lucas Oil Stadium,,
+531,michigan-state,2013-11-08,REG,McNeese State,Southland,W,98,56,,1,0,W 1,Breslin Events Center,2,
+532,michigan-state,2013-11-12,REG,Kentucky (1),SEC,W,78,74,,2,0,W 2,United Center,2,
+533,michigan-state,2013-11-15,REG,Columbia,Ivy,W,62,53,,3,0,W 3,Breslin Events Center,2,
+534,michigan-state,2013-11-18,REG,Portland,WCC,W,82,67,,4,0,W 4,Breslin Events Center,1,
+535,michigan-state,2013-11-22,REG,Virginia Tech,ACC,W,96,77,,5,0,W 5,Barclays Center,1,
+536,michigan-state,2013-11-23,REG,Oklahoma,Big 12,W,87,76,,6,0,W 6,Barclays Center,1,
+537,michigan-state,2013-11-29,REG,Mount St. Mary's,NEC,W,98,65,,7,0,W 7,Breslin Events Center,1,
+538,michigan-state,2013-12-04,REG,North Carolina,ACC,L,65,79,,7,1,L 1,Breslin Events Center,1,
+539,michigan-state,2013-12-14,REG,Oakland,Horizon,W,67,63,,8,1,W 1,,5,
+540,michigan-state,2013-12-17,REG,North Florida,A-Sun,W,78,48,,9,1,W 2,Breslin Events Center,5,
+541,michigan-state,2013-12-21,REG,Texas,Big 12,W,92,78,,10,1,W 3,Frank Erwin Center,5,
+542,michigan-state,2013-12-28,REG,New Orleans,Southland,W,101,48,,11,1,W 4,Breslin Events Center,5,
+543,michigan-state,2013-12-31,REG,Penn State,Big Ten,W,79,63,,12,1,W 5,Bryce Jordan Center,5,
+544,michigan-state,2014-01-04,REG,Indiana,Big Ten,W,73,56,,13,1,W 6,Assembly Hall,5,
+545,michigan-state,2014-01-07,REG,Ohio State (3),Big Ten,W,72,68,OT,14,1,W 7,Breslin Events Center,5,
+546,michigan-state,2014-01-11,REG,Minnesota,Big Ten,W,87,75,OT,15,1,W 8,Breslin Events Center,5,
+547,michigan-state,2014-01-15,REG,Northwestern,Big Ten,W,54,40,,16,1,W 9,Welsh-Ryan Arena,4,
+548,michigan-state,2014-01-18,REG,Illinois,Big Ten,W,78,62,,17,1,W 10,Assembly Hall,4,
+549,michigan-state,2014-01-21,REG,Indiana,Big Ten,W,71,66,,18,1,W 11,Breslin Events Center,3,
+550,michigan-state,2014-01-25,REG,Michigan (21),Big Ten,L,75,80,,18,2,L 1,Breslin Events Center,3,
+551,michigan-state,2014-01-28,REG,Iowa (15),Big Ten,W,71,69,OT,19,2,W 1,Carver-Hawkeye Arena,7,
+552,michigan-state,2014-02-01,REG,Georgetown,Big East,L,60,64,,19,3,L 1,,7,
+553,michigan-state,2014-02-06,REG,Penn State,Big Ten,W,82,67,,20,3,W 1,Breslin Events Center,9,
+554,michigan-state,2014-02-09,REG,Wisconsin,Big Ten,L,58,60,,20,4,L 1,Kohl Center,9,
+555,michigan-state,2014-02-13,REG,Northwestern,Big Ten,W,85,70,,21,4,W 1,Breslin Events Center,9,
+556,michigan-state,2014-02-16,REG,Nebraska,Big Ten,L,51,60,,21,5,L 1,Breslin Events Center,9,
+557,michigan-state,2014-02-20,REG,Purdue,Big Ten,W,94,79,,22,5,W 1,Mackey Arena,13,
+558,michigan-state,2014-02-23,REG,Michigan (20),Big Ten,L,70,79,,22,6,L 1,Crisler Arena,13,
+559,michigan-state,2014-03-01,REG,Illinois,Big Ten,L,46,53,,22,7,L 2,Breslin Events Center,18,
+560,michigan-state,2014-03-06,REG,Iowa (24),Big Ten,W,86,76,,23,7,W 1,Breslin Events Center,22,
+561,michigan-state,2014-03-09,REG,Ohio State,Big Ten,L,67,69,,23,8,L 1,Value City Arena,22,
+563,michigan-state,2014-03-14,CTOURN,Northwestern,Big Ten,W,67,51,,24,8,W 1,,22,
+564,michigan-state,2014-03-15,CTOURN,Wisconsin (12),Big Ten,W,83,75,,25,8,W 2,,22,
+565,michigan-state,2014-03-16,CTOURN,Michigan (8),Big Ten,W,69,55,,26,8,W 3,Conseco Fieldhouse,22,
+567,michigan-state,2014-03-20,NCAA,Delaware,CAA,W,93,78,,27,8,W 4,Spokane Veterans Memorial Arena,,
+568,michigan-state,2014-03-22,NCAA,Harvard,Ivy,W,80,73,,28,8,W 5,Spokane Veterans Memorial Arena,,
+569,michigan-state,2014-03-28,NCAA,Virginia (3),ACC,W,61,59,,29,8,W 6,Madison Square Garden (IV),,
+570,michigan-state,2014-03-30,NCAA,Connecticut (18),AAC,L,54,60,,29,9,L 1,Madison Square Garden (IV),,
+571,michigan-state,2014-11-14,REG,Navy,Patriot,W,64,59,,1,0,W 1,Alumni Hall,18,9:40p
+572,michigan-state,2014-11-18,REG,Duke (4),ACC,L,71,81,,1,1,L 1,Bankers Life Fieldhouse,19,7:00p
+573,michigan-state,2014-11-21,REG,Loyola (IL),MVC,W,87,52,,2,1,W 1,Breslin Events Center,19,7:00p
+574,michigan-state,2014-11-24,REG,Santa Clara,WCC,W,79,52,,3,1,W 2,Breslin Events Center,20,7:00p
+575,michigan-state,2014-11-27,REG,Rider,MAAC,W,77,45,,4,1,W 3,HP Field House,20,6:35p
+576,michigan-state,2014-11-28,REG,Marquette,Big East,W,79,68,,5,1,W 4,HP Field House,20,9:00p
+577,michigan-state,2014-11-30,REG,Kansas (11),Big 12,L,56,61,,5,2,L 1,HP Field House,20,1:00p
+578,michigan-state,2014-12-03,REG,Notre Dame,ACC,L,78,79,OT,5,3,L 2,Purcell Pavilion at the Joyce Center,19,7:15p
+579,michigan-state,2014-12-06,REG,Arkansas-Pine Bluff,SWAC,W,85,52,,6,3,W 1,Breslin Events Center,19,2:15p
+580,michigan-state,2014-12-14,REG,Oakland,Horizon,W,87,61,,7,3,W 2,Breslin Events Center,-,8:00p
+581,michigan-state,2014-12-17,REG,Eastern Michigan,MAC,W,66,46,,8,3,W 3,Breslin Events Center,25,9:00p
+582,michigan-state,2014-12-20,REG,Texas Southern,SWAC,L,64,71,OT,8,4,L 1,Breslin Events Center,25,5:00p
+583,michigan-state,2014-12-22,REG,The Citadel,Southern,W,82,56,,9,4,W 1,Breslin Events Center,-,6:00p
+584,michigan-state,2014-12-30,REG,Maryland (12),Big Ten,L,66,68,2OT,9,5,L 1,Breslin Events Center,-,5:00p
+585,michigan-state,2015-01-05,REG,Indiana,Big Ten,W,70,50,,10,5,W 1,Breslin Events Center,-,7:00p
+586,michigan-state,2015-01-08,REG,Iowa,Big Ten,W,75,61,,11,5,W 2,Carver-Hawkeye Arena,-,7:00p
+587,michigan-state,2015-01-11,REG,Northwestern,Big Ten,W,84,77,OT,12,5,W 3,Breslin Events Center,-,12:00p
+588,michigan-state,2015-01-17,REG,Maryland (14),Big Ten,L,59,75,,12,6,L 1,Xfinity Center,-,4:00p
+589,michigan-state,2015-01-21,REG,Penn State,Big Ten,W,66,60,,13,6,W 1,Breslin Events Center,-,7:00p
+590,michigan-state,2015-01-24,REG,Nebraska,Big Ten,L,77,79,,13,7,L 1,Pinnacle Bank Arena,-,4:00p
+591,michigan-state,2015-01-29,REG,Rutgers,Big Ten,W,71,51,,14,7,W 1,Louis Brown Athletic Center,-,6:00p
+592,michigan-state,2015-02-01,REG,Michigan,Big Ten,W,76,66,OT,15,7,W 2,Breslin Events Center,-,1:00p
+593,michigan-state,2015-02-07,REG,Illinois,Big Ten,L,54,59,,15,8,L 1,Breslin Events Center,-,12:00p
+594,michigan-state,2015-02-10,REG,Northwestern,Big Ten,W,68,44,,16,8,W 1,Welsh-Ryan Arena,-,7:00p
+595,michigan-state,2015-02-14,REG,Ohio State (23),Big Ten,W,59,56,,17,8,W 2,Breslin Events Center,-,12:00p
+596,michigan-state,2015-02-17,REG,Michigan,Big Ten,W,80,67,,18,8,W 3,Crisler Arena,-,9:00p
+597,michigan-state,2015-02-22,REG,Illinois,Big Ten,W,60,53,,19,8,W 4,State Farm Center,-,7:30p
+598,michigan-state,2015-02-26,REG,Minnesota,Big Ten,L,90,96,OT,19,9,L 1,Breslin Events Center,-,7:00p
+599,michigan-state,2015-03-01,REG,Wisconsin (5),Big Ten,L,61,68,,19,10,L 2,Kohl Center,-,4:00p
+600,michigan-state,2015-03-04,REG,Purdue,Big Ten,W,72,66,,20,10,W 1,Breslin Events Center,-,8:00p
+601,michigan-state,2015-03-07,REG,Indiana,Big Ten,W,74,72,,21,10,W 2,Assembly Hall,-,12:00p
+603,michigan-state,2015-03-13,CTOURN,Ohio State,Big Ten,W,76,67,,22,10,W 3,United Center,-,9:15p
+604,michigan-state,2015-03-14,CTOURN,Maryland (8),Big Ten,W,62,58,,23,10,W 4,United Center,-,3:25p
+605,michigan-state,2015-03-15,CTOURN,Wisconsin (6),Big Ten,L,69,80,OT,23,11,L 1,United Center,-,3:30p
+607,michigan-state,2015-03-20,NCAA,Georgia,SEC,W,70,63,,24,11,W 1,Spectrum Center,,12:40p
+608,michigan-state,2015-03-22,NCAA,Virginia (6),ACC,W,60,54,,25,11,W 2,Spectrum Center,,12:10p
+609,michigan-state,2015-03-27,NCAA,Oklahoma (13),Big 12,W,62,58,,26,11,W 3,Carrier Dome,,10:16p
+610,michigan-state,2015-03-29,NCAA,Louisville (17),ACC,W,76,70,OT,27,11,W 4,Carrier Dome,,2:20p
+611,michigan-state,2015-04-04,NCAA,Duke (4),ACC,L,61,81,,27,12,L 1,Lucas Oil Stadium,,6:09p
+612,michigan-state,2015-11-13,REG,Florida Atlantic,CUSA,W,82,55,,1,0,W 1,Breslin Events Center,13,7:00p
+613,michigan-state,2015-11-17,REG,Kansas (4),Big 12,W,79,73,,2,0,W 2,United Center,13,10:00p
+614,michigan-state,2015-11-20,REG,Arkansas-Pine Bluff,SWAC,W,92,46,,3,0,W 3,Breslin Events Center,13,7:00p
+615,michigan-state,2015-11-23,REG,Eastern Michigan,MAC,W,89,65,,4,0,W 4,Breslin Events Center,3,7:00p
+616,michigan-state,2015-11-26,REG,Boston College,ACC,W,99,68,,5,0,W 5,Titan Gym,3,6:30p
+617,michigan-state,2015-11-27,REG,Boise State,MWC,W,77,67,,6,0,W 6,Titan Gym,3,5:30p
+618,michigan-state,2015-11-29,REG,Providence,Big East,W,77,64,,7,0,W 7,Honda Center,3,10:00p
+619,michigan-state,2015-12-02,REG,Louisville (24),ACC,W,71,67,,8,0,W 8,Breslin Events Center,3,7:15p
+620,michigan-state,2015-12-05,REG,Binghamton,AEC,W,76,33,,9,0,W 9,Breslin Events Center,3,12:00p
+621,michigan-state,2015-12-09,REG,Maryland-Eastern Shore,MEAC,W,78,35,,10,0,W 10,Breslin Events Center,1,7:00p
+622,michigan-state,2015-12-12,REG,Florida,SEC,W,58,52,,11,0,W 11,Breslin Events Center,1,6:00p
+623,michigan-state,2015-12-19,REG,Northeastern,CAA,W,78,58,,12,0,W 12,Matthews Arena,1,12:30p
+624,michigan-state,2015-12-22,REG,Oakland,Horizon,W,99,93,OT,13,0,W 13,Palace of Auburn Hills,1,7:00p
+625,michigan-state,2015-12-29,REG,Iowa,Big Ten,L,70,83,,13,1,L 1,Carver-Hawkeye Arena,1,9:00p
+626,michigan-state,2016-01-02,REG,Minnesota,Big Ten,W,69,61,,14,1,W 1,Williams Arena,1,3:00p
+627,michigan-state,2016-01-07,REG,Illinois,Big Ten,W,79,54,,15,1,W 2,Breslin Events Center,5,9:00p
+628,michigan-state,2016-01-10,REG,Penn State,Big Ten,W,92,65,,16,1,W 3,Bryce Jordan Center,5,12:00p
+629,michigan-state,2016-01-14,REG,Iowa (16),Big Ten,L,59,76,,16,2,L 1,Breslin Events Center,4,7:00p
+630,michigan-state,2016-01-17,REG,Wisconsin,Big Ten,L,76,77,,16,3,L 2,Kohl Center,4,1:30p
+631,michigan-state,2016-01-20,REG,Nebraska,Big Ten,L,71,72,,16,4,L 3,Breslin Events Center,11,6:30p
+632,michigan-state,2016-01-23,REG,Maryland (7),Big Ten,W,74,65,,17,4,W 1,Breslin Events Center,11,6:30p
+633,michigan-state,2016-01-28,REG,Northwestern,Big Ten,W,76,45,,18,4,W 2,Welsh-Ryan Arena,12,9:00p
+634,michigan-state,2016-01-31,REG,Rutgers,Big Ten,W,96,62,,19,4,W 3,Breslin Events Center,12,5:15p
+635,michigan-state,2016-02-06,REG,Michigan,Big Ten,W,89,73,,20,4,W 4,Crisler Arena,10,2:00p
+636,michigan-state,2016-02-09,REG,Purdue (18),Big Ten,L,81,82,OT,20,5,L 1,Mackey Arena,8,7:00p
+637,michigan-state,2016-02-14,REG,Indiana,Big Ten,W,88,69,,21,5,W 1,Breslin Events Center,8,1:00p
+638,michigan-state,2016-02-18,REG,Wisconsin,Big Ten,W,69,57,,22,5,W 2,Breslin Events Center,8,9:00p
+639,michigan-state,2016-02-23,REG,Ohio State,Big Ten,W,81,62,,23,5,W 3,Value City Arena,6,9:00p
+640,michigan-state,2016-02-28,REG,Penn State,Big Ten,W,88,57,,24,5,W 4,Breslin Events Center,6,12:00p
+641,michigan-state,2016-03-02,REG,Rutgers,Big Ten,W,97,66,,25,5,W 5,Louis Brown Athletic Center,2,7:00p
+642,michigan-state,2016-03-05,REG,Ohio State,Big Ten,W,91,76,,26,5,W 6,Breslin Events Center,2,12:00p
+644,michigan-state,2016-03-11,CTOURN,Ohio State,Big Ten,W,81,54,,27,5,W 7,Bankers Life Fieldhouse,2,6:30p
+645,michigan-state,2016-03-12,CTOURN,Maryland (18),Big Ten,W,64,61,,28,5,W 8,Bankers Life Fieldhouse,2,3:30p
+646,michigan-state,2016-03-13,CTOURN,Purdue (13),Big Ten,W,66,62,,29,5,W 9,Bankers Life Fieldhouse,2,3:00p
+648,michigan-state,2016-03-18,NCAA,Middle Tennessee,CUSA,L,81,90,,29,6,L 1,Scottrade Center,,2:45p
+649,michigan-state,2016-11-11,REG,Arizona (10),Pac-12,L,63,65,,0,1,L 1,Stan Sheriff Center,12,7:00p
+650,michigan-state,2016-11-15,REG,Kentucky (2),SEC,L,48,69,,0,2,L 2,Madison Square Garden (IV),13,7:00p
+651,michigan-state,2016-11-18,REG,Mississippi Valley State,SWAC,W,100,53,,1,2,W 1,Breslin Events Center,13,7:00p
+652,michigan-state,2016-11-20,REG,Florida Gulf Coast,A-Sun,W,78,77,,2,2,W 2,Breslin Events Center,13,7:00p
+653,michigan-state,2016-11-23,REG,St. John's (NY),Big East,W,73,62,,3,2,W 3,Imperial Arena at Atlantis Resort,24,7:00p
+654,michigan-state,2016-11-24,REG,Baylor (20),Big 12,L,58,73,,3,3,L 1,Imperial Arena at Atlantis Resort,24,12:00p
+655,michigan-state,2016-11-25,REG,Wichita State,MVC,W,77,72,,4,3,W 1,Imperial Arena at Atlantis Resort,24,1:00p
+656,michigan-state,2016-11-29,REG,Duke (5),ACC,L,69,78,,4,4,L 1,Cameron Indoor Stadium,-,9:30p
+657,michigan-state,2016-12-03,REG,Oral Roberts,Summit,W,80,76,,5,4,W 1,Breslin Events Center,-,4:30p
+658,michigan-state,2016-12-06,REG,Youngstown State,Horizon,W,77,57,,6,4,W 2,Breslin Events Center,-,7:00p
+659,michigan-state,2016-12-10,REG,Tennessee Tech,OVC,W,71,63,,7,4,W 3,Breslin Events Center,-,2:00p
+660,michigan-state,2016-12-18,REG,Northeastern,CAA,L,73,81,,7,5,L 1,Breslin Events Center,-,7:00p
+661,michigan-state,2016-12-21,REG,Oakland,Horizon,W,77,65,,8,5,W 1,Breslin Events Center,-,7:00p
+662,michigan-state,2016-12-27,REG,Minnesota,Big Ten,W,75,74,OT,9,5,W 2,Williams Arena,-,9:00p
+663,michigan-state,2016-12-30,REG,Northwestern,Big Ten,W,61,52,,10,5,W 3,Breslin Events Center,-,6:00p
+664,michigan-state,2017-01-04,REG,Rutgers,Big Ten,W,93,65,,11,5,W 4,Breslin Events Center,-,6:30p
+665,michigan-state,2017-01-07,REG,Penn State,Big Ten,L,63,72,,11,6,L 1,The Palestra,-,1:00p
+666,michigan-state,2017-01-11,REG,Minnesota (24),Big Ten,W,65,47,,12,6,W 1,Breslin Events Center,-,7:00p
+667,michigan-state,2017-01-15,REG,Ohio State,Big Ten,L,67,72,,12,7,L 1,Value City Arena,-,1:30p
+668,michigan-state,2017-01-21,REG,Indiana,Big Ten,L,75,82,,12,8,L 2,Assembly Hall,-,4:00p
+669,michigan-state,2017-01-24,REG,Purdue (20),Big Ten,L,73,84,,12,9,L 3,Breslin Events Center,-,7:00p
+670,michigan-state,2017-01-29,REG,Michigan,Big Ten,W,70,62,,13,9,W 1,Breslin Events Center,-,1:00p
+671,michigan-state,2017-02-02,REG,Nebraska,Big Ten,W,72,61,,14,9,W 2,Pinnacle Bank Arena,-,7:00p
+672,michigan-state,2017-02-07,REG,Michigan,Big Ten,L,57,86,,14,10,L 1,Crisler Arena,-,9:00p
+673,michigan-state,2017-02-11,REG,Iowa,Big Ten,W,77,66,,15,10,W 1,Breslin Events Center,-,6:00p
+674,michigan-state,2017-02-14,REG,Ohio State,Big Ten,W,74,66,,16,10,W 2,Breslin Events Center,-,9:00p
+675,michigan-state,2017-02-18,REG,Purdue (16),Big Ten,L,63,80,,16,11,L 1,Mackey Arena,-,4:00p
+676,michigan-state,2017-02-23,REG,Nebraska,Big Ten,W,88,72,,17,11,W 1,Breslin Events Center,-,7:00p
+677,michigan-state,2017-02-26,REG,Wisconsin (16),Big Ten,W,84,74,,18,11,W 2,Breslin Events Center,-,4:00p
+678,michigan-state,2017-03-01,REG,Illinois,Big Ten,L,70,73,,18,12,L 1,State Farm Center,-,9:00p
+679,michigan-state,2017-03-04,REG,Maryland,Big Ten,L,60,63,,18,13,L 2,Xfinity Center,-,2:00p
+681,michigan-state,2017-03-09,CTOURN,Penn State,Big Ten,W,78,51,,19,13,W 1,Verizon Center,-,2:25p
+682,michigan-state,2017-03-10,CTOURN,Minnesota,Big Ten,L,58,63,,19,14,L 1,Verizon Center,-,2:45p
+684,michigan-state,2017-03-17,NCAA,Miami (FL),ACC,W,78,58,,20,14,W 1,BOK Center,,9:20p
+685,michigan-state,2017-03-19,NCAA,Kansas (3),Big 12,L,70,90,,20,15,L 1,BOK Center,,5:15p
+686,michigan-state,2017-11-10,REG,North Florida,A-Sun,W,98,66,,1,0,W 1,Breslin Events Center,2,8:00p
+687,michigan-state,2017-11-14,REG,Duke (1),ACC,L,81,88,,1,1,L 1,United Center,2,7:00p
+688,michigan-state,2017-11-19,REG,Stony Brook,AEC,W,93,71,,2,1,W 1,Breslin Events Center,2,4:00p
+689,michigan-state,2017-11-23,REG,DePaul,Big East,W,73,51,,3,1,W 2,Moda Center,4,11:30p
+690,michigan-state,2017-11-25,REG,Connecticut,AAC,W,77,57,,4,1,W 3,Memorial Coliseum,4,12:00a
+691,michigan-state,2017-11-26,REG,North Carolina (9),ACC,W,63,45,,5,1,W 4,Moda Center,4,8:30p
+692,michigan-state,2017-11-30,REG,Notre Dame (5),ACC,W,81,63,,6,1,W 5,Breslin Events Center,3,7:00p
+693,michigan-state,2017-12-03,REG,Nebraska,Big Ten,W,86,57,,7,1,W 6,Breslin Events Center,3,4:30p
+694,michigan-state,2017-12-05,REG,Rutgers,Big Ten,W,62,52,,8,1,W 7,Louis Brown Athletic Center,3,7:00p
+695,michigan-state,2017-12-09,REG,Southern Utah,Big Sky,W,88,63,,9,1,W 8,Breslin Events Center,3,6:00p
+696,michigan-state,2017-12-16,REG,Oakland,Horizon,W,86,73,,10,1,W 9,Little Caesars Arena,2,2:00p
+697,michigan-state,2017-12-18,REG,Houston Baptist,Southland,W,107,62,,11,1,W 10,Breslin Events Center,2,6:00p
+698,michigan-state,2017-12-21,REG,Long Beach State,Big West,W,102,60,,12,1,W 11,Breslin Events Center,2,7:00p
+699,michigan-state,2017-12-29,REG,Cleveland State,Horizon,W,111,61,,13,1,W 12,Breslin Events Center,2,6:00p
+700,michigan-state,2017-12-31,REG,Savannah State,MEAC,W,108,52,,14,1,W 13,Breslin Events Center,2,12:00p
+701,michigan-state,2018-01-04,REG,Maryland,Big Ten,W,91,61,,15,1,W 14,Breslin Events Center,1,8:00p
+702,michigan-state,2018-01-07,REG,Ohio State,Big Ten,L,64,80,,15,2,L 1,Value City Arena,1,4:30p
+703,michigan-state,2018-01-10,REG,Rutgers,Big Ten,W,76,72,OT,16,2,W 1,Breslin Events Center,4,7:00p
+704,michigan-state,2018-01-13,REG,Michigan,Big Ten,L,72,82,,16,3,L 1,Breslin Events Center,4,12:00p
+705,michigan-state,2018-01-19,REG,Indiana,Big Ten,W,85,57,,17,3,W 1,Breslin Events Center,9,7:00p
+706,michigan-state,2018-01-22,REG,Illinois,Big Ten,W,87,74,,18,3,W 2,State Farm Center,6,9:00p
+707,michigan-state,2018-01-26,REG,Wisconsin,Big Ten,W,76,61,,19,3,W 3,Breslin Events Center,6,8:00p
+708,michigan-state,2018-01-28,REG,Maryland,Big Ten,W,74,68,,20,3,W 4,Xfinity Center,6,1:00p
+709,michigan-state,2018-01-31,REG,Penn State,Big Ten,W,76,68,,21,3,W 5,Breslin Events Center,5,6:30p
+710,michigan-state,2018-02-03,REG,Indiana,Big Ten,W,63,60,,22,3,W 6,Assembly Hall,5,8:15p
+711,michigan-state,2018-02-06,REG,Iowa,Big Ten,W,96,93,,23,3,W 7,Carver-Hawkeye Arena,4,9:00p
+712,michigan-state,2018-02-10,REG,Purdue (3),Big Ten,W,68,65,,24,3,W 8,Breslin Events Center,4,4:00p
+713,michigan-state,2018-02-13,REG,Minnesota,Big Ten,W,87,57,,25,3,W 9,Williams Arena,2,9:00p
+714,michigan-state,2018-02-17,REG,Northwestern,Big Ten,W,65,60,,26,3,W 10,Allstate Arena,2,2:00p
+715,michigan-state,2018-02-20,REG,Illinois,Big Ten,W,81,61,,27,3,W 11,Breslin Events Center,2,7:00p
+716,michigan-state,2018-02-25,REG,Wisconsin,Big Ten,W,68,63,,28,3,W 12,Kohl Center,2,1:00p
+718,michigan-state,2018-03-02,CTOURN,Wisconsin,Big Ten,W,63,60,,29,3,W 13,Madison Square Garden (IV),2,12:00p
+719,michigan-state,2018-03-03,CTOURN,Michigan (15),Big Ten,L,64,75,,29,4,L 1,Madison Square Garden (IV),2,2:00p
+721,michigan-state,2018-03-16,NCAA,Bucknell,Patriot,W,82,78,,30,4,W 1,Little Caesars Arena,,7:10p
+722,michigan-state,2018-03-18,NCAA,Syracuse,ACC,L,53,55,,30,5,L 1,Little Caesars Arena,,2:40p
+723,michigan-state,2018-11-06,REG,Kansas (1),Big 12,L,87,92,,0,1,L 1,Bankers Life Fieldhouse,10,7:00p
+724,michigan-state,2018-11-11,REG,Florida Gulf Coast,A-Sun,W,106,82,,1,1,W 1,Breslin Events Center,10,6:00p
+725,michigan-state,2018-11-14,REG,Louisiana-Monroe,Sun Belt,W,80,59,,2,1,W 2,Breslin Events Center,11,7:00p
+726,michigan-state,2018-11-18,REG,Tennessee Tech,OVC,W,101,33,,3,1,W 3,Breslin Events Center,11,6:00p
+727,michigan-state,2018-11-22,REG,UCLA (17),Pac-12,W,87,67,,4,1,W 4,Orleans Arena,11,10:00p
+728,michigan-state,2018-11-23,REG,Texas,Big 12,W,78,68,,5,1,W 5,Orleans Arena,11,6:30p
+729,michigan-state,2018-11-27,REG,Louisville,ACC,L,78,82,OT,5,2,L 1,KFC Yum! Center,9,7:30p
+730,michigan-state,2018-11-30,REG,Rutgers,Big Ten,W,78,67,,6,2,W 1,Louis Brown Athletic Center,9,6:00p
+731,michigan-state,2018-12-03,REG,Iowa (18),Big Ten,W,90,68,,7,2,W 2,Breslin Events Center,10,6:30p
+732,michigan-state,2018-12-08,REG,Florida,SEC,W,63,59,,8,2,W 3,Stephen C. O'Connell Center,10,12:00p
+733,michigan-state,2018-12-16,REG,Green Bay,Horizon,W,104,83,,9,2,W 4,Breslin Events Center,9,5:00p
+734,michigan-state,2018-12-21,REG,Oakland,Horizon,W,99,69,,10,2,W 5,Breslin Events Center,10,7:00p
+735,michigan-state,2018-12-29,REG,Northern Illinois,MAC,W,88,60,,11,2,W 6,Breslin Events Center,8,2:00p
+736,michigan-state,2019-01-02,REG,Northwestern,Big Ten,W,81,55,,12,2,W 7,Breslin Events Center,8,8:30p
+737,michigan-state,2019-01-05,REG,Ohio State (14),Big Ten,W,86,77,,13,2,W 8,Value City Arena,8,12:00p
+738,michigan-state,2019-01-08,REG,Purdue,Big Ten,W,77,59,,14,2,W 9,Breslin Events Center,6,9:00p
+739,michigan-state,2019-01-13,REG,Penn State,Big Ten,W,71,56,,15,2,W 10,Bryce Jordan Center,6,4:30p
+740,michigan-state,2019-01-17,REG,Nebraska,Big Ten,W,70,64,,16,2,W 11,Pinnacle Bank Arena,6,8:00p
+741,michigan-state,2019-01-21,REG,Maryland (13),Big Ten,W,69,55,,17,2,W 12,Breslin Events Center,6,6:30p
+742,michigan-state,2019-01-24,REG,Iowa (19),Big Ten,W,82,67,,18,2,W 13,Carver-Hawkeye Arena,6,7:00p
+743,michigan-state,2019-01-27,REG,Purdue,Big Ten,L,63,73,,18,3,L 1,Mackey Arena,6,1:00p
+744,michigan-state,2019-02-02,REG,Indiana,Big Ten,L,75,79,OT,18,4,L 2,Breslin Events Center,6,6:00p
+745,michigan-state,2019-02-05,REG,Illinois,Big Ten,L,74,79,,18,5,L 3,State Farm Center,9,7:00p
+746,michigan-state,2019-02-09,REG,Minnesota,Big Ten,W,79,55,,19,5,W 1,Breslin Events Center,9,2:00p
+747,michigan-state,2019-02-12,REG,Wisconsin (20),Big Ten,W,67,59,,20,5,W 2,Kohl Center,11,7:00p
+748,michigan-state,2019-02-17,REG,Ohio State,Big Ten,W,62,44,,21,5,W 3,Breslin Events Center,11,1:00p
+749,michigan-state,2019-02-20,REG,Rutgers,Big Ten,W,71,60,,22,5,W 4,Breslin Events Center,10,6:30p
+750,michigan-state,2019-02-24,REG,Michigan (7),Big Ten,W,77,70,,23,5,W 5,Crisler Arena,10,3:45p
+751,michigan-state,2019-03-02,REG,Indiana,Big Ten,L,62,63,,23,6,L 1,Assembly Hall,6,12:00p
+752,michigan-state,2019-03-05,REG,Nebraska,Big Ten,W,91,76,,24,6,W 1,Breslin Events Center,9,7:00p
+753,michigan-state,2019-03-09,REG,Michigan (7),Big Ten,W,75,63,,25,6,W 2,Breslin Events Center,9,8:00p
+755,michigan-state,2019-03-15,CTOURN,Ohio State,Big Ten,W,77,70,,26,6,W 3,United Center,6,12:30p
+756,michigan-state,2019-03-16,CTOURN,Wisconsin (19),Big Ten,W,67,55,,27,6,W 4,United Center,6,1:00p
+757,michigan-state,2019-03-17,CTOURN,Michigan (10),Big Ten,W,65,60,,28,6,W 5,United Center,6,3:30p
+759,michigan-state,2019-03-21,NCAA,Bradley,MVC,W,76,65,,29,6,W 6,Wells Fargo Arena,,2:45p
+760,michigan-state,2019-03-23,NCAA,Minnesota,Big Ten,W,70,50,,30,6,W 7,Wells Fargo Arena,,7:45p
+761,michigan-state,2019-03-29,NCAA,Louisiana State (12),SEC,W,80,63,,31,6,W 8,Capital One Arena,,7:09p
+762,michigan-state,2019-03-31,NCAA,Duke (1),ACC,W,68,67,,32,6,W 9,Capital One Arena,,5:05p
+763,michigan-state,2019-04-06,NCAA,Texas Tech (9),Big 12,L,51,61,,32,7,L 1,U.S. Bank Stadium,,8:49p

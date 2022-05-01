@@ -1,0 +1,87 @@
+OFFENSE_TYPE_ID,YEAR,NAME,AGAINST,CATEGORY
+1,2019,Justifiable Homicide,Person,Homicide Offenses
+2,2019,False Pretenses/Swindle/Confidence Game,Property,Fraud Offenses
+3,2019,Statutory Rape,Person,"Sex Offenses, Non-forcible"
+4,2019,Sexual Assault With An Object,Person,Sex Offenses
+5,2019,Destruction/Damage/Vandalism of Property,Property,Destruction/Damage/Vandalism of Property
+6,2019,"Family Offenses, Nonviolent",Person,"Family Offenses, Nonviolent"
+7,2019,Theft of Motor Vehicle Parts or Accessories,Property,Larceny/Theft Offenses
+8,2019,Pornography/Obscene Material,Society,Pornography/Obscene Material
+9,2019,Sports Tampering,Society,Gambling Offenses
+10,2019,Driving Under the Influence,Society,Driving Under the Influence
+11,2019,Counterfeiting/Forgery,Property,Counterfeiting/Forgery
+12,2019,Welfare Fraud,Property,Fraud Offenses
+13,2019,Pocket-picking,Property,Larceny/Theft Offenses
+14,2019,Theft From Motor Vehicle,Property,Larceny/Theft Offenses
+15,2019,Assisting or Promoting Prostitution,Society,Prostitution Offenses
+16,2019,Drug/Narcotic Violations,Society,Drug/Narcotic Offenses
+17,2019,Wire Fraud,Property,Fraud Offenses
+18,2019,Purse-snatching,Property,Larceny/Theft Offenses
+19,2019,Runaway,Not a Crime,Other Offenses
+20,2019,Arson,Property,Arson
+21,2019,Motor Vehicle Theft,Property,Motor Vehicle Theft
+22,2019,Drunkenness,Society,Drunkenness
+23,2019,Shoplifting,Property,Larceny/Theft Offenses
+24,2019,Operating/Promoting/Assisting Gambling,Society,Gambling Offenses
+25,2019,Bad Checks,Property,Bad Checks
+26,2019,Extortion/Blackmail,Property,Extortion/Blackmail
+27,2019,Aggravated Assault,Person,Assault Offenses
+28,2019,Stolen Property Offenses,Property,Stolen Property Offenses
+29,2019,Kidnapping/Abduction,Person,Kidnapping/Abduction
+30,2019,Prostitution,Society,Prostitution Offenses
+31,2019,Betting/Wagering,Society,Gambling Offenses
+32,2019,Murder and Nonnegligent Manslaughter,Person,Homicide Offenses
+33,2019,Peeping Tom,Person,Peeping Tom
+34,2019,Trespass of Real Property,Society,Trespass of Real Property
+35,2019,Drug Equipment Violations,Society,Drug/Narcotic Offenses
+36,2019,Rape,Person,Sex Offenses
+37,2019,Embezzlement,Property,Embezzlement
+38,2019,Negligent Manslaughter,Person,Homicide Offenses
+39,2019,Weapon Law Violations,Society,Weapon Law Violations
+40,2019,Robbery,Property,Robbery
+41,2019,Credit Card/Automated Teller Machine Fraud,Property,Fraud Offenses
+42,2019,Curfew/Loitering/Vagrancy Violations,Society,Curfew/Loitering/Vagrancy Violations
+43,2019,Sodomy,Person,Sex Offenses
+44,2019,Intimidation,Person,Assault Offenses
+45,2019,All Other Larceny,Property,Larceny/Theft Offenses
+46,2019,Impersonation,Property,Fraud Offenses
+47,2019,Theft From Building,Property,Larceny/Theft Offenses
+48,2019,All Other Offenses,Society,All Other Offenses
+49,2019,Burglary/Breaking & Entering,Property,Burglary/Breaking & Entering
+50,2019,Theft From Coin-Operated Machine or Device,Property,Larceny/Theft Offenses
+51,2019,Simple Assault,Person,Assault Offenses
+52,2019,Liquor Law Violations,Society,Liquor Law Violations
+53,2019,Disorderly Conduct,Society,Disorderly Conduct
+54,2019,Gambling Equipment Violation,Society,Gambling Offenses
+55,2019,Incest,Person,"Sex Offenses, Non-forcible"
+56,2019,Fondling,Person,Sex Offenses
+57,2019,Bribery,Property,Bribery
+58,2019,Not Specified,Property,Larceny/Theft Offenses
+59,2019,"Human Trafficking, Commercial Sex Acts",Person,Human Trafficking
+60,2019,"Human Trafficking, Involuntary Servitude",Person,Human Trafficking
+61,2019,Purchasing Prostitution,Society,Prostitution Offenses
+62,2019,Animal Cruelty,Society,Animal Cruelty
+63,2019,Identity Theft,Property,Fraud Offenses
+64,2019,Hacking/Computer Invasion,Property,Fraud Offenses
+65,2019,Failure to Appear,Society,Other Offenses
+66,2019,Federal Resource Violations,Society,Other Offenses
+67,2019,Perjury,Society,Other Offenses
+68,2019,Money Laundering,Society,Other Offenses
+69,2019,Treason,Society,Other Offenses
+70,2019,Espionage,Society,Other Offenses
+71,2019,Illegal Entry into the United States,Society,Other Offenses
+72,2019,False Citizenship,Society,Other Offenses
+73,2019,Smuggling Aliens,Society,Other Offenses
+74,2019,Re-entry after Deportation,Society,Other Offenses
+75,2019,Failure to Register as a Sex Offender,Society,Other Offenses
+76,2019,Harboring Escapee/Concealing from Arrest,Society,Other Offenses
+77,2019,Flight to Avoid Prosecution,Society,Other Offenses
+78,2019,Flight to Avoid Deportation,Society,Other Offenses
+79,2019,Violation of National Firearm Act of 1934,Society,Other Offenses
+80,2019,Weapons of Mass Destruction,Society,Other Offenses
+81,2019,Explosives Violation,Society,Other Offenses
+82,2019,Import Violations,Society,Other Offenses
+83,2019,Export Violations,Society,Other Offenses
+84,2019,Federal Liquor Offenses,Society,Other Offenses
+85,2019,Federal Tobacco Offenses,Society,Other Offenses
+86,2019,Wildlife Trafficking,Society,Other Offenses
