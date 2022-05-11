@@ -1,0 +1,727 @@
+,school,gamedate,type,opponent,conf,result,team_points,opp_points,ot,w,l,streak,arena,rank,gametime,Game String,Start time,US State,index,Unnamed: 0
+0,michigan,2009-11-14,REG,Northern Michigan,,W,97,50,,1,0,W 1,Crisler Arena,15,,Northern Michigan on November 14 7:00 PM,2022-05-10 19:00:00,MICH.,,
+1,michigan,2009-11-20,REG,Houston Baptist,GWC,W,77,55,,2,0,W 2,Crisler Arena,15,,Houston Baptist on November 20 7:00 PM,2022-05-10 19:00:00,MICH.,,
+2,michigan,2009-11-26,REG,Creighton,MVC,W,83,76,OT,3,0,W 3,The Milk House,15,,Creighton on November 26 12:00 PM,2022-05-10 12:00:00,FLA.,,
+3,michigan,2009-11-27,REG,Marquette,Big East,L,65,79,,3,1,L 1,The Milk House,15,,Marquette on November 27 12:00 PM,2022-05-10 12:00:00,FLA.,,
+4,michigan,2009-11-29,REG,Alabama,SEC,L,66,68,,3,2,L 2,The Milk House,15,,Alabama on November 29 5:00 PM,2022-05-10 17:00:00,FLA.,,
+5,michigan,2009-12-02,REG,Boston College,ACC,L,58,62,,3,3,L 3,Crisler Arena,-,,Boston College on December 2 7:30 PM,2022-05-10 19:30:00,MICH.,,
+6,michigan,2009-12-05,REG,Arkansas-Pine Bluff,SWAC,W,67,53,,4,3,W 1,Crisler Arena,-,,Arkansas - Pine Bluff on December 5 2:00 PM,2022-05-10 14:00:00,MICH.,,
+7,michigan,2009-12-09,REG,Utah,MWC,L,52,68,,4,4,L 1,Jon M. Huntsman Center,-,,Utah on December 9 7:00 PM,2022-05-10 21:00:00,UTAH,,
+8,michigan,2009-12-13,REG,Detroit Mercy,Horizon,W,75,64,,5,4,W 1,Crisler Arena,-,,Detroit on December 13 12:00 PM,2022-05-10 12:00:00,MICH.,,
+9,michigan,2009-12-19,REG,Kansas (1),Big 12,L,64,75,,5,5,L 1,Allen Fieldhouse,-,,Kansas on December 19 11:00 AM,2022-05-10 12:00:00,KAN.,,
+10,michigan,2009-12-22,REG,Coppin State,MEAC,W,76,46,,6,5,W 1,Crisler Arena,-,,Coppin State on December 22 7:00 PM,2022-05-10 19:00:00,MICH.,,
+11,michigan,2009-12-31,REG,Indiana,Big Ten,L,65,71,,6,6,L 1,Assembly Hall,-,,Indiana on December 31 12:00 PM,2022-05-10 12:00:00,IND.,,
+12,michigan,2010-01-03,REG,Ohio State (15),Big Ten,W,73,64,,7,6,W 1,Crisler Arena,-,,Ohio State on January 3 4:30 PM,2022-05-10 16:30:00,MICH.,,
+13,michigan,2010-01-07,REG,Penn State,Big Ten,W,64,55,,8,6,W 2,Bryce Jordan Center,-,,Penn State on January 7 7:00 PM,2022-05-10 19:00:00,PA.,,
+14,michigan,2010-01-10,REG,Northwestern,Big Ten,L,62,68,,8,7,L 1,Crisler Arena,-,,Northwestern on January 10 2:30 PM,2022-05-10 14:30:00,MICH.,,
+15,michigan,2010-01-14,REG,Indiana,Big Ten,W,69,45,,9,7,W 1,Crisler Arena,-,,Indiana on January 14 9:00 PM,2022-05-10 21:00:00,MICH.,,
+16,michigan,2010-01-17,REG,Connecticut (15),Big East,W,68,63,,10,7,W 2,Crisler Arena,-,,Connecticut on January 17 1:30 PM,2022-05-10 13:30:00,MICH.,,
+17,michigan,2010-01-20,REG,Wisconsin (18),Big Ten,L,48,54,,10,8,L 1,Kohl Center,-,,Wisconsin on January 20 7:30 PM,2022-05-10 20:30:00,WIS.,,
+18,michigan,2010-01-23,REG,Purdue (13),Big Ten,L,59,69,,10,9,L 2,Mackey Arena,-,,Purdue on January 23 4:00 PM,2022-05-10 16:00:00,IND.,,
+19,michigan,2010-01-26,REG,Michigan State (5),Big Ten,L,56,57,,10,10,L 3,Crisler Arena,-,,Michigan State on January 26 7:00 PM,2022-05-10 19:00:00,MICH.,,
+20,michigan,2010-01-30,REG,Iowa,Big Ten,W,60,46,,11,10,W 1,Crisler Arena,-,,Iowa on January 30 4:35 PM,2022-05-10 16:35:00,MICH.,,
+21,michigan,2010-02-02,REG,Northwestern,Big Ten,L,52,67,,11,11,L 1,Welsh-Ryan Arena,-,,Northwestern on February 2 6:00 PM,2022-05-10 19:00:00,ILL.,,
+22,michigan,2010-02-06,REG,Wisconsin (16),Big Ten,L,44,62,,11,12,L 2,Crisler Arena,-,,Wisconsin on February 6 4:00 PM,2022-05-10 16:00:00,MICH.,,
+23,michigan,2010-02-11,REG,Minnesota,Big Ten,W,71,63,,12,12,W 1,Williams Arena,-,,Minnesota on February 11 6:00 PM,2022-05-10 19:00:00,MINN.,,
+24,michigan,2010-02-16,REG,Iowa,Big Ten,W,80,78,OT,13,12,W 2,Carver-Hawkeye Arena,-,,Iowa on February 16 8:05 PM,2022-05-10 21:05:00,IOWA,,
+25,michigan,2010-02-20,REG,Penn State,Big Ten,L,51,55,,13,13,L 1,Crisler Arena,-,,Penn State on February 20 6:00 PM,2022-05-10 18:00:00,MICH.,,
+26,michigan,2010-02-23,REG,Illinois,Big Ten,L,44,51,,13,14,L 2,Crisler Arena,-,,Illinois on February 23 7:00 PM,2022-05-10 19:00:00,MICH.,,
+27,michigan,2010-02-27,REG,Ohio State (9),Big Ten,L,55,66,,13,15,L 3,Value City Arena,-,,Ohio State on February 27 12:00 PM,2022-05-10 12:00:00,OHIO,,
+28,michigan,2010-03-02,REG,Minnesota,Big Ten,W,83,55,,14,15,W 1,Crisler Arena,-,,Minnesota on March 2 7:00 PM,2022-05-10 19:00:00,MICH.,,
+29,michigan,2010-03-07,REG,Michigan State (11),Big Ten,L,48,64,,14,16,L 1,Breslin Events Center,-,,Michigan State on March 7 4:00 PM,2022-05-10 16:00:00,MICH.,,
+30,michigan,2010-03-11,CTOURN,Iowa,Big Ten,W,59,52,,15,16,W 1,Conseco Fieldhouse,-,,Iowa (#9) on March 11 2:30 PM,2022-05-10 14:30:00,IND.,,
+31,michigan,2010-03-12,CTOURN,Ohio State (5),Big Ten,L,68,69,,15,17,L 1,Conseco Fieldhouse,-,,Ohio State (#1) on March 12 12:00 PM,2022-05-10 12:00:00,IND.,,
+32,michigan,2010-11-13,REG,South Carolina Upstate,A-Sun,W,66,35,,1,0,W 1,Crisler Arena,-,,South Carolina Upstate on November 13 7:00 PM,2022-05-10 19:00:00,MICH.,,
+33,michigan,2010-11-18,REG,Bowling Green State,MAC,W,69,50,,2,0,W 2,Crisler Arena,-,,Bowling Green on November 18 7:00 PM,2022-05-10 19:00:00,MICH.,,
+34,michigan,2010-11-21,REG,Gardner-Webb,Big South,W,80,58,,3,0,W 3,Crisler Arena,-,,Gardner-Webb on November 21 2:00 PM,2022-05-10 14:00:00,MICH.,,
+35,michigan,2010-11-26,REG,Syracuse (9),Big East,L,50,53,,3,1,L 1,Boardwalk Hall,-,,Syracuse on November 26 8:00 PM,2022-05-10 20:00:00,N.J.,,
+36,michigan,2010-11-27,REG,UTEP,CUSA,L,56,65,,3,2,L 2,Boardwalk Hall,-,,UTEP on November 27 5:30 PM,2022-05-10 17:30:00,N.J.,,
+37,michigan,2010-11-30,REG,Clemson,ACC,W,69,61,,4,2,W 1,Littlejohn Coliseum,-,,Clemson on November 30 9:00 PM,2022-05-10 21:00:00,S.C.,,
+38,michigan,2010-12-04,REG,Harvard,Ivy,W,65,62,,5,2,W 2,Crisler Arena,-,,Harvard on December 4 1:00 PM,2022-05-10 13:00:00,MICH.,,
+39,michigan,2010-12-06,REG,Concordia (MI),,W,86,65,,6,2,W 3,Crisler Arena,-,,Concordia (Mich.) on December 6 7:30 PM,2022-05-10 19:30:00,MICH.,,
+40,michigan,2010-12-10,REG,Utah,MWC,W,75,64,,7,2,W 4,Crisler Arena,-,,Utah on December 10 6:30 PM,2022-05-10 18:30:00,MICH.,,
+41,michigan,2010-12-14,REG,North Carolina Central,Ind,W,64,44,,8,2,W 5,Crisler Arena,-,,North Carolina Central on December 14 7:00 PM,2022-05-10 19:00:00,MICH.,,
+42,michigan,2010-12-18,REG,Oakland,Summit,W,69,51,,9,2,W 6,Crisler Arena,-,,Oakland on December 18 12:00 PM,2022-05-10 12:00:00,MICH.,,
+43,michigan,2010-12-23,REG,Bryant,NEC,W,87,71,,10,2,W 7,Crisler Arena,-,,Bryant on December 23 6:00 PM,2022-05-10 18:00:00,MICH.,,
+44,michigan,2010-12-28,REG,Purdue (12),Big Ten,L,57,80,,10,3,L 1,Crisler Arena,-,,Purdue on December 28 2:00 PM,2022-05-10 14:00:00,MICH.,,
+45,michigan,2011-01-02,REG,Penn State,Big Ten,W,76,69,,11,3,W 1,Crisler Arena,-,,Penn State on January 2 4:00 PM,2022-05-10 16:00:00,MICH.,,
+46,michigan,2011-01-05,REG,Wisconsin,Big Ten,L,50,66,,11,4,L 1,Kohl Center,-,,Wisconsin on January 5 7:30 PM,2022-05-10 20:30:00,WIS.,,
+47,michigan,2011-01-09,REG,Kansas (3),Big 12,L,60,67,OT,11,5,L 2,Crisler Arena,-,,Kansas on January 9 4:30 PM,2022-05-10 16:30:00,MICH.,,
+48,michigan,2011-01-12,REG,Ohio State (2),Big Ten,L,64,68,,11,6,L 3,Crisler Arena,-,,Ohio State on January 12 6:30 PM,2022-05-10 18:30:00,MICH.,,
+49,michigan,2011-01-15,REG,Indiana,Big Ten,L,61,80,,11,7,L 4,Assembly Hall,-,,Indiana on January 15 8:00 PM,2022-05-10 20:00:00,IND.,,
+50,michigan,2011-01-18,REG,Northwestern,Big Ten,L,60,74,,11,8,L 5,Welsh-Ryan Arena,-,,Northwestern on January 18 8:00 PM,2022-05-10 21:00:00,ILL.,,
+51,michigan,2011-01-22,REG,Minnesota (15),Big Ten,L,64,69,,11,9,L 6,Crisler Arena,-,,Minnesota on January 22 7:00 PM,2022-05-10 19:00:00,MICH.,,
+52,michigan,2011-01-27,REG,Michigan State (25),Big Ten,W,61,57,,12,9,W 1,Breslin Events Center,-,,Michigan State on January 27 7:00 PM,2022-05-10 19:00:00,MICH.,,
+53,michigan,2011-01-30,REG,Iowa,Big Ten,W,87,73,,13,9,W 2,Crisler Arena,-,,Iowa on January 30 4:00 PM,2022-05-10 16:00:00,MICH.,,
+54,michigan,2011-02-03,REG,Ohio State (1),Big Ten,L,53,62,,13,10,L 1,Value City Arena,-,,Ohio State on February 3 7:00 PM,2022-05-10 19:00:00,OHIO,,
+55,michigan,2011-02-06,REG,Penn State,Big Ten,W,65,62,,14,10,W 1,Bryce Jordan Center,-,,Penn State on February 6 12:00 PM,2022-05-10 12:00:00,PA.,,
+56,michigan,2011-02-09,REG,Northwestern,Big Ten,W,75,66,,15,10,W 2,Crisler Arena,-,,Northwestern on February 9 6:30 PM,2022-05-10 18:30:00,MICH.,,
+57,michigan,2011-02-12,REG,Indiana,Big Ten,W,73,69,,16,10,W 3,Crisler Arena,-,,Indiana on February 12 4:00 PM,2022-05-10 16:00:00,MICH.,,
+58,michigan,2011-02-16,REG,Illinois,Big Ten,L,52,54,,16,11,L 1,Assembly Hall,-,,Illinois on February 16 7:30 PM,2022-05-10 20:30:00,ILL.,,
+59,michigan,2011-02-19,REG,Iowa,Big Ten,W,75,72,OT,17,11,W 1,Carver-Hawkeye Arena,-,,Iowa on February 19 3:30 PM,2022-05-10 16:30:00,IOWA,,
+60,michigan,2011-02-23,REG,Wisconsin (12),Big Ten,L,52,53,,17,12,L 1,Crisler Arena,-,,Wisconsin on February 23 6:30 PM,2022-05-10 18:30:00,MICH.,,
+61,michigan,2011-02-26,REG,Minnesota,Big Ten,W,70,63,,18,12,W 1,Williams Arena,-,,Minnesota on February 26 3:30 PM,2022-05-10 16:30:00,MINN.,,
+62,michigan,2011-03-05,REG,Michigan State,Big Ten,W,70,63,,19,12,W 2,Crisler Arena,-,,Michigan State on March 5 2:00 PM,2022-05-10 14:00:00,MICH.,,
+63,michigan,2011-03-11,CTOURN,Illinois,Big Ten,W,60,55,,20,12,W 3,,-,,Illinois (#5) on March 11 2:30 PM,2022-05-10 14:30:00,IND.,,
+64,michigan,2011-03-12,CTOURN,Ohio State (1),Big Ten,L,61,68,,20,13,L 1,,-,,Ohio State (#1) on March 12 1:40 PM,2022-05-10 13:40:00,IND.,,
+65,michigan,2011-03-18,NCAA,Tennessee,SEC,W,75,45,,21,13,W 1,Times Warner Cable Arena,,,Tennessee (#9) on March 18 12:40 PM,2022-05-10 12:40:00,N.C.,,
+66,michigan,2011-03-20,NCAA,Duke (3),ACC,L,71,73,,21,14,L 1,Times Warner Cable Arena,,,Duke (#1) on March 20 2:45 PM,2022-05-10 14:45:00,N.C.,,
+67,michigan,2011-11-11,REG,Ferris State,,W,59,33,,1,0,W 1,Crisler Arena,18,,Ferris State on November 11 7:00 PM,2022-05-10 19:00:00,MICH.,,
+68,michigan,2011-11-14,REG,Towson,CAA,W,64,47,,2,0,W 2,Crisler Arena,17,,Towson on November 14 8:30 PM,2022-05-10 20:30:00,MICH.,,
+69,michigan,2011-11-17,REG,Western Illinois,Summit,W,59,55,,3,0,W 3,Crisler Arena,17,,Western Illinois on November 17 8:30 PM,2022-05-10 20:30:00,MICH.,,
+70,michigan,2011-11-21,REG,Memphis (8),CUSA,W,73,61,,4,0,W 4,Lahaina Civic Center,15,,Memphis on November 21 10:00 AM,2022-05-10 16:00:00,HAWAII,,
+71,michigan,2011-11-22,REG,Duke (6),ACC,L,75,82,,4,1,L 1,,15,,Duke on November 22 2:00 PM,2022-05-10 20:00:00,HAWAII,,
+72,michigan,2011-11-23,REG,UCLA,Pac-12,W,79,63,,5,1,W 1,,15,,UCLA on November 23 2:30 PM,2022-05-10 20:30:00,HAWAII,,
+73,michigan,2011-11-29,REG,Virginia,ACC,L,58,70,,5,2,L 1,John Paul Jones Arena,14,,Virginia on November 29 7:00 PM,2022-05-10 19:00:00,VA.,,
+74,michigan,2011-12-03,REG,Iowa State,Big 12,W,76,66,,6,2,W 1,Crisler Arena,14,,Iowa State on December 3 12:00 PM,2022-05-10 12:00:00,MICH.,,
+75,michigan,2011-12-10,REG,Oakland,Summit,W,90,80,,7,2,W 2,,20,,Oakland on December 10 4:00 PM,2022-05-10 16:00:00,MICH.,,
+76,michigan,2011-12-13,REG,Arkansas-Pine Bluff,SWAC,W,63,50,,8,2,W 3,Crisler Arena,20,,Arkansas-Pine Bluff on December 13 7:00 PM,2022-05-10 19:00:00,MICH.,,
+77,michigan,2011-12-17,REG,Alabama A&M,SWAC,W,87,57,,9,2,W 4,Crisler Arena,20,,Alabama A&M on December 17 12:00 PM,2022-05-10 12:00:00,MICH.,,
+78,michigan,2011-12-22,REG,Bradley,MVC,W,77,66,,10,2,W 5,Crisler Arena,20,,Bradley on December 22 6:30 PM,2022-05-10 18:30:00,MICH.,,
+79,michigan,2011-12-29,REG,Penn State,Big Ten,W,71,53,,11,2,W 6,Crisler Arena,18,,Penn State on December 29 7:30 PM,2022-05-10 19:30:00,MICH.,,
+80,michigan,2012-01-01,REG,Minnesota,Big Ten,W,61,56,,12,2,W 7,Crisler Arena,18,,Minnesota on January 1 4:00 PM,2022-05-10 16:00:00,MICH.,,
+81,michigan,2012-01-05,REG,Indiana (12),Big Ten,L,71,73,,12,3,L 1,Assembly Hall,16,,Indiana on January 5 9:00 PM,2022-05-10 21:00:00,IND.,,
+82,michigan,2012-01-08,REG,Wisconsin (18),Big Ten,W,59,41,,13,3,W 1,Crisler Arena,16,,Wisconsin on January 8 1:30 PM,2022-05-10 13:30:00,MICH.,,
+83,michigan,2012-01-11,REG,Northwestern,Big Ten,W,66,64,OT,14,3,W 2,Crisler Arena,13,,Northwestern on January 11 6:30 PM,2022-05-10 18:30:00,MICH.,,
+84,michigan,2012-01-14,REG,Iowa,Big Ten,L,59,75,,14,4,L 1,Carver-Hawkeye Arena,13,,Iowa on January 14 12:00 PM,2022-05-10 13:00:00,IOWA,,
+85,michigan,2012-01-17,REG,Michigan State (9),Big Ten,W,60,59,,15,4,W 1,Crisler Arena,20,,Michigan State on January 17 7:00 PM,2022-05-10 19:00:00,MICH.,,
+86,michigan,2012-01-21,REG,Arkansas,SEC,L,64,66,,15,5,L 1,Bud Walton Arena,20,,Arkansas on January 21 1:00 PM,2022-05-10 14:00:00,ARK.,,
+87,michigan,2012-01-24,REG,Purdue,Big Ten,W,66,64,,16,5,W 1,Mackey Arena,20,,Purdue on January 24 7:00 PM,2022-05-10 19:00:00,IND.,,
+88,michigan,2012-01-29,REG,Ohio State (4),Big Ten,L,49,64,,16,6,L 1,Value City Arena,20,,Ohio State on January 29 1:00 PM,2022-05-10 13:00:00,OHIO,,
+89,michigan,2012-02-01,REG,Indiana (20),Big Ten,W,68,56,,17,6,W 1,Crisler Arena,23,,Indiana on February 1 6:30 PM,2022-05-10 18:30:00,MICH.,,
+90,michigan,2012-02-05,REG,Michigan State (9),Big Ten,L,54,64,,17,7,L 1,Breslin Events Center,23,,Michigan State on February 5 1:00 PM,2022-05-10 13:00:00,MICH.,,
+91,michigan,2012-02-08,REG,Nebraska,Big Ten,W,62,46,,18,7,W 1,Bob Devaney Sports Center,22,,Nebraska on February 8 7:30 PM,2022-05-10 20:30:00,NEB.,,
+92,michigan,2012-02-12,REG,Illinois,Big Ten,W,70,61,,19,7,W 2,Crisler Arena,22,,Illinois on February 12 1:00 PM,2022-05-10 13:00:00,MICH.,,
+93,michigan,2012-02-18,REG,Ohio State (6),Big Ten,W,56,51,,20,7,W 3,Crisler Arena,17,,Ohio State on February 18 9:00 PM,2022-05-10 21:00:00,MICH.,,
+94,michigan,2012-02-21,REG,Northwestern,Big Ten,W,67,55,OT,21,7,W 4,Welsh-Ryan Arena,11,,Northwestern on February 21 7:00 PM,2022-05-10 20:00:00,ILL.,,
+95,michigan,2012-02-25,REG,Purdue,Big Ten,L,61,75,,21,8,L 1,Crisler Arena,11,,Purdue on February 25 6:00 PM,2022-05-10 18:00:00,MICH.,,
+96,michigan,2012-03-01,REG,Illinois,Big Ten,W,72,61,,22,8,W 1,Assembly Hall,13,,Illinois on March 1 6:00 PM,2022-05-10 19:00:00,ILL.,,
+97,michigan,2012-03-04,REG,Penn State,Big Ten,W,71,65,,23,8,W 2,Bryce Jordan Center,13,,Penn State on March 4 1:00 PM,2022-05-10 13:00:00,PA.,,
+98,michigan,2012-03-09,CTOURN,Minnesota,Big Ten,W,73,69,OT,24,8,W 3,,10,,Minnesota (#10) on March 9 6:30 PM,2022-05-10 18:30:00,IND.,,
+99,michigan,2012-03-10,CTOURN,Ohio State (7),Big Ten,L,55,77,,24,9,L 1,Conseco Fieldhouse,10,,Ohio State (#3) on March 10 4:05 PM,2022-05-10 16:05:00,IND.,,
+100,michigan,2012-03-16,NCAA,Ohio,MAC,L,60,65,,24,10,L 2,Bridgestone Arena,,,Ohio (#13) on March 16 6:20 PM,2022-05-10 18:20:00,TENN.,,
+101,michigan,2012-11-09,REG,Slippery Rock,,W,100,62,,1,0,W 1,Crisler Arena,5,,Slippery Rock on November 9 8:30 PM,2022-05-10 20:30:00,MICH.,,
+102,michigan,2012-11-12,REG,IUPUI,Summit,W,91,54,,2,0,W 2,Crisler Arena,5,,IUPUI on November 12 9:00 PM,2022-05-10 21:00:00,MICH.,,
+103,michigan,2012-11-13,REG,Cleveland State,Horizon,W,77,47,,3,0,W 3,Crisler Arena,5,,Cleveland State on November 13 8:00 PM,2022-05-10 20:00:00,MICH.,,
+104,michigan,2012-11-21,REG,Pittsburgh,Big East,W,67,62,,4,0,W 4,,4,,Pittsburgh on November 21 9:30 PM,2022-05-10 21:30:00,N.Y.,,
+105,michigan,2012-11-23,REG,Kansas State,Big 12,W,71,57,,5,0,W 5,Madison Square Garden (IV),4,,Kansas State on November 23 4:30 PM,2022-05-10 16:30:00,N.Y.,,
+106,michigan,2012-11-27,REG,NC State (18),ACC,W,79,72,,6,0,W 6,Crisler Arena,3,,North Carolina State on November 27 7:30 PM,2022-05-10 19:30:00,MICH.,,
+107,michigan,2012-12-01,REG,Bradley,MVC,W,74,66,,7,0,W 7,Carver Arena,3,,Bradley on December 1 3:00 PM,2022-05-10 16:00:00,ILL.,,
+108,michigan,2012-12-04,REG,Western Michigan,MAC,W,73,41,,8,0,W 8,Crisler Arena,3,,Western Michigan on December 4 8:30 PM,2022-05-10 20:30:00,MICH.,,
+109,michigan,2012-12-08,REG,Arkansas,SEC,W,80,67,,9,0,W 9,Crisler Arena,3,,Arkansas on December 8 12:00 PM,2022-05-10 12:00:00,MICH.,,
+110,michigan,2012-12-11,REG,Binghamton,AEC,W,67,39,,10,0,W 10,Crisler Arena,3,,Binghamton on December 11 7:00 PM,2022-05-10 19:00:00,MICH.,,
+111,michigan,2012-12-15,REG,West Virginia,Big 12,W,81,66,,11,0,W 11,WVU Coliseum,3,,West Virginia on December 15 8:00 PM,2022-05-10 20:00:00,N.Y.,,
+112,michigan,2012-12-20,REG,Eastern Michigan,MAC,W,93,54,,12,0,W 12,Crisler Arena,2,,Eastern Michigan on December 20 8:30 PM,2022-05-10 20:30:00,MICH.,,
+113,michigan,2012-12-29,REG,Central Michigan,MAC,W,88,73,,13,0,W 13,Crisler Arena,2,,Central Michigan on December 29 7:00 PM,2022-05-10 19:00:00,MICH.,,
+114,michigan,2013-01-03,REG,Northwestern,Big Ten,W,94,66,,14,0,W 14,Welsh-Ryan Arena,2,,Northwestern on January 3 6:00 PM,2022-05-10 19:00:00,ILL.,,
+115,michigan,2013-01-06,REG,Iowa,Big Ten,W,95,67,,15,0,W 15,Crisler Arena,2,,Iowa on January 6 12:00 PM,2022-05-10 12:00:00,MICH.,,
+116,michigan,2013-01-09,REG,Nebraska,Big Ten,W,62,47,,16,0,W 16,Crisler Arena,2,,Nebraska on January 9 7:00 PM,2022-05-10 19:00:00,MICH.,,
+117,michigan,2013-01-13,REG,Ohio State (15),Big Ten,L,53,56,,16,1,L 1,Value City Arena,2,,Ohio State on January 13 1:30 PM,2022-05-10 13:30:00,OHIO,,
+118,michigan,2013-01-17,REG,Minnesota (9),Big Ten,W,83,75,,17,1,W 1,Williams Arena,5,,Minnesota on January 17 6:00 PM,2022-05-10 19:00:00,MINN.,,
+119,michigan,2013-01-24,REG,Purdue,Big Ten,W,68,53,,18,1,W 2,Crisler Arena,2,,Purdue on January 24 7:00 PM,2022-05-10 19:00:00,MICH.,,
+120,michigan,2013-01-27,REG,Illinois,Big Ten,W,74,60,,19,1,W 3,Assembly Hall,2,,Illinois on January 27 5:00 PM,2022-05-10 18:00:00,ILL.,,
+121,michigan,2013-01-30,REG,Northwestern,Big Ten,W,68,46,,20,1,W 4,Crisler Arena,1,,Northwestern on January 30 6:30 PM,2022-05-10 18:30:00,MICH.,,
+122,michigan,2013-02-02,REG,Indiana (3),Big Ten,L,73,81,,20,2,L 1,Assembly Hall,1,,Indiana on February 2 9:00 PM,2022-05-10 21:00:00,IND.,,
+123,michigan,2013-02-05,REG,Ohio State (10),Big Ten,W,76,74,OT,21,2,W 1,Crisler Arena,3,,Ohio State on February 5 9:00 PM,2022-05-10 21:00:00,MICH.,,
+124,michigan,2013-02-09,REG,Wisconsin,Big Ten,L,62,65,OT,21,3,L 1,Kohl Center,3,,Wisconsin on February 9 11:00 AM,2022-05-10 12:00:00,WIS.,,
+125,michigan,2013-02-12,REG,Michigan State (8),Big Ten,L,52,75,,21,4,L 2,Breslin Events Center,4,,Michigan State on February 12 9:00 PM,2022-05-10 21:00:00,MICH.,,
+126,michigan,2013-02-17,REG,Penn State,Big Ten,W,79,71,,22,4,W 1,Crisler Arena,4,,Penn State on February 17 12:00 PM,2022-05-10 12:00:00,MICH.,,
+127,michigan,2013-02-24,REG,Illinois,Big Ten,W,71,58,,23,4,W 2,Crisler Arena,7,,Illinois on February 24 1:00 PM,2022-05-10 13:00:00,MICH.,,
+128,michigan,2013-02-27,REG,Penn State,Big Ten,L,78,84,,23,5,L 1,Bryce Jordan Center,4,,Penn State on February 27 6:30 PM,2022-05-10 18:30:00,PA.,,
+129,michigan,2013-03-03,REG,Michigan State (9),Big Ten,W,58,57,,24,5,W 1,Crisler Arena,4,,Michigan State on March 3 4:00 PM,2022-05-10 16:00:00,MICH.,,
+130,michigan,2013-03-06,REG,Purdue,Big Ten,W,80,75,,25,5,W 2,Mackey Arena,7,,Purdue on March 6 7:00 PM,2022-05-10 19:00:00,IND.,,
+131,michigan,2013-03-10,REG,Indiana (2),Big Ten,L,71,72,,25,6,L 1,Crisler Arena,7,,Indiana on March 10 4:00 PM,2022-05-10 16:00:00,MICH.,,
+132,michigan,2013-03-14,CTOURN,Penn State,Big Ten,W,83,66,,26,6,W 1,,6,,Penn State (#12) on March 14 1:30 PM,2022-05-10 14:30:00,ILL.,,
+133,michigan,2013-03-15,CTOURN,Wisconsin (22),Big Ten,L,59,68,,26,7,L 1,United Center,6,,Wisconsin (#4) on March 15 1:30 PM,2022-05-10 14:30:00,ILL.,,
+134,michigan,2013-03-21,NCAA,South Dakota State,Summit,W,71,56,,27,7,W 1,Palace of Auburn Hills,,,South Dakota State (#13) on March 21 7:15 PM,2022-05-10 19:15:00,MICH.,,
+135,michigan,2013-03-23,NCAA,Virginia Commonwealth,A-10,W,78,53,,28,7,W 2,Palace of Auburn Hills,,,VCU (#5) on March 23 12:15 PM,2022-05-10 12:15:00,MICH.,,
+136,michigan,2013-03-29,NCAA,Kansas (3),Big 12,W,87,85,OT,29,7,W 3,Cowboy's Stadium,,,Kansas (#1) on March 29 6:37 PM,2022-05-10 19:37:00,TEXAS,,
+137,michigan,2013-03-31,NCAA,Florida (14),SEC,W,79,59,,30,7,W 4,Cowboy's Stadium,,,Florida (#3) on March 31 1:20 PM,2022-05-10 14:20:00,TEXAS,,
+138,michigan,2013-04-06,NCAA,Syracuse (16),Big East,W,61,56,,31,7,W 5,Georgia Dome,,,Syracuse (#4) on April 6 9:21 PM,2022-05-10 21:21:00,GA.,,
+139,michigan,2013-04-08,NCAA,Louisville (2),Big East,L,76,82,,31,8,L 1,Georgia Dome,,,Louisville (#1) on April 8 9:23 PM,2022-05-10 21:23:00,GA.,,
+140,michigan,2013-11-08,REG,Massachusetts-Lowell,AEC,W,69,42,,1,0,W 1,Crisler Arena,7,,UMass-Lowell on November 8 7:00 PM,2022-05-10 19:00:00,MICH.,,
+141,michigan,2013-11-12,REG,South Carolina State,MEAC,W,93,59,,2,0,W 2,Crisler Arena,7,,South Carolina State on November 12 7:00 PM,2022-05-10 19:00:00,MICH.,,
+142,michigan,2013-11-17,REG,Iowa State,Big 12,L,70,77,,2,1,L 1,James H. Hilton Coliseum ,7,,Iowa State on November 17 4:00 PM,2022-05-10 17:00:00,IOWA,,
+143,michigan,2013-11-21,REG,Long Beach State,Big West,W,85,61,,3,1,W 1,Roberto Clemente Coliseum,15,,Long Beach State on November 21 6:00 PM,2022-05-10 18:00:00,PUERTO RICO,,
+144,michigan,2013-11-22,REG,Florida State,ACC,W,82,80,OT,4,1,W 2,Roberto Clemente Coliseum,15,,Florida State on November 22 6:00 PM,2022-05-10 18:00:00,PUERTO RICO,,
+145,michigan,2013-11-24,REG,Charlotte,CUSA,L,61,63,,4,2,L 1,Roberto Clemente Coliseum,15,,Charlotte on November 24 7:30 PM,2022-05-10 19:30:00,PUERTO RICO,,
+146,michigan,2013-11-29,REG,Coppin State,MEAC,W,87,45,,5,2,W 1,Crisler Arena,22,,Coppin State on November 29 3:00 PM,2022-05-10 15:00:00,MICH.,,
+147,michigan,2013-12-03,REG,Duke (10),ACC,L,69,79,,5,3,L 1,Cameron Indoor Stadium,22,,Duke on December 3 9:20 PM,2022-05-10 21:20:00,N.C.,,
+148,michigan,2013-12-07,REG,Houston Baptist,Southland,W,107,53,,6,3,W 1,Crisler Arena,22,,Houston Baptist on December 7 12:00 PM,2022-05-10 12:00:00,MICH.,,
+149,michigan,2013-12-14,REG,Arizona (1),Pac-12,L,70,72,,6,4,L 1,Crisler Arena,-,,Arizona on December 14 12:00 PM,2022-05-10 12:00:00,MICH.,,
+150,michigan,2013-12-21,REG,Stanford,Pac-12,W,68,65,,7,4,W 1,Barclays Center,-,,Stanford on December 21 8:30 PM,2022-05-10 20:30:00,N.Y.,,
+151,michigan,2013-12-28,REG,Holy Cross,Patriot,W,88,66,,8,4,W 2,Crisler Arena,-,,Holy Cross on December 28 6:30 PM,2022-05-10 18:30:00,MICH.,,
+152,michigan,2014-01-02,REG,Minnesota,Big Ten,W,63,60,,9,4,W 3,Williams Arena,-,,Minnesota on January 2 6:00 PM,2022-05-10 19:00:00,MINN.,,
+153,michigan,2014-01-05,REG,Northwestern,Big Ten,W,74,51,,10,4,W 4,Crisler Arena,-,,Northwestern on January 5 12:00 PM,2022-05-10 12:00:00,MICH.,,
+154,michigan,2014-01-09,REG,Nebraska,Big Ten,W,71,70,,11,4,W 5,Pinnacle Bank Arena,-,,Nebraska on January 9 8:00 PM,2022-05-10 21:00:00,NEB.,,
+155,michigan,2014-01-14,REG,Penn State,Big Ten,W,80,67,,12,4,W 6,Crisler Arena,-,,Penn State on January 14 8:00 PM,2022-05-10 20:00:00,MICH.,,
+156,michigan,2014-01-18,REG,Wisconsin (3),Big Ten,W,77,70,,13,4,W 7,Kohl Center,-,,Wisconsin on January 18 5:00 PM,2022-05-10 18:00:00,WIS.,,
+157,michigan,2014-01-22,REG,Iowa (10),Big Ten,W,75,67,,14,4,W 8,Crisler Arena,21,,Iowa on January 22 7:00 PM,2022-05-10 19:00:00,MICH.,,
+158,michigan,2014-01-25,REG,Michigan State (3),Big Ten,W,80,75,,15,4,W 9,Breslin Events Center,21,,Michigan State on January 25 7:00 PM,2022-05-10 19:00:00,MICH.,,
+159,michigan,2014-01-30,REG,Purdue,Big Ten,W,75,66,,16,4,W 10,Crisler Arena,10,,Purdue on January 30 9:00 PM,2022-05-10 21:00:00,MICH.,,
+160,michigan,2014-02-02,REG,Indiana,Big Ten,L,52,63,,16,5,L 1,Assembly Hall,10,,Indiana on February 2 1:00 PM,2022-05-10 13:00:00,IND.,,
+161,michigan,2014-02-05,REG,Nebraska,Big Ten,W,79,50,,17,5,W 1,Crisler Arena,10,,Nebraska on February 5 6:30 PM,2022-05-10 18:30:00,MICH.,,
+162,michigan,2014-02-08,REG,Iowa (17),Big Ten,L,67,85,,17,6,L 1,Carver-Hawkeye Arena,10,,Iowa on February 8 1:00 PM,2022-05-10 14:00:00,IOWA,,
+163,michigan,2014-02-11,REG,Ohio State (22),Big Ten,W,70,60,,18,6,W 1,Value City Arena,15,,Ohio State on February 11 9:00 PM,2022-05-10 21:00:00,OHIO,,
+164,michigan,2014-02-16,REG,Wisconsin (21),Big Ten,L,62,75,,18,7,L 1,Crisler Arena,15,,Wisconsin on February 16 1:00 PM,2022-05-10 13:00:00,MICH.,,
+165,michigan,2014-02-23,REG,Michigan State (13),Big Ten,W,79,70,,19,7,W 1,Crisler Arena,20,,Michigan State on February 23 12:00 PM,2022-05-10 12:00:00,MICH.,,
+166,michigan,2014-02-26,REG,Purdue,Big Ten,W,77,76,OT,20,7,W 2,Mackey Arena,16,,Purdue on February 26 7:00 PM,2022-05-10 19:00:00,IND.,,
+167,michigan,2014-03-01,REG,Minnesota,Big Ten,W,66,56,,21,7,W 3,Crisler Arena,16,,Minnesota on March 1 6:00 PM,2022-05-10 18:00:00,MICH.,,
+168,michigan,2014-03-04,REG,Illinois,Big Ten,W,84,53,,22,7,W 4,Assembly Hall,12,,Illinois on March 4 6:00 PM,2022-05-10 19:00:00,ILL.,,
+169,michigan,2014-03-08,REG,Indiana,Big Ten,W,84,80,,23,7,W 5,Crisler Arena,12,,Indiana on March 8 6:00 PM,2022-05-10 18:00:00,MICH.,,
+170,michigan,2014-03-14,CTOURN,Illinois,Big Ten,W,64,63,,24,7,W 6,Conseco Fieldhouse,8,,Illinois (#9) on March 14 12:00 PM,2022-05-10 12:00:00,IND.,,
+171,michigan,2014-03-15,CTOURN,Ohio State (24),Big Ten,W,72,69,,25,7,W 7,,8,,Ohio State (#5) on March 15 1:40 PM,2022-05-10 13:40:00,IND.,,
+172,michigan,2014-03-16,CTOURN,Michigan State (22),Big Ten,L,55,69,,25,8,L 1,Conseco Fieldhouse,8,,Michigan State (#3) on March 16 3:30 PM,2022-05-10 15:30:00,IND.,,
+173,michigan,2014-03-20,NCAA,Wofford,Southern,W,57,40,,26,8,W 1,Bradley Center,,,Wofford (#15) on March 20 6:10 PM,2022-05-10 19:10:00,WIS.,,
+174,michigan,2014-03-22,NCAA,Texas,Big 12,W,79,65,,27,8,W 2,Bradley Center,,,Texas (#7) on March 22 4:15 PM,2022-05-10 17:15:00,WIS.,,
+175,michigan,2014-03-28,NCAA,Tennessee,SEC,W,73,71,,28,8,W 3,Lucas Oil Stadium,,,Tennessee (#11) on March 28 7:15 PM,2022-05-10 19:15:00,IND.,,
+176,michigan,2014-03-30,NCAA,Kentucky,SEC,L,72,75,,28,9,L 1,Lucas Oil Stadium,,,Kentucky (#8) on March 30 5:05 PM,2022-05-10 17:05:00,IND.,,
+177,michigan,2014-11-15,REG,Hillsdale,,W,92,68,,1,0,W 1,Crisler Arena,24,2:00p,Hillsdale College on November 15 2:00 PM,2022-05-10 14:00:00,MICH.,,
+178,michigan,2014-11-17,REG,Bucknell,Patriot,W,77,53,,2,0,W 2,Crisler Arena,24,8:00p,Bucknell on November 17 8:00 PM,2022-05-10 20:00:00,MICH.,,
+179,michigan,2014-11-20,REG,Detroit Mercy,Horizon,W,71,62,,3,0,W 3,Crisler Arena,24,6:00p,Detroit on November 20 6:00 PM,2022-05-10 18:00:00,MICH.,,
+180,michigan,2014-11-24,REG,Oregon,Pac-12,W,70,63,,4,0,W 4,Barclays Center,19,9:45p,Oregon on November 24 9:00 PM,2022-05-10 21:00:00,N.Y.,,
+181,michigan,2014-11-25,REG,Villanova (12),Big East,L,55,60,,4,1,L 1,Barclays Center,19,10:15p,Villanova on November 25 10:00 PM,2022-05-10 22:00:00,N.Y.,,
+182,michigan,2014-11-29,REG,Nicholls State,Southland,W,91,62,,5,1,W 1,Crisler Arena,19,4:00p,Nicholls State on November 29 4:00 PM,2022-05-10 16:00:00,MICH.,,
+183,michigan,2014-12-02,REG,Syracuse,ACC,W,68,65,,6,1,W 2,Crisler Arena,17,7:30p,Syracuse on December 2 7:30 PM,2022-05-10 19:30:00,MICH.,,
+184,michigan,2014-12-06,REG,NJIT,Ind,L,70,72,,6,2,L 1,Crisler Arena,17,12:00p,NJIT on December 6 12:00 PM,2022-05-10 12:00:00,MICH.,,
+185,michigan,2014-12-09,REG,Eastern Michigan,MAC,L,42,45,,6,3,L 2,Crisler Arena,-,9:00p,Eastern Michigan on December 9 9:00 PM,2022-05-10 21:00:00,MICH.,,
+186,michigan,2014-12-13,REG,Arizona (3),Pac-12,L,53,80,,6,4,L 3,McKale Center,-,5:15p,Arizona on December 13 3:25 PM,2022-05-10 17:25:00,ARIZ.,,
+187,michigan,2014-12-20,REG,Southern Methodist,AAC,L,51,62,,6,5,L 4,Crisler Arena,-,12:00p,SMU on December 20 12:00 PM,2022-05-10 12:00:00,MICH.,,
+188,michigan,2014-12-22,REG,Coppin State,MEAC,W,72,56,,7,5,W 1,Crisler Arena,-,8:00p,Coppin State on December 22 8:00 PM,2022-05-10 20:00:00,MICH.,,
+189,michigan,2014-12-30,REG,Illinois,Big Ten,W,73,65,OT,8,5,W 2,Crisler Arena,-,3:00p,Illinois on December 30 3:00 PM,2022-05-10 15:00:00,MICH.,,
+190,michigan,2015-01-03,REG,Purdue,Big Ten,L,51,64,,8,6,L 1,Mackey Arena,-,2:15p,Purdue on January 3 2:15 PM,2022-05-10 14:15:00,IND.,,
+191,michigan,2015-01-06,REG,Penn State,Big Ten,W,73,64,,9,6,W 1,Bryce Jordan Center,-,7:00p,Penn State on January 6 7:00 PM,2022-05-10 19:00:00,PA.,,
+192,michigan,2015-01-10,REG,Minnesota,Big Ten,W,62,57,,10,6,W 2,Crisler Arena,-,1:00p,Minnesota on January 10 1:00 PM,2022-05-10 13:00:00,MICH.,,
+193,michigan,2015-01-13,REG,Ohio State,Big Ten,L,52,71,,10,7,L 1,Value City Arena,-,7:00p,Ohio State on January 13 7:00 PM,2022-05-10 19:00:00,OHIO,,
+194,michigan,2015-01-17,REG,Northwestern,Big Ten,W,56,54,,11,7,W 1,Crisler Arena,-,8:15p,Northwestern on January 17 8:15 PM,2022-05-10 20:15:00,MICH.,,
+195,michigan,2015-01-20,REG,Rutgers,Big Ten,W,54,50,,12,7,W 2,Louis Brown Athletic Center,-,6:30p,Rutgers on January 20 6:30 PM,2022-05-10 18:30:00,N.J.,,
+196,michigan,2015-01-24,REG,Wisconsin (6),Big Ten,L,64,69,OT,12,8,L 1,Crisler Arena,-,7:00p,Wisconsin on January 24 7:00 PM,2022-05-10 19:00:00,MICH.,,
+197,michigan,2015-01-27,REG,Nebraska,Big Ten,W,58,44,,13,8,W 1,Crisler Arena,-,7:00p,Nebraska on January 27 7:00 PM,2022-05-10 19:00:00,MICH.,,
+198,michigan,2015-02-01,REG,Michigan State,Big Ten,L,66,76,OT,13,9,L 1,Breslin Events Center,-,1:00p,Michigan State on February 1 1:00 PM,2022-05-10 13:00:00,MICH.,,
+199,michigan,2015-02-05,REG,Iowa,Big Ten,L,54,72,,13,10,L 2,Crisler Arena,-,7:00p,Iowa on February 5 7:00 PM,2022-05-10 19:00:00,MICH.,,
+200,michigan,2015-02-08,REG,Indiana,Big Ten,L,67,70,,13,11,L 3,Assembly Hall,-,1:00p,Indiana on February 8 1:00 PM,2022-05-10 13:00:00,IND.,,
+201,michigan,2015-02-12,REG,Illinois,Big Ten,L,52,64,OT,13,12,L 4,State Farm Center,-,9:00p,Illinois on February 12 8:00 PM,2022-05-10 21:00:00,ILL.,,
+202,michigan,2015-02-17,REG,Michigan State,Big Ten,L,67,80,,13,13,L 5,Crisler Arena,-,9:00p,Michigan State on February 17 9:00 PM,2022-05-10 21:00:00,MICH.,,
+203,michigan,2015-02-22,REG,Ohio State (24),Big Ten,W,64,57,,14,13,W 1,Crisler Arena,-,1:00p,Ohio State on February 22 1:00 PM,2022-05-10 13:00:00,MICH.,,
+204,michigan,2015-02-28,REG,Maryland (14),Big Ten,L,56,66,,14,14,L 1,Xfinity Center,-,12:00p,Maryland on February 28 12:00 PM,2022-05-10 12:00:00,MD.,,
+205,michigan,2015-03-03,REG,Northwestern,Big Ten,L,78,82,2OT,14,15,L 2,Welsh-Ryan Arena,-,9:00p,Northwestern on March 3 8:00 PM,2022-05-10 21:00:00,ILL.,,
+206,michigan,2015-03-07,REG,Rutgers,Big Ten,W,79,69,,15,15,W 1,Crisler Arena,-,2:15p,Rutgers on March 7 2:15 PM,2022-05-10 14:15:00,MICH.,,
+207,michigan,2015-03-12,CTOURN,Illinois,Big Ten,W,73,55,,16,15,W 2,United Center,-,12:00p,Illinois (#8) on March 12 11:00 AM,2022-05-10 12:00:00,ILL.,,
+208,michigan,2015-03-13,CTOURN,Wisconsin (6),Big Ten,L,60,71,,16,16,L 1,United Center,-,12:00p,Wisconsin (#1) on March 13 11:00 AM,2022-05-10 12:00:00,ILL.,,
+209,michigan,2015-11-13,REG,Northern Michigan,,W,70,44,,1,0,W 1,Crisler Arena,25,7:00p,Northern Michigan on November 13 7:00 PM,2022-05-10 19:00:00,MICH.,,
+210,michigan,2015-11-16,REG,Elon,CAA,W,88,68,,2,0,W 2,Crisler Arena,24,7:00p,Elon on November 16 7:00 PM,2022-05-10 19:00:00,MICH.,,
+211,michigan,2015-11-20,REG,Xavier,Big East,L,70,86,,2,1,L 1,Crisler Arena,24,9:00p,Xavier on November 20 9:00 PM,2022-05-10 21:00:00,MICH.,,
+212,michigan,2015-11-25,REG,Connecticut (18),AAC,L,60,74,,2,2,L 2,Imperial Arena at Atlantis Resort,-,9:30p,Connecticut on November 25 9:30 PM,2022-05-10 21:30:00,BAHAMAS,,
+213,michigan,2015-11-26,REG,Charlotte,CUSA,W,102,47,,3,2,W 1,Imperial Arena at Atlantis Resort,-,9:30p,Charlotte on November 26 9:30 PM,2022-05-10 21:30:00,BAHAMAS,,
+214,michigan,2015-11-27,REG,Texas,Big 12,W,78,72,,4,2,W 2,Imperial Arena at Atlantis Resort,-,7:00p,Texas on November 27 7:00 PM,2022-05-10 19:00:00,BAHAMAS,,
+215,michigan,2015-12-01,REG,NC State,ACC,W,66,59,,5,2,W 3,PNC Arena,-,7:00p,North Carolina State on December 1 7:00 PM,2022-05-10 19:00:00,N.C.,,
+216,michigan,2015-12-05,REG,Houston Baptist,Southland,W,82,57,,6,2,W 4,Crisler Arena,-,2:00p,Houston Baptist on December 5 2:00 PM,2022-05-10 14:00:00,MICH.,,
+217,michigan,2015-12-08,REG,Southern Methodist (19),AAC,L,58,82,,6,3,L 1,Moody Coliseum ,-,9:00p,SMU on December 8 8:00 PM,2022-05-10 21:00:00,TEXAS,,
+218,michigan,2015-12-12,REG,Delaware State,MEAC,W,80,33,,7,3,W 1,Crisler Arena,-,12:00p,Delaware State on December 12 12:00 PM,2022-05-10 12:00:00,MICH.,,
+219,michigan,2015-12-15,REG,Northern Kentucky,Horizon,W,77,62,,8,3,W 2,Crisler Arena,-,7:00p,Northern Kentucky on December 15 7:00 PM,2022-05-10 19:00:00,MICH.,,
+220,michigan,2015-12-19,REG,Youngstown State,Horizon,W,105,46,,9,3,W 3,Crisler Arena,-,6:00p,Youngstown State on December 19 6:00 PM,2022-05-10 18:00:00,MICH.,,
+221,michigan,2015-12-23,REG,Bryant,NEC,W,96,60,,10,3,W 4,Crisler Arena,-,7:00p,Bryant on December 23 7:00 PM,2022-05-10 19:00:00,MICH.,,
+222,michigan,2015-12-30,REG,Illinois,Big Ten,W,78,68,,11,3,W 5,State Farm Center,-,3:00p,Illinois on December 30 2:00 PM,2022-05-10 15:00:00,ILL.,,
+223,michigan,2016-01-02,REG,Penn State,Big Ten,W,79,56,,12,3,W 6,Crisler Arena,-,12:00p,Penn State on January 2 12:00 PM,2022-05-10 12:00:00,MICH.,,
+224,michigan,2016-01-07,REG,Purdue (20),Big Ten,L,70,87,,12,4,L 1,Mackey Arena,-,7:00p,Purdue on January 7 7:00 PM,2022-05-10 19:00:00,IND.,,
+225,michigan,2016-01-12,REG,Maryland (3),Big Ten,W,70,67,,13,4,W 1,Crisler Arena,-,9:00p,Maryland on January 12 9:00 PM,2022-05-10 21:00:00,MICH.,,
+226,michigan,2016-01-17,REG,Iowa (16),Big Ten,L,71,82,,13,5,L 1,Carver-Hawkeye Arena,-,4:30p,Iowa on January 17 3:30 PM,2022-05-10 16:30:00,IOWA,,
+227,michigan,2016-01-20,REG,Minnesota,Big Ten,W,74,69,,14,5,W 1,Crisler Arena,-,8:30p,Minnesota on January 20 8:30 PM,2022-05-10 20:30:00,MICH.,,
+228,michigan,2016-01-23,REG,Nebraska,Big Ten,W,81,68,,15,5,W 2,Pinnacle Bank Arena,-,2:00p,Nebraska on January 23 1:00 PM,2022-05-10 14:00:00,NEB.,,
+229,michigan,2016-01-27,REG,Rutgers,Big Ten,W,68,57,,16,5,W 3,Crisler Arena,-,7:00p,Rutgers on January 27 7:00 PM,2022-05-10 19:00:00,MICH.,,
+230,michigan,2016-01-30,REG,Penn State,Big Ten,W,79,72,,17,5,W 4,Madison Square Garden (IV),-,12:00p,Penn State on January 30 12:00 PM,2022-05-10 12:00:00,N.Y.,,
+231,michigan,2016-02-02,REG,Indiana (22),Big Ten,L,67,80,,17,6,L 1,Crisler Arena,-,9:00p,Indiana on February 2 9:00 PM,2022-05-10 21:00:00,MICH.,,
+232,michigan,2016-02-06,REG,Michigan State (10),Big Ten,L,73,89,,17,7,L 2,Crisler Arena,-,2:00p,Michigan State on February 6 2:00 PM,2022-05-10 14:00:00,MICH.,,
+233,michigan,2016-02-10,REG,Minnesota,Big Ten,W,82,74,,18,7,W 1,Williams Arena,-,9:00p,Minnesota on February 10 8:00 PM,2022-05-10 21:00:00,MINN.,,
+234,michigan,2016-02-13,REG,Purdue (18),Big Ten,W,61,56,,19,7,W 2,Crisler Arena,-,2:00p,Purdue on February 13 2:00 PM,2022-05-10 14:00:00,MICH.,,
+235,michigan,2016-02-16,REG,Ohio State,Big Ten,L,66,76,,19,8,L 1,Value City Arena,-,7:00p,Ohio State on February 16 7:00 PM,2022-05-10 19:00:00,OHIO,,
+236,michigan,2016-02-21,REG,Maryland (6),Big Ten,L,82,86,,19,9,L 2,Xfinity Center,-,1:00p,Maryland on February 21 1:00 PM,2022-05-10 13:00:00,MD.,,
+237,michigan,2016-02-24,REG,Northwestern,Big Ten,W,72,63,,20,9,W 1,Crisler Arena,-,7:00p,Northwestern on February 24 7:00 PM,2022-05-10 19:00:00,MICH.,,
+238,michigan,2016-02-28,REG,Wisconsin,Big Ten,L,57,68,,20,10,L 1,Kohl Center,-,6:00p,Wisconsin on February 28 5:00 PM,2022-05-10 18:00:00,WIS.,,
+239,michigan,2016-03-05,REG,Iowa (16),Big Ten,L,61,71,,20,11,L 2,Crisler Arena,-,8:00p,Iowa on March 5 8:00 PM,2022-05-10 20:00:00,MICH.,,
+240,michigan,2016-03-10,CTOURN,Northwestern,Big Ten,W,72,70,OT,21,11,W 1,Bankers Life Fieldhouse,-,12:00p,Northwestern (#9) on March 10 12:00 PM,2022-05-10 12:00:00,IND.,,
+241,michigan,2016-03-11,CTOURN,Indiana (10),Big Ten,W,72,69,,22,11,W 2,Bankers Life Fieldhouse,-,12:00p,Indiana (#1) on March 11 12:00 PM,2022-05-10 12:00:00,IND.,,
+242,michigan,2016-03-12,CTOURN,Purdue (13),Big Ten,L,59,76,,22,12,L 1,Bankers Life Fieldhouse,-,1:00p,Purdue (#4) on March 12 1:00 PM,2022-05-10 13:00:00,IND.,,
+243,michigan,2016-03-16,NCAA,Tulsa,AAC,W,67,62,,23,12,W 1,University of Dayton Arena,,9:10p,Tulsa (#11) on March 16 9:10 PM,2022-05-10 21:10:00,OHIO,,
+244,michigan,2016-03-18,NCAA,Notre Dame,ACC,L,63,70,,23,13,L 1,Barclays Center,,10:12p,Notre Dame (#6) on March 18 9:40 PM,2022-05-10 21:40:00,N.Y.,,
+245,michigan,2016-11-11,REG,Howard,MEAC,W,76,58,,1,0,W 1,Crisler Arena,-,9:00p,Howard on November 11 9:00 PM,2022-05-10 21:00:00,MICH.,,
+246,michigan,2016-11-13,REG,IUPUI,Summit,W,77,65,,2,0,W 2,Crisler Arena,-,12:00p,IUPUI on November 13 12:00 PM,2022-05-10 12:00:00,MICH.,,
+247,michigan,2016-11-17,REG,Marquette,Big East,W,79,61,,3,0,W 3,Madison Square Garden (IV),-,9:30p,Marquette on November 17 9:30 PM,2022-05-10 21:30:00,N.Y.,,
+248,michigan,2016-11-18,REG,Southern Methodist,AAC,W,76,54,,4,0,W 4,Madison Square Garden (IV),-,7:00p,SMU on November 18 7:00 PM,2022-05-10 19:00:00,N.Y.,,
+249,michigan,2016-11-23,REG,South Carolina,SEC,L,46,61,,4,1,L 1,The Colonial Life Arena,25,5:00p,South Carolina on November 23 5:00 PM,2022-05-10 17:00:00,S.C.,,
+250,michigan,2016-11-26,REG,Mount St. Mary's,NEC,W,64,47,,5,1,W 1,Crisler Arena,25,7:00p,Mount St. Mary's on November 26 7:00 PM,2022-05-10 19:00:00,MICH.,,
+251,michigan,2016-11-30,REG,Virginia Tech,ACC,L,70,73,,5,2,L 1,Crisler Arena,-,7:15p,Virginia Tech on November 30 7:00 PM,2022-05-10 19:00:00,MICH.,,
+252,michigan,2016-12-03,REG,Kennesaw State,A-Sun,W,82,55,,6,2,W 1,Crisler Arena,-,1:00p,Kennesaw State on December 3 1:00 PM,2022-05-10 13:00:00,MICH.,,
+253,michigan,2016-12-06,REG,Texas,Big 12,W,53,50,,7,2,W 2,Crisler Arena,-,9:00p,Texas on December 6 9:00 PM,2022-05-10 21:00:00,MICH.,,
+254,michigan,2016-12-10,REG,UCLA (2),Pac-12,L,84,102,,7,3,L 1,Pauley Pavilion,-,8:00p,UCLA on December 10 5:00 PM,2022-05-10 20:00:00,CALIF.,,
+255,michigan,2016-12-13,REG,Central Arkansas,Southland,W,97,53,,8,3,W 1,Crisler Arena,-,9:00p,Central Arkansas on December 13 9:00 PM,2022-05-10 21:00:00,MICH.,,
+256,michigan,2016-12-17,REG,Maryland-Eastern Shore,MEAC,W,98,49,,9,3,W 2,Crisler Arena,-,3:00p,Maryland Eastern Shore on December 17 3:00 PM,2022-05-10 15:00:00,MICH.,,
+257,michigan,2016-12-22,REG,Furman,Southern,W,68,62,,10,3,W 3,Crisler Arena,-,7:00p,Furman on December 22 7:00 PM,2022-05-10 19:00:00,MICH.,,
+258,michigan,2017-01-01,REG,Iowa,Big Ten,L,83,86,OT,10,4,L 1,Carver-Hawkeye Arena,-,2:15p,Iowa on January 1 1:15 PM,2022-05-10 14:15:00,IOWA,,
+259,michigan,2017-01-04,REG,Penn State,Big Ten,W,72,69,,11,4,W 1,Crisler Arena,-,8:30p,Penn State on January 4 8:30 PM,2022-05-10 20:30:00,MICH.,,
+260,michigan,2017-01-07,REG,Maryland,Big Ten,L,70,77,,11,5,L 1,Crisler Arena,-,3:15p,Maryland on January 7 3:15 PM,2022-05-10 15:15:00,MICH.,,
+261,michigan,2017-01-11,REG,Illinois,Big Ten,L,69,85,,11,6,L 2,State Farm Center,-,9:00p,Illinois on January 11 8:00 PM,2022-05-10 21:00:00,ILL.,,
+262,michigan,2017-01-14,REG,Nebraska,Big Ten,W,91,85,,12,6,W 1,Crisler Arena,-,2:00p,Nebraska on January 14 2:00 PM,2022-05-10 14:00:00,MICH.,,
+263,michigan,2017-01-17,REG,Wisconsin (17),Big Ten,L,64,68,,12,7,L 1,Kohl Center,-,9:00p,Wisconsin on January 17 8:00 PM,2022-05-10 21:00:00,WIS.,,
+264,michigan,2017-01-21,REG,Illinois,Big Ten,W,66,57,,13,7,W 1,Crisler Arena,-,2:15p,Illinois on January 21 2:15 PM,2022-05-10 14:15:00,MICH.,,
+265,michigan,2017-01-26,REG,Indiana,Big Ten,W,90,60,,14,7,W 2,Crisler Arena,-,9:00p,Indiana on January 26 9:00 PM,2022-05-10 21:00:00,MICH.,,
+266,michigan,2017-01-29,REG,Michigan State,Big Ten,L,62,70,,14,8,L 1,Breslin Events Center,-,1:00p,Michigan State on January 29 1:00 PM,2022-05-10 13:00:00,MICH.,,
+267,michigan,2017-02-04,REG,Ohio State,Big Ten,L,66,70,,14,9,L 2,Crisler Arena,-,6:00p,Ohio State on February 4 6:00 PM,2022-05-10 18:00:00,MICH.,,
+268,michigan,2017-02-07,REG,Michigan State,Big Ten,W,86,57,,15,9,W 1,Crisler Arena,-,9:00p,Michigan State on February 7 9:00 PM,2022-05-10 21:00:00,MICH.,,
+269,michigan,2017-02-12,REG,Indiana,Big Ten,W,75,63,,16,9,W 2,Assembly Hall,-,1:00p,Indiana on February 12 1:00 PM,2022-05-10 13:00:00,IND.,,
+270,michigan,2017-02-16,REG,Wisconsin (11),Big Ten,W,64,58,,17,9,W 3,Crisler Arena,-,7:00p,Wisconsin on February 16 7:00 PM,2022-05-10 19:00:00,MICH.,,
+271,michigan,2017-02-19,REG,Minnesota,Big Ten,L,78,83,OT,17,10,L 1,Williams Arena,-,7:00p,Minnesota on February 19 6:00 PM,2022-05-10 19:00:00,MINN.,,
+272,michigan,2017-02-22,REG,Rutgers,Big Ten,W,68,64,,18,10,W 1,Louis Brown Athletic Center,-,6:30p,Rutgers on February 22 6:30 PM,2022-05-10 18:30:00,N.J.,,
+273,michigan,2017-02-25,REG,Purdue (14),Big Ten,W,82,70,,19,10,W 2,Crisler Arena,-,4:00p,Purdue on February 25 4:00 PM,2022-05-10 16:00:00,MICH.,,
+274,michigan,2017-03-01,REG,Northwestern,Big Ten,L,65,67,,19,11,L 1,Welsh-Ryan Arena,-,7:00p,Northwestern on March 1 6:00 PM,2022-05-10 19:00:00,ILL.,,
+275,michigan,2017-03-05,REG,Nebraska,Big Ten,W,93,57,,20,11,W 1,Pinnacle Bank Arena,-,8:00p,Nebraska on March 5 7:00 PM,2022-05-10 20:00:00,NEB.,,
+276,michigan,2017-03-09,CTOURN,Illinois,Big Ten,W,75,55,,21,11,W 2,Verizon Center,-,12:00p,Illinois (#9) on March 9 12:20 PM,2022-05-10 12:20:00,D.C.,,
+277,michigan,2017-03-10,CTOURN,Purdue (13),Big Ten,W,74,70,OT,22,11,W 3,Verizon Center,-,12:00p,Purdue (#1) on March 10 12:00 PM,2022-05-10 12:00:00,D.C.,,
+278,michigan,2017-03-11,CTOURN,Minnesota,Big Ten,W,84,77,,23,11,W 4,Verizon Center,-,1:00p,Minnesota (#4) on March 11 1:00 PM,2022-05-10 13:00:00,D.C.,,
+279,michigan,2017-03-12,CTOURN,Wisconsin (24),Big Ten,W,71,56,,24,11,W 5,Verizon Center,-,3:00p,Wisconsin (#2) on March 12 3:00 PM,2022-05-10 15:00:00,D.C.,,
+280,michigan,2017-03-17,NCAA,Oklahoma State,Big 12,W,92,91,,25,11,W 6,Bankers Life Fieldhouse,,12:15p,Oklahoma State (#10) on March 17 12:15 PM,2022-05-10 12:15:00,IND.,,
+281,michigan,2017-03-19,NCAA,Louisville (10),ACC,W,73,69,,26,11,W 7,Bankers Life Fieldhouse,,12:10p,Louisville (#2) on March 19 12:10 PM,2022-05-10 12:10:00,IND.,,
+282,michigan,2017-03-23,NCAA,Oregon (9),Pac-12,L,68,69,,26,12,L 1,Sprint Center,,7:09p,Oregon (#3) on March 23 6:09 PM,2022-05-10 19:09:00,MO.,,
+283,michigan,2017-11-11,REG,North Florida,A-Sun,W,86,66,,1,0,W 1,Crisler Arena,-,7:30p,North Florida on November 11 7:30 PM,2022-05-10 19:30:00,MICH.,,
+284,michigan,2017-11-13,REG,Central Michigan,MAC,W,72,65,,2,0,W 2,Crisler Arena,-,7:00p,Central Michigan on November 13 7:00 PM,2022-05-10 19:00:00,MICH.,,
+285,michigan,2017-11-16,REG,Southern Mississippi,CUSA,W,61,47,,3,0,W 3,Crisler Arena,-,7:00p,Southern Mississippi on November 16 7:00 PM,2022-05-10 19:00:00,MICH.,,
+286,michigan,2017-11-20,REG,Louisiana State,SEC,L,75,77,,3,1,L 1,Lahaina Civic Center,-,11:00p,LSU on November 20 6:30 PM HT,2022-05-10 19:30:00,HAWAI'I,,
+287,michigan,2017-11-21,REG,Chaminade,,W,102,64,,4,1,W 1,Lahaina Civic Center,-,8:00p,Chaminade on November 21 3:00 PM HT,2022-05-10 16:00:00,HAWAI'I,,
+288,michigan,2017-11-22,REG,Virginia Commonwealth,A-10,W,68,60,,5,1,W 2,Lahaina Civic Center,-,5:00p,VCU on November 22 Noon HT,2022-05-10 13:00:00,HAWAI'I,,
+289,michigan,2017-11-26,REG,UC Riverside,Big West,W,87,42,,6,1,W 3,Crisler Arena,-,4:00p,UC Riverside on November 26 4:00 PM,2022-05-10 16:00:00,MICH.,,
+290,michigan,2017-11-29,REG,North Carolina (13),ACC,L,71,86,,6,2,L 1,Dean Smith Center,-,7:30p,North Carolina on November 29 7:30 PM,2022-05-10 19:30:00,N.C.,,
+291,michigan,2017-12-02,REG,Indiana,Big Ten,W,69,55,,7,2,W 1,Crisler Arena,-,12:30p,Indiana on December 2 12:30 PM,2022-05-10 12:30:00,MICH.,,
+292,michigan,2017-12-04,REG,Ohio State,Big Ten,L,62,71,,7,3,L 1,Value City Arena,-,6:30p,Ohio State on December 4 6:30 PM,2022-05-10 18:30:00,OHIO,,
+293,michigan,2017-12-09,REG,UCLA,Pac-12,W,78,69,OT,8,3,W 1,Crisler Arena,-,12:00p,UCLA on December 9 Noon,2022-05-10 12:00:00,MICH.,,
+294,michigan,2017-12-12,REG,Texas,Big 12,W,59,52,,9,3,W 2,Frank Erwin Center,-,9:00p,Texas on December 12 8:00 PM CT,2022-05-10 21:00:00,TEXAS,,
+295,michigan,2017-12-16,REG,Detroit Mercy,Horizon,W,90,58,,10,3,W 3,Little Caesars Arena,-,12:00p,Detroit on December 16 Noon,2022-05-10 12:00:00,MICH. (LITTLE CAESARS ARENA),,
+296,michigan,2017-12-21,REG,Alabama A&M,SWAC,W,97,47,,11,3,W 4,Crisler Arena,-,9:00p,Alabama A&M on December 21 9:00 PM,2022-05-10 21:00:00,MICH.,,
+297,michigan,2017-12-30,REG,Jacksonville,A-Sun,W,76,51,,12,3,W 5,Crisler Arena,-,6:00p,Jacksonville on December 30 6:00 PM,2022-05-10 18:00:00,MICH.,,
+298,michigan,2018-01-02,REG,Iowa,Big Ten,W,75,68,,13,3,W 6,Carver-Hawkeye Arena,-,7:00p,Iowa on January 2 6:00 PM CT,2022-05-10 19:00:00,IOWA,,
+299,michigan,2018-01-06,REG,Illinois,Big Ten,W,79,69,,14,3,W 7,Crisler Arena,-,12:00p,Illinois on January 6 Noon,2022-05-10 12:00:00,MICH.,,
+300,michigan,2018-01-09,REG,Purdue (5),Big Ten,L,69,70,,14,4,L 1,Crisler Arena,-,9:00p,Purdue on January 9 9:00 PM,2022-05-10 21:00:00,MICH.,,
+301,michigan,2018-01-13,REG,Michigan State (4),Big Ten,W,82,72,,15,4,W 1,Breslin Events Center,-,12:00p,Michigan State on January 13 Noon,2022-05-10 12:00:00,MICH.,,
+302,michigan,2018-01-15,REG,Maryland,Big Ten,W,68,67,,16,4,W 2,Crisler Arena,23,6:30p,Maryland on January 15 6:30 PM,2022-05-10 18:30:00,MICH.,,
+303,michigan,2018-01-18,REG,Nebraska,Big Ten,L,52,72,,16,5,L 1,Pinnacle Bank Arena,23,9:00p,Nebraska on January 18 8:00 PM CT,2022-05-10 21:00:00,NEB.,,
+304,michigan,2018-01-21,REG,Rutgers,Big Ten,W,62,47,,17,5,W 1,Crisler Arena,23,12:00p,Rutgers on January 21 Noon,2022-05-10 12:00:00,MICH.,,
+305,michigan,2018-01-25,REG,Purdue (3),Big Ten,L,88,92,,17,6,L 1,Mackey Arena,25,7:00p,Purdue on January 25 7:00 PM,2022-05-10 19:00:00,IND.,,
+306,michigan,2018-01-29,REG,Northwestern,Big Ten,W,58,47,,18,6,W 1,Crisler Arena,24,7:00p,Northwestern on January 29 7:00 PM,2022-05-10 19:00:00,MICH.,,
+307,michigan,2018-02-03,REG,Minnesota,Big Ten,W,76,73,OT,19,6,W 2,Crisler Arena,24,2:30p,Minnesota on February 3 2:30 PM,2022-05-10 14:30:00,MICH.,,
+308,michigan,2018-02-06,REG,Northwestern,Big Ten,L,52,61,,19,7,L 1,Allstate Arena,20,7:00p,Northwestern on February 6 6:00 PM CT,2022-05-10 19:00:00,ILL.,,
+309,michigan,2018-02-11,REG,Wisconsin,Big Ten,W,83,72,,20,7,W 1,Kohl Center,20,1:00p,Wisconsin on February 11 Noon CT,2022-05-10 13:00:00,WIS.,,
+310,michigan,2018-02-14,REG,Iowa,Big Ten,W,74,59,,21,7,W 2,Crisler Arena,22,6:30p,Iowa on February 14 6:30 PM,2022-05-10 18:30:00,MICH.,,
+311,michigan,2018-02-18,REG,Ohio State (8),Big Ten,W,74,62,,22,7,W 3,Crisler Arena,22,1:00p,Ohio State on February 18 1:00 PM,2022-05-10 13:00:00,MICH.,,
+312,michigan,2018-02-21,REG,Penn State,Big Ten,W,72,63,,23,7,W 4,Bryce Jordan Center,17,7:00p,Penn State on February 21 7:00 PM,2022-05-10 19:00:00,PA.,,
+313,michigan,2018-02-24,REG,Maryland,Big Ten,W,85,61,,24,7,W 5,Xfinity Center,17,12:00p,Maryland on February 24 Noon,2022-05-10 12:00:00,MD.,,
+314,michigan,2018-03-01,CTOURN,Iowa,Big Ten,W,77,71,OT,25,7,W 6,Madison Square Garden (IV),15,2:25p,Iowa on March 1 2:30 PM,2022-05-10 14:30:00,N.Y.,,
+315,michigan,2018-03-02,CTOURN,Nebraska,Big Ten,W,77,58,,26,7,W 7,Madison Square Garden (IV),15,2:30p,Nebraska on March 2 2:30 PM,2022-05-10 14:30:00,N.Y.,,
+316,michigan,2018-03-03,CTOURN,Michigan State (2),Big Ten,W,75,64,,27,7,W 8,Madison Square Garden (IV),15,2:00p,Michigan State on March 3 2:00 PM,2022-05-10 14:00:00,N.Y.,,
+317,michigan,2018-03-04,CTOURN,Purdue (8),Big Ten,W,75,66,,28,7,W 9,Madison Square Garden (IV),15,4:30p,Purdue on March 4 4:30 PM,2022-05-10 16:30:00,N.Y.,,
+318,michigan,2018-03-15,NCAA,Montana,Big Sky,W,61,47,,29,7,W 10,Intrust Bank Arena,,9:50p,Montana on March 15 8:50 PM CT,2022-05-10 21:50:00,KAN.,,
+319,michigan,2018-03-17,NCAA,Houston (21),AAC,W,64,63,,30,7,W 11,Intrust Bank Arena,,9:40p,Houston on March 17 8:40 PM CT,2022-05-10 21:40:00,KAN.,,
+320,michigan,2018-03-22,NCAA,Texas A&M,SEC,W,99,72,,31,7,W 12,Staples Center,,7:37p,Texas A&M on March 22 4:37 PM PT,2022-05-10 19:37:00,CALIF.,,
+321,michigan,2018-03-24,NCAA,Florida State,ACC,W,58,54,,32,7,W 13,Staples Center,,8:49p,Florida State on March 24 5:49 PM PT,2022-05-10 20:49:00,CALIF.,,
+322,michigan,2018-03-31,NCAA,Loyola (IL),MVC,W,69,57,,33,7,W 14,Alamodome,,6:09p,Loyola Chicago on March 31 5:09 PM CT,2022-05-10 18:09:00,TEXAS,,
+323,michigan,2018-04-02,NCAA,Villanova (2),Big East,L,62,79,,33,8,L 1,Alamodome,,9:20p,Villanova on April 2 8:19 PM CT,2022-05-10 21:19:00,TEXAS,,
+324,michigan,2018-11-06,REG,Norfolk State,MEAC,W,63,44,,1,0,W 1,Crisler Arena,19,8:30p,Norfolk State on November 6 8:30 PM,2022-05-10 20:30:00,MICH.,,
+325,michigan,2018-11-10,REG,Holy Cross,Patriot,W,56,37,,2,0,W 2,Crisler Arena,19,7:30p,Holy Cross on November 10 7:30 PM,2022-05-10 19:30:00,MICH.,,
+326,michigan,2018-11-14,REG,Villanova (8),Big East,W,73,46,,3,0,W 3,Finneran Pavilion,18,6:30p,Villanova on November 14 6:30 p.m.,2022-05-10 18:30:00,PA.,,
+327,michigan,2018-11-17,REG,George Washington,A-10,W,84,61,,4,0,W 4,Mohegan Sun Arena,18,12:00p,George Washington on November 17 Noon,2022-05-10 12:00:00,CONN.,,
+328,michigan,2018-11-18,REG,Providence,Big East,W,66,47,,5,0,W 5,Mohegan Sun Arena,18,1:30p,Providence on November 18 1:30 PM,2022-05-10 13:30:00,CONN.,,
+329,michigan,2018-11-23,REG,Chattanooga,Southern,W,83,55,,6,0,W 6,Crisler Arena,9,4:00p,Chattanooga on November 23 4:00 PM,2022-05-10 16:00:00,MICH.,,
+330,michigan,2018-11-28,REG,North Carolina (11),ACC,W,84,67,,7,0,W 7,Crisler Arena,7,9:30p,North Carolina on November 28 9:30 PM,2022-05-10 21:30:00,MICH.,,
+331,michigan,2018-12-01,REG,Purdue (19),Big Ten,W,76,57,,8,0,W 8,Crisler Arena,7,3:30p,Purdue on December 1 3:30 PM,2022-05-10 15:30:00,MICH.,,
+332,michigan,2018-12-04,REG,Northwestern,Big Ten,W,62,60,,9,0,W 9,Welsh-Ryan Arena,5,9:00p,Northwestern on December 4 8:00 PM CT,2022-05-10 21:00:00,ILL.,,
+333,michigan,2018-12-08,REG,South Carolina,SEC,W,89,78,,10,0,W 10,Crisler Arena,5,12:00p,South Carolina on December 8 Noon,2022-05-10 12:00:00,MICH.,,
+334,michigan,2018-12-15,REG,Western Michigan,MAC,W,70,62,,11,0,W 11,Crisler Arena,5,2:00p,Western Michigan on December 15 2:00 PM,2022-05-10 14:00:00,MICH.,,
+335,michigan,2018-12-22,REG,Air Force,MWC,W,71,50,,12,0,W 12,Crisler Arena,4,4:00p,Air Force on December 22 4:00 PM,2022-05-10 16:00:00,MICH.,,
+336,michigan,2018-12-30,REG,Binghamton,AEC,W,74,52,,13,0,W 13,Crisler Arena,2,12:00p,Binghamton on December 30 Noon,2022-05-10 12:00:00,MICH.,,
+337,michigan,2019-01-03,REG,Penn State,Big Ten,W,68,55,,14,0,W 14,Crisler Arena,2,7:00p,Penn State on January 3 7:00 PM,2022-05-10 19:00:00,MICH.,,
+338,michigan,2019-01-06,REG,Indiana (21),Big Ten,W,74,63,,15,0,W 15,Crisler Arena,2,4:30p,Indiana on January 6 4:30 PM,2022-05-10 16:30:00,MICH.,,
+339,michigan,2019-01-10,REG,Illinois,Big Ten,W,79,69,,16,0,W 16,State Farm Center,2,8:00p,Illinois on January 10 7:00 PM CT,2022-05-10 20:00:00,ILL.,,
+340,michigan,2019-01-13,REG,Northwestern,Big Ten,W,80,60,,17,0,W 17,Crisler Arena,2,7:30p,Northwestern on January 13 7:30 PM,2022-05-10 19:30:00,MICH.,,
+341,michigan,2019-01-19,REG,Wisconsin,Big Ten,L,54,64,,17,1,L 1,Kohl Center,2,12:00p,Wisconsin on January 19 11:00 AM CT,2022-05-10 12:00:00,WIS.,,
+342,michigan,2019-01-22,REG,Minnesota,Big Ten,W,59,57,,18,1,W 1,Crisler Arena,5,7:00p,Minnesota on January 22 7:00 PM,2022-05-10 19:00:00,MICH.,,
+343,michigan,2019-01-25,REG,Indiana,Big Ten,W,69,46,,19,1,W 2,Assembly Hall,5,6:30p,Indiana on January 25 6:30 PM,2022-05-10 18:30:00,IND.,,
+344,michigan,2019-01-29,REG,Ohio State,Big Ten,W,65,49,,20,1,W 3,Crisler Arena,5,9:00p,Ohio State on January 29 9:00 PM,2022-05-10 21:00:00,MICH.,,
+345,michigan,2019-02-01,REG,Iowa,Big Ten,L,59,74,,20,2,L 1,Carver-Hawkeye Arena,5,7:00p,Iowa on February 1 6:00 PM CT,2022-05-10 19:00:00,IOWA,,
+346,michigan,2019-02-05,REG,Rutgers,Big Ten,W,77,65,,21,2,W 1,Louis Brown Athletic Center,7,8:00p,Rutgers on February 5 8:00 PM,2022-05-10 20:00:00,N.J.,,
+347,michigan,2019-02-09,REG,Wisconsin (19),Big Ten,W,61,52,,22,2,W 2,Crisler Arena,7,12:00p,Wisconsin on February 9 Noon,2022-05-10 12:00:00,MICH.,,
+348,michigan,2019-02-12,REG,Penn State,Big Ten,L,69,75,,22,3,L 1,Bryce Jordan Center,6,8:30p,Penn State on February 12 8:30 PM,2022-05-10 20:30:00,PA.,,
+349,michigan,2019-02-16,REG,Maryland (24),Big Ten,W,65,52,,23,3,W 1,Crisler Arena,6,12:00p,Maryland on February 16 Noon,2022-05-10 12:00:00,MICH.,,
+350,michigan,2019-02-21,REG,Minnesota,Big Ten,W,69,60,,24,3,W 2,Williams Arena,7,7:00p,Minnesota on February 21 6:00 PM CT,2022-05-10 19:00:00,MINN.,,
+351,michigan,2019-02-24,REG,Michigan State (10),Big Ten,L,70,77,,24,4,L 1,Crisler Arena,7,3:45p,Michigan State on February 24 3:45 PM,2022-05-10 15:45:00,MICH.,,
+352,michigan,2019-02-28,REG,Nebraska,Big Ten,W,82,53,,25,4,W 1,Crisler Arena,9,7:00p,Nebraska on February 28 7:00 PM,2022-05-10 19:00:00,MICH.,,
+353,michigan,2019-03-03,REG,Maryland (17),Big Ten,W,69,62,,26,4,W 2,Xfinity Center,9,3:45p,Maryland on March 3 3:45 PM,2022-05-10 15:45:00,MD.,,
+354,michigan,2019-03-09,REG,Michigan State (9),Big Ten,L,63,75,,26,5,L 1,Breslin Events Center,7,8:00p,Michigan State on March 9 8:00 PM,2022-05-10 20:00:00,MICH.,,
+355,michigan,2019-03-15,CTOURN,Iowa,Big Ten,W,74,53,,27,5,W 1,United Center,10,9:25p,Iowa on March 15 8:30 PM CT,2022-05-10 21:30:00,ILL.,,
+356,michigan,2019-03-16,CTOURN,Minnesota,Big Ten,W,76,49,,28,5,W 2,United Center,10,3:30p,Minnesota on March 16 2:30 PM CT,2022-05-10 15:30:00,ILL.,,
+357,michigan,2019-03-17,CTOURN,Michigan State (6),Big Ten,L,60,65,,28,6,L 1,United Center,10,3:30p,Michigan State on March 17 2:30 PM CT,2022-05-10 15:30:00,ILL.,,
+358,michigan,2019-03-21,NCAA,Montana,Big Sky,W,74,55,,29,6,W 1,Wells Fargo Arena,,9:20p,Montana on March 21 8:20 PM CT,2022-05-10 21:20:00,IOWA,,
+359,michigan,2019-03-23,NCAA,Florida,SEC,W,64,49,,30,6,W 2,Wells Fargo Arena,,5:15p,Florida on March 23 4:15 PM CT,2022-05-10 17:15:00,IOWA,,
+360,michigan,2019-03-28,NCAA,Texas Tech (9),Big 12,L,44,63,,30,7,L 1,Honda Center,,9:39p,Texas Tech on March 28 6:39 PM PT,2022-05-10 21:39:00,CALIF.,,
+361,michigan-state,2009-11-13,REG,Florida Gulf Coast,A-Sun,W,97,58,,1,0,W 1,Breslin Events Center,2,,FLORIDA GULF COAST,7:00 PM,MICH.,361.0,379.0
+362,michigan-state,2009-11-17,REG,Gonzaga,WCC,W,75,71,,2,0,W 2,Breslin Events Center,2,,GONZAGA,8:00 PM,MICH.,362.0,380.0
+363,michigan-state,2009-11-20,REG,Toledo,MAC,W,75,62,,3,0,W 3,Breslin Events Center,2,,TOLEDO,6:30 PM,MICH.,363.0,381.0
+364,michigan-state,2009-11-22,REG,Valparaiso,Horizon,W,90,60,,4,0,W 4,Breslin Events Center,2,,VALPARAISO,12:00 PM,MICH.,364.0,382.0
+365,michigan-state,2009-11-27,REG,Florida,SEC,L,74,77,,4,1,L 1,Boardwalk Hall,2,,FLORIDA,8:00 PM,N.J.,365.0,383.0
+366,michigan-state,2009-11-28,REG,Massachusetts,A-10,W,106,68,,5,1,W 1,Boardwalk Hall,2,,MASSACHUSETTS,5:30 PM,N.J.,366.0,384.0
+367,michigan-state,2009-12-01,REG,North Carolina (10),ACC,L,82,89,,5,2,L 1,Dean Smith Center,9,,NORTH CAROLINA (BIG TEN/ACC CHALLENGE),9:00 PM,N.C.,367.0,385.0
+368,michigan-state,2009-12-04,REG,Wofford,Southern,W,72,60,,6,2,W 1,Breslin Events Center,9,,WOFFORD,7:00 PM,MICH.,368.0,386.0
+369,michigan-state,2009-12-07,REG,The Citadel,Southern,W,69,56,,7,2,W 2,McAlister Field House,12,,THE CITADEL,7:00 PM,S.C.,369.0,387.0
+370,michigan-state,2009-12-10,REG,Oakland,Summit,W,88,57,,8,2,W 3,Breslin Events Center,12,,OAKLAND,7:00 PM,MICH.,370.0,388.0
+371,michigan-state,2009-12-19,REG,Purdue-Fort Wayne,Summit,W,80,58,,9,2,W 4,Breslin Events Center,12,,IPFW,12:00 PM,MICH.,371.0,389.0
+372,michigan-state,2009-12-22,REG,Texas (2),Big 12,L,68,79,,9,3,L 1,Frank Erwin Center,9,,TEXAS,7:00 PM,TEXAS,372.0,390.0
+373,michigan-state,2009-12-30,REG,UT Arlington,Southland,W,87,68,,10,3,W 1,Breslin Events Center,11,,TEXAS-ARLINGTON,7:00 PM,MICH.,373.0,391.0
+374,michigan-state,2010-01-02,REG,Northwestern (25),Big Ten,W,91,70,,11,3,W 2,Welsh-Ryan Arena,11,,NORTHWESTERN,6:30 PM,ILL.,374.0,392.0
+375,michigan-state,2010-01-06,REG,Wisconsin (17),Big Ten,W,54,47,,12,3,W 3,Breslin Events Center,10,,WISCONSIN,6:30 PM,MICH.,375.0,393.0
+376,michigan-state,2010-01-09,REG,Iowa,Big Ten,W,71,53,,13,3,W 4,Carver-Hawkeye Arena,10,,IOWA,5:35 PM,IOWA,376.0,394.0
+377,michigan-state,2010-01-13,REG,Minnesota,Big Ten,W,60,53,,14,3,W 5,Breslin Events Center,7,,MINNESOTA,6:30 PM,MICH.,377.0,395.0
+378,michigan-state,2010-01-16,REG,Illinois,Big Ten,W,73,63,,15,3,W 6,Breslin Events Center,7,,ILLINOIS,3:30 PM,MICH.,378.0,396.0
+379,michigan-state,2010-01-20,REG,Iowa,Big Ten,W,70,63,,16,3,W 7,Breslin Events Center,6,,IOWA,6:30 PM,MICH.,379.0,397.0
+380,michigan-state,2010-01-23,REG,Minnesota,Big Ten,W,65,64,,17,3,W 8,Williams Arena,6,,MINNESOTA,12:00 PM,MINN.,380.0,398.0
+381,michigan-state,2010-01-26,REG,Michigan,Big Ten,W,57,56,,18,3,W 9,Crisler Arena,5,,MICHIGAN,7:00 PM,MICH.,381.0,399.0
+382,michigan-state,2010-01-30,REG,Northwestern,Big Ten,W,79,70,,19,3,W 10,Breslin Events Center,5,,NORTHWESTERN,7:00 PM,MICH.,382.0,400.0
+383,michigan-state,2010-02-02,REG,Wisconsin (16),Big Ten,L,49,67,,19,4,L 1,Kohl Center,5,,WISCONSIN,9:00 PM,WIS.,383.0,401.0
+384,michigan-state,2010-02-06,REG,Illinois,Big Ten,L,73,78,,19,5,L 2,Assembly Hall,5,,ILLINOIS,9:00 PM,ILL.,384.0,402.0
+385,michigan-state,2010-02-09,REG,Purdue (6),Big Ten,L,64,76,,19,6,L 3,Breslin Events Center,10,,PURDUE,9:00 PM,MICH.,385.0,403.0
+386,michigan-state,2010-02-13,REG,Penn State,Big Ten,W,65,54,,20,6,W 1,Bryce Jordan Center,10,,PENN STATE,12:00 PM,PA.,386.0,404.0
+387,michigan-state,2010-02-16,REG,Indiana,Big Ten,W,72,58,,21,6,W 2,Assembly Hall,11,,INDIANA,7:00 PM,IND.,387.0,405.0
+388,michigan-state,2010-02-21,REG,Ohio State (9),Big Ten,L,67,74,,21,7,L 1,Breslin Events Center,11,,OHIO STATE,12:00 PM,MICH.,388.0,406.0
+389,michigan-state,2010-02-28,REG,Purdue (3),Big Ten,W,53,44,,22,7,W 1,Mackey Arena,14,,PURDUE,4:00 PM,IND.,389.0,407.0
+390,michigan-state,2010-03-04,REG,Penn State,Big Ten,W,67,65,,23,7,W 2,Breslin Events Center,11,,PENN STATE,7:00 PM,MICH.,390.0,408.0
+391,michigan-state,2010-03-07,REG,Michigan,Big Ten,W,64,48,,24,7,W 3,Breslin Events Center,11,,MICHIGAN,4:00 PM,MICH.,391.0,409.0
+392,michigan-state,2010-03-12,CTOURN,Minnesota,Big Ten,L,67,72,OT,24,8,L 1,Conseco Fieldhouse,11,,MINNESOTA,9:00 PM,IND.,392.0,411.0
+393,michigan-state,2010-03-19,NCAA,New Mexico State,WAC,W,70,67,,25,8,W 1,Spokane Veterans Memorial Arena,,,NEW MEXICO STATE,7:20 PM,WASH.,393.0,413.0
+394,michigan-state,2010-03-21,NCAA,Maryland (20),ACC,W,85,83,,26,8,W 2,Spokane Veterans Memorial Arena,,,MARYLAND,2:30 PM,WASH.,394.0,414.0
+395,michigan-state,2010-03-26,NCAA,Northern Iowa,MVC,W,59,52,,27,8,W 3,Edward Jones Dome,,,NORTHERN IOWA,9:37 PM,MO.,395.0,415.0
+396,michigan-state,2010-03-28,NCAA,Tennessee (15),SEC,W,70,69,,28,8,W 4,Edward Jones Dome,,,TENNESSEE,2:20 PM,MO.,396.0,416.0
+397,michigan-state,2010-04-03,NCAA,Butler (11),Horizon,L,50,52,,28,9,L 1,Lucas Oil Stadium,,,BUTLER,6:07 PM,IND.,397.0,417.0
+398,michigan-state,2010-11-12,REG,Eastern Michigan,MAC,W,96,66,,1,0,W 1,Breslin Events Center,2,,EASTERN MICHIGAN,8:30 PM,MICH.,398.0,418.0
+399,michigan-state,2010-11-16,REG,South Carolina,SEC,W,82,73,,2,0,W 2,Breslin Events Center,2,,SOUTH CAROLINA,10:00 PM,MICH.,399.0,419.0
+400,michigan-state,2010-11-22,REG,Chaminade,,W,82,74,,3,0,W 3,Lahaina Civic Center,2,,CHAMINADE,9:30 PM,HAWAI'I,400.0,420.0
+401,michigan-state,2010-11-23,REG,Connecticut,Big East,L,67,70,,3,1,L 1,Lahaina Civic Center,2,,CONNECTICUT,7:00 PM,HAWAI'I,401.0,421.0
+402,michigan-state,2010-11-24,REG,Washington (13),Pac-10,W,76,71,,4,1,W 1,Lahaina Civic Center,2,,WASHINGTON,5:00 PM,HAWAI'I,402.0,422.0
+403,michigan-state,2010-11-28,REG,Tennessee Tech,OVC,W,73,55,,5,1,W 2,Breslin Events Center,2,,TENNESSEE TECH,1:00 PM,MICH.,403.0,423.0
+404,michigan-state,2010-12-01,REG,Duke (1),ACC,L,79,84,,5,2,L 1,Cameron Indoor Stadium,6,,DUKE (ACC/BIG TEN CHALLENGE),9:30 PM,N.C.,404.0,424.0
+405,michigan-state,2010-12-04,REG,Bowling Green State,MAC,W,74,39,,6,2,W 1,Breslin Events Center,6,,BOWLING GREEN,1:30 PM,MICH.,405.0,425.0
+406,michigan-state,2010-12-07,REG,Syracuse (8),Big East,L,58,72,,6,3,L 1,Madison Square Garden (IV),7,,SYRACUSE,9:00 PM,N.Y.,406.0,426.0
+407,michigan-state,2010-12-11,REG,Oakland,Summit,W,77,76,,7,3,W 1,Palace of Auburn Hills,7,,OAKLAND,12:30 PM,MICH.,407.0,427.0
+408,michigan-state,2010-12-18,REG,Prairie View,SWAC,W,90,51,,8,3,W 2,Breslin Events Center,14,,PRAIRIE VIEW A&M,6:30 PM,MICH.,408.0,428.0
+409,michigan-state,2010-12-22,REG,Texas (18),Big 12,L,55,67,,8,4,L 1,Breslin Events Center,12,,TEXAS,7:00 PM,MICH.,409.0,429.0
+410,michigan-state,2010-12-31,REG,Minnesota (14),Big Ten,W,71,62,,9,4,W 1,Breslin Events Center,20,,MINNESOTA,4:00 PM,MICH.,410.0,430.0
+411,michigan-state,2011-01-03,REG,Northwestern,Big Ten,W,65,62,,10,4,W 2,Welsh-Ryan Arena,18,,NORTHWESTERN,7:30 PM,ILL.,411.0,431.0
+412,michigan-state,2011-01-08,REG,Penn State,Big Ten,L,62,66,,10,5,L 1,Bryce Jordan Center,18,,PENN STATE,1:00 PM,PA.,412.0,432.0
+413,michigan-state,2011-01-11,REG,Wisconsin (20),Big Ten,W,64,61,OT,11,5,W 1,Breslin Events Center,-,,WISCONSIN,7:00 PM,MICH.,413.0,433.0
+414,michigan-state,2011-01-15,REG,Northwestern,Big Ten,W,71,67,OT,12,5,W 2,Breslin Events Center,-,,NORTHWESTERN,1:00 PM,MICH.,414.0,434.0
+415,michigan-state,2011-01-18,REG,Illinois (23),Big Ten,L,62,71,,12,6,L 1,Assembly Hall,17,,ILLINOIS,7:00 PM,ILL.,415.0,435.0
+416,michigan-state,2011-01-22,REG,Purdue (14),Big Ten,L,76,86,,12,7,L 2,Mackey Arena,17,,PURDUE,9:00 PM,IND.,416.0,436.0
+417,michigan-state,2011-01-27,REG,Michigan,Big Ten,L,57,61,,12,8,L 3,Breslin Events Center,25,,MICHIGAN,7:00 PM,MICH.,417.0,437.0
+418,michigan-state,2011-01-30,REG,Indiana,Big Ten,W,84,83,OT,13,8,W 1,Breslin Events Center,25,,INDIANA,6:00 PM,MICH.,418.0,438.0
+419,michigan-state,2011-02-02,REG,Iowa,Big Ten,L,52,72,,13,9,L 1,Carver-Hawkeye Arena,-,,IOWA,8:30 PM,IOWA,419.0,439.0
+420,michigan-state,2011-02-06,REG,Wisconsin (19),Big Ten,L,56,82,,13,10,L 2,Kohl Center,-,,WISCONSIN,1:00 PM,WIS.,420.0,440.0
+421,michigan-state,2011-02-10,REG,Penn State,Big Ten,W,75,57,,14,10,W 1,Breslin Events Center,-,,PENN STATE,7:00 PM,MICH.,421.0,441.0
+422,michigan-state,2011-02-15,REG,Ohio State (2),Big Ten,L,61,71,,14,11,L 1,Value City Arena,-,,OHIO STATE,9:00 PM,OHIO,422.0,442.0
+423,michigan-state,2011-02-19,REG,Illinois,Big Ten,W,61,57,,15,11,W 1,Breslin Events Center,-,,ILLINOIS,9:00 PM,MICH.,423.0,443.0
+424,michigan-state,2011-02-22,REG,Minnesota,Big Ten,W,53,48,,16,11,W 2,Williams Arena,-,,MINNESOTA,9:00 PM,MINN.,424.0,444.0
+425,michigan-state,2011-02-27,REG,Purdue (8),Big Ten,L,47,67,,16,12,L 1,Breslin Events Center,-,,PURDUE,1:00 PM,MICH.,425.0,445.0
+426,michigan-state,2011-03-02,REG,Iowa,Big Ten,W,85,66,,17,12,W 1,Breslin Events Center,-,,IOWA,6:30 PM,MICH.,426.0,446.0
+427,michigan-state,2011-03-05,REG,Michigan,Big Ten,L,63,70,,17,13,L 1,Crisler Arena,-,,MICHIGAN,2:00 PM,MICH.,427.0,447.0
+428,michigan-state,2011-03-10,CTOURN,Iowa,Big Ten,W,66,61,,18,13,W 1,,-,,IOWA,5:00 PM,IND.,428.0,449.0
+429,michigan-state,2011-03-11,CTOURN,Purdue (9),Big Ten,W,74,56,,19,13,W 2,Conseco Fieldhouse,-,,PURDUE,6:30 PM,IND.,429.0,450.0
+430,michigan-state,2011-03-12,CTOURN,Penn State,Big Ten,L,48,61,,19,14,L 1,,-,,PENN STATE,4:15 PM,IND.,430.0,451.0
+431,michigan-state,2011-03-17,NCAA,UCLA,Pac-10,L,76,78,,19,15,L 2,St. Pete Times Forum,,,UCLA,9:20 PM,FLA.,431.0,453.0
+432,michigan-state,2011-11-11,REG,North Carolina (1),ACC,L,55,67,,0,1,L 1,USS Carl Vinson,-,,NORTH CAROLINA,7:00 PM,CALIF.,432.0,454.0
+433,michigan-state,2011-11-15,REG,Duke (6),ACC,L,69,74,,0,2,L 2,,-,,DUKE,7:00 PM,N.Y.,433.0,455.0
+434,michigan-state,2011-11-18,REG,Texas Southern,SWAC,W,76,41,,1,2,W 1,Breslin Events Center,-,,TEXAS SOUTHERN,6:30 PM,MICH.,434.0,456.0
+435,michigan-state,2011-11-20,REG,Little Rock,Sun Belt,W,69,47,,2,2,W 2,Breslin Events Center,-,,ARKANSAS-LITTLE ROCK,6:00 PM,MICH.,435.0,457.0
+436,michigan-state,2011-11-23,REG,Milwaukee,Horizon,W,68,55,,3,2,W 3,Breslin Events Center,-,,MILWAUKEE,7:00 PM,MICH.,436.0,458.0
+437,michigan-state,2011-11-27,REG,Eastern Michigan,MAC,W,72,40,,4,2,W 4,Convocation Center,-,,EASTERN MICHIGAN,12:00 PM,MICH.,437.0,459.0
+438,michigan-state,2011-11-30,REG,Florida State,ACC,W,65,49,,5,2,W 5,Breslin Events Center,-,,FLORIDA STATE,7:30 PM,MICH.,438.0,460.0
+439,michigan-state,2011-12-04,REG,Omaha,,W,110,68,,6,2,W 6,Breslin Events Center,-,,NEBRASKA-OMAHA,2:00 PM,MICH.,439.0,461.0
+440,michigan-state,2011-12-07,REG,Central Connecticut State,NEC,W,89,69,,7,2,W 7,Breslin Events Center,-,,CENTRAL CONNECTICUT,7:00 PM,MICH.,440.0,462.0
+441,michigan-state,2011-12-10,REG,Gonzaga (23),WCC,W,74,67,,8,2,W 8,McCarthey Athletic Center,-,,GONZAGA,9:00 PM,WASH.,441.0,463.0
+442,michigan-state,2011-12-17,REG,Bowling Green State,MAC,W,74,60,,9,2,W 9,Breslin Events Center,21,,BOWLING GREEN,7:00 PM,MICH.,442.0,464.0
+443,michigan-state,2011-12-19,REG,Kansas City,Summit,W,89,54,,10,2,W 10,Breslin Events Center,19,,UMKC,8:30 PM,MICH.,443.0,465.0
+444,michigan-state,2011-12-22,REG,Lehigh,Patriot,W,90,81,,11,2,W 11,Breslin Events Center,19,,LEHIGH,9:00 PM,MICH.,444.0,466.0
+445,michigan-state,2011-12-28,REG,Indiana (13),Big Ten,W,80,65,,12,2,W 12,Breslin Events Center,16,,INDIANA,7:30 PM,MICH.,445.0,467.0
+446,michigan-state,2011-12-31,REG,Nebraska,Big Ten,W,68,55,,13,2,W 13,Bob Devaney Sports Center,16,,NEBRASKA,3:00 PM,NEB.,446.0,468.0
+447,michigan-state,2012-01-03,REG,Wisconsin (18),Big Ten,W,63,60,OT,14,2,W 14,Kohl Center,10,,WISCONSIN,7:00 PM,WIS.,447.0,469.0
+448,michigan-state,2012-01-10,REG,Iowa,Big Ten,W,95,61,,15,2,W 15,Breslin Events Center,6,,IOWA,7:00 PM,MICH.,448.0,470.0
+449,michigan-state,2012-01-14,REG,Northwestern,Big Ten,L,74,81,,15,3,L 1,Welsh-Ryan Arena,6,,NORTHWESTERN,3:00 PM,ILL.,449.0,471.0
+450,michigan-state,2012-01-17,REG,Michigan (20),Big Ten,L,59,60,,15,4,L 2,Crisler Arena,9,,MICHIGAN,7:00 PM,MICH.,450.0,472.0
+451,michigan-state,2012-01-21,REG,Purdue,Big Ten,W,83,58,,16,4,W 1,Breslin Events Center,9,,PURDUE,12:00 PM,MICH.,451.0,473.0
+452,michigan-state,2012-01-25,REG,Minnesota,Big Ten,W,68,52,,17,4,W 2,Breslin Events Center,10,,MINNESOTA,8:30 PM,MICH.,452.0,474.0
+453,michigan-state,2012-01-31,REG,Illinois,Big Ten,L,41,42,,17,5,L 1,Assembly Hall,9,,ILLINOIS,7:00 PM,ILL.,453.0,475.0
+454,michigan-state,2012-02-05,REG,Michigan (23),Big Ten,W,64,54,,18,5,W 1,Breslin Events Center,9,,MICHIGAN,1:00 PM,MICH.,454.0,476.0
+455,michigan-state,2012-02-08,REG,Penn State,Big Ten,W,77,57,,19,5,W 2,Breslin Events Center,11,,PENN STATE,6:30 PM,MICH.,455.0,477.0
+456,michigan-state,2012-02-11,REG,Ohio State (3),Big Ten,W,58,48,,20,5,W 3,Value City Arena,11,,OHIO STATE,6:00 PM,OHIO,456.0,478.0
+457,michigan-state,2012-02-16,REG,Wisconsin (15),Big Ten,W,69,55,,21,5,W 4,Breslin Events Center,7,,WISCONSIN,7:00 PM,MICH.,457.0,479.0
+458,michigan-state,2012-02-19,REG,Purdue,Big Ten,W,76,62,,22,5,W 5,Mackey Arena,7,,PURDUE,1:00 PM,IND.,458.0,480.0
+459,michigan-state,2012-02-22,REG,Minnesota,Big Ten,W,66,61,,23,5,W 6,Williams Arena,6,,MINNESOTA,8:30 PM,MINN.,459.0,481.0
+460,michigan-state,2012-02-25,REG,Nebraska,Big Ten,W,62,34,,24,5,W 7,Breslin Events Center,6,,NEBRASKA,8:00 PM,MICH.,460.0,482.0
+461,michigan-state,2012-02-28,REG,Indiana (18),Big Ten,L,55,70,,24,6,L 1,Assembly Hall,5,,INDIANA,7:00 PM,IND.,461.0,483.0
+462,michigan-state,2012-03-04,REG,Ohio State (10),Big Ten,L,70,72,,24,7,L 2,Breslin Events Center,5,,OHIO STATE,4:00 PM,MICH.,462.0,484.0
+463,michigan-state,2012-03-09,CTOURN,Iowa,Big Ten,W,92,75,,25,7,W 1,Conseco Fieldhouse,8,,IOWA,12:00 PM,IND.,463.0,486.0
+464,michigan-state,2012-03-10,CTOURN,Wisconsin (14),Big Ten,W,65,52,,26,7,W 2,,8,,WISCONSIN,1:40 PM,IND.,464.0,487.0
+465,michigan-state,2012-03-11,CTOURN,Ohio State (7),Big Ten,W,68,64,,27,7,W 3,,8,,OHIO STATE,3:30 PM,IND.,465.0,488.0
+466,michigan-state,2012-03-16,NCAA,Long Island University,NEC,W,89,67,,28,7,W 4,Nationwide Arena,,,LIU BROOKLYN,9:20 PM,OHIO,466.0,490.0
+467,michigan-state,2012-03-18,NCAA,Saint Louis,A-10,W,65,61,,29,7,W 5,Nationwide Arena,,,SAINT LOUIS,2:45 PM,OHIO,467.0,491.0
+468,michigan-state,2012-03-22,NCAA,Louisville (17),Big East,L,44,57,,29,8,L 1,US Airways Center,,,LOUISVILLE,7:47 PM,ARIZ.,468.0,492.0
+469,michigan-state,2012-11-09,REG,Connecticut,Big East,L,62,66,,0,1,L 1,Harry A. Gampel Pavilion,14,,NORTHWOOD (FLA.) (EXH.),7:00 PM,MICH.,469.0,493.0
+470,michigan-state,2012-11-13,REG,Kansas (7),Big 12,W,67,64,,1,1,W 1,Georgia Dome,21,,ST. CLOUD STATE (EXH.),8:30 PM,MICH.,470.0,494.0
+471,michigan-state,2012-11-18,REG,Texas Southern,SWAC,W,69,41,,2,1,W 2,Breslin Events Center,21,,CONNECTICUT,5:30 PM,GERMANY,471.0,495.0
+472,michigan-state,2012-11-20,REG,Boise State,MWC,W,74,70,,3,1,W 3,Breslin Events Center,15,,KANSAS,7:00 PM,GA.,472.0,496.0
+473,michigan-state,2012-11-23,REG,Oakland,Summit,W,70,52,,4,1,W 4,Breslin Events Center,15,,TEXAS SOUTHERN,12:00 PM,MICH.,473.0,497.0
+474,michigan-state,2012-11-25,REG,Louisiana,Sun Belt,W,63,60,,5,1,W 5,Breslin Events Center,15,,BOISE STATE,8:00 PM,MICH.,474.0,498.0
+475,michigan-state,2012-11-28,REG,Miami (FL),ACC,L,59,67,,5,2,L 1,BankUnited Center,13,,OAKLAND,8:15 PM,MICH.,475.0,499.0
+476,michigan-state,2012-12-01,REG,Nicholls State,Southland,W,84,39,,6,2,W 1,Breslin Events Center,13,,LOUISIANA-LAFAYETTE,12:00 PM,MICH.,476.0,500.0
+477,michigan-state,2012-12-05,REG,Arkansas-Pine Bluff,SWAC,W,76,44,,7,2,W 2,Breslin Events Center,19,,MIAMI,7:30 PM,FLA.,477.0,501.0
+478,michigan-state,2012-12-08,REG,Loyola (IL),Horizon,W,73,61,,8,2,W 3,Breslin Events Center,19,,LOYOLA CHICAGO,2:00 PM,MICH.,478.0,502.0
+479,michigan-state,2012-12-15,REG,Tuskegee,,W,92,56,,9,2,W 4,Breslin Events Center,19,,TUSKEGEE,9:00 PM,MICH.,479.0,503.0
+480,michigan-state,2012-12-18,REG,Bowling Green State,MAC,W,64,53,,10,2,W 5,Stroh Center,20,,BOWLING GREEN,7:00 PM,OHIO,480.0,504.0
+481,michigan-state,2012-12-22,REG,Texas,Big 12,W,67,56,,11,2,W 6,Breslin Events Center,20,,TEXAS,2:00 PM,MICH.,481.0,505.0
+482,michigan-state,2012-12-31,REG,Minnesota (9),Big Ten,L,63,76,,11,3,L 1,Williams Arena,18,,MINNESOTA,2:00 PM,MINN.,482.0,506.0
+483,michigan-state,2013-01-05,REG,Purdue,Big Ten,W,84,61,,12,3,W 1,Breslin Events Center,18,,PURDUE,12:00 PM,MICH.,483.0,507.0
+484,michigan-state,2013-01-10,REG,Iowa,Big Ten,W,62,59,,13,3,W 2,Carver-Hawkeye Arena,22,,IOWA,7:00 PM,IOWA,484.0,508.0
+485,michigan-state,2013-01-13,REG,Nebraska,Big Ten,W,66,56,,14,3,W 3,Breslin Events Center,22,,NEBRASKA,6:00 PM,MICH.,485.0,509.0
+486,michigan-state,2013-01-16,REG,Penn State,Big Ten,W,81,72,,15,3,W 4,Bryce Jordan Center,18,,PENN STATE,7:00 PM,PA.,486.0,510.0
+487,michigan-state,2013-01-19,REG,Ohio State (11),Big Ten,W,59,56,,16,3,W 5,Breslin Events Center,18,,OHIO STATE,6:00 PM,MICH.,487.0,511.0
+488,michigan-state,2013-01-22,REG,Wisconsin,Big Ten,W,49,47,,17,3,W 6,Kohl Center,13,,WISCONSIN,7:00 PM,WIS.,488.0,512.0
+489,michigan-state,2013-01-27,REG,Indiana (7),Big Ten,L,70,75,,17,4,L 1,Assembly Hall,13,,INDIANA,1:00 PM,IND.,489.0,513.0
+490,michigan-state,2013-01-31,REG,Illinois,Big Ten,W,80,75,,18,4,W 1,Breslin Events Center,13,,ILLINOIS,7:00 PM,MICH.,490.0,514.0
+491,michigan-state,2013-02-06,REG,Minnesota (18),Big Ten,W,61,50,,19,4,W 2,Breslin Events Center,12,,MINNESOTA,7:00 PM,MICH.,491.0,515.0
+492,michigan-state,2013-02-09,REG,Purdue,Big Ten,W,78,65,,20,4,W 3,Mackey Arena,12,,PURDUE,7:00 PM,IND.,492.0,516.0
+493,michigan-state,2013-02-12,REG,Michigan (4),Big Ten,W,75,52,,21,4,W 4,Breslin Events Center,8,,MICHIGAN,9:00 PM,MICH.,493.0,517.0
+494,michigan-state,2013-02-16,REG,Nebraska,Big Ten,W,73,64,,22,4,W 5,Bob Devaney Sports Center,8,,NEBRASKA,8:00 PM,NEB.,494.0,518.0
+495,michigan-state,2013-02-19,REG,Indiana (1),Big Ten,L,68,72,,22,5,L 1,Breslin Events Center,4,,INDIANA,7:00 PM,MICH.,495.0,519.0
+496,michigan-state,2013-02-24,REG,Ohio State (18),Big Ten,L,60,68,,22,6,L 2,Value City Arena,4,,OHIO STATE,4:00 PM,OHIO,496.0,520.0
+497,michigan-state,2013-03-03,REG,Michigan (4),Big Ten,L,57,58,,22,7,L 3,Crisler Arena,9,,MICHIGAN,4:00 PM,MICH.,497.0,521.0
+498,michigan-state,2013-03-07,REG,Wisconsin (22),Big Ten,W,58,43,,23,7,W 1,Breslin Events Center,10,,WISCONSIN,9:00 PM,MICH.,498.0,522.0
+499,michigan-state,2013-03-10,REG,Northwestern,Big Ten,W,71,61,,24,7,W 2,Breslin Events Center,10,,NORTHWESTERN,6:00 PM,MICH.,499.0,523.0
+500,michigan-state,2013-03-15,CTOURN,Iowa,Big Ten,W,59,56,,25,7,W 3,United Center,8,,IOWA,9:00 PM,ILL.,500.0,525.0
+501,michigan-state,2013-03-16,CTOURN,Ohio State (10),Big Ten,L,58,61,,25,8,L 1,United Center,8,,OHIO STATE,4:10 PM,ILL.,501.0,526.0
+502,michigan-state,2013-03-21,NCAA,Valparaiso,Horizon,W,65,54,,26,8,W 1,Palace of Auburn Hills,,,VALPARAISO,12:15 PM,MICH.,502.0,528.0
+503,michigan-state,2013-03-23,NCAA,Memphis (19),CUSA,W,70,48,,27,8,W 2,Palace of Auburn Hills,,,MEMPHIS,2:45 PM,MICH.,503.0,529.0
+504,michigan-state,2013-03-29,NCAA,Duke (6),ACC,L,61,71,,27,9,L 1,Lucas Oil Stadium,,,DUKE,9:45 PM,IND.,504.0,530.0
+505,michigan-state,2013-11-08,REG,McNeese State,Southland,W,98,56,,1,0,W 1,Breslin Events Center,2,,MCNEESE STATE,7:00 PM,MICH.,505.0,531.0
+506,michigan-state,2013-11-12,REG,Kentucky (1),SEC,W,78,74,,2,0,W 2,United Center,2,,KENTUCKY (CHAMPIONS CLASSIC),7:30 PM,ILL. (UNITED CENTER),506.0,532.0
+507,michigan-state,2013-11-15,REG,Columbia,Ivy,W,62,53,,3,0,W 3,Breslin Events Center,2,,COLUMBIA (COACHES VS. CANCER CLASSIC),9:00 PM,MICH.,507.0,533.0
+508,michigan-state,2013-11-18,REG,Portland,WCC,W,82,67,,4,0,W 4,Breslin Events Center,1,,PORTLAND (COACHES VS. CANCER CLASSIC),7:00 PM,MICH.,508.0,534.0
+509,michigan-state,2013-11-22,REG,Virginia Tech,ACC,W,96,77,,5,0,W 5,Barclays Center,1,,VIRGINIA TECH (COACHES VS. CANCER CLASSIC),9:30 PM,N.Y.,509.0,535.0
+510,michigan-state,2013-11-23,REG,Oklahoma,Big 12,W,87,76,,6,0,W 6,Barclays Center,1,,OKLAHOMA (COACHES VS. CANCER CLASSIC),9:30 PM,N.Y.,510.0,536.0
+511,michigan-state,2013-11-29,REG,Mount St. Mary's,NEC,W,98,65,,7,0,W 7,Breslin Events Center,1,,MOUNT ST. MARY'S,1:00 PM,MICH.,511.0,537.0
+512,michigan-state,2013-12-04,REG,North Carolina,ACC,L,65,79,,7,1,L 1,Breslin Events Center,1,,NORTH CAROLINA (BIG TEN-ACC CHALLENGE),9:00 PM,MICH.,512.0,538.0
+513,michigan-state,2013-12-14,REG,Oakland,Horizon,W,67,63,,8,1,W 1,,5,,OAKLAND,4:00 PM,MICH.,513.0,539.0
+514,michigan-state,2013-12-17,REG,North Florida,A-Sun,W,78,48,,9,1,W 2,Breslin Events Center,5,,NORTH FLORIDA,7:00 PM,MICH.,514.0,540.0
+515,michigan-state,2013-12-21,REG,Texas,Big 12,W,92,78,,10,1,W 3,Frank Erwin Center,5,,TEXAS,4:00 PM,TEXAS,515.0,541.0
+516,michigan-state,2013-12-28,REG,New Orleans,Southland,W,101,48,,11,1,W 4,Breslin Events Center,5,,NEW ORLEANS,4:15 PM,MICH.,516.0,542.0
+517,michigan-state,2013-12-31,REG,Penn State,Big Ten,W,79,63,,12,1,W 5,Bryce Jordan Center,5,,PENN STATE,5:00 PM,PA.,517.0,543.0
+518,michigan-state,2014-01-04,REG,Indiana,Big Ten,W,73,56,,13,1,W 6,Assembly Hall,5,,INDIANA,2:00 PM,IND.,518.0,544.0
+519,michigan-state,2014-01-07,REG,Ohio State (3),Big Ten,W,72,68,OT,14,1,W 7,Breslin Events Center,5,,OHIO STATE,9:00 PM,MICH.,519.0,545.0
+520,michigan-state,2014-01-11,REG,Minnesota,Big Ten,W,87,75,OT,15,1,W 8,Breslin Events Center,5,,MINNESOTA,2:15 PM,MICH.,520.0,546.0
+521,michigan-state,2014-01-15,REG,Northwestern,Big Ten,W,54,40,,16,1,W 9,Welsh-Ryan Arena,4,,NORTHWESTERN,7:00 PM,ILL.,521.0,547.0
+522,michigan-state,2014-01-18,REG,Illinois,Big Ten,W,78,62,,17,1,W 10,Assembly Hall,4,,ILLINOIS,8:00 PM,ILL.,522.0,548.0
+523,michigan-state,2014-01-21,REG,Indiana,Big Ten,W,71,66,,18,1,W 11,Breslin Events Center,3,,INDIANA,7:00 PM,MICH.,523.0,549.0
+524,michigan-state,2014-01-25,REG,Michigan (21),Big Ten,L,75,80,,18,2,L 1,Breslin Events Center,3,,MICHIGAN,7:00 PM,MICH.,524.0,550.0
+525,michigan-state,2014-01-28,REG,Iowa (15),Big Ten,W,71,69,OT,19,2,W 1,Carver-Hawkeye Arena,7,,IOWA,7:00 PM,IOWA,525.0,551.0
+526,michigan-state,2014-02-01,REG,Georgetown,Big East,L,60,64,,19,3,L 1,,7,,GEORGETOWN,3:00 PM,N.Y.,526.0,552.0
+527,michigan-state,2014-02-06,REG,Penn State,Big Ten,W,82,67,,20,3,W 1,Breslin Events Center,9,,PENN STATE,9:00 PM,MICH.,527.0,553.0
+528,michigan-state,2014-02-09,REG,Wisconsin,Big Ten,L,58,60,,20,4,L 1,Kohl Center,9,,WISCONSIN,1:00 PM,WIS.,528.0,554.0
+529,michigan-state,2014-02-13,REG,Northwestern,Big Ten,W,85,70,,21,4,W 1,Breslin Events Center,9,,NORTHWESTERN,7:00 PM,MICH.,529.0,555.0
+530,michigan-state,2014-02-16,REG,Nebraska,Big Ten,L,51,60,,21,5,L 1,Breslin Events Center,9,,NEBRASKA,3:00 PM,MICH.,530.0,556.0
+531,michigan-state,2014-02-20,REG,Purdue,Big Ten,W,94,79,,22,5,W 1,Mackey Arena,13,,PURDUE,7:00 PM,IND.,531.0,557.0
+532,michigan-state,2014-02-23,REG,Michigan (20),Big Ten,L,70,79,,22,6,L 1,Crisler Arena,13,,MICHIGAN,12:00 PM,MICH.,532.0,558.0
+533,michigan-state,2014-03-01,REG,Illinois,Big Ten,L,46,53,,22,7,L 2,Breslin Events Center,18,,ILLINOIS,4:00 PM,MICH.,533.0,559.0
+534,michigan-state,2014-03-06,REG,Iowa (24),Big Ten,W,86,76,,23,7,W 1,Breslin Events Center,22,,IOWA,9:00 PM,MICH.,534.0,560.0
+535,michigan-state,2014-03-09,REG,Ohio State,Big Ten,L,67,69,,23,8,L 1,Value City Arena,22,,OHIO STATE,4:30 PM,OHIO,535.0,561.0
+536,michigan-state,2014-03-14,CTOURN,Northwestern,Big Ten,W,67,51,,24,8,W 1,,22,,NORTHWESTERN,9:00 PM,IND.,536.0,563.0
+537,michigan-state,2014-03-15,CTOURN,Wisconsin (12),Big Ten,W,83,75,,25,8,W 2,,22,,WISCONSIN,4:10 PM,IND.,537.0,564.0
+538,michigan-state,2014-03-16,CTOURN,Michigan (8),Big Ten,W,69,55,,26,8,W 3,Conseco Fieldhouse,22,,MICHIGAN,3:30 PM,IND.,538.0,565.0
+539,michigan-state,2014-03-20,NCAA,Delaware,CAA,W,93,78,,27,8,W 4,Spokane Veterans Memorial Arena,,,DELAWARE,4:40 PM,WASH.,539.0,567.0
+540,michigan-state,2014-03-22,NCAA,Harvard,Ivy,W,80,73,,28,8,W 5,Spokane Veterans Memorial Arena,,,HARVARD,8:40 PM,WASH.,540.0,568.0
+541,michigan-state,2014-03-28,NCAA,Virginia (3),ACC,W,61,59,,29,8,W 6,Madison Square Garden (IV),,,VIRGINIA,9:57 PM,N.Y.,541.0,569.0
+542,michigan-state,2014-03-30,NCAA,Connecticut (18),AAC,L,54,60,,29,9,L 1,Madison Square Garden (IV),,,CONNECTICUT,2:20 PM,N.Y.,542.0,570.0
+543,michigan-state,2014-11-14,REG,Navy,Patriot,W,64,59,,1,0,W 1,Alumni Hall,18,9:40p,NAVY,9:00 PM,MD.,543.0,571.0
+544,michigan-state,2014-11-18,REG,Duke (4),ACC,L,71,81,,1,1,L 1,Bankers Life Fieldhouse,19,7:00p,DUKE (CHAMPIONS CLASSIC),7:00 PM,IND.,544.0,572.0
+545,michigan-state,2014-11-21,REG,Loyola (IL),MVC,W,87,52,,2,1,W 1,Breslin Events Center,19,7:00p,LOYOLA (CHICAGO),7:00 PM,MICH.,545.0,573.0
+546,michigan-state,2014-11-24,REG,Santa Clara,WCC,W,79,52,,3,1,W 2,Breslin Events Center,20,7:00p,SANTA CLARA (ORLANDO CLASSIC),7:00 PM,MICH.,546.0,574.0
+547,michigan-state,2014-11-27,REG,Rider,MAAC,W,77,45,,4,1,W 3,HP Field House,20,6:35p,RIDER (ORLANDO CLASSIC),6:30 PM,FLA.,547.0,575.0
+548,michigan-state,2014-11-28,REG,Marquette,Big East,W,79,68,,5,1,W 4,HP Field House,20,9:00p,MICHIGAN STATE @ MARQUETTE,9:00 PM,FLORIDA,548.0,576.0
+549,michigan-state,2014-11-30,REG,Kansas (11),Big 12,L,56,61,,5,2,L 1,HP Field House,20,1:00p,KANSAS,1:00 PM,FLA.,549.0,577.0
+550,michigan-state,2014-12-03,REG,Notre Dame,ACC,L,78,79,OT,5,3,L 2,Purcell Pavilion at the Joyce Center,19,7:15p,NOTRE DAME (ACC/BIG TEN CHALLENGE),7:15 PM,IND.,550.0,578.0
+551,michigan-state,2014-12-06,REG,Arkansas-Pine Bluff,SWAC,W,85,52,,6,3,W 1,Breslin Events Center,19,2:15p,ARKANSAS-PINE BLUFF,2:15 PM,MICH.,551.0,579.0
+552,michigan-state,2014-12-14,REG,Oakland,Horizon,W,87,61,,7,3,W 2,Breslin Events Center,-,8:00p,OAKLAND,8:00 PM,MICH.,552.0,580.0
+553,michigan-state,2014-12-17,REG,Eastern Michigan,MAC,W,66,46,,8,3,W 3,Breslin Events Center,25,9:00p,EASTERN MICHIGAN,9:00 PM,MICH.,553.0,581.0
+554,michigan-state,2014-12-20,REG,Texas Southern,SWAC,L,64,71,OT,8,4,L 1,Breslin Events Center,25,5:00p,TEXAS SOUTHERN,5:00 PM,MICH.,554.0,582.0
+555,michigan-state,2014-12-22,REG,The Citadel,Southern,W,82,56,,9,4,W 1,Breslin Events Center,-,6:00p,THE CITADEL,6:00 PM,MICH.,555.0,583.0
+556,michigan-state,2014-12-30,REG,Maryland (12),Big Ten,L,66,68,2OT,9,5,L 1,Breslin Events Center,-,5:00p,MARYLAND,5:00 PM,MICH.,556.0,584.0
+557,michigan-state,2015-01-05,REG,Indiana,Big Ten,W,70,50,,10,5,W 1,Breslin Events Center,-,7:00p,INDIANA,7:00 PM,MICH.,557.0,585.0
+558,michigan-state,2015-01-08,REG,Iowa,Big Ten,W,75,61,,11,5,W 2,Carver-Hawkeye Arena,-,7:00p,IOWA,7:00 PM,IOWA,558.0,586.0
+559,michigan-state,2015-01-11,REG,Northwestern,Big Ten,W,84,77,OT,12,5,W 3,Breslin Events Center,-,12:00p,NORTHWESTERN,12:00 PM,MICH.,559.0,587.0
+560,michigan-state,2015-01-17,REG,Maryland (14),Big Ten,L,59,75,,12,6,L 1,Xfinity Center,-,4:00p,MARYLAND,4:00 PM,MD.,560.0,588.0
+561,michigan-state,2015-01-21,REG,Penn State,Big Ten,W,66,60,,13,6,W 1,Breslin Events Center,-,7:00p,PENN STATE,7:00 PM,MICH.,561.0,589.0
+562,michigan-state,2015-01-24,REG,Nebraska,Big Ten,L,77,79,,13,7,L 1,Pinnacle Bank Arena,-,4:00p,NEBRASKA,4:00 PM,NEB.,562.0,590.0
+563,michigan-state,2015-01-29,REG,Rutgers,Big Ten,W,71,51,,14,7,W 1,Louis Brown Athletic Center,-,6:00p,RUTGERS,6:00 PM,N.J.,563.0,591.0
+564,michigan-state,2015-02-01,REG,Michigan,Big Ten,W,76,66,OT,15,7,W 2,Breslin Events Center,-,1:00p,MICHIGAN,1:00 PM,MICH.,564.0,592.0
+565,michigan-state,2015-02-07,REG,Illinois,Big Ten,L,54,59,,15,8,L 1,Breslin Events Center,-,12:00p,ILLINOIS,12:00 PM,MICH.,565.0,593.0
+566,michigan-state,2015-02-10,REG,Northwestern,Big Ten,W,68,44,,16,8,W 1,Welsh-Ryan Arena,-,7:00p,NORTHWESTERN,7:00 PM,ILL.,566.0,594.0
+567,michigan-state,2015-02-14,REG,Ohio State (23),Big Ten,W,59,56,,17,8,W 2,Breslin Events Center,-,12:00p,OHIO STATE,12:00 PM,MICH.,567.0,595.0
+568,michigan-state,2015-02-17,REG,Michigan,Big Ten,W,80,67,,18,8,W 3,Crisler Arena,-,9:00p,MICHIGAN,9:00 PM,MICH.,568.0,596.0
+569,michigan-state,2015-02-22,REG,Illinois,Big Ten,W,60,53,,19,8,W 4,State Farm Center,-,7:30p,ILLINOIS,7:30 PM,ILL.,569.0,597.0
+570,michigan-state,2015-02-26,REG,Minnesota,Big Ten,L,90,96,OT,19,9,L 1,Breslin Events Center,-,7:00p,MINNESOTA,7:00 PM,MICH.,570.0,598.0
+571,michigan-state,2015-03-01,REG,Wisconsin (5),Big Ten,L,61,68,,19,10,L 2,Kohl Center,-,4:00p,WISCONSIN,4:00 PM,WIS.,571.0,599.0
+572,michigan-state,2015-03-04,REG,Purdue,Big Ten,W,72,66,,20,10,W 1,Breslin Events Center,-,8:00p,PURDUE,8:00 PM,MICH.,572.0,600.0
+573,michigan-state,2015-03-07,REG,Indiana,Big Ten,W,74,72,,21,10,W 2,Assembly Hall,-,12:00p,INDIANA,12:00 PM,IND.,573.0,601.0
+574,michigan-state,2015-03-13,CTOURN,Ohio State,Big Ten,W,76,67,,22,10,W 3,United Center,-,9:15p,OHIO STATE,9:00 PM,ILL.,574.0,603.0
+575,michigan-state,2015-03-14,CTOURN,Maryland (8),Big Ten,W,62,58,,23,10,W 4,United Center,-,3:25p,MARYLAND,3:30 PM,ILL.,575.0,604.0
+576,michigan-state,2015-03-15,CTOURN,Wisconsin (6),Big Ten,L,69,80,OT,23,11,L 1,United Center,-,3:30p,WISCONSIN,3:30 PM,ILL.,576.0,605.0
+577,michigan-state,2015-03-20,NCAA,Georgia,SEC,W,70,63,,24,11,W 1,Spectrum Center,,12:40p,GEORGIA,12:40 PM,N.C.,577.0,607.0
+578,michigan-state,2015-03-22,NCAA,Virginia (6),ACC,W,60,54,,25,11,W 2,Spectrum Center,,12:10p,VIRGINIA,12:10 PM,N.C.,578.0,608.0
+579,michigan-state,2015-03-27,NCAA,Oklahoma (13),Big 12,W,62,58,,26,11,W 3,Carrier Dome,,10:16p,OKLAHOMA,10:07 PM,N.Y.,579.0,609.0
+580,michigan-state,2015-03-29,NCAA,Louisville (17),ACC,W,76,70,OT,27,11,W 4,Carrier Dome,,2:20p,LOUISVILLE,2:20 PM,N.Y.,580.0,610.0
+581,michigan-state,2015-04-04,NCAA,Duke (4),ACC,L,61,81,,27,12,L 1,Lucas Oil Stadium,,6:09p,DUKE,6:09 PM,IND.,581.0,611.0
+582,michigan-state,2015-11-13,REG,Florida Atlantic,CUSA,W,82,55,,1,0,W 1,Breslin Events Center,13,7:00p,FLORIDA ATLANTIC,7:00 PM,MICH.,582.0,612.0
+583,michigan-state,2015-11-17,REG,Kansas (4),Big 12,W,79,73,,2,0,W 2,United Center,13,10:00p,KANSAS,10:00 PM,ILL.,583.0,613.0
+584,michigan-state,2015-11-20,REG,Arkansas-Pine Bluff,SWAC,W,92,46,,3,0,W 3,Breslin Events Center,13,7:00p,ARKANSAS-PINE BLUFF,7:00 PM,MICH.,584.0,614.0
+585,michigan-state,2015-11-23,REG,Eastern Michigan,MAC,W,89,65,,4,0,W 4,Breslin Events Center,3,7:00p,EASTERN MICHIGAN,7:00 PM,MICH.,585.0,615.0
+586,michigan-state,2015-11-26,REG,Boston College,ACC,W,99,68,,5,0,W 5,Titan Gym,3,6:30p,BOSTON COLLEGE,6:30 PM,CALIF.,586.0,616.0
+587,michigan-state,2015-11-27,REG,Boise State,MWC,W,77,67,,6,0,W 6,Titan Gym,3,5:30p,BOISE STATE,5:30 PM,CALIF.,587.0,617.0
+588,michigan-state,2015-11-29,REG,Providence,Big East,W,77,64,,7,0,W 7,Honda Center,3,10:00p,PROVIDENCE,10:00 PM,CALIF.,588.0,618.0
+589,michigan-state,2015-12-02,REG,Louisville (24),ACC,W,71,67,,8,0,W 8,Breslin Events Center,3,7:15p,LOUISVILLE,7:15 PM,MICH.,589.0,619.0
+590,michigan-state,2015-12-05,REG,Binghamton,AEC,W,76,33,,9,0,W 9,Breslin Events Center,3,12:00p,BINGHAMTON,12:00 PM,MICH.,590.0,620.0
+591,michigan-state,2015-12-09,REG,Maryland-Eastern Shore,MEAC,W,78,35,,10,0,W 10,Breslin Events Center,1,7:00p,MARYLAND-EASTERN SHORE,7:00 PM,MICH.,591.0,621.0
+592,michigan-state,2015-12-12,REG,Florida,SEC,W,58,52,,11,0,W 11,Breslin Events Center,1,6:00p,FLORIDA,6:00 PM,MICH.,592.0,622.0
+593,michigan-state,2015-12-19,REG,Northeastern,CAA,W,78,58,,12,0,W 12,Matthews Arena,1,12:30p,NORTHEASTERN,12:30 PM,MASS.,593.0,623.0
+594,michigan-state,2015-12-22,REG,Oakland,Horizon,W,99,93,OT,13,0,W 13,Palace of Auburn Hills,1,7:00p,OAKLAND,7:00 PM,MICH.,594.0,624.0
+595,michigan-state,2015-12-29,REG,Iowa,Big Ten,L,70,83,,13,1,L 1,Carver-Hawkeye Arena,1,9:00p,IOWA,9:00 PM,IOWA,595.0,625.0
+596,michigan-state,2016-01-02,REG,Minnesota,Big Ten,W,69,61,,14,1,W 1,Williams Arena,1,3:00p,MINNESOTA,3:00 PM,MINN.,596.0,626.0
+597,michigan-state,2016-01-07,REG,Illinois,Big Ten,W,79,54,,15,1,W 2,Breslin Events Center,5,9:00p,ILLINOIS,9:00 PM,MICH.,597.0,627.0
+598,michigan-state,2016-01-10,REG,Penn State,Big Ten,W,92,65,,16,1,W 3,Bryce Jordan Center,5,12:00p,PENN STATE,12:00 PM,PA.,598.0,628.0
+599,michigan-state,2016-01-14,REG,Iowa (16),Big Ten,L,59,76,,16,2,L 1,Breslin Events Center,4,7:00p,IOWA,7:00 PM,MICH.,599.0,629.0
+600,michigan-state,2016-01-17,REG,Wisconsin,Big Ten,L,76,77,,16,3,L 2,Kohl Center,4,1:30p,WISCONSIN,1:30 PM,WIS.,600.0,630.0
+601,michigan-state,2016-01-20,REG,Nebraska,Big Ten,L,71,72,,16,4,L 3,Breslin Events Center,11,6:30p,NEBRASKA,6:30 PM,MICH.,601.0,631.0
+602,michigan-state,2016-01-23,REG,Maryland (7),Big Ten,W,74,65,,17,4,W 1,Breslin Events Center,11,6:30p,MARYLAND,6:30 PM,MICH.,602.0,632.0
+603,michigan-state,2016-01-28,REG,Northwestern,Big Ten,W,76,45,,18,4,W 2,Welsh-Ryan Arena,12,9:00p,NORTHWESTERN,9:00 PM,ILL.,603.0,633.0
+604,michigan-state,2016-01-31,REG,Rutgers,Big Ten,W,96,62,,19,4,W 3,Breslin Events Center,12,5:15p,RUTGERS,5:15 PM,MICH.,604.0,634.0
+605,michigan-state,2016-02-06,REG,Michigan,Big Ten,W,89,73,,20,4,W 4,Crisler Arena,10,2:00p,MICHIGAN,2:00 PM,MICH.,605.0,635.0
+606,michigan-state,2016-02-09,REG,Purdue (18),Big Ten,L,81,82,OT,20,5,L 1,Mackey Arena,8,7:00p,PURDUE,7:00 PM,IND.,606.0,636.0
+607,michigan-state,2016-02-14,REG,Indiana,Big Ten,W,88,69,,21,5,W 1,Breslin Events Center,8,1:00p,INDIANA,1:00 PM,MICH.,607.0,637.0
+608,michigan-state,2016-02-18,REG,Wisconsin,Big Ten,W,69,57,,22,5,W 2,Breslin Events Center,8,9:00p,WISCONSIN,9:00 PM,MICH.,608.0,638.0
+609,michigan-state,2016-02-23,REG,Ohio State,Big Ten,W,81,62,,23,5,W 3,Value City Arena,6,9:00p,OHIO STATE,9:00 PM,OHIO,609.0,639.0
+610,michigan-state,2016-02-28,REG,Penn State,Big Ten,W,88,57,,24,5,W 4,Breslin Events Center,6,12:00p,PENN STATE,12:00 PM,MICH.,610.0,640.0
+611,michigan-state,2016-03-02,REG,Rutgers,Big Ten,W,97,66,,25,5,W 5,Louis Brown Athletic Center,2,7:00p,RUTGERS,7:00 PM,N.J.,611.0,641.0
+612,michigan-state,2016-03-05,REG,Ohio State,Big Ten,W,91,76,,26,5,W 6,Breslin Events Center,2,12:00p,OHIO STATE,12:00 PM,MICH.,612.0,642.0
+613,michigan-state,2016-03-11,CTOURN,Ohio State,Big Ten,W,81,54,,27,5,W 7,Bankers Life Fieldhouse,2,6:30p,OHIO STATE,6:30 PM,IND.,613.0,644.0
+614,michigan-state,2016-03-12,CTOURN,Maryland (18),Big Ten,W,64,61,,28,5,W 8,Bankers Life Fieldhouse,2,3:30p,MARYLAND,3:30 PM,IND.,614.0,645.0
+615,michigan-state,2016-03-13,CTOURN,Purdue (13),Big Ten,W,66,62,,29,5,W 9,Bankers Life Fieldhouse,2,3:00p,PURDUE,3:00 PM,IND.,615.0,646.0
+616,michigan-state,2016-03-18,NCAA,Middle Tennessee,CUSA,L,81,90,,29,6,L 1,Scottrade Center,,2:45p,MIDDLE TENNESSEE STATE,2:45 PM,MO.,616.0,648.0
+617,michigan-state,2016-11-11,REG,Arizona (10),Pac-12,L,63,65,,0,1,L 1,Stan Sheriff Center,12,7:00p,ARIZONA,7:00 PM,HAWAII,617.0,649.0
+618,michigan-state,2016-11-15,REG,Kentucky (2),SEC,L,48,69,,0,2,L 2,Madison Square Garden (IV),13,7:00p,KENTUCKY,7:00 PM,N.Y.,618.0,650.0
+619,michigan-state,2016-11-18,REG,Mississippi Valley State,SWAC,W,100,53,,1,2,W 1,Breslin Events Center,13,7:00p,MISSISSIPPI VALLEY STATE,7:00 PM,MICH.,619.0,651.0
+620,michigan-state,2016-11-20,REG,Florida Gulf Coast,A-Sun,W,78,77,,2,2,W 2,Breslin Events Center,13,7:00p,FLORIDA GULF COAST,7:00 PM,MICH.,620.0,652.0
+621,michigan-state,2016-11-23,REG,St. John's (NY),Big East,W,73,62,,3,2,W 3,Imperial Arena at Atlantis Resort,24,7:00p,ST. JOHN'S,7:00 PM,BAHAMAS,621.0,653.0
+622,michigan-state,2016-11-24,REG,Baylor (20),Big 12,L,58,73,,3,3,L 1,Imperial Arena at Atlantis Resort,24,12:00p,VS. BAYLOR,12:00 PM,BAHAMAS,622.0,654.0
+623,michigan-state,2016-11-25,REG,Wichita State,MVC,W,77,72,,4,3,W 1,Imperial Arena at Atlantis Resort,24,1:00p,WICHITA STATE,1:00 PM,BAHAMAS,623.0,655.0
+624,michigan-state,2016-11-29,REG,Duke (5),ACC,L,69,78,,4,4,L 1,Cameron Indoor Stadium,-,9:30p,DUKE,9:30 PM,N.C.,624.0,656.0
+625,michigan-state,2016-12-03,REG,Oral Roberts,Summit,W,80,76,,5,4,W 1,Breslin Events Center,-,4:30p,ORAL ROBERTS,4:30 PM,MICH.,625.0,657.0
+626,michigan-state,2016-12-06,REG,Youngstown State,Horizon,W,77,57,,6,4,W 2,Breslin Events Center,-,7:00p,YOUNGSTOWN STATE,7:00 PM,MICH.,626.0,658.0
+627,michigan-state,2016-12-10,REG,Tennessee Tech,OVC,W,71,63,,7,4,W 3,Breslin Events Center,-,2:00p,TENNESSEE TECH,2:00 PM,MICH.,627.0,659.0
+628,michigan-state,2016-12-18,REG,Northeastern,CAA,L,73,81,,7,5,L 1,Breslin Events Center,-,7:00p,NORTHEASTERN,7:00 PM,MICH.,628.0,660.0
+629,michigan-state,2016-12-21,REG,Oakland,Horizon,W,77,65,,8,5,W 1,Breslin Events Center,-,7:00p,OAKLAND,7:00 PM,MICH.,629.0,661.0
+630,michigan-state,2016-12-27,REG,Minnesota,Big Ten,W,75,74,OT,9,5,W 2,Williams Arena,-,9:00p,MINNESOTA,9:00 PM,MINN.,630.0,662.0
+631,michigan-state,2016-12-30,REG,Northwestern,Big Ten,W,61,52,,10,5,W 3,Breslin Events Center,-,6:00p,NORTHWESTERN,6:00 PM,MICH.,631.0,663.0
+632,michigan-state,2017-01-04,REG,Rutgers,Big Ten,W,93,65,,11,5,W 4,Breslin Events Center,-,6:30p,RUTGERS,6:30 PM,MICH.,632.0,664.0
+633,michigan-state,2017-01-07,REG,Penn State,Big Ten,L,63,72,,11,6,L 1,The Palestra,-,1:00p,PENN STATE,1:00 PM,PA.,633.0,665.0
+634,michigan-state,2017-01-11,REG,Minnesota (24),Big Ten,W,65,47,,12,6,W 1,Breslin Events Center,-,7:00p,MINNESOTA,7:00 PM,MICH.,634.0,666.0
+635,michigan-state,2017-01-15,REG,Ohio State,Big Ten,L,67,72,,12,7,L 1,Value City Arena,-,1:30p,OHIO STATE,1:30 PM,OHIO,635.0,667.0
+636,michigan-state,2017-01-21,REG,Indiana,Big Ten,L,75,82,,12,8,L 2,Assembly Hall,-,4:00p,INDIANA,4:00 PM,IND.,636.0,668.0
+637,michigan-state,2017-01-24,REG,Purdue (20),Big Ten,L,73,84,,12,9,L 3,Breslin Events Center,-,7:00p,PURDUE,7:00 PM,MICH.,637.0,669.0
+638,michigan-state,2017-01-29,REG,Michigan,Big Ten,W,70,62,,13,9,W 1,Breslin Events Center,-,1:00p,MICHIGAN,1:00 PM,MICH.,638.0,670.0
+639,michigan-state,2017-02-02,REG,Nebraska,Big Ten,W,72,61,,14,9,W 2,Pinnacle Bank Arena,-,7:00p,NEBRASKA,7:00 PM,NEB.,639.0,671.0
+640,michigan-state,2017-02-07,REG,Michigan,Big Ten,L,57,86,,14,10,L 1,Crisler Arena,-,9:00p,MICHIGAN,9:00 PM,MICH.,640.0,672.0
+641,michigan-state,2017-02-11,REG,Iowa,Big Ten,W,77,66,,15,10,W 1,Breslin Events Center,-,6:00p,IOWA,6:00 PM,MICH.,641.0,673.0
+642,michigan-state,2017-02-14,REG,Ohio State,Big Ten,W,74,66,,16,10,W 2,Breslin Events Center,-,9:00p,OHIO STATE,9:00 PM,MICH.,642.0,674.0
+643,michigan-state,2017-02-18,REG,Purdue (16),Big Ten,L,63,80,,16,11,L 1,Mackey Arena,-,4:00p,PURDUE,4:00 PM,IND.,643.0,675.0
+644,michigan-state,2017-02-23,REG,Nebraska,Big Ten,W,88,72,,17,11,W 1,Breslin Events Center,-,7:00p,NEBRASKA,7:00 PM,MICH.,644.0,676.0
+645,michigan-state,2017-02-26,REG,Wisconsin (16),Big Ten,W,84,74,,18,11,W 2,Breslin Events Center,-,4:00p,WISCONSIN,4:00 PM,MICH.,645.0,677.0
+646,michigan-state,2017-03-01,REG,Illinois,Big Ten,L,70,73,,18,12,L 1,State Farm Center,-,9:00p,ILLINOIS,9:00 PM,ILL.,646.0,678.0
+647,michigan-state,2017-03-04,REG,Maryland,Big Ten,L,60,63,,18,13,L 2,Xfinity Center,-,2:00p,MARYLAND,2:00 PM,MD.,647.0,679.0
+648,michigan-state,2017-03-09,CTOURN,Penn State,Big Ten,W,78,51,,19,13,W 1,Verizon Center,-,2:25p,PENN STATE,2:30 PM,D.C.,648.0,681.0
+649,michigan-state,2017-03-10,CTOURN,Minnesota,Big Ten,L,58,63,,19,14,L 1,Verizon Center,-,2:45p,MINNESOTA,2:30 PM,D.C.,649.0,682.0
+650,michigan-state,2017-03-17,NCAA,Miami (FL),ACC,W,78,58,,20,14,W 1,BOK Center,,9:20p,MIAMI,9:20 PM,OKLA.,650.0,684.0
+651,michigan-state,2017-03-19,NCAA,Kansas (3),Big 12,L,70,90,,20,15,L 1,BOK Center,,5:15p,KANSAS,5:15 PM,OKLA.,651.0,685.0
+652,michigan-state,2017-11-10,REG,North Florida,A-Sun,W,98,66,,1,0,W 1,Breslin Events Center,2,8:00p,NORTH FLORIDA,8:00 PM,MICH.,652.0,686.0
+653,michigan-state,2017-11-14,REG,Duke (1),ACC,L,81,88,,1,1,L 1,United Center,2,7:00p,DUKE (CHAMPIONS CLASSIC),7:00 PM,ILL.,653.0,687.0
+654,michigan-state,2017-11-19,REG,Stony Brook,AEC,W,93,71,,2,1,W 1,Breslin Events Center,2,4:00p,STONY BROOK (PK80),4:00 PM,MICH.,654.0,688.0
+655,michigan-state,2017-11-23,REG,DePaul,Big East,W,73,51,,3,1,W 2,Moda Center,4,11:30p,DEPAUL (PK80),11:30 PM,ORE.,655.0,689.0
+656,michigan-state,2017-11-25,REG,Connecticut,AAC,W,77,57,,4,1,W 3,Memorial Coliseum,4,12:00a,UCONN (PK80),12:00 AM,ORE.,656.0,690.0
+657,michigan-state,2017-11-26,REG,North Carolina (9),ACC,W,63,45,,5,1,W 4,Moda Center,4,8:30p,NORTH CAROLINA (PK80),8:30 PM,ORE.,657.0,691.0
+658,michigan-state,2017-11-30,REG,Notre Dame (5),ACC,W,81,63,,6,1,W 5,Breslin Events Center,3,7:00p,NOTRE DAME,7:00 PM,MICH.,658.0,692.0
+659,michigan-state,2017-12-03,REG,Nebraska,Big Ten,W,86,57,,7,1,W 6,Breslin Events Center,3,4:30p,NEBRASKA,4:30 PM,MICH.,659.0,693.0
+660,michigan-state,2017-12-05,REG,Rutgers,Big Ten,W,62,52,,8,1,W 7,Louis Brown Athletic Center,3,7:00p,RUTGERS,7:00 PM,N.J.,660.0,694.0
+661,michigan-state,2017-12-09,REG,Southern Utah,Big Sky,W,88,63,,9,1,W 8,Breslin Events Center,3,6:00p,SOUTHERN UTAH,6:00 PM,MICH.,661.0,695.0
+662,michigan-state,2017-12-16,REG,Oakland,Horizon,W,86,73,,10,1,W 9,Little Caesars Arena,2,2:00p,OAKLAND,2:30 PM,MICH.,662.0,696.0
+663,michigan-state,2017-12-18,REG,Houston Baptist,Southland,W,107,62,,11,1,W 10,Breslin Events Center,2,6:00p,HOUSTON BAPTIST,6:00 PM,MICH.,663.0,697.0
+664,michigan-state,2017-12-21,REG,Long Beach State,Big West,W,102,60,,12,1,W 11,Breslin Events Center,2,7:00p,LONG BEACH STATE,7:00 PM,MICH.,664.0,698.0
+665,michigan-state,2017-12-29,REG,Cleveland State,Horizon,W,111,61,,13,1,W 12,Breslin Events Center,2,6:00p,CLEVELAND STATE,6:00 PM,MICH.,665.0,699.0
+666,michigan-state,2017-12-31,REG,Savannah State,MEAC,W,108,52,,14,1,W 13,Breslin Events Center,2,12:00p,SAVANNAH STATE,12:00 PM,MICH.,666.0,700.0
+667,michigan-state,2018-01-04,REG,Maryland,Big Ten,W,91,61,,15,1,W 14,Breslin Events Center,1,8:00p,MARYLAND,8:00 PM,MICH.,667.0,701.0
+668,michigan-state,2018-01-07,REG,Ohio State,Big Ten,L,64,80,,15,2,L 1,Value City Arena,1,4:30p,OHIO STATE,4:30 PM,OHIO,668.0,702.0
+669,michigan-state,2018-01-10,REG,Rutgers,Big Ten,W,76,72,OT,16,2,W 1,Breslin Events Center,4,7:00p,RUTGERS,7:00 PM,MICH.,669.0,703.0
+670,michigan-state,2018-01-13,REG,Michigan,Big Ten,L,72,82,,16,3,L 1,Breslin Events Center,4,12:00p,MICHIGAN,12:00 PM,MICH.,670.0,704.0
+671,michigan-state,2018-01-19,REG,Indiana,Big Ten,W,85,57,,17,3,W 1,Breslin Events Center,9,7:00p,INDIANA,7:00 PM,MICH.,671.0,705.0
+672,michigan-state,2018-01-22,REG,Illinois,Big Ten,W,87,74,,18,3,W 2,State Farm Center,6,9:00p,ILLINOIS,9:00 PM,ILL.,672.0,706.0
+673,michigan-state,2018-01-26,REG,Wisconsin,Big Ten,W,76,61,,19,3,W 3,Breslin Events Center,6,8:00p,WISCONSIN,8:00 PM,MICH.,673.0,707.0
+674,michigan-state,2018-01-28,REG,Maryland,Big Ten,W,74,68,,20,3,W 4,Xfinity Center,6,1:00p,MARYLAND,1:00 PM,MD.,674.0,708.0
+675,michigan-state,2018-01-31,REG,Penn State,Big Ten,W,76,68,,21,3,W 5,Breslin Events Center,5,6:30p,PENN STATE,6:30 PM,MICH.,675.0,709.0
+676,michigan-state,2018-02-03,REG,Indiana,Big Ten,W,63,60,,22,3,W 6,Assembly Hall,5,8:15p,INDIANA,8:20 PM,IND.,676.0,710.0
+677,michigan-state,2018-02-06,REG,Iowa,Big Ten,W,96,93,,23,3,W 7,Carver-Hawkeye Arena,4,9:00p,IOWA,9:00 PM,IOWA,677.0,711.0
+678,michigan-state,2018-02-10,REG,Purdue (3),Big Ten,W,68,65,,24,3,W 8,Breslin Events Center,4,4:00p,PURDUE,4:00 PM,MICH.,678.0,712.0
+679,michigan-state,2018-02-13,REG,Minnesota,Big Ten,W,87,57,,25,3,W 9,Williams Arena,2,9:00p,MINNESOTA,9:00 PM,MINN.,679.0,713.0
+680,michigan-state,2018-02-17,REG,Northwestern,Big Ten,W,65,60,,26,3,W 10,Allstate Arena,2,2:00p,NORTHWESTERN,2:00 PM,ILL.,680.0,714.0
+681,michigan-state,2018-02-20,REG,Illinois,Big Ten,W,81,61,,27,3,W 11,Breslin Events Center,2,7:00p,ILLINOIS,7:00 PM,MICH.,681.0,715.0
+682,michigan-state,2018-02-25,REG,Wisconsin,Big Ten,W,68,63,,28,3,W 12,Kohl Center,2,1:00p,WISCONSIN,1:00 PM,WIS.,682.0,716.0
+683,michigan-state,2018-03-02,CTOURN,Wisconsin,Big Ten,W,63,60,,29,3,W 13,Madison Square Garden (IV),2,12:00p,WISCONSIN,12:00 PM,"NEW YORK, N.Y.",683.0,718.0
+684,michigan-state,2018-03-03,CTOURN,Michigan (15),Big Ten,L,64,75,,29,4,L 1,Madison Square Garden (IV),2,2:00p,MICHIGAN,2:00 PM,"NEW YORK, N.Y.",684.0,719.0
+685,michigan-state,2018-03-16,NCAA,Bucknell,Patriot,W,82,78,,30,4,W 1,Little Caesars Arena,,7:10p,BUCKNELL,7:10 PM,MICH. (LITTLE CAESARS ARENA),685.0,721.0
+686,michigan-state,2018-03-18,NCAA,Syracuse,ACC,L,53,55,,30,5,L 1,Little Caesars Arena,,2:40p,SYRACUSE,2:40 PM,MICH. (LITTLE CAESARS ARENA),686.0,722.0
+687,michigan-state,2018-11-06,REG,Kansas (1),Big 12,L,87,92,,0,1,L 1,Bankers Life Fieldhouse,10,7:00p,#1 KANSAS,7 P.M.,IND.,687.0,723.0
+688,michigan-state,2018-11-11,REG,Florida Gulf Coast,A-Sun,W,106,82,,1,1,W 1,Breslin Events Center,10,6:00p,FLORIDA GULF COAST,6 P.M.,MICH. BRESLIN CENTER,688.0,724.0
+689,michigan-state,2018-11-14,REG,Louisiana-Monroe,Sun Belt,W,80,59,,2,1,W 2,Breslin Events Center,11,7:00p,LOUISIANA MONROE,7 P.M.,MICH. BRESLIN CENTER,689.0,725.0
+690,michigan-state,2018-11-18,REG,Tennessee Tech,OVC,W,101,33,,3,1,W 3,Breslin Events Center,11,6:00p,TENNESSEE TECH,6 P.M.,MICH. BRESLIN CENTER,690.0,726.0
+691,michigan-state,2018-11-22,REG,UCLA (17),Pac-12,W,87,67,,4,1,W 4,Orleans Arena,11,10:00p,#17 UCLA,10 PM ET,NEV.,691.0,727.0
+692,michigan-state,2018-11-23,REG,Texas,Big 12,W,78,68,,5,1,W 5,Orleans Arena,11,6:30p,TEXAS,6:30 PM ET,NEV.,692.0,728.0
+693,michigan-state,2018-11-27,REG,Louisville,ACC,L,78,82,OT,5,2,L 1,KFC Yum! Center,9,7:30p,LOUISVILLE,7:30 PM ET,KY.,693.0,729.0
+694,michigan-state,2018-11-30,REG,Rutgers,Big Ten,W,78,67,,6,2,W 1,Louis Brown Athletic Center,9,6:00p,RUTGERS,6 PM ET,N.J.,694.0,730.0
+695,michigan-state,2018-12-03,REG,Iowa (18),Big Ten,W,90,68,,7,2,W 2,Breslin Events Center,10,6:30p,#18 IOWA,6:30 PM ET,MICH. BRESLIN CENTER,695.0,731.0
+696,michigan-state,2018-12-08,REG,Florida,SEC,W,63,59,,8,2,W 3,Stephen C. O'Connell Center,10,12:00p,FLORIDA,NOON ET,FLA.,696.0,732.0
+697,michigan-state,2018-12-16,REG,Green Bay,Horizon,W,104,83,,9,2,W 4,Breslin Events Center,9,5:00p,GREEN BAY,5 PM ET,MICH. BRESLIN CENTER,697.0,733.0
+698,michigan-state,2018-12-21,REG,Oakland,Horizon,W,99,69,,10,2,W 5,Breslin Events Center,10,7:00p,OAKLAND,7 PM ET,MICH. BRESLIN CENTER,698.0,734.0
+699,michigan-state,2018-12-29,REG,Northern Illinois,MAC,W,88,60,,11,2,W 6,Breslin Events Center,8,2:00p,NORTHERN ILLINOIS,2 PM ET,MICH. BRESLIN CENTER,699.0,735.0
+700,michigan-state,2019-01-02,REG,Northwestern,Big Ten,W,81,55,,12,2,W 7,Breslin Events Center,8,8:30p,NORTHWESTERN,8:30 PM ET,MICH. BRESLIN CENTER,700.0,736.0
+701,michigan-state,2019-01-05,REG,Ohio State (14),Big Ten,W,86,77,,13,2,W 8,Value City Arena,8,12:00p,#14 OHIO STATE,NOON ET,OHIO,701.0,737.0
+702,michigan-state,2019-01-08,REG,Purdue,Big Ten,W,77,59,,14,2,W 9,Breslin Events Center,6,9:00p,PURDUE,9 PM ET,MICH. BRESLIN CENTER,702.0,738.0
+703,michigan-state,2019-01-13,REG,Penn State,Big Ten,W,71,56,,15,2,W 10,Bryce Jordan Center,6,4:30p,PENN STATE,4:30 PM ET,PA.,703.0,739.0
+704,michigan-state,2019-01-17,REG,Nebraska,Big Ten,W,70,64,,16,2,W 11,Pinnacle Bank Arena,6,8:00p,NEBRASKA,8 PM ET,NEB.,704.0,740.0
+705,michigan-state,2019-01-21,REG,Maryland (13),Big Ten,W,69,55,,17,2,W 12,Breslin Events Center,6,6:30p,#13 MARYLAND,6:30 PM ET,MICH. BRESLIN CENTER,705.0,741.0
+706,michigan-state,2019-01-24,REG,Iowa (19),Big Ten,W,82,67,,18,2,W 13,Carver-Hawkeye Arena,6,7:00p,#19 IOWA,7 PM ET,IOWA,706.0,742.0
+707,michigan-state,2019-01-27,REG,Purdue,Big Ten,L,63,73,,18,3,L 1,Mackey Arena,6,1:00p,PURDUE,1 PM ET,IND.,707.0,743.0
+708,michigan-state,2019-02-02,REG,Indiana,Big Ten,L,75,79,OT,18,4,L 2,Breslin Events Center,6,6:00p,INDIANA,6 PM ET,MICH. BRESLIN CENTER,708.0,744.0
+709,michigan-state,2019-02-05,REG,Illinois,Big Ten,L,74,79,,18,5,L 3,State Farm Center,9,7:00p,ILLINOIS,7 PM ET,ILL.,709.0,745.0
+710,michigan-state,2019-02-09,REG,Minnesota,Big Ten,W,79,55,,19,5,W 1,Breslin Events Center,9,2:00p,MINNESOTA,2 PM ET,MICH. BRESLIN CENTER,710.0,746.0
+711,michigan-state,2019-02-12,REG,Wisconsin (20),Big Ten,W,67,59,,20,5,W 2,Kohl Center,11,7:00p,#20 WISCONSIN,7 PM ET,WIS.,711.0,747.0
+712,michigan-state,2019-02-17,REG,Ohio State,Big Ten,W,62,44,,21,5,W 3,Breslin Events Center,11,1:00p,OHIO STATE,1 PM ET,MICH. BRESLIN CENTER,712.0,748.0
+713,michigan-state,2019-02-20,REG,Rutgers,Big Ten,W,71,60,,22,5,W 4,Breslin Events Center,10,6:30p,RUTGERS,6:30 PM ET,MICH. BRESLIN CENTER,713.0,749.0
+714,michigan-state,2019-02-24,REG,Michigan (7),Big Ten,W,77,70,,23,5,W 5,Crisler Arena,10,3:45p,#7 MICHIGAN,3:45 PM ET,MICH.,714.0,750.0
+715,michigan-state,2019-03-02,REG,Indiana,Big Ten,L,62,63,,23,6,L 1,Assembly Hall,6,12:00p,INDIANA,NOON ET,IND.,715.0,751.0
+716,michigan-state,2019-03-05,REG,Nebraska,Big Ten,W,91,76,,24,6,W 1,Breslin Events Center,9,7:00p,NEBRASKA,7 PM ET,MICH. BRESLIN CENTER,716.0,752.0
+717,michigan-state,2019-03-09,REG,Michigan (7),Big Ten,W,75,63,,25,6,W 2,Breslin Events Center,9,8:00p,#7 MICHIGAN,8 PM ET,MICH. BRESLIN CENTER,717.0,753.0
+718,michigan-state,2019-03-15,CTOURN,Ohio State,Big Ten,W,77,70,,26,6,W 3,United Center,6,12:30p,OHIO STATE,12:30 PM ET/ 11:30 AM CT,ILL. / UNITED CENTER,718.0,755.0
+719,michigan-state,2019-03-16,CTOURN,Wisconsin (19),Big Ten,W,67,55,,27,6,W 4,United Center,6,1:00p,#19 WISCONSIN,1 PM ET/ 12 PM CT,ILL. / UNITED CENTER,719.0,756.0
+720,michigan-state,2019-03-17,CTOURN,Michigan (10),Big Ten,W,65,60,,28,6,W 5,United Center,6,3:30p,#10 MICHIGAN,3:30 PM ET/ 2:30 PM CT,ILL. / UNITED CENTER,720.0,757.0
+721,michigan-state,2019-03-21,NCAA,Bradley,MVC,W,76,65,,29,6,W 6,Wells Fargo Arena,,2:45p,BRADLEY,2:45 PM ET,IOWA / WELLS FARGO ARENA,721.0,759.0
+722,michigan-state,2019-03-23,NCAA,Minnesota,Big Ten,W,70,50,,30,6,W 7,Wells Fargo Arena,,7:45p,MINNESOTA,7:45 PM ET,IOWA / WELLS FARGO ARENA,722.0,760.0
+723,michigan-state,2019-03-29,NCAA,Louisiana State (12),SEC,W,80,63,,31,6,W 8,Capital One Arena,,7:09p,#12 LSU,7 PM ET,D.C. / CAPITAL ONE ARENA,723.0,761.0
+724,michigan-state,2019-03-31,NCAA,Duke (1),ACC,W,68,67,,32,6,W 9,Capital One Arena,,5:05p,#1 DUKE,5:05 PM ET,D.C. / CAPITAL ONE ARENA,724.0,762.0
+725,michigan-state,2019-04-06,NCAA,Texas Tech (9),Big 12,L,51,61,,32,7,L 1,U.S. Bank Stadium,,8:49p,#9 TEXAS TECH,8:49 PM ET,MINN. / U.S. BANK STADIUM,725.0,763.0
