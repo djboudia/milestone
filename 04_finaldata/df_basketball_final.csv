@@ -1,0 +1,727 @@
+Unnamed: 0,school,gamedate,type,opponent,conf,result,team_points,opp_points,ot,w,l,streak,arena,rank,gametime,Game String,US State,start_dt,opponent_rank,sport,end_inc_window
+0,michigan,11/14/2009,REG,Northern Michigan,,W,97,50,,1,0,W 1,Crisler Arena,15,,Northern Michigan on November 14 7:00 PM,MICH.,2009-11-14 19:00:00,,basketball,2009-11-15 05:00:00
+1,michigan,11/20/2009,REG,Houston Baptist,GWC,W,77,55,,2,0,W 2,Crisler Arena,15,,Houston Baptist on November 20 7:00 PM,MICH.,2009-11-20 19:00:00,,basketball,2009-11-21 05:00:00
+2,michigan,11/26/2009,REG,Creighton,MVC,W,83,76,OT,3,0,W 3,The Milk House,15,,Creighton on November 26 12:00 PM,FLA.,2009-11-26 12:00:00,,basketball,2009-11-26 22:00:00
+3,michigan,11/27/2009,REG,Marquette,Big East,L,65,79,,3,1,L 1,The Milk House,15,,Marquette on November 27 12:00 PM,FLA.,2009-11-27 12:00:00,,basketball,2009-11-27 22:00:00
+4,michigan,11/29/2009,REG,Alabama,SEC,L,66,68,,3,2,L 2,The Milk House,15,,Alabama on November 29 5:00 PM,FLA.,2009-11-29 17:00:00,,basketball,2009-11-30 03:00:00
+5,michigan,12/2/2009,REG,Boston College,ACC,L,58,62,,3,3,L 3,Crisler Arena,-,,Boston College on December 2 7:30 PM,MICH.,2009-12-02 19:30:00,,basketball,2009-12-03 05:30:00
+6,michigan,12/5/2009,REG,Arkansas-Pine Bluff,SWAC,W,67,53,,4,3,W 1,Crisler Arena,-,,Arkansas - Pine Bluff on December 5 2:00 PM,MICH.,2009-12-05 14:00:00,,basketball,2009-12-06 00:00:00
+7,michigan,12/9/2009,REG,Utah,MWC,L,52,68,,4,4,L 1,Jon M. Huntsman Center,-,,Utah on December 9 7:00 PM,UTAH,2009-12-09 21:00:00,,basketball,2009-12-10 07:00:00
+8,michigan,12/13/2009,REG,Detroit Mercy,Horizon,W,75,64,,5,4,W 1,Crisler Arena,-,,Detroit on December 13 12:00 PM,MICH.,2009-12-13 12:00:00,,basketball,2009-12-13 22:00:00
+9,michigan,12/19/2009,REG,Kansas (1),Big 12,L,64,75,,5,5,L 1,Allen Fieldhouse,-,,Kansas on December 19 11:00 AM,KAN.,2009-12-19 12:00:00,1,basketball,2009-12-19 22:00:00
+10,michigan,12/22/2009,REG,Coppin State,MEAC,W,76,46,,6,5,W 1,Crisler Arena,-,,Coppin State on December 22 7:00 PM,MICH.,2009-12-22 19:00:00,,basketball,2009-12-23 05:00:00
+11,michigan,12/31/2009,REG,Indiana,Big Ten,L,65,71,,6,6,L 1,Assembly Hall,-,,Indiana on December 31 12:00 PM,IND.,2009-12-31 12:00:00,,basketball,2009-12-31 22:00:00
+12,michigan,1/3/2010,REG,Ohio State (15),Big Ten,W,73,64,,7,6,W 1,Crisler Arena,-,,Ohio State on January 3 4:30 PM,MICH.,2010-01-03 16:30:00,15,basketball,2010-01-04 02:30:00
+13,michigan,1/7/2010,REG,Penn State,Big Ten,W,64,55,,8,6,W 2,Bryce Jordan Center,-,,Penn State on January 7 7:00 PM,PA.,2010-01-07 19:00:00,,basketball,2010-01-08 05:00:00
+14,michigan,1/10/2010,REG,Northwestern,Big Ten,L,62,68,,8,7,L 1,Crisler Arena,-,,Northwestern on January 10 2:30 PM,MICH.,2010-01-10 14:30:00,,basketball,2010-01-11 00:30:00
+15,michigan,1/14/2010,REG,Indiana,Big Ten,W,69,45,,9,7,W 1,Crisler Arena,-,,Indiana on January 14 9:00 PM,MICH.,2010-01-14 21:00:00,,basketball,2010-01-15 07:00:00
+16,michigan,1/17/2010,REG,Connecticut (15),Big East,W,68,63,,10,7,W 2,Crisler Arena,-,,Connecticut on January 17 1:30 PM,MICH.,2010-01-17 13:30:00,15,basketball,2010-01-17 23:30:00
+17,michigan,1/20/2010,REG,Wisconsin (18),Big Ten,L,48,54,,10,8,L 1,Kohl Center,-,,Wisconsin on January 20 7:30 PM,WIS.,2010-01-20 20:30:00,18,basketball,2010-01-21 06:30:00
+18,michigan,1/23/2010,REG,Purdue (13),Big Ten,L,59,69,,10,9,L 2,Mackey Arena,-,,Purdue on January 23 4:00 PM,IND.,2010-01-23 16:00:00,13,basketball,2010-01-24 02:00:00
+19,michigan,1/26/2010,REG,Michigan State (5),Big Ten,L,56,57,,10,10,L 3,Crisler Arena,-,,Michigan State on January 26 7:00 PM,MICH.,2010-01-26 19:00:00,5,basketball,2010-01-27 05:00:00
+20,michigan,1/30/2010,REG,Iowa,Big Ten,W,60,46,,11,10,W 1,Crisler Arena,-,,Iowa on January 30 4:35 PM,MICH.,2010-01-30 16:35:00,,basketball,2010-01-31 02:35:00
+21,michigan,2/2/2010,REG,Northwestern,Big Ten,L,52,67,,11,11,L 1,Welsh-Ryan Arena,-,,Northwestern on February 2 6:00 PM,ILL.,2010-02-02 19:00:00,,basketball,2010-02-03 05:00:00
+22,michigan,2/6/2010,REG,Wisconsin (16),Big Ten,L,44,62,,11,12,L 2,Crisler Arena,-,,Wisconsin on February 6 4:00 PM,MICH.,2010-02-06 16:00:00,16,basketball,2010-02-07 02:00:00
+23,michigan,2/11/2010,REG,Minnesota,Big Ten,W,71,63,,12,12,W 1,Williams Arena,-,,Minnesota on February 11 6:00 PM,MINN.,2010-02-11 19:00:00,,basketball,2010-02-12 05:00:00
+24,michigan,2/16/2010,REG,Iowa,Big Ten,W,80,78,OT,13,12,W 2,Carver-Hawkeye Arena,-,,Iowa on February 16 8:05 PM,IOWA,2010-02-16 21:05:00,,basketball,2010-02-17 07:05:00
+25,michigan,2/20/2010,REG,Penn State,Big Ten,L,51,55,,13,13,L 1,Crisler Arena,-,,Penn State on February 20 6:00 PM,MICH.,2010-02-20 18:00:00,,basketball,2010-02-21 04:00:00
+26,michigan,2/23/2010,REG,Illinois,Big Ten,L,44,51,,13,14,L 2,Crisler Arena,-,,Illinois on February 23 7:00 PM,MICH.,2010-02-23 19:00:00,,basketball,2010-02-24 05:00:00
+27,michigan,2/27/2010,REG,Ohio State (9),Big Ten,L,55,66,,13,15,L 3,Value City Arena,-,,Ohio State on February 27 12:00 PM,OHIO,2010-02-27 12:00:00,9,basketball,2010-02-27 22:00:00
+28,michigan,3/2/2010,REG,Minnesota,Big Ten,W,83,55,,14,15,W 1,Crisler Arena,-,,Minnesota on March 2 7:00 PM,MICH.,2010-03-02 19:00:00,,basketball,2010-03-03 05:00:00
+29,michigan,3/7/2010,REG,Michigan State (11),Big Ten,L,48,64,,14,16,L 1,Breslin Events Center,-,,Michigan State on March 7 4:00 PM,MICH.,2010-03-07 16:00:00,11,basketball,2010-03-08 02:00:00
+30,michigan,3/11/2010,CTOURN,Iowa,Big Ten,W,59,52,,15,16,W 1,Conseco Fieldhouse,-,,Iowa (#9) on March 11 2:30 PM,IND.,2010-03-11 14:30:00,,basketball,2010-03-12 00:30:00
+31,michigan,3/12/2010,CTOURN,Ohio State (5),Big Ten,L,68,69,,15,17,L 1,Conseco Fieldhouse,-,,Ohio State (#1) on March 12 12:00 PM,IND.,2010-03-12 12:00:00,5,basketball,2010-03-12 22:00:00
+32,michigan,11/13/2010,REG,South Carolina Upstate,A-Sun,W,66,35,,1,0,W 1,Crisler Arena,-,,South Carolina Upstate on November 13 7:00 PM,MICH.,2010-11-13 19:00:00,,basketball,2010-11-14 05:00:00
+33,michigan,11/18/2010,REG,Bowling Green State,MAC,W,69,50,,2,0,W 2,Crisler Arena,-,,Bowling Green on November 18 7:00 PM,MICH.,2010-11-18 19:00:00,,basketball,2010-11-19 05:00:00
+34,michigan,11/21/2010,REG,Gardner-Webb,Big South,W,80,58,,3,0,W 3,Crisler Arena,-,,Gardner-Webb on November 21 2:00 PM,MICH.,2010-11-21 14:00:00,,basketball,2010-11-22 00:00:00
+35,michigan,11/26/2010,REG,Syracuse (9),Big East,L,50,53,,3,1,L 1,Boardwalk Hall,-,,Syracuse on November 26 8:00 PM,N.J.,2010-11-26 20:00:00,9,basketball,2010-11-27 06:00:00
+36,michigan,11/27/2010,REG,UTEP,CUSA,L,56,65,,3,2,L 2,Boardwalk Hall,-,,UTEP on November 27 5:30 PM,N.J.,2010-11-27 17:30:00,,basketball,2010-11-28 03:30:00
+37,michigan,11/30/2010,REG,Clemson,ACC,W,69,61,,4,2,W 1,Littlejohn Coliseum,-,,Clemson on November 30 9:00 PM,S.C.,2010-11-30 21:00:00,,basketball,2010-12-01 07:00:00
+38,michigan,12/4/2010,REG,Harvard,Ivy,W,65,62,,5,2,W 2,Crisler Arena,-,,Harvard on December 4 1:00 PM,MICH.,2010-12-04 13:00:00,,basketball,2010-12-04 23:00:00
+39,michigan,12/6/2010,REG,Concordia (MI),,W,86,65,,6,2,W 3,Crisler Arena,-,,Concordia (Mich.) on December 6 7:30 PM,MICH.,2010-12-06 19:30:00,,basketball,2010-12-07 05:30:00
+40,michigan,12/10/2010,REG,Utah,MWC,W,75,64,,7,2,W 4,Crisler Arena,-,,Utah on December 10 6:30 PM,MICH.,2010-12-10 18:30:00,,basketball,2010-12-11 04:30:00
+41,michigan,12/14/2010,REG,North Carolina Central,Ind,W,64,44,,8,2,W 5,Crisler Arena,-,,North Carolina Central on December 14 7:00 PM,MICH.,2010-12-14 19:00:00,,basketball,2010-12-15 05:00:00
+42,michigan,12/18/2010,REG,Oakland,Summit,W,69,51,,9,2,W 6,Crisler Arena,-,,Oakland on December 18 12:00 PM,MICH.,2010-12-18 12:00:00,,basketball,2010-12-18 22:00:00
+43,michigan,12/23/2010,REG,Bryant,NEC,W,87,71,,10,2,W 7,Crisler Arena,-,,Bryant on December 23 6:00 PM,MICH.,2010-12-23 18:00:00,,basketball,2010-12-24 04:00:00
+44,michigan,12/28/2010,REG,Purdue (12),Big Ten,L,57,80,,10,3,L 1,Crisler Arena,-,,Purdue on December 28 2:00 PM,MICH.,2010-12-28 14:00:00,12,basketball,2010-12-29 00:00:00
+45,michigan,1/2/2011,REG,Penn State,Big Ten,W,76,69,,11,3,W 1,Crisler Arena,-,,Penn State on January 2 4:00 PM,MICH.,2011-01-02 16:00:00,,basketball,2011-01-03 02:00:00
+46,michigan,1/5/2011,REG,Wisconsin,Big Ten,L,50,66,,11,4,L 1,Kohl Center,-,,Wisconsin on January 5 7:30 PM,WIS.,2011-01-05 20:30:00,,basketball,2011-01-06 06:30:00
+47,michigan,1/9/2011,REG,Kansas (3),Big 12,L,60,67,OT,11,5,L 2,Crisler Arena,-,,Kansas on January 9 4:30 PM,MICH.,2011-01-09 16:30:00,3,basketball,2011-01-10 02:30:00
+48,michigan,1/12/2011,REG,Ohio State (2),Big Ten,L,64,68,,11,6,L 3,Crisler Arena,-,,Ohio State on January 12 6:30 PM,MICH.,2011-01-12 18:30:00,2,basketball,2011-01-13 04:30:00
+49,michigan,1/15/2011,REG,Indiana,Big Ten,L,61,80,,11,7,L 4,Assembly Hall,-,,Indiana on January 15 8:00 PM,IND.,2011-01-15 20:00:00,,basketball,2011-01-16 06:00:00
+50,michigan,1/18/2011,REG,Northwestern,Big Ten,L,60,74,,11,8,L 5,Welsh-Ryan Arena,-,,Northwestern on January 18 8:00 PM,ILL.,2011-01-18 21:00:00,,basketball,2011-01-19 07:00:00
+51,michigan,1/22/2011,REG,Minnesota (15),Big Ten,L,64,69,,11,9,L 6,Crisler Arena,-,,Minnesota on January 22 7:00 PM,MICH.,2011-01-22 19:00:00,15,basketball,2011-01-23 05:00:00
+52,michigan,1/27/2011,REG,Michigan State (25),Big Ten,W,61,57,,12,9,W 1,Breslin Events Center,-,,Michigan State on January 27 7:00 PM,MICH.,2011-01-27 19:00:00,25,basketball,2011-01-28 05:00:00
+53,michigan,1/30/2011,REG,Iowa,Big Ten,W,87,73,,13,9,W 2,Crisler Arena,-,,Iowa on January 30 4:00 PM,MICH.,2011-01-30 16:00:00,,basketball,2011-01-31 02:00:00
+54,michigan,2/3/2011,REG,Ohio State (1),Big Ten,L,53,62,,13,10,L 1,Value City Arena,-,,Ohio State on February 3 7:00 PM,OHIO,2011-02-03 19:00:00,1,basketball,2011-02-04 05:00:00
+55,michigan,2/6/2011,REG,Penn State,Big Ten,W,65,62,,14,10,W 1,Bryce Jordan Center,-,,Penn State on February 6 12:00 PM,PA.,2011-02-06 12:00:00,,basketball,2011-02-06 22:00:00
+56,michigan,2/9/2011,REG,Northwestern,Big Ten,W,75,66,,15,10,W 2,Crisler Arena,-,,Northwestern on February 9 6:30 PM,MICH.,2011-02-09 18:30:00,,basketball,2011-02-10 04:30:00
+57,michigan,2/12/2011,REG,Indiana,Big Ten,W,73,69,,16,10,W 3,Crisler Arena,-,,Indiana on February 12 4:00 PM,MICH.,2011-02-12 16:00:00,,basketball,2011-02-13 02:00:00
+58,michigan,2/16/2011,REG,Illinois,Big Ten,L,52,54,,16,11,L 1,Assembly Hall,-,,Illinois on February 16 7:30 PM,ILL.,2011-02-16 20:30:00,,basketball,2011-02-17 06:30:00
+59,michigan,2/19/2011,REG,Iowa,Big Ten,W,75,72,OT,17,11,W 1,Carver-Hawkeye Arena,-,,Iowa on February 19 3:30 PM,IOWA,2011-02-19 16:30:00,,basketball,2011-02-20 02:30:00
+60,michigan,2/23/2011,REG,Wisconsin (12),Big Ten,L,52,53,,17,12,L 1,Crisler Arena,-,,Wisconsin on February 23 6:30 PM,MICH.,2011-02-23 18:30:00,12,basketball,2011-02-24 04:30:00
+61,michigan,2/26/2011,REG,Minnesota,Big Ten,W,70,63,,18,12,W 1,Williams Arena,-,,Minnesota on February 26 3:30 PM,MINN.,2011-02-26 16:30:00,,basketball,2011-02-27 02:30:00
+62,michigan,3/5/2011,REG,Michigan State,Big Ten,W,70,63,,19,12,W 2,Crisler Arena,-,,Michigan State on March 5 2:00 PM,MICH.,2011-03-05 14:00:00,,basketball,2011-03-06 00:00:00
+63,michigan,3/11/2011,CTOURN,Illinois,Big Ten,W,60,55,,20,12,W 3,,-,,Illinois (#5) on March 11 2:30 PM,IND.,2011-03-11 14:30:00,,basketball,2011-03-12 00:30:00
+64,michigan,3/12/2011,CTOURN,Ohio State (1),Big Ten,L,61,68,,20,13,L 1,,-,,Ohio State (#1) on March 12 1:40 PM,IND.,2011-03-12 13:40:00,1,basketball,2011-03-12 23:40:00
+65,michigan,3/18/2011,NCAA,Tennessee,SEC,W,75,45,,21,13,W 1,Times Warner Cable Arena,,,Tennessee (#9) on March 18 12:40 PM,N.C.,2011-03-18 12:40:00,,basketball,2011-03-18 22:40:00
+66,michigan,3/20/2011,NCAA,Duke (3),ACC,L,71,73,,21,14,L 1,Times Warner Cable Arena,,,Duke (#1) on March 20 2:45 PM,N.C.,2011-03-20 14:45:00,3,basketball,2011-03-21 00:45:00
+67,michigan,11/11/2011,REG,Ferris State,,W,59,33,,1,0,W 1,Crisler Arena,18,,Ferris State on November 11 7:00 PM,MICH.,2011-11-11 19:00:00,,basketball,2011-11-12 05:00:00
+68,michigan,11/14/2011,REG,Towson,CAA,W,64,47,,2,0,W 2,Crisler Arena,17,,Towson on November 14 8:30 PM,MICH.,2011-11-14 20:30:00,,basketball,2011-11-15 06:30:00
+69,michigan,11/17/2011,REG,Western Illinois,Summit,W,59,55,,3,0,W 3,Crisler Arena,17,,Western Illinois on November 17 8:30 PM,MICH.,2011-11-17 20:30:00,,basketball,2011-11-18 06:30:00
+70,michigan,11/21/2011,REG,Memphis (8),CUSA,W,73,61,,4,0,W 4,Lahaina Civic Center,15,,Memphis on November 21 10:00 AM,HAWAII,2011-11-21 16:00:00,8,basketball,2011-11-22 02:00:00
+71,michigan,11/22/2011,REG,Duke (6),ACC,L,75,82,,4,1,L 1,,15,,Duke on November 22 2:00 PM,HAWAII,2011-11-22 20:00:00,6,basketball,2011-11-23 06:00:00
+72,michigan,11/23/2011,REG,UCLA,Pac-12,W,79,63,,5,1,W 1,,15,,UCLA on November 23 2:30 PM,HAWAII,2011-11-23 20:30:00,,basketball,2011-11-24 06:30:00
+73,michigan,11/29/2011,REG,Virginia,ACC,L,58,70,,5,2,L 1,John Paul Jones Arena,14,,Virginia on November 29 7:00 PM,VA.,2011-11-29 19:00:00,,basketball,2011-11-30 05:00:00
+74,michigan,12/3/2011,REG,Iowa State,Big 12,W,76,66,,6,2,W 1,Crisler Arena,14,,Iowa State on December 3 12:00 PM,MICH.,2011-12-03 12:00:00,,basketball,2011-12-03 22:00:00
+75,michigan,12/10/2011,REG,Oakland,Summit,W,90,80,,7,2,W 2,,20,,Oakland on December 10 4:00 PM,MICH.,2011-12-10 16:00:00,,basketball,2011-12-11 02:00:00
+76,michigan,12/13/2011,REG,Arkansas-Pine Bluff,SWAC,W,63,50,,8,2,W 3,Crisler Arena,20,,Arkansas-Pine Bluff on December 13 7:00 PM,MICH.,2011-12-13 19:00:00,,basketball,2011-12-14 05:00:00
+77,michigan,12/17/2011,REG,Alabama A&M,SWAC,W,87,57,,9,2,W 4,Crisler Arena,20,,Alabama A&M on December 17 12:00 PM,MICH.,2011-12-17 12:00:00,,basketball,2011-12-17 22:00:00
+78,michigan,12/22/2011,REG,Bradley,MVC,W,77,66,,10,2,W 5,Crisler Arena,20,,Bradley on December 22 6:30 PM,MICH.,2011-12-22 18:30:00,,basketball,2011-12-23 04:30:00
+79,michigan,12/29/2011,REG,Penn State,Big Ten,W,71,53,,11,2,W 6,Crisler Arena,18,,Penn State on December 29 7:30 PM,MICH.,2011-12-29 19:30:00,,basketball,2011-12-30 05:30:00
+80,michigan,1/1/2012,REG,Minnesota,Big Ten,W,61,56,,12,2,W 7,Crisler Arena,18,,Minnesota on January 1 4:00 PM,MICH.,2012-01-01 16:00:00,,basketball,2012-01-02 02:00:00
+81,michigan,1/5/2012,REG,Indiana (12),Big Ten,L,71,73,,12,3,L 1,Assembly Hall,16,,Indiana on January 5 9:00 PM,IND.,2012-01-05 21:00:00,12,basketball,2012-01-06 07:00:00
+82,michigan,1/8/2012,REG,Wisconsin (18),Big Ten,W,59,41,,13,3,W 1,Crisler Arena,16,,Wisconsin on January 8 1:30 PM,MICH.,2012-01-08 13:30:00,18,basketball,2012-01-08 23:30:00
+83,michigan,1/11/2012,REG,Northwestern,Big Ten,W,66,64,OT,14,3,W 2,Crisler Arena,13,,Northwestern on January 11 6:30 PM,MICH.,2012-01-11 18:30:00,,basketball,2012-01-12 04:30:00
+84,michigan,1/14/2012,REG,Iowa,Big Ten,L,59,75,,14,4,L 1,Carver-Hawkeye Arena,13,,Iowa on January 14 12:00 PM,IOWA,2012-01-14 13:00:00,,basketball,2012-01-14 23:00:00
+85,michigan,1/17/2012,REG,Michigan State (9),Big Ten,W,60,59,,15,4,W 1,Crisler Arena,20,,Michigan State on January 17 7:00 PM,MICH.,2012-01-17 19:00:00,9,basketball,2012-01-18 05:00:00
+86,michigan,1/21/2012,REG,Arkansas,SEC,L,64,66,,15,5,L 1,Bud Walton Arena,20,,Arkansas on January 21 1:00 PM,ARK.,2012-01-21 14:00:00,,basketball,2012-01-22 00:00:00
+87,michigan,1/24/2012,REG,Purdue,Big Ten,W,66,64,,16,5,W 1,Mackey Arena,20,,Purdue on January 24 7:00 PM,IND.,2012-01-24 19:00:00,,basketball,2012-01-25 05:00:00
+88,michigan,1/29/2012,REG,Ohio State (4),Big Ten,L,49,64,,16,6,L 1,Value City Arena,20,,Ohio State on January 29 1:00 PM,OHIO,2012-01-29 13:00:00,4,basketball,2012-01-29 23:00:00
+89,michigan,2/1/2012,REG,Indiana (20),Big Ten,W,68,56,,17,6,W 1,Crisler Arena,23,,Indiana on February 1 6:30 PM,MICH.,2012-02-01 18:30:00,20,basketball,2012-02-02 04:30:00
+90,michigan,2/5/2012,REG,Michigan State (9),Big Ten,L,54,64,,17,7,L 1,Breslin Events Center,23,,Michigan State on February 5 1:00 PM,MICH.,2012-02-05 13:00:00,9,basketball,2012-02-05 23:00:00
+91,michigan,2/8/2012,REG,Nebraska,Big Ten,W,62,46,,18,7,W 1,Bob Devaney Sports Center,22,,Nebraska on February 8 7:30 PM,NEB.,2012-02-08 20:30:00,,basketball,2012-02-09 06:30:00
+92,michigan,2/12/2012,REG,Illinois,Big Ten,W,70,61,,19,7,W 2,Crisler Arena,22,,Illinois on February 12 1:00 PM,MICH.,2012-02-12 13:00:00,,basketball,2012-02-12 23:00:00
+93,michigan,2/18/2012,REG,Ohio State (6),Big Ten,W,56,51,,20,7,W 3,Crisler Arena,17,,Ohio State on February 18 9:00 PM,MICH.,2012-02-18 21:00:00,6,basketball,2012-02-19 07:00:00
+94,michigan,2/21/2012,REG,Northwestern,Big Ten,W,67,55,OT,21,7,W 4,Welsh-Ryan Arena,11,,Northwestern on February 21 7:00 PM,ILL.,2012-02-21 20:00:00,,basketball,2012-02-22 06:00:00
+95,michigan,2/25/2012,REG,Purdue,Big Ten,L,61,75,,21,8,L 1,Crisler Arena,11,,Purdue on February 25 6:00 PM,MICH.,2012-02-25 18:00:00,,basketball,2012-02-26 04:00:00
+96,michigan,3/1/2012,REG,Illinois,Big Ten,W,72,61,,22,8,W 1,Assembly Hall,13,,Illinois on March 1 6:00 PM,ILL.,2012-03-01 19:00:00,,basketball,2012-03-02 05:00:00
+97,michigan,3/4/2012,REG,Penn State,Big Ten,W,71,65,,23,8,W 2,Bryce Jordan Center,13,,Penn State on March 4 1:00 PM,PA.,2012-03-04 13:00:00,,basketball,2012-03-04 23:00:00
+98,michigan,3/9/2012,CTOURN,Minnesota,Big Ten,W,73,69,OT,24,8,W 3,,10,,Minnesota (#10) on March 9 6:30 PM,IND.,2012-03-09 18:30:00,,basketball,2012-03-10 04:30:00
+99,michigan,3/10/2012,CTOURN,Ohio State (7),Big Ten,L,55,77,,24,9,L 1,Conseco Fieldhouse,10,,Ohio State (#3) on March 10 4:05 PM,IND.,2012-03-10 16:05:00,7,basketball,2012-03-11 02:05:00
+100,michigan,3/16/2012,NCAA,Ohio,MAC,L,60,65,,24,10,L 2,Bridgestone Arena,,,Ohio (#13) on March 16 6:20 PM,TENN.,2012-03-16 18:20:00,,basketball,2012-03-17 04:20:00
+101,michigan,11/9/2012,REG,Slippery Rock,,W,100,62,,1,0,W 1,Crisler Arena,5,,Slippery Rock on November 9 8:30 PM,MICH.,2012-11-09 20:30:00,,basketball,2012-11-10 06:30:00
+102,michigan,11/12/2012,REG,IUPUI,Summit,W,91,54,,2,0,W 2,Crisler Arena,5,,IUPUI on November 12 9:00 PM,MICH.,2012-11-12 21:00:00,,basketball,2012-11-13 07:00:00
+103,michigan,11/13/2012,REG,Cleveland State,Horizon,W,77,47,,3,0,W 3,Crisler Arena,5,,Cleveland State on November 13 8:00 PM,MICH.,2012-11-13 20:00:00,,basketball,2012-11-14 06:00:00
+104,michigan,11/21/2012,REG,Pittsburgh,Big East,W,67,62,,4,0,W 4,,4,,Pittsburgh on November 21 9:30 PM,N.Y.,2012-11-21 21:30:00,,basketball,2012-11-22 07:30:00
+105,michigan,11/23/2012,REG,Kansas State,Big 12,W,71,57,,5,0,W 5,Madison Square Garden (IV),4,,Kansas State on November 23 4:30 PM,N.Y.,2012-11-23 16:30:00,,basketball,2012-11-24 02:30:00
+106,michigan,11/27/2012,REG,NC State (18),ACC,W,79,72,,6,0,W 6,Crisler Arena,3,,North Carolina State on November 27 7:30 PM,MICH.,2012-11-27 19:30:00,18,basketball,2012-11-28 05:30:00
+107,michigan,12/1/2012,REG,Bradley,MVC,W,74,66,,7,0,W 7,Carver Arena,3,,Bradley on December 1 3:00 PM,ILL.,2012-12-01 16:00:00,,basketball,2012-12-02 02:00:00
+108,michigan,12/4/2012,REG,Western Michigan,MAC,W,73,41,,8,0,W 8,Crisler Arena,3,,Western Michigan on December 4 8:30 PM,MICH.,2012-12-04 20:30:00,,basketball,2012-12-05 06:30:00
+109,michigan,12/8/2012,REG,Arkansas,SEC,W,80,67,,9,0,W 9,Crisler Arena,3,,Arkansas on December 8 12:00 PM,MICH.,2012-12-08 12:00:00,,basketball,2012-12-08 22:00:00
+110,michigan,12/11/2012,REG,Binghamton,AEC,W,67,39,,10,0,W 10,Crisler Arena,3,,Binghamton on December 11 7:00 PM,MICH.,2012-12-11 19:00:00,,basketball,2012-12-12 05:00:00
+111,michigan,12/15/2012,REG,West Virginia,Big 12,W,81,66,,11,0,W 11,WVU Coliseum,3,,West Virginia on December 15 8:00 PM,N.Y.,2012-12-15 20:00:00,,basketball,2012-12-16 06:00:00
+112,michigan,12/20/2012,REG,Eastern Michigan,MAC,W,93,54,,12,0,W 12,Crisler Arena,2,,Eastern Michigan on December 20 8:30 PM,MICH.,2012-12-20 20:30:00,,basketball,2012-12-21 06:30:00
+113,michigan,12/29/2012,REG,Central Michigan,MAC,W,88,73,,13,0,W 13,Crisler Arena,2,,Central Michigan on December 29 7:00 PM,MICH.,2012-12-29 19:00:00,,basketball,2012-12-30 05:00:00
+114,michigan,1/3/2013,REG,Northwestern,Big Ten,W,94,66,,14,0,W 14,Welsh-Ryan Arena,2,,Northwestern on January 3 6:00 PM,ILL.,2013-01-03 19:00:00,,basketball,2013-01-04 05:00:00
+115,michigan,1/6/2013,REG,Iowa,Big Ten,W,95,67,,15,0,W 15,Crisler Arena,2,,Iowa on January 6 12:00 PM,MICH.,2013-01-06 12:00:00,,basketball,2013-01-06 22:00:00
+116,michigan,1/9/2013,REG,Nebraska,Big Ten,W,62,47,,16,0,W 16,Crisler Arena,2,,Nebraska on January 9 7:00 PM,MICH.,2013-01-09 19:00:00,,basketball,2013-01-10 05:00:00
+117,michigan,1/13/2013,REG,Ohio State (15),Big Ten,L,53,56,,16,1,L 1,Value City Arena,2,,Ohio State on January 13 1:30 PM,OHIO,2013-01-13 13:30:00,15,basketball,2013-01-13 23:30:00
+118,michigan,1/17/2013,REG,Minnesota (9),Big Ten,W,83,75,,17,1,W 1,Williams Arena,5,,Minnesota on January 17 6:00 PM,MINN.,2013-01-17 19:00:00,9,basketball,2013-01-18 05:00:00
+119,michigan,1/24/2013,REG,Purdue,Big Ten,W,68,53,,18,1,W 2,Crisler Arena,2,,Purdue on January 24 7:00 PM,MICH.,2013-01-24 19:00:00,,basketball,2013-01-25 05:00:00
+120,michigan,1/27/2013,REG,Illinois,Big Ten,W,74,60,,19,1,W 3,Assembly Hall,2,,Illinois on January 27 5:00 PM,ILL.,2013-01-27 18:00:00,,basketball,2013-01-28 04:00:00
+121,michigan,1/30/2013,REG,Northwestern,Big Ten,W,68,46,,20,1,W 4,Crisler Arena,1,,Northwestern on January 30 6:30 PM,MICH.,2013-01-30 18:30:00,,basketball,2013-01-31 04:30:00
+122,michigan,2/2/2013,REG,Indiana (3),Big Ten,L,73,81,,20,2,L 1,Assembly Hall,1,,Indiana on February 2 9:00 PM,IND.,2013-02-02 21:00:00,3,basketball,2013-02-03 07:00:00
+123,michigan,2/5/2013,REG,Ohio State (10),Big Ten,W,76,74,OT,21,2,W 1,Crisler Arena,3,,Ohio State on February 5 9:00 PM,MICH.,2013-02-05 21:00:00,10,basketball,2013-02-06 07:00:00
+124,michigan,2/9/2013,REG,Wisconsin,Big Ten,L,62,65,OT,21,3,L 1,Kohl Center,3,,Wisconsin on February 9 11:00 AM,WIS.,2013-02-09 12:00:00,,basketball,2013-02-09 22:00:00
+125,michigan,2/12/2013,REG,Michigan State (8),Big Ten,L,52,75,,21,4,L 2,Breslin Events Center,4,,Michigan State on February 12 9:00 PM,MICH.,2013-02-12 21:00:00,8,basketball,2013-02-13 07:00:00
+126,michigan,2/17/2013,REG,Penn State,Big Ten,W,79,71,,22,4,W 1,Crisler Arena,4,,Penn State on February 17 12:00 PM,MICH.,2013-02-17 12:00:00,,basketball,2013-02-17 22:00:00
+127,michigan,2/24/2013,REG,Illinois,Big Ten,W,71,58,,23,4,W 2,Crisler Arena,7,,Illinois on February 24 1:00 PM,MICH.,2013-02-24 13:00:00,,basketball,2013-02-24 23:00:00
+128,michigan,2/27/2013,REG,Penn State,Big Ten,L,78,84,,23,5,L 1,Bryce Jordan Center,4,,Penn State on February 27 6:30 PM,PA.,2013-02-27 18:30:00,,basketball,2013-02-28 04:30:00
+129,michigan,3/3/2013,REG,Michigan State (9),Big Ten,W,58,57,,24,5,W 1,Crisler Arena,4,,Michigan State on March 3 4:00 PM,MICH.,2013-03-03 16:00:00,9,basketball,2013-03-04 02:00:00
+130,michigan,3/6/2013,REG,Purdue,Big Ten,W,80,75,,25,5,W 2,Mackey Arena,7,,Purdue on March 6 7:00 PM,IND.,2013-03-06 19:00:00,,basketball,2013-03-07 05:00:00
+131,michigan,3/10/2013,REG,Indiana (2),Big Ten,L,71,72,,25,6,L 1,Crisler Arena,7,,Indiana on March 10 4:00 PM,MICH.,2013-03-10 16:00:00,2,basketball,2013-03-11 02:00:00
+132,michigan,3/14/2013,CTOURN,Penn State,Big Ten,W,83,66,,26,6,W 1,,6,,Penn State (#12) on March 14 1:30 PM,ILL.,2013-03-14 14:30:00,,basketball,2013-03-15 00:30:00
+133,michigan,3/15/2013,CTOURN,Wisconsin (22),Big Ten,L,59,68,,26,7,L 1,United Center,6,,Wisconsin (#4) on March 15 1:30 PM,ILL.,2013-03-15 14:30:00,22,basketball,2013-03-16 00:30:00
+134,michigan,3/21/2013,NCAA,South Dakota State,Summit,W,71,56,,27,7,W 1,Palace of Auburn Hills,,,South Dakota State (#13) on March 21 7:15 PM,MICH.,2013-03-21 19:15:00,,basketball,2013-03-22 05:15:00
+135,michigan,3/23/2013,NCAA,Virginia Commonwealth,A-10,W,78,53,,28,7,W 2,Palace of Auburn Hills,,,VCU (#5) on March 23 12:15 PM,MICH.,2013-03-23 12:15:00,,basketball,2013-03-23 22:15:00
+136,michigan,3/29/2013,NCAA,Kansas (3),Big 12,W,87,85,OT,29,7,W 3,Cowboy's Stadium,,,Kansas (#1) on March 29 6:37 PM,TEXAS,2013-03-29 19:37:00,3,basketball,2013-03-30 05:37:00
+137,michigan,3/31/2013,NCAA,Florida (14),SEC,W,79,59,,30,7,W 4,Cowboy's Stadium,,,Florida (#3) on March 31 1:20 PM,TEXAS,2013-03-31 14:20:00,14,basketball,2013-04-01 00:20:00
+138,michigan,4/6/2013,NCAA,Syracuse (16),Big East,W,61,56,,31,7,W 5,Georgia Dome,,,Syracuse (#4) on April 6 9:21 PM,GA.,2013-04-06 21:21:00,16,basketball,2013-04-07 07:21:00
+139,michigan,4/8/2013,NCAA,Louisville (2),Big East,L,76,82,,31,8,L 1,Georgia Dome,,,Louisville (#1) on April 8 9:23 PM,GA.,2013-04-08 21:23:00,2,basketball,2013-04-09 07:23:00
+140,michigan,11/8/2013,REG,Massachusetts-Lowell,AEC,W,69,42,,1,0,W 1,Crisler Arena,7,,UMass-Lowell on November 8 7:00 PM,MICH.,2013-11-08 19:00:00,,basketball,2013-11-09 05:00:00
+141,michigan,11/12/2013,REG,South Carolina State,MEAC,W,93,59,,2,0,W 2,Crisler Arena,7,,South Carolina State on November 12 7:00 PM,MICH.,2013-11-12 19:00:00,,basketball,2013-11-13 05:00:00
+142,michigan,11/17/2013,REG,Iowa State,Big 12,L,70,77,,2,1,L 1,James H. Hilton Coliseum ,7,,Iowa State on November 17 4:00 PM,IOWA,2013-11-17 17:00:00,,basketball,2013-11-18 03:00:00
+143,michigan,11/21/2013,REG,Long Beach State,Big West,W,85,61,,3,1,W 1,Roberto Clemente Coliseum,15,,Long Beach State on November 21 6:00 PM,PUERTO RICO,2013-11-21 18:00:00,,basketball,2013-11-22 04:00:00
+144,michigan,11/22/2013,REG,Florida State,ACC,W,82,80,OT,4,1,W 2,Roberto Clemente Coliseum,15,,Florida State on November 22 6:00 PM,PUERTO RICO,2013-11-22 18:00:00,,basketball,2013-11-23 04:00:00
+145,michigan,11/24/2013,REG,Charlotte,CUSA,L,61,63,,4,2,L 1,Roberto Clemente Coliseum,15,,Charlotte on November 24 7:30 PM,PUERTO RICO,2013-11-24 19:30:00,,basketball,2013-11-25 05:30:00
+146,michigan,11/29/2013,REG,Coppin State,MEAC,W,87,45,,5,2,W 1,Crisler Arena,22,,Coppin State on November 29 3:00 PM,MICH.,2013-11-29 15:00:00,,basketball,2013-11-30 01:00:00
+147,michigan,12/3/2013,REG,Duke (10),ACC,L,69,79,,5,3,L 1,Cameron Indoor Stadium,22,,Duke on December 3 9:20 PM,N.C.,2013-12-03 21:20:00,10,basketball,2013-12-04 07:20:00
+148,michigan,12/7/2013,REG,Houston Baptist,Southland,W,107,53,,6,3,W 1,Crisler Arena,22,,Houston Baptist on December 7 12:00 PM,MICH.,2013-12-07 12:00:00,,basketball,2013-12-07 22:00:00
+149,michigan,12/14/2013,REG,Arizona (1),Pac-12,L,70,72,,6,4,L 1,Crisler Arena,-,,Arizona on December 14 12:00 PM,MICH.,2013-12-14 12:00:00,1,basketball,2013-12-14 22:00:00
+150,michigan,12/21/2013,REG,Stanford,Pac-12,W,68,65,,7,4,W 1,Barclays Center,-,,Stanford on December 21 8:30 PM,N.Y.,2013-12-21 20:30:00,,basketball,2013-12-22 06:30:00
+151,michigan,12/28/2013,REG,Holy Cross,Patriot,W,88,66,,8,4,W 2,Crisler Arena,-,,Holy Cross on December 28 6:30 PM,MICH.,2013-12-28 18:30:00,,basketball,2013-12-29 04:30:00
+152,michigan,1/2/2014,REG,Minnesota,Big Ten,W,63,60,,9,4,W 3,Williams Arena,-,,Minnesota on January 2 6:00 PM,MINN.,2014-01-02 19:00:00,,basketball,2014-01-03 05:00:00
+153,michigan,1/5/2014,REG,Northwestern,Big Ten,W,74,51,,10,4,W 4,Crisler Arena,-,,Northwestern on January 5 12:00 PM,MICH.,2014-01-05 12:00:00,,basketball,2014-01-05 22:00:00
+154,michigan,1/9/2014,REG,Nebraska,Big Ten,W,71,70,,11,4,W 5,Pinnacle Bank Arena,-,,Nebraska on January 9 8:00 PM,NEB.,2014-01-09 21:00:00,,basketball,2014-01-10 07:00:00
+155,michigan,1/14/2014,REG,Penn State,Big Ten,W,80,67,,12,4,W 6,Crisler Arena,-,,Penn State on January 14 8:00 PM,MICH.,2014-01-14 20:00:00,,basketball,2014-01-15 06:00:00
+156,michigan,1/18/2014,REG,Wisconsin (3),Big Ten,W,77,70,,13,4,W 7,Kohl Center,-,,Wisconsin on January 18 5:00 PM,WIS.,2014-01-18 18:00:00,3,basketball,2014-01-19 04:00:00
+157,michigan,1/22/2014,REG,Iowa (10),Big Ten,W,75,67,,14,4,W 8,Crisler Arena,21,,Iowa on January 22 7:00 PM,MICH.,2014-01-22 19:00:00,10,basketball,2014-01-23 05:00:00
+158,michigan,1/25/2014,REG,Michigan State (3),Big Ten,W,80,75,,15,4,W 9,Breslin Events Center,21,,Michigan State on January 25 7:00 PM,MICH.,2014-01-25 19:00:00,3,basketball,2014-01-26 05:00:00
+159,michigan,1/30/2014,REG,Purdue,Big Ten,W,75,66,,16,4,W 10,Crisler Arena,10,,Purdue on January 30 9:00 PM,MICH.,2014-01-30 21:00:00,,basketball,2014-01-31 07:00:00
+160,michigan,2/2/2014,REG,Indiana,Big Ten,L,52,63,,16,5,L 1,Assembly Hall,10,,Indiana on February 2 1:00 PM,IND.,2014-02-02 13:00:00,,basketball,2014-02-02 23:00:00
+161,michigan,2/5/2014,REG,Nebraska,Big Ten,W,79,50,,17,5,W 1,Crisler Arena,10,,Nebraska on February 5 6:30 PM,MICH.,2014-02-05 18:30:00,,basketball,2014-02-06 04:30:00
+162,michigan,2/8/2014,REG,Iowa (17),Big Ten,L,67,85,,17,6,L 1,Carver-Hawkeye Arena,10,,Iowa on February 8 1:00 PM,IOWA,2014-02-08 14:00:00,17,basketball,2014-02-09 00:00:00
+163,michigan,2/11/2014,REG,Ohio State (22),Big Ten,W,70,60,,18,6,W 1,Value City Arena,15,,Ohio State on February 11 9:00 PM,OHIO,2014-02-11 21:00:00,22,basketball,2014-02-12 07:00:00
+164,michigan,2/16/2014,REG,Wisconsin (21),Big Ten,L,62,75,,18,7,L 1,Crisler Arena,15,,Wisconsin on February 16 1:00 PM,MICH.,2014-02-16 13:00:00,21,basketball,2014-02-16 23:00:00
+165,michigan,2/23/2014,REG,Michigan State (13),Big Ten,W,79,70,,19,7,W 1,Crisler Arena,20,,Michigan State on February 23 12:00 PM,MICH.,2014-02-23 12:00:00,13,basketball,2014-02-23 22:00:00
+166,michigan,2/26/2014,REG,Purdue,Big Ten,W,77,76,OT,20,7,W 2,Mackey Arena,16,,Purdue on February 26 7:00 PM,IND.,2014-02-26 19:00:00,,basketball,2014-02-27 05:00:00
+167,michigan,3/1/2014,REG,Minnesota,Big Ten,W,66,56,,21,7,W 3,Crisler Arena,16,,Minnesota on March 1 6:00 PM,MICH.,2014-03-01 18:00:00,,basketball,2014-03-02 04:00:00
+168,michigan,3/4/2014,REG,Illinois,Big Ten,W,84,53,,22,7,W 4,Assembly Hall,12,,Illinois on March 4 6:00 PM,ILL.,2014-03-04 19:00:00,,basketball,2014-03-05 05:00:00
+169,michigan,3/8/2014,REG,Indiana,Big Ten,W,84,80,,23,7,W 5,Crisler Arena,12,,Indiana on March 8 6:00 PM,MICH.,2014-03-08 18:00:00,,basketball,2014-03-09 04:00:00
+170,michigan,3/14/2014,CTOURN,Illinois,Big Ten,W,64,63,,24,7,W 6,Conseco Fieldhouse,8,,Illinois (#9) on March 14 12:00 PM,IND.,2014-03-14 12:00:00,,basketball,2014-03-14 22:00:00
+171,michigan,3/15/2014,CTOURN,Ohio State (24),Big Ten,W,72,69,,25,7,W 7,,8,,Ohio State (#5) on March 15 1:40 PM,IND.,2014-03-15 13:40:00,24,basketball,2014-03-15 23:40:00
+172,michigan,3/16/2014,CTOURN,Michigan State (22),Big Ten,L,55,69,,25,8,L 1,Conseco Fieldhouse,8,,Michigan State (#3) on March 16 3:30 PM,IND.,2014-03-16 15:30:00,22,basketball,2014-03-17 01:30:00
+173,michigan,3/20/2014,NCAA,Wofford,Southern,W,57,40,,26,8,W 1,Bradley Center,,,Wofford (#15) on March 20 6:10 PM,WIS.,2014-03-20 19:10:00,,basketball,2014-03-21 05:10:00
+174,michigan,3/22/2014,NCAA,Texas,Big 12,W,79,65,,27,8,W 2,Bradley Center,,,Texas (#7) on March 22 4:15 PM,WIS.,2014-03-22 17:15:00,,basketball,2014-03-23 03:15:00
+175,michigan,3/28/2014,NCAA,Tennessee,SEC,W,73,71,,28,8,W 3,Lucas Oil Stadium,,,Tennessee (#11) on March 28 7:15 PM,IND.,2014-03-28 19:15:00,,basketball,2014-03-29 05:15:00
+176,michigan,3/30/2014,NCAA,Kentucky,SEC,L,72,75,,28,9,L 1,Lucas Oil Stadium,,,Kentucky (#8) on March 30 5:05 PM,IND.,2014-03-30 17:05:00,,basketball,2014-03-31 03:05:00
+177,michigan,11/15/2014,REG,Hillsdale,,W,92,68,,1,0,W 1,Crisler Arena,24,2:00p,Hillsdale College on November 15 2:00 PM,MICH.,2014-11-15 14:00:00,,basketball,2014-11-16 00:00:00
+178,michigan,11/17/2014,REG,Bucknell,Patriot,W,77,53,,2,0,W 2,Crisler Arena,24,8:00p,Bucknell on November 17 8:00 PM,MICH.,2014-11-17 20:00:00,,basketball,2014-11-18 06:00:00
+179,michigan,11/20/2014,REG,Detroit Mercy,Horizon,W,71,62,,3,0,W 3,Crisler Arena,24,6:00p,Detroit on November 20 6:00 PM,MICH.,2014-11-20 18:00:00,,basketball,2014-11-21 04:00:00
+180,michigan,11/24/2014,REG,Oregon,Pac-12,W,70,63,,4,0,W 4,Barclays Center,19,9:45p,Oregon on November 24 9:00 PM,N.Y.,2014-11-24 21:00:00,,basketball,2014-11-25 07:00:00
+181,michigan,11/25/2014,REG,Villanova (12),Big East,L,55,60,,4,1,L 1,Barclays Center,19,10:15p,Villanova on November 25 10:00 PM,N.Y.,2014-11-25 22:00:00,12,basketball,2014-11-26 08:00:00
+182,michigan,11/29/2014,REG,Nicholls State,Southland,W,91,62,,5,1,W 1,Crisler Arena,19,4:00p,Nicholls State on November 29 4:00 PM,MICH.,2014-11-29 16:00:00,,basketball,2014-11-30 02:00:00
+183,michigan,12/2/2014,REG,Syracuse,ACC,W,68,65,,6,1,W 2,Crisler Arena,17,7:30p,Syracuse on December 2 7:30 PM,MICH.,2014-12-02 19:30:00,,basketball,2014-12-03 05:30:00
+184,michigan,12/6/2014,REG,NJIT,Ind,L,70,72,,6,2,L 1,Crisler Arena,17,12:00p,NJIT on December 6 12:00 PM,MICH.,2014-12-06 12:00:00,,basketball,2014-12-06 22:00:00
+185,michigan,12/9/2014,REG,Eastern Michigan,MAC,L,42,45,,6,3,L 2,Crisler Arena,-,9:00p,Eastern Michigan on December 9 9:00 PM,MICH.,2014-12-09 21:00:00,,basketball,2014-12-10 07:00:00
+186,michigan,12/13/2014,REG,Arizona (3),Pac-12,L,53,80,,6,4,L 3,McKale Center,-,5:15p,Arizona on December 13 3:25 PM,ARIZ.,2014-12-13 17:25:00,3,basketball,2014-12-14 03:25:00
+187,michigan,12/20/2014,REG,Southern Methodist,AAC,L,51,62,,6,5,L 4,Crisler Arena,-,12:00p,SMU on December 20 12:00 PM,MICH.,2014-12-20 12:00:00,,basketball,2014-12-20 22:00:00
+188,michigan,12/22/2014,REG,Coppin State,MEAC,W,72,56,,7,5,W 1,Crisler Arena,-,8:00p,Coppin State on December 22 8:00 PM,MICH.,2014-12-22 20:00:00,,basketball,2014-12-23 06:00:00
+189,michigan,12/30/2014,REG,Illinois,Big Ten,W,73,65,OT,8,5,W 2,Crisler Arena,-,3:00p,Illinois on December 30 3:00 PM,MICH.,2014-12-30 15:00:00,,basketball,2014-12-31 01:00:00
+190,michigan,1/3/2015,REG,Purdue,Big Ten,L,51,64,,8,6,L 1,Mackey Arena,-,2:15p,Purdue on January 3 2:15 PM,IND.,2015-01-03 14:15:00,,basketball,2015-01-04 00:15:00
+191,michigan,1/6/2015,REG,Penn State,Big Ten,W,73,64,,9,6,W 1,Bryce Jordan Center,-,7:00p,Penn State on January 6 7:00 PM,PA.,2015-01-06 19:00:00,,basketball,2015-01-07 05:00:00
+192,michigan,1/10/2015,REG,Minnesota,Big Ten,W,62,57,,10,6,W 2,Crisler Arena,-,1:00p,Minnesota on January 10 1:00 PM,MICH.,2015-01-10 13:00:00,,basketball,2015-01-10 23:00:00
+193,michigan,1/13/2015,REG,Ohio State,Big Ten,L,52,71,,10,7,L 1,Value City Arena,-,7:00p,Ohio State on January 13 7:00 PM,OHIO,2015-01-13 19:00:00,,basketball,2015-01-14 05:00:00
+194,michigan,1/17/2015,REG,Northwestern,Big Ten,W,56,54,,11,7,W 1,Crisler Arena,-,8:15p,Northwestern on January 17 8:15 PM,MICH.,2015-01-17 20:15:00,,basketball,2015-01-18 06:15:00
+195,michigan,1/20/2015,REG,Rutgers,Big Ten,W,54,50,,12,7,W 2,Louis Brown Athletic Center,-,6:30p,Rutgers on January 20 6:30 PM,N.J.,2015-01-20 18:30:00,,basketball,2015-01-21 04:30:00
+196,michigan,1/24/2015,REG,Wisconsin (6),Big Ten,L,64,69,OT,12,8,L 1,Crisler Arena,-,7:00p,Wisconsin on January 24 7:00 PM,MICH.,2015-01-24 19:00:00,6,basketball,2015-01-25 05:00:00
+197,michigan,1/27/2015,REG,Nebraska,Big Ten,W,58,44,,13,8,W 1,Crisler Arena,-,7:00p,Nebraska on January 27 7:00 PM,MICH.,2015-01-27 19:00:00,,basketball,2015-01-28 05:00:00
+198,michigan,2/1/2015,REG,Michigan State,Big Ten,L,66,76,OT,13,9,L 1,Breslin Events Center,-,1:00p,Michigan State on February 1 1:00 PM,MICH.,2015-02-01 13:00:00,,basketball,2015-02-01 23:00:00
+199,michigan,2/5/2015,REG,Iowa,Big Ten,L,54,72,,13,10,L 2,Crisler Arena,-,7:00p,Iowa on February 5 7:00 PM,MICH.,2015-02-05 19:00:00,,basketball,2015-02-06 05:00:00
+200,michigan,2/8/2015,REG,Indiana,Big Ten,L,67,70,,13,11,L 3,Assembly Hall,-,1:00p,Indiana on February 8 1:00 PM,IND.,2015-02-08 13:00:00,,basketball,2015-02-08 23:00:00
+201,michigan,2/12/2015,REG,Illinois,Big Ten,L,52,64,OT,13,12,L 4,State Farm Center,-,9:00p,Illinois on February 12 8:00 PM,ILL.,2015-02-12 21:00:00,,basketball,2015-02-13 07:00:00
+202,michigan,2/17/2015,REG,Michigan State,Big Ten,L,67,80,,13,13,L 5,Crisler Arena,-,9:00p,Michigan State on February 17 9:00 PM,MICH.,2015-02-17 21:00:00,,basketball,2015-02-18 07:00:00
+203,michigan,2/22/2015,REG,Ohio State (24),Big Ten,W,64,57,,14,13,W 1,Crisler Arena,-,1:00p,Ohio State on February 22 1:00 PM,MICH.,2015-02-22 13:00:00,24,basketball,2015-02-22 23:00:00
+204,michigan,2/28/2015,REG,Maryland (14),Big Ten,L,56,66,,14,14,L 1,Xfinity Center,-,12:00p,Maryland on February 28 12:00 PM,MD.,2015-02-28 12:00:00,14,basketball,2015-02-28 22:00:00
+205,michigan,3/3/2015,REG,Northwestern,Big Ten,L,78,82,2OT,14,15,L 2,Welsh-Ryan Arena,-,9:00p,Northwestern on March 3 8:00 PM,ILL.,2015-03-03 21:00:00,,basketball,2015-03-04 07:00:00
+206,michigan,3/7/2015,REG,Rutgers,Big Ten,W,79,69,,15,15,W 1,Crisler Arena,-,2:15p,Rutgers on March 7 2:15 PM,MICH.,2015-03-07 14:15:00,,basketball,2015-03-08 00:15:00
+207,michigan,3/12/2015,CTOURN,Illinois,Big Ten,W,73,55,,16,15,W 2,United Center,-,12:00p,Illinois (#8) on March 12 11:00 AM,ILL.,2015-03-12 12:00:00,,basketball,2015-03-12 22:00:00
+208,michigan,3/13/2015,CTOURN,Wisconsin (6),Big Ten,L,60,71,,16,16,L 1,United Center,-,12:00p,Wisconsin (#1) on March 13 11:00 AM,ILL.,2015-03-13 12:00:00,6,basketball,2015-03-13 22:00:00
+209,michigan,11/13/2015,REG,Northern Michigan,,W,70,44,,1,0,W 1,Crisler Arena,25,7:00p,Northern Michigan on November 13 7:00 PM,MICH.,2015-11-13 19:00:00,,basketball,2015-11-14 05:00:00
+210,michigan,11/16/2015,REG,Elon,CAA,W,88,68,,2,0,W 2,Crisler Arena,24,7:00p,Elon on November 16 7:00 PM,MICH.,2015-11-16 19:00:00,,basketball,2015-11-17 05:00:00
+211,michigan,11/20/2015,REG,Xavier,Big East,L,70,86,,2,1,L 1,Crisler Arena,24,9:00p,Xavier on November 20 9:00 PM,MICH.,2015-11-20 21:00:00,,basketball,2015-11-21 07:00:00
+212,michigan,11/25/2015,REG,Connecticut (18),AAC,L,60,74,,2,2,L 2,Imperial Arena at Atlantis Resort,-,9:30p,Connecticut on November 25 9:30 PM,BAHAMAS,2015-11-25 21:30:00,18,basketball,2015-11-26 07:30:00
+213,michigan,11/26/2015,REG,Charlotte,CUSA,W,102,47,,3,2,W 1,Imperial Arena at Atlantis Resort,-,9:30p,Charlotte on November 26 9:30 PM,BAHAMAS,2015-11-26 21:30:00,,basketball,2015-11-27 07:30:00
+214,michigan,11/27/2015,REG,Texas,Big 12,W,78,72,,4,2,W 2,Imperial Arena at Atlantis Resort,-,7:00p,Texas on November 27 7:00 PM,BAHAMAS,2015-11-27 19:00:00,,basketball,2015-11-28 05:00:00
+215,michigan,12/1/2015,REG,NC State,ACC,W,66,59,,5,2,W 3,PNC Arena,-,7:00p,North Carolina State on December 1 7:00 PM,N.C.,2015-12-01 19:00:00,,basketball,2015-12-02 05:00:00
+216,michigan,12/5/2015,REG,Houston Baptist,Southland,W,82,57,,6,2,W 4,Crisler Arena,-,2:00p,Houston Baptist on December 5 2:00 PM,MICH.,2015-12-05 14:00:00,,basketball,2015-12-06 00:00:00
+217,michigan,12/8/2015,REG,Southern Methodist (19),AAC,L,58,82,,6,3,L 1,Moody Coliseum ,-,9:00p,SMU on December 8 8:00 PM,TEXAS,2015-12-08 21:00:00,19,basketball,2015-12-09 07:00:00
+218,michigan,12/12/2015,REG,Delaware State,MEAC,W,80,33,,7,3,W 1,Crisler Arena,-,12:00p,Delaware State on December 12 12:00 PM,MICH.,2015-12-12 12:00:00,,basketball,2015-12-12 22:00:00
+219,michigan,12/15/2015,REG,Northern Kentucky,Horizon,W,77,62,,8,3,W 2,Crisler Arena,-,7:00p,Northern Kentucky on December 15 7:00 PM,MICH.,2015-12-15 19:00:00,,basketball,2015-12-16 05:00:00
+220,michigan,12/19/2015,REG,Youngstown State,Horizon,W,105,46,,9,3,W 3,Crisler Arena,-,6:00p,Youngstown State on December 19 6:00 PM,MICH.,2015-12-19 18:00:00,,basketball,2015-12-20 04:00:00
+221,michigan,12/23/2015,REG,Bryant,NEC,W,96,60,,10,3,W 4,Crisler Arena,-,7:00p,Bryant on December 23 7:00 PM,MICH.,2015-12-23 19:00:00,,basketball,2015-12-24 05:00:00
+222,michigan,12/30/2015,REG,Illinois,Big Ten,W,78,68,,11,3,W 5,State Farm Center,-,3:00p,Illinois on December 30 2:00 PM,ILL.,2015-12-30 15:00:00,,basketball,2015-12-31 01:00:00
+223,michigan,1/2/2016,REG,Penn State,Big Ten,W,79,56,,12,3,W 6,Crisler Arena,-,12:00p,Penn State on January 2 12:00 PM,MICH.,2016-01-02 12:00:00,,basketball,2016-01-02 22:00:00
+224,michigan,1/7/2016,REG,Purdue (20),Big Ten,L,70,87,,12,4,L 1,Mackey Arena,-,7:00p,Purdue on January 7 7:00 PM,IND.,2016-01-07 19:00:00,20,basketball,2016-01-08 05:00:00
+225,michigan,1/12/2016,REG,Maryland (3),Big Ten,W,70,67,,13,4,W 1,Crisler Arena,-,9:00p,Maryland on January 12 9:00 PM,MICH.,2016-01-12 21:00:00,3,basketball,2016-01-13 07:00:00
+226,michigan,1/17/2016,REG,Iowa (16),Big Ten,L,71,82,,13,5,L 1,Carver-Hawkeye Arena,-,4:30p,Iowa on January 17 3:30 PM,IOWA,2016-01-17 16:30:00,16,basketball,2016-01-18 02:30:00
+227,michigan,1/20/2016,REG,Minnesota,Big Ten,W,74,69,,14,5,W 1,Crisler Arena,-,8:30p,Minnesota on January 20 8:30 PM,MICH.,2016-01-20 20:30:00,,basketball,2016-01-21 06:30:00
+228,michigan,1/23/2016,REG,Nebraska,Big Ten,W,81,68,,15,5,W 2,Pinnacle Bank Arena,-,2:00p,Nebraska on January 23 1:00 PM,NEB.,2016-01-23 14:00:00,,basketball,2016-01-24 00:00:00
+229,michigan,1/27/2016,REG,Rutgers,Big Ten,W,68,57,,16,5,W 3,Crisler Arena,-,7:00p,Rutgers on January 27 7:00 PM,MICH.,2016-01-27 19:00:00,,basketball,2016-01-28 05:00:00
+230,michigan,1/30/2016,REG,Penn State,Big Ten,W,79,72,,17,5,W 4,Madison Square Garden (IV),-,12:00p,Penn State on January 30 12:00 PM,N.Y.,2016-01-30 12:00:00,,basketball,2016-01-30 22:00:00
+231,michigan,2/2/2016,REG,Indiana (22),Big Ten,L,67,80,,17,6,L 1,Crisler Arena,-,9:00p,Indiana on February 2 9:00 PM,MICH.,2016-02-02 21:00:00,22,basketball,2016-02-03 07:00:00
+232,michigan,2/6/2016,REG,Michigan State (10),Big Ten,L,73,89,,17,7,L 2,Crisler Arena,-,2:00p,Michigan State on February 6 2:00 PM,MICH.,2016-02-06 14:00:00,10,basketball,2016-02-07 00:00:00
+233,michigan,2/10/2016,REG,Minnesota,Big Ten,W,82,74,,18,7,W 1,Williams Arena,-,9:00p,Minnesota on February 10 8:00 PM,MINN.,2016-02-10 21:00:00,,basketball,2016-02-11 07:00:00
+234,michigan,2/13/2016,REG,Purdue (18),Big Ten,W,61,56,,19,7,W 2,Crisler Arena,-,2:00p,Purdue on February 13 2:00 PM,MICH.,2016-02-13 14:00:00,18,basketball,2016-02-14 00:00:00
+235,michigan,2/16/2016,REG,Ohio State,Big Ten,L,66,76,,19,8,L 1,Value City Arena,-,7:00p,Ohio State on February 16 7:00 PM,OHIO,2016-02-16 19:00:00,,basketball,2016-02-17 05:00:00
+236,michigan,2/21/2016,REG,Maryland (6),Big Ten,L,82,86,,19,9,L 2,Xfinity Center,-,1:00p,Maryland on February 21 1:00 PM,MD.,2016-02-21 13:00:00,6,basketball,2016-02-21 23:00:00
+237,michigan,2/24/2016,REG,Northwestern,Big Ten,W,72,63,,20,9,W 1,Crisler Arena,-,7:00p,Northwestern on February 24 7:00 PM,MICH.,2016-02-24 19:00:00,,basketball,2016-02-25 05:00:00
+238,michigan,2/28/2016,REG,Wisconsin,Big Ten,L,57,68,,20,10,L 1,Kohl Center,-,6:00p,Wisconsin on February 28 5:00 PM,WIS.,2016-02-28 18:00:00,,basketball,2016-02-29 04:00:00
+239,michigan,3/5/2016,REG,Iowa (16),Big Ten,L,61,71,,20,11,L 2,Crisler Arena,-,8:00p,Iowa on March 5 8:00 PM,MICH.,2016-03-05 20:00:00,16,basketball,2016-03-06 06:00:00
+240,michigan,3/10/2016,CTOURN,Northwestern,Big Ten,W,72,70,OT,21,11,W 1,Bankers Life Fieldhouse,-,12:00p,Northwestern (#9) on March 10 12:00 PM,IND.,2016-03-10 12:00:00,,basketball,2016-03-10 22:00:00
+241,michigan,3/11/2016,CTOURN,Indiana (10),Big Ten,W,72,69,,22,11,W 2,Bankers Life Fieldhouse,-,12:00p,Indiana (#1) on March 11 12:00 PM,IND.,2016-03-11 12:00:00,10,basketball,2016-03-11 22:00:00
+242,michigan,3/12/2016,CTOURN,Purdue (13),Big Ten,L,59,76,,22,12,L 1,Bankers Life Fieldhouse,-,1:00p,Purdue (#4) on March 12 1:00 PM,IND.,2016-03-12 13:00:00,13,basketball,2016-03-12 23:00:00
+243,michigan,3/16/2016,NCAA,Tulsa,AAC,W,67,62,,23,12,W 1,University of Dayton Arena,,9:10p,Tulsa (#11) on March 16 9:10 PM,OHIO,2016-03-16 21:10:00,,basketball,2016-03-17 07:10:00
+244,michigan,3/18/2016,NCAA,Notre Dame,ACC,L,63,70,,23,13,L 1,Barclays Center,,10:12p,Notre Dame (#6) on March 18 9:40 PM,N.Y.,2016-03-18 21:40:00,,basketball,2016-03-19 07:40:00
+245,michigan,11/11/2016,REG,Howard,MEAC,W,76,58,,1,0,W 1,Crisler Arena,-,9:00p,Howard on November 11 9:00 PM,MICH.,2016-11-11 21:00:00,,basketball,2016-11-12 07:00:00
+246,michigan,11/13/2016,REG,IUPUI,Summit,W,77,65,,2,0,W 2,Crisler Arena,-,12:00p,IUPUI on November 13 12:00 PM,MICH.,2016-11-13 12:00:00,,basketball,2016-11-13 22:00:00
+247,michigan,11/17/2016,REG,Marquette,Big East,W,79,61,,3,0,W 3,Madison Square Garden (IV),-,9:30p,Marquette on November 17 9:30 PM,N.Y.,2016-11-17 21:30:00,,basketball,2016-11-18 07:30:00
+248,michigan,11/18/2016,REG,Southern Methodist,AAC,W,76,54,,4,0,W 4,Madison Square Garden (IV),-,7:00p,SMU on November 18 7:00 PM,N.Y.,2016-11-18 19:00:00,,basketball,2016-11-19 05:00:00
+249,michigan,11/23/2016,REG,South Carolina,SEC,L,46,61,,4,1,L 1,The Colonial Life Arena,25,5:00p,South Carolina on November 23 5:00 PM,S.C.,2016-11-23 17:00:00,,basketball,2016-11-24 03:00:00
+250,michigan,11/26/2016,REG,Mount St. Mary's,NEC,W,64,47,,5,1,W 1,Crisler Arena,25,7:00p,Mount St. Mary's on November 26 7:00 PM,MICH.,2016-11-26 19:00:00,,basketball,2016-11-27 05:00:00
+251,michigan,11/30/2016,REG,Virginia Tech,ACC,L,70,73,,5,2,L 1,Crisler Arena,-,7:15p,Virginia Tech on November 30 7:00 PM,MICH.,2016-11-30 19:00:00,,basketball,2016-12-01 05:00:00
+252,michigan,12/3/2016,REG,Kennesaw State,A-Sun,W,82,55,,6,2,W 1,Crisler Arena,-,1:00p,Kennesaw State on December 3 1:00 PM,MICH.,2016-12-03 13:00:00,,basketball,2016-12-03 23:00:00
+253,michigan,12/6/2016,REG,Texas,Big 12,W,53,50,,7,2,W 2,Crisler Arena,-,9:00p,Texas on December 6 9:00 PM,MICH.,2016-12-06 21:00:00,,basketball,2016-12-07 07:00:00
+254,michigan,12/10/2016,REG,UCLA (2),Pac-12,L,84,102,,7,3,L 1,Pauley Pavilion,-,8:00p,UCLA on December 10 5:00 PM,CALIF.,2016-12-10 20:00:00,2,basketball,2016-12-11 06:00:00
+255,michigan,12/13/2016,REG,Central Arkansas,Southland,W,97,53,,8,3,W 1,Crisler Arena,-,9:00p,Central Arkansas on December 13 9:00 PM,MICH.,2016-12-13 21:00:00,,basketball,2016-12-14 07:00:00
+256,michigan,12/17/2016,REG,Maryland-Eastern Shore,MEAC,W,98,49,,9,3,W 2,Crisler Arena,-,3:00p,Maryland Eastern Shore on December 17 3:00 PM,MICH.,2016-12-17 15:00:00,,basketball,2016-12-18 01:00:00
+257,michigan,12/22/2016,REG,Furman,Southern,W,68,62,,10,3,W 3,Crisler Arena,-,7:00p,Furman on December 22 7:00 PM,MICH.,2016-12-22 19:00:00,,basketball,2016-12-23 05:00:00
+258,michigan,1/1/2017,REG,Iowa,Big Ten,L,83,86,OT,10,4,L 1,Carver-Hawkeye Arena,-,2:15p,Iowa on January 1 1:15 PM,IOWA,2017-01-01 14:15:00,,basketball,2017-01-02 00:15:00
+259,michigan,1/4/2017,REG,Penn State,Big Ten,W,72,69,,11,4,W 1,Crisler Arena,-,8:30p,Penn State on January 4 8:30 PM,MICH.,2017-01-04 20:30:00,,basketball,2017-01-05 06:30:00
+260,michigan,1/7/2017,REG,Maryland,Big Ten,L,70,77,,11,5,L 1,Crisler Arena,-,3:15p,Maryland on January 7 3:15 PM,MICH.,2017-01-07 15:15:00,,basketball,2017-01-08 01:15:00
+261,michigan,1/11/2017,REG,Illinois,Big Ten,L,69,85,,11,6,L 2,State Farm Center,-,9:00p,Illinois on January 11 8:00 PM,ILL.,2017-01-11 21:00:00,,basketball,2017-01-12 07:00:00
+262,michigan,1/14/2017,REG,Nebraska,Big Ten,W,91,85,,12,6,W 1,Crisler Arena,-,2:00p,Nebraska on January 14 2:00 PM,MICH.,2017-01-14 14:00:00,,basketball,2017-01-15 00:00:00
+263,michigan,1/17/2017,REG,Wisconsin (17),Big Ten,L,64,68,,12,7,L 1,Kohl Center,-,9:00p,Wisconsin on January 17 8:00 PM,WIS.,2017-01-17 21:00:00,17,basketball,2017-01-18 07:00:00
+264,michigan,1/21/2017,REG,Illinois,Big Ten,W,66,57,,13,7,W 1,Crisler Arena,-,2:15p,Illinois on January 21 2:15 PM,MICH.,2017-01-21 14:15:00,,basketball,2017-01-22 00:15:00
+265,michigan,1/26/2017,REG,Indiana,Big Ten,W,90,60,,14,7,W 2,Crisler Arena,-,9:00p,Indiana on January 26 9:00 PM,MICH.,2017-01-26 21:00:00,,basketball,2017-01-27 07:00:00
+266,michigan,1/29/2017,REG,Michigan State,Big Ten,L,62,70,,14,8,L 1,Breslin Events Center,-,1:00p,Michigan State on January 29 1:00 PM,MICH.,2017-01-29 13:00:00,,basketball,2017-01-29 23:00:00
+267,michigan,2/4/2017,REG,Ohio State,Big Ten,L,66,70,,14,9,L 2,Crisler Arena,-,6:00p,Ohio State on February 4 6:00 PM,MICH.,2017-02-04 18:00:00,,basketball,2017-02-05 04:00:00
+268,michigan,2/7/2017,REG,Michigan State,Big Ten,W,86,57,,15,9,W 1,Crisler Arena,-,9:00p,Michigan State on February 7 9:00 PM,MICH.,2017-02-07 21:00:00,,basketball,2017-02-08 07:00:00
+269,michigan,2/12/2017,REG,Indiana,Big Ten,W,75,63,,16,9,W 2,Assembly Hall,-,1:00p,Indiana on February 12 1:00 PM,IND.,2017-02-12 13:00:00,,basketball,2017-02-12 23:00:00
+270,michigan,2/16/2017,REG,Wisconsin (11),Big Ten,W,64,58,,17,9,W 3,Crisler Arena,-,7:00p,Wisconsin on February 16 7:00 PM,MICH.,2017-02-16 19:00:00,11,basketball,2017-02-17 05:00:00
+271,michigan,2/19/2017,REG,Minnesota,Big Ten,L,78,83,OT,17,10,L 1,Williams Arena,-,7:00p,Minnesota on February 19 6:00 PM,MINN.,2017-02-19 19:00:00,,basketball,2017-02-20 05:00:00
+272,michigan,2/22/2017,REG,Rutgers,Big Ten,W,68,64,,18,10,W 1,Louis Brown Athletic Center,-,6:30p,Rutgers on February 22 6:30 PM,N.J.,2017-02-22 18:30:00,,basketball,2017-02-23 04:30:00
+273,michigan,2/25/2017,REG,Purdue (14),Big Ten,W,82,70,,19,10,W 2,Crisler Arena,-,4:00p,Purdue on February 25 4:00 PM,MICH.,2017-02-25 16:00:00,14,basketball,2017-02-26 02:00:00
+274,michigan,3/1/2017,REG,Northwestern,Big Ten,L,65,67,,19,11,L 1,Welsh-Ryan Arena,-,7:00p,Northwestern on March 1 6:00 PM,ILL.,2017-03-01 19:00:00,,basketball,2017-03-02 05:00:00
+275,michigan,3/5/2017,REG,Nebraska,Big Ten,W,93,57,,20,11,W 1,Pinnacle Bank Arena,-,8:00p,Nebraska on March 5 7:00 PM,NEB.,2017-03-05 20:00:00,,basketball,2017-03-06 06:00:00
+276,michigan,3/9/2017,CTOURN,Illinois,Big Ten,W,75,55,,21,11,W 2,Verizon Center,-,12:00p,Illinois (#9) on March 9 12:20 PM,D.C.,2017-03-09 12:20:00,,basketball,2017-03-09 22:20:00
+277,michigan,3/10/2017,CTOURN,Purdue (13),Big Ten,W,74,70,OT,22,11,W 3,Verizon Center,-,12:00p,Purdue (#1) on March 10 12:00 PM,D.C.,2017-03-10 12:00:00,13,basketball,2017-03-10 22:00:00
+278,michigan,3/11/2017,CTOURN,Minnesota,Big Ten,W,84,77,,23,11,W 4,Verizon Center,-,1:00p,Minnesota (#4) on March 11 1:00 PM,D.C.,2017-03-11 13:00:00,,basketball,2017-03-11 23:00:00
+279,michigan,3/12/2017,CTOURN,Wisconsin (24),Big Ten,W,71,56,,24,11,W 5,Verizon Center,-,3:00p,Wisconsin (#2) on March 12 3:00 PM,D.C.,2017-03-12 15:00:00,24,basketball,2017-03-13 01:00:00
+280,michigan,3/17/2017,NCAA,Oklahoma State,Big 12,W,92,91,,25,11,W 6,Bankers Life Fieldhouse,,12:15p,Oklahoma State (#10) on March 17 12:15 PM,IND.,2017-03-17 12:15:00,,basketball,2017-03-17 22:15:00
+281,michigan,3/19/2017,NCAA,Louisville (10),ACC,W,73,69,,26,11,W 7,Bankers Life Fieldhouse,,12:10p,Louisville (#2) on March 19 12:10 PM,IND.,2017-03-19 12:10:00,10,basketball,2017-03-19 22:10:00
+282,michigan,3/23/2017,NCAA,Oregon (9),Pac-12,L,68,69,,26,12,L 1,Sprint Center,,7:09p,Oregon (#3) on March 23 6:09 PM,MO.,2017-03-23 19:09:00,9,basketball,2017-03-24 05:09:00
+283,michigan,11/11/2017,REG,North Florida,A-Sun,W,86,66,,1,0,W 1,Crisler Arena,-,7:30p,North Florida on November 11 7:30 PM,MICH.,2017-11-11 19:30:00,,basketball,2017-11-12 05:30:00
+284,michigan,11/13/2017,REG,Central Michigan,MAC,W,72,65,,2,0,W 2,Crisler Arena,-,7:00p,Central Michigan on November 13 7:00 PM,MICH.,2017-11-13 19:00:00,,basketball,2017-11-14 05:00:00
+285,michigan,11/16/2017,REG,Southern Mississippi,CUSA,W,61,47,,3,0,W 3,Crisler Arena,-,7:00p,Southern Mississippi on November 16 7:00 PM,MICH.,2017-11-16 19:00:00,,basketball,2017-11-17 05:00:00
+286,michigan,11/20/2017,REG,Louisiana State,SEC,L,75,77,,3,1,L 1,Lahaina Civic Center,-,11:00p,LSU on November 20 6:30 PM HT,HAWAI'I,2017-11-20 19:30:00,,basketball,2017-11-21 05:30:00
+287,michigan,11/21/2017,REG,Chaminade,,W,102,64,,4,1,W 1,Lahaina Civic Center,-,8:00p,Chaminade on November 21 3:00 PM HT,HAWAI'I,2017-11-21 16:00:00,,basketball,2017-11-22 02:00:00
+288,michigan,11/22/2017,REG,Virginia Commonwealth,A-10,W,68,60,,5,1,W 2,Lahaina Civic Center,-,5:00p,VCU on November 22 Noon HT,HAWAI'I,2017-11-22 13:00:00,,basketball,2017-11-22 23:00:00
+289,michigan,11/26/2017,REG,UC Riverside,Big West,W,87,42,,6,1,W 3,Crisler Arena,-,4:00p,UC Riverside on November 26 4:00 PM,MICH.,2017-11-26 16:00:00,,basketball,2017-11-27 02:00:00
+290,michigan,11/29/2017,REG,North Carolina (13),ACC,L,71,86,,6,2,L 1,Dean Smith Center,-,7:30p,North Carolina on November 29 7:30 PM,N.C.,2017-11-29 19:30:00,13,basketball,2017-11-30 05:30:00
+291,michigan,12/2/2017,REG,Indiana,Big Ten,W,69,55,,7,2,W 1,Crisler Arena,-,12:30p,Indiana on December 2 12:30 PM,MICH.,2017-12-02 12:30:00,,basketball,2017-12-02 22:30:00
+292,michigan,12/4/2017,REG,Ohio State,Big Ten,L,62,71,,7,3,L 1,Value City Arena,-,6:30p,Ohio State on December 4 6:30 PM,OHIO,2017-12-04 18:30:00,,basketball,2017-12-05 04:30:00
+293,michigan,12/9/2017,REG,UCLA,Pac-12,W,78,69,OT,8,3,W 1,Crisler Arena,-,12:00p,UCLA on December 9 Noon,MICH.,2017-12-09 12:00:00,,basketball,2017-12-09 22:00:00
+294,michigan,12/12/2017,REG,Texas,Big 12,W,59,52,,9,3,W 2,Frank Erwin Center,-,9:00p,Texas on December 12 8:00 PM CT,TEXAS,2017-12-12 21:00:00,,basketball,2017-12-13 07:00:00
+295,michigan,12/16/2017,REG,Detroit Mercy,Horizon,W,90,58,,10,3,W 3,Little Caesars Arena,-,12:00p,Detroit on December 16 Noon,MICH. (LITTLE CAESARS ARENA),2017-12-16 12:00:00,,basketball,2017-12-16 22:00:00
+296,michigan,12/21/2017,REG,Alabama A&M,SWAC,W,97,47,,11,3,W 4,Crisler Arena,-,9:00p,Alabama A&M on December 21 9:00 PM,MICH.,2017-12-21 21:00:00,,basketball,2017-12-22 07:00:00
+297,michigan,12/30/2017,REG,Jacksonville,A-Sun,W,76,51,,12,3,W 5,Crisler Arena,-,6:00p,Jacksonville on December 30 6:00 PM,MICH.,2017-12-30 18:00:00,,basketball,2017-12-31 04:00:00
+298,michigan,1/2/2018,REG,Iowa,Big Ten,W,75,68,,13,3,W 6,Carver-Hawkeye Arena,-,7:00p,Iowa on January 2 6:00 PM CT,IOWA,2018-01-02 19:00:00,,basketball,2018-01-03 05:00:00
+299,michigan,1/6/2018,REG,Illinois,Big Ten,W,79,69,,14,3,W 7,Crisler Arena,-,12:00p,Illinois on January 6 Noon,MICH.,2018-01-06 12:00:00,,basketball,2018-01-06 22:00:00
+300,michigan,1/9/2018,REG,Purdue (5),Big Ten,L,69,70,,14,4,L 1,Crisler Arena,-,9:00p,Purdue on January 9 9:00 PM,MICH.,2018-01-09 21:00:00,5,basketball,2018-01-10 07:00:00
+301,michigan,1/13/2018,REG,Michigan State (4),Big Ten,W,82,72,,15,4,W 1,Breslin Events Center,-,12:00p,Michigan State on January 13 Noon,MICH.,2018-01-13 12:00:00,4,basketball,2018-01-13 22:00:00
+302,michigan,1/15/2018,REG,Maryland,Big Ten,W,68,67,,16,4,W 2,Crisler Arena,23,6:30p,Maryland on January 15 6:30 PM,MICH.,2018-01-15 18:30:00,,basketball,2018-01-16 04:30:00
+303,michigan,1/18/2018,REG,Nebraska,Big Ten,L,52,72,,16,5,L 1,Pinnacle Bank Arena,23,9:00p,Nebraska on January 18 8:00 PM CT,NEB.,2018-01-18 21:00:00,,basketball,2018-01-19 07:00:00
+304,michigan,1/21/2018,REG,Rutgers,Big Ten,W,62,47,,17,5,W 1,Crisler Arena,23,12:00p,Rutgers on January 21 Noon,MICH.,2018-01-21 12:00:00,,basketball,2018-01-21 22:00:00
+305,michigan,1/25/2018,REG,Purdue (3),Big Ten,L,88,92,,17,6,L 1,Mackey Arena,25,7:00p,Purdue on January 25 7:00 PM,IND.,2018-01-25 19:00:00,3,basketball,2018-01-26 05:00:00
+306,michigan,1/29/2018,REG,Northwestern,Big Ten,W,58,47,,18,6,W 1,Crisler Arena,24,7:00p,Northwestern on January 29 7:00 PM,MICH.,2018-01-29 19:00:00,,basketball,2018-01-30 05:00:00
+307,michigan,2/3/2018,REG,Minnesota,Big Ten,W,76,73,OT,19,6,W 2,Crisler Arena,24,2:30p,Minnesota on February 3 2:30 PM,MICH.,2018-02-03 14:30:00,,basketball,2018-02-04 00:30:00
+308,michigan,2/6/2018,REG,Northwestern,Big Ten,L,52,61,,19,7,L 1,Allstate Arena,20,7:00p,Northwestern on February 6 6:00 PM CT,ILL.,2018-02-06 19:00:00,,basketball,2018-02-07 05:00:00
+309,michigan,2/11/2018,REG,Wisconsin,Big Ten,W,83,72,,20,7,W 1,Kohl Center,20,1:00p,Wisconsin on February 11 Noon CT,WIS.,2018-02-11 13:00:00,,basketball,2018-02-11 23:00:00
+310,michigan,2/14/2018,REG,Iowa,Big Ten,W,74,59,,21,7,W 2,Crisler Arena,22,6:30p,Iowa on February 14 6:30 PM,MICH.,2018-02-14 18:30:00,,basketball,2018-02-15 04:30:00
+311,michigan,2/18/2018,REG,Ohio State (8),Big Ten,W,74,62,,22,7,W 3,Crisler Arena,22,1:00p,Ohio State on February 18 1:00 PM,MICH.,2018-02-18 13:00:00,8,basketball,2018-02-18 23:00:00
+312,michigan,2/21/2018,REG,Penn State,Big Ten,W,72,63,,23,7,W 4,Bryce Jordan Center,17,7:00p,Penn State on February 21 7:00 PM,PA.,2018-02-21 19:00:00,,basketball,2018-02-22 05:00:00
+313,michigan,2/24/2018,REG,Maryland,Big Ten,W,85,61,,24,7,W 5,Xfinity Center,17,12:00p,Maryland on February 24 Noon,MD.,2018-02-24 12:00:00,,basketball,2018-02-24 22:00:00
+314,michigan,3/1/2018,CTOURN,Iowa,Big Ten,W,77,71,OT,25,7,W 6,Madison Square Garden (IV),15,2:25p,Iowa on March 1 2:30 PM,N.Y.,2018-03-01 14:30:00,,basketball,2018-03-02 00:30:00
+315,michigan,3/2/2018,CTOURN,Nebraska,Big Ten,W,77,58,,26,7,W 7,Madison Square Garden (IV),15,2:30p,Nebraska on March 2 2:30 PM,N.Y.,2018-03-02 14:30:00,,basketball,2018-03-03 00:30:00
+316,michigan,3/3/2018,CTOURN,Michigan State (2),Big Ten,W,75,64,,27,7,W 8,Madison Square Garden (IV),15,2:00p,Michigan State on March 3 2:00 PM,N.Y.,2018-03-03 14:00:00,2,basketball,2018-03-04 00:00:00
+317,michigan,3/4/2018,CTOURN,Purdue (8),Big Ten,W,75,66,,28,7,W 9,Madison Square Garden (IV),15,4:30p,Purdue on March 4 4:30 PM,N.Y.,2018-03-04 16:30:00,8,basketball,2018-03-05 02:30:00
+318,michigan,3/15/2018,NCAA,Montana,Big Sky,W,61,47,,29,7,W 10,Intrust Bank Arena,,9:50p,Montana on March 15 8:50 PM CT,KAN.,2018-03-15 21:50:00,,basketball,2018-03-16 07:50:00
+319,michigan,3/17/2018,NCAA,Houston (21),AAC,W,64,63,,30,7,W 11,Intrust Bank Arena,,9:40p,Houston on March 17 8:40 PM CT,KAN.,2018-03-17 21:40:00,21,basketball,2018-03-18 07:40:00
+320,michigan,3/22/2018,NCAA,Texas A&M,SEC,W,99,72,,31,7,W 12,Staples Center,,7:37p,Texas A&M on March 22 4:37 PM PT,CALIF.,2018-03-22 19:37:00,,basketball,2018-03-23 05:37:00
+321,michigan,3/24/2018,NCAA,Florida State,ACC,W,58,54,,32,7,W 13,Staples Center,,8:49p,Florida State on March 24 5:49 PM PT,CALIF.,2018-03-24 20:49:00,,basketball,2018-03-25 06:49:00
+322,michigan,3/31/2018,NCAA,Loyola (IL),MVC,W,69,57,,33,7,W 14,Alamodome,,6:09p,Loyola Chicago on March 31 5:09 PM CT,TEXAS,2018-03-31 18:09:00,,basketball,2018-04-01 04:09:00
+323,michigan,4/2/2018,NCAA,Villanova (2),Big East,L,62,79,,33,8,L 1,Alamodome,,9:20p,Villanova on April 2 8:19 PM CT,TEXAS,2018-04-02 21:19:00,2,basketball,2018-04-03 07:19:00
+324,michigan,11/6/2018,REG,Norfolk State,MEAC,W,63,44,,1,0,W 1,Crisler Arena,19,8:30p,Norfolk State on November 6 8:30 PM,MICH.,2018-11-06 20:30:00,,basketball,2018-11-07 06:30:00
+325,michigan,11/10/2018,REG,Holy Cross,Patriot,W,56,37,,2,0,W 2,Crisler Arena,19,7:30p,Holy Cross on November 10 7:30 PM,MICH.,2018-11-10 19:30:00,,basketball,2018-11-11 05:30:00
+326,michigan,11/14/2018,REG,Villanova (8),Big East,W,73,46,,3,0,W 3,Finneran Pavilion,18,6:30p,Villanova on November 14 6:30 p.m.,PA.,2018-11-14 18:30:00,8,basketball,2018-11-15 04:30:00
+327,michigan,11/17/2018,REG,George Washington,A-10,W,84,61,,4,0,W 4,Mohegan Sun Arena,18,12:00p,George Washington on November 17 Noon,CONN.,2018-11-17 12:00:00,,basketball,2018-11-17 22:00:00
+328,michigan,11/18/2018,REG,Providence,Big East,W,66,47,,5,0,W 5,Mohegan Sun Arena,18,1:30p,Providence on November 18 1:30 PM,CONN.,2018-11-18 13:30:00,,basketball,2018-11-18 23:30:00
+329,michigan,11/23/2018,REG,Chattanooga,Southern,W,83,55,,6,0,W 6,Crisler Arena,9,4:00p,Chattanooga on November 23 4:00 PM,MICH.,2018-11-23 16:00:00,,basketball,2018-11-24 02:00:00
+330,michigan,11/28/2018,REG,North Carolina (11),ACC,W,84,67,,7,0,W 7,Crisler Arena,7,9:30p,North Carolina on November 28 9:30 PM,MICH.,2018-11-28 21:30:00,11,basketball,2018-11-29 07:30:00
+331,michigan,12/1/2018,REG,Purdue (19),Big Ten,W,76,57,,8,0,W 8,Crisler Arena,7,3:30p,Purdue on December 1 3:30 PM,MICH.,2018-12-01 15:30:00,19,basketball,2018-12-02 01:30:00
+332,michigan,12/4/2018,REG,Northwestern,Big Ten,W,62,60,,9,0,W 9,Welsh-Ryan Arena,5,9:00p,Northwestern on December 4 8:00 PM CT,ILL.,2018-12-04 21:00:00,,basketball,2018-12-05 07:00:00
+333,michigan,12/8/2018,REG,South Carolina,SEC,W,89,78,,10,0,W 10,Crisler Arena,5,12:00p,South Carolina on December 8 Noon,MICH.,2018-12-08 12:00:00,,basketball,2018-12-08 22:00:00
+334,michigan,12/15/2018,REG,Western Michigan,MAC,W,70,62,,11,0,W 11,Crisler Arena,5,2:00p,Western Michigan on December 15 2:00 PM,MICH.,2018-12-15 14:00:00,,basketball,2018-12-16 00:00:00
+335,michigan,12/22/2018,REG,Air Force,MWC,W,71,50,,12,0,W 12,Crisler Arena,4,4:00p,Air Force on December 22 4:00 PM,MICH.,2018-12-22 16:00:00,,basketball,2018-12-23 02:00:00
+336,michigan,12/30/2018,REG,Binghamton,AEC,W,74,52,,13,0,W 13,Crisler Arena,2,12:00p,Binghamton on December 30 Noon,MICH.,2018-12-30 12:00:00,,basketball,2018-12-30 22:00:00
+337,michigan,1/3/2019,REG,Penn State,Big Ten,W,68,55,,14,0,W 14,Crisler Arena,2,7:00p,Penn State on January 3 7:00 PM,MICH.,2019-01-03 19:00:00,,basketball,2019-01-04 05:00:00
+338,michigan,1/6/2019,REG,Indiana (21),Big Ten,W,74,63,,15,0,W 15,Crisler Arena,2,4:30p,Indiana on January 6 4:30 PM,MICH.,2019-01-06 16:30:00,21,basketball,2019-01-07 02:30:00
+339,michigan,1/10/2019,REG,Illinois,Big Ten,W,79,69,,16,0,W 16,State Farm Center,2,8:00p,Illinois on January 10 7:00 PM CT,ILL.,2019-01-10 20:00:00,,basketball,2019-01-11 06:00:00
+340,michigan,1/13/2019,REG,Northwestern,Big Ten,W,80,60,,17,0,W 17,Crisler Arena,2,7:30p,Northwestern on January 13 7:30 PM,MICH.,2019-01-13 19:30:00,,basketball,2019-01-14 05:30:00
+341,michigan,1/19/2019,REG,Wisconsin,Big Ten,L,54,64,,17,1,L 1,Kohl Center,2,12:00p,Wisconsin on January 19 11:00 AM CT,WIS.,2019-01-19 12:00:00,,basketball,2019-01-19 22:00:00
+342,michigan,1/22/2019,REG,Minnesota,Big Ten,W,59,57,,18,1,W 1,Crisler Arena,5,7:00p,Minnesota on January 22 7:00 PM,MICH.,2019-01-22 19:00:00,,basketball,2019-01-23 05:00:00
+343,michigan,1/25/2019,REG,Indiana,Big Ten,W,69,46,,19,1,W 2,Assembly Hall,5,6:30p,Indiana on January 25 6:30 PM,IND.,2019-01-25 18:30:00,,basketball,2019-01-26 04:30:00
+344,michigan,1/29/2019,REG,Ohio State,Big Ten,W,65,49,,20,1,W 3,Crisler Arena,5,9:00p,Ohio State on January 29 9:00 PM,MICH.,2019-01-29 21:00:00,,basketball,2019-01-30 07:00:00
+345,michigan,2/1/2019,REG,Iowa,Big Ten,L,59,74,,20,2,L 1,Carver-Hawkeye Arena,5,7:00p,Iowa on February 1 6:00 PM CT,IOWA,2019-02-01 19:00:00,,basketball,2019-02-02 05:00:00
+346,michigan,2/5/2019,REG,Rutgers,Big Ten,W,77,65,,21,2,W 1,Louis Brown Athletic Center,7,8:00p,Rutgers on February 5 8:00 PM,N.J.,2019-02-05 20:00:00,,basketball,2019-02-06 06:00:00
+347,michigan,2/9/2019,REG,Wisconsin (19),Big Ten,W,61,52,,22,2,W 2,Crisler Arena,7,12:00p,Wisconsin on February 9 Noon,MICH.,2019-02-09 12:00:00,19,basketball,2019-02-09 22:00:00
+348,michigan,2/12/2019,REG,Penn State,Big Ten,L,69,75,,22,3,L 1,Bryce Jordan Center,6,8:30p,Penn State on February 12 8:30 PM,PA.,2019-02-12 20:30:00,,basketball,2019-02-13 06:30:00
+349,michigan,2/16/2019,REG,Maryland (24),Big Ten,W,65,52,,23,3,W 1,Crisler Arena,6,12:00p,Maryland on February 16 Noon,MICH.,2019-02-16 12:00:00,24,basketball,2019-02-16 22:00:00
+350,michigan,2/21/2019,REG,Minnesota,Big Ten,W,69,60,,24,3,W 2,Williams Arena,7,7:00p,Minnesota on February 21 6:00 PM CT,MINN.,2019-02-21 19:00:00,,basketball,2019-02-22 05:00:00
+351,michigan,2/24/2019,REG,Michigan State (10),Big Ten,L,70,77,,24,4,L 1,Crisler Arena,7,3:45p,Michigan State on February 24 3:45 PM,MICH.,2019-02-24 15:45:00,10,basketball,2019-02-25 01:45:00
+352,michigan,2/28/2019,REG,Nebraska,Big Ten,W,82,53,,25,4,W 1,Crisler Arena,9,7:00p,Nebraska on February 28 7:00 PM,MICH.,2019-02-28 19:00:00,,basketball,2019-03-01 05:00:00
+353,michigan,3/3/2019,REG,Maryland (17),Big Ten,W,69,62,,26,4,W 2,Xfinity Center,9,3:45p,Maryland on March 3 3:45 PM,MD.,2019-03-03 15:45:00,17,basketball,2019-03-04 01:45:00
+354,michigan,3/9/2019,REG,Michigan State (9),Big Ten,L,63,75,,26,5,L 1,Breslin Events Center,7,8:00p,Michigan State on March 9 8:00 PM,MICH.,2019-03-09 20:00:00,9,basketball,2019-03-10 06:00:00
+355,michigan,3/15/2019,CTOURN,Iowa,Big Ten,W,74,53,,27,5,W 1,United Center,10,9:25p,Iowa on March 15 8:30 PM CT,ILL.,2019-03-15 21:30:00,,basketball,2019-03-16 07:30:00
+356,michigan,3/16/2019,CTOURN,Minnesota,Big Ten,W,76,49,,28,5,W 2,United Center,10,3:30p,Minnesota on March 16 2:30 PM CT,ILL.,2019-03-16 15:30:00,,basketball,2019-03-17 01:30:00
+357,michigan,3/17/2019,CTOURN,Michigan State (6),Big Ten,L,60,65,,28,6,L 1,United Center,10,3:30p,Michigan State on March 17 2:30 PM CT,ILL.,2019-03-17 15:30:00,6,basketball,2019-03-18 01:30:00
+358,michigan,3/21/2019,NCAA,Montana,Big Sky,W,74,55,,29,6,W 1,Wells Fargo Arena,,9:20p,Montana on March 21 8:20 PM CT,IOWA,2019-03-21 21:20:00,,basketball,2019-03-22 07:20:00
+359,michigan,3/23/2019,NCAA,Florida,SEC,W,64,49,,30,6,W 2,Wells Fargo Arena,,5:15p,Florida on March 23 4:15 PM CT,IOWA,2019-03-23 17:15:00,,basketball,2019-03-24 03:15:00
+360,michigan,3/28/2019,NCAA,Texas Tech (9),Big 12,L,44,63,,30,7,L 1,Honda Center,,9:39p,Texas Tech on March 28 6:39 PM PT,CALIF.,2019-03-28 21:39:00,9,basketball,2019-03-29 07:39:00
+361,michigan-state,2009-11-13,REG,Florida Gulf Coast,A-Sun,W,97,58,,1,0,W 1,Breslin Events Center,2,,FLORIDA GULF COAST,MICH.,2009-11-13 19:00:00,,basketball,2009-11-14 05:00:00
+362,michigan-state,2009-11-17,REG,Gonzaga,WCC,W,75,71,,2,0,W 2,Breslin Events Center,2,,GONZAGA,MICH.,2009-11-17 20:00:00,,basketball,2009-11-18 06:00:00
+363,michigan-state,2009-11-20,REG,Toledo,MAC,W,75,62,,3,0,W 3,Breslin Events Center,2,,TOLEDO,MICH.,2009-11-20 18:30:00,,basketball,2009-11-21 04:30:00
+364,michigan-state,2009-11-22,REG,Valparaiso,Horizon,W,90,60,,4,0,W 4,Breslin Events Center,2,,VALPARAISO,MICH.,2009-11-22 12:00:00,,basketball,2009-11-22 22:00:00
+365,michigan-state,2009-11-27,REG,Florida,SEC,L,74,77,,4,1,L 1,Boardwalk Hall,2,,FLORIDA,N.J.,2009-11-27 20:00:00,,basketball,2009-11-28 06:00:00
+366,michigan-state,2009-11-28,REG,Massachusetts,A-10,W,106,68,,5,1,W 1,Boardwalk Hall,2,,MASSACHUSETTS,N.J.,2009-11-28 17:30:00,,basketball,2009-11-29 03:30:00
+367,michigan-state,2009-12-01,REG,North Carolina (10),ACC,L,82,89,,5,2,L 1,Dean Smith Center,9,,NORTH CAROLINA (BIG TEN/ACC CHALLENGE),N.C.,2009-12-01 21:00:00,10,basketball,2009-12-02 07:00:00
+368,michigan-state,2009-12-04,REG,Wofford,Southern,W,72,60,,6,2,W 1,Breslin Events Center,9,,WOFFORD,MICH.,2009-12-04 19:00:00,,basketball,2009-12-05 05:00:00
+369,michigan-state,2009-12-07,REG,The Citadel,Southern,W,69,56,,7,2,W 2,McAlister Field House,12,,THE CITADEL,S.C.,2009-12-07 19:00:00,,basketball,2009-12-08 05:00:00
+370,michigan-state,2009-12-10,REG,Oakland,Summit,W,88,57,,8,2,W 3,Breslin Events Center,12,,OAKLAND,MICH.,2009-12-10 19:00:00,,basketball,2009-12-11 05:00:00
+371,michigan-state,2009-12-19,REG,Purdue-Fort Wayne,Summit,W,80,58,,9,2,W 4,Breslin Events Center,12,,IPFW,MICH.,2009-12-19 12:00:00,,basketball,2009-12-19 22:00:00
+372,michigan-state,2009-12-22,REG,Texas (2),Big 12,L,68,79,,9,3,L 1,Frank Erwin Center,9,,TEXAS,TEXAS,2009-12-22 19:00:00,2,basketball,2009-12-23 05:00:00
+373,michigan-state,2009-12-30,REG,UT Arlington,Southland,W,87,68,,10,3,W 1,Breslin Events Center,11,,TEXAS-ARLINGTON,MICH.,2009-12-30 19:00:00,,basketball,2009-12-31 05:00:00
+374,michigan-state,2010-01-02,REG,Northwestern (25),Big Ten,W,91,70,,11,3,W 2,Welsh-Ryan Arena,11,,NORTHWESTERN,ILL.,2010-01-02 18:30:00,25,basketball,2010-01-03 04:30:00
+375,michigan-state,2010-01-06,REG,Wisconsin (17),Big Ten,W,54,47,,12,3,W 3,Breslin Events Center,10,,WISCONSIN,MICH.,2010-01-06 18:30:00,17,basketball,2010-01-07 04:30:00
+376,michigan-state,2010-01-09,REG,Iowa,Big Ten,W,71,53,,13,3,W 4,Carver-Hawkeye Arena,10,,IOWA,IOWA,2010-01-09 17:35:00,,basketball,2010-01-10 03:35:00
+377,michigan-state,2010-01-13,REG,Minnesota,Big Ten,W,60,53,,14,3,W 5,Breslin Events Center,7,,MINNESOTA,MICH.,2010-01-13 18:30:00,,basketball,2010-01-14 04:30:00
+378,michigan-state,2010-01-16,REG,Illinois,Big Ten,W,73,63,,15,3,W 6,Breslin Events Center,7,,ILLINOIS,MICH.,2010-01-16 15:30:00,,basketball,2010-01-17 01:30:00
+379,michigan-state,2010-01-20,REG,Iowa,Big Ten,W,70,63,,16,3,W 7,Breslin Events Center,6,,IOWA,MICH.,2010-01-20 18:30:00,,basketball,2010-01-21 04:30:00
+380,michigan-state,2010-01-23,REG,Minnesota,Big Ten,W,65,64,,17,3,W 8,Williams Arena,6,,MINNESOTA,MINN.,2010-01-23 12:00:00,,basketball,2010-01-23 22:00:00
+381,michigan-state,2010-01-26,REG,Michigan,Big Ten,W,57,56,,18,3,W 9,Crisler Arena,5,,MICHIGAN,MICH.,2010-01-26 19:00:00,,basketball,2010-01-27 05:00:00
+382,michigan-state,2010-01-30,REG,Northwestern,Big Ten,W,79,70,,19,3,W 10,Breslin Events Center,5,,NORTHWESTERN,MICH.,2010-01-30 19:00:00,,basketball,2010-01-31 05:00:00
+383,michigan-state,2010-02-02,REG,Wisconsin (16),Big Ten,L,49,67,,19,4,L 1,Kohl Center,5,,WISCONSIN,WIS.,2010-02-02 21:00:00,16,basketball,2010-02-03 07:00:00
+384,michigan-state,2010-02-06,REG,Illinois,Big Ten,L,73,78,,19,5,L 2,Assembly Hall,5,,ILLINOIS,ILL.,2010-02-06 21:00:00,,basketball,2010-02-07 07:00:00
+385,michigan-state,2010-02-09,REG,Purdue (6),Big Ten,L,64,76,,19,6,L 3,Breslin Events Center,10,,PURDUE,MICH.,2010-02-09 21:00:00,6,basketball,2010-02-10 07:00:00
+386,michigan-state,2010-02-13,REG,Penn State,Big Ten,W,65,54,,20,6,W 1,Bryce Jordan Center,10,,PENN STATE,PA.,2010-02-13 12:00:00,,basketball,2010-02-13 22:00:00
+387,michigan-state,2010-02-16,REG,Indiana,Big Ten,W,72,58,,21,6,W 2,Assembly Hall,11,,INDIANA,IND.,2010-02-16 19:00:00,,basketball,2010-02-17 05:00:00
+388,michigan-state,2010-02-21,REG,Ohio State (9),Big Ten,L,67,74,,21,7,L 1,Breslin Events Center,11,,OHIO STATE,MICH.,2010-02-21 12:00:00,9,basketball,2010-02-21 22:00:00
+389,michigan-state,2010-02-28,REG,Purdue (3),Big Ten,W,53,44,,22,7,W 1,Mackey Arena,14,,PURDUE,IND.,2010-02-28 16:00:00,3,basketball,2010-03-01 02:00:00
+390,michigan-state,2010-03-04,REG,Penn State,Big Ten,W,67,65,,23,7,W 2,Breslin Events Center,11,,PENN STATE,MICH.,2010-03-04 19:00:00,,basketball,2010-03-05 05:00:00
+391,michigan-state,2010-03-07,REG,Michigan,Big Ten,W,64,48,,24,7,W 3,Breslin Events Center,11,,MICHIGAN,MICH.,2010-03-07 16:00:00,,basketball,2010-03-08 02:00:00
+392,michigan-state,2010-03-12,CTOURN,Minnesota,Big Ten,L,67,72,OT,24,8,L 1,Conseco Fieldhouse,11,,MINNESOTA,IND.,2010-03-12 21:00:00,,basketball,2010-03-13 07:00:00
+393,michigan-state,2010-03-19,NCAA,New Mexico State,WAC,W,70,67,,25,8,W 1,Spokane Veterans Memorial Arena,,,NEW MEXICO STATE,WASH.,2010-03-19 19:20:00,,basketball,2010-03-20 05:20:00
+394,michigan-state,2010-03-21,NCAA,Maryland (20),ACC,W,85,83,,26,8,W 2,Spokane Veterans Memorial Arena,,,MARYLAND,WASH.,2010-03-21 14:30:00,20,basketball,2010-03-22 00:30:00
+395,michigan-state,2010-03-26,NCAA,Northern Iowa,MVC,W,59,52,,27,8,W 3,Edward Jones Dome,,,NORTHERN IOWA,MO.,2010-03-26 21:37:00,,basketball,2010-03-27 07:37:00
+396,michigan-state,2010-03-28,NCAA,Tennessee (15),SEC,W,70,69,,28,8,W 4,Edward Jones Dome,,,TENNESSEE,MO.,2010-03-28 14:20:00,15,basketball,2010-03-29 00:20:00
+397,michigan-state,2010-04-03,NCAA,Butler (11),Horizon,L,50,52,,28,9,L 1,Lucas Oil Stadium,,,BUTLER,IND.,2010-04-03 18:07:00,11,basketball,2010-04-04 04:07:00
+398,michigan-state,2010-11-12,REG,Eastern Michigan,MAC,W,96,66,,1,0,W 1,Breslin Events Center,2,,EASTERN MICHIGAN,MICH.,2010-11-12 20:30:00,,basketball,2010-11-13 06:30:00
+399,michigan-state,2010-11-16,REG,South Carolina,SEC,W,82,73,,2,0,W 2,Breslin Events Center,2,,SOUTH CAROLINA,MICH.,2010-11-16 22:00:00,,basketball,2010-11-17 08:00:00
+400,michigan-state,2010-11-22,REG,Chaminade,,W,82,74,,3,0,W 3,Lahaina Civic Center,2,,CHAMINADE,HAWAI'I,2010-11-22 21:30:00,,basketball,2010-11-23 07:30:00
+401,michigan-state,2010-11-23,REG,Connecticut,Big East,L,67,70,,3,1,L 1,Lahaina Civic Center,2,,CONNECTICUT,HAWAI'I,2010-11-23 19:00:00,,basketball,2010-11-24 05:00:00
+402,michigan-state,2010-11-24,REG,Washington (13),Pac-10,W,76,71,,4,1,W 1,Lahaina Civic Center,2,,WASHINGTON,HAWAI'I,2010-11-24 17:00:00,13,basketball,2010-11-25 03:00:00
+403,michigan-state,2010-11-28,REG,Tennessee Tech,OVC,W,73,55,,5,1,W 2,Breslin Events Center,2,,TENNESSEE TECH,MICH.,2010-11-28 13:00:00,,basketball,2010-11-28 23:00:00
+404,michigan-state,2010-12-01,REG,Duke (1),ACC,L,79,84,,5,2,L 1,Cameron Indoor Stadium,6,,DUKE (ACC/BIG TEN CHALLENGE),N.C.,2010-12-01 21:30:00,1,basketball,2010-12-02 07:30:00
+405,michigan-state,2010-12-04,REG,Bowling Green State,MAC,W,74,39,,6,2,W 1,Breslin Events Center,6,,BOWLING GREEN,MICH.,2010-12-04 13:30:00,,basketball,2010-12-04 23:30:00
+406,michigan-state,2010-12-07,REG,Syracuse (8),Big East,L,58,72,,6,3,L 1,Madison Square Garden (IV),7,,SYRACUSE,N.Y.,2010-12-07 21:00:00,8,basketball,2010-12-08 07:00:00
+407,michigan-state,2010-12-11,REG,Oakland,Summit,W,77,76,,7,3,W 1,Palace of Auburn Hills,7,,OAKLAND,MICH.,2010-12-11 12:30:00,,basketball,2010-12-11 22:30:00
+408,michigan-state,2010-12-18,REG,Prairie View,SWAC,W,90,51,,8,3,W 2,Breslin Events Center,14,,PRAIRIE VIEW A&M,MICH.,2010-12-18 18:30:00,,basketball,2010-12-19 04:30:00
+409,michigan-state,2010-12-22,REG,Texas (18),Big 12,L,55,67,,8,4,L 1,Breslin Events Center,12,,TEXAS,MICH.,2010-12-22 19:00:00,18,basketball,2010-12-23 05:00:00
+410,michigan-state,2010-12-31,REG,Minnesota (14),Big Ten,W,71,62,,9,4,W 1,Breslin Events Center,20,,MINNESOTA,MICH.,2010-12-31 16:00:00,14,basketball,2011-01-01 02:00:00
+411,michigan-state,2011-01-03,REG,Northwestern,Big Ten,W,65,62,,10,4,W 2,Welsh-Ryan Arena,18,,NORTHWESTERN,ILL.,2011-01-03 19:30:00,,basketball,2011-01-04 05:30:00
+412,michigan-state,2011-01-08,REG,Penn State,Big Ten,L,62,66,,10,5,L 1,Bryce Jordan Center,18,,PENN STATE,PA.,2011-01-08 13:00:00,,basketball,2011-01-08 23:00:00
+413,michigan-state,2011-01-11,REG,Wisconsin (20),Big Ten,W,64,61,OT,11,5,W 1,Breslin Events Center,-,,WISCONSIN,MICH.,2011-01-11 19:00:00,20,basketball,2011-01-12 05:00:00
+414,michigan-state,2011-01-15,REG,Northwestern,Big Ten,W,71,67,OT,12,5,W 2,Breslin Events Center,-,,NORTHWESTERN,MICH.,2011-01-15 13:00:00,,basketball,2011-01-15 23:00:00
+415,michigan-state,2011-01-18,REG,Illinois (23),Big Ten,L,62,71,,12,6,L 1,Assembly Hall,17,,ILLINOIS,ILL.,2011-01-18 19:00:00,23,basketball,2011-01-19 05:00:00
+416,michigan-state,2011-01-22,REG,Purdue (14),Big Ten,L,76,86,,12,7,L 2,Mackey Arena,17,,PURDUE,IND.,2011-01-22 21:00:00,14,basketball,2011-01-23 07:00:00
+417,michigan-state,2011-01-27,REG,Michigan,Big Ten,L,57,61,,12,8,L 3,Breslin Events Center,25,,MICHIGAN,MICH.,2011-01-27 19:00:00,,basketball,2011-01-28 05:00:00
+418,michigan-state,2011-01-30,REG,Indiana,Big Ten,W,84,83,OT,13,8,W 1,Breslin Events Center,25,,INDIANA,MICH.,2011-01-30 18:00:00,,basketball,2011-01-31 04:00:00
+419,michigan-state,2011-02-02,REG,Iowa,Big Ten,L,52,72,,13,9,L 1,Carver-Hawkeye Arena,-,,IOWA,IOWA,2011-02-02 20:30:00,,basketball,2011-02-03 06:30:00
+420,michigan-state,2011-02-06,REG,Wisconsin (19),Big Ten,L,56,82,,13,10,L 2,Kohl Center,-,,WISCONSIN,WIS.,2011-02-06 13:00:00,19,basketball,2011-02-06 23:00:00
+421,michigan-state,2011-02-10,REG,Penn State,Big Ten,W,75,57,,14,10,W 1,Breslin Events Center,-,,PENN STATE,MICH.,2011-02-10 19:00:00,,basketball,2011-02-11 05:00:00
+422,michigan-state,2011-02-15,REG,Ohio State (2),Big Ten,L,61,71,,14,11,L 1,Value City Arena,-,,OHIO STATE,OHIO,2011-02-15 21:00:00,2,basketball,2011-02-16 07:00:00
+423,michigan-state,2011-02-19,REG,Illinois,Big Ten,W,61,57,,15,11,W 1,Breslin Events Center,-,,ILLINOIS,MICH.,2011-02-19 21:00:00,,basketball,2011-02-20 07:00:00
+424,michigan-state,2011-02-22,REG,Minnesota,Big Ten,W,53,48,,16,11,W 2,Williams Arena,-,,MINNESOTA,MINN.,2011-02-22 21:00:00,,basketball,2011-02-23 07:00:00
+425,michigan-state,2011-02-27,REG,Purdue (8),Big Ten,L,47,67,,16,12,L 1,Breslin Events Center,-,,PURDUE,MICH.,2011-02-27 13:00:00,8,basketball,2011-02-27 23:00:00
+426,michigan-state,2011-03-02,REG,Iowa,Big Ten,W,85,66,,17,12,W 1,Breslin Events Center,-,,IOWA,MICH.,2011-03-02 18:30:00,,basketball,2011-03-03 04:30:00
+427,michigan-state,2011-03-05,REG,Michigan,Big Ten,L,63,70,,17,13,L 1,Crisler Arena,-,,MICHIGAN,MICH.,2011-03-05 14:00:00,,basketball,2011-03-06 00:00:00
+428,michigan-state,2011-03-10,CTOURN,Iowa,Big Ten,W,66,61,,18,13,W 1,,-,,IOWA,IND.,2011-03-10 17:00:00,,basketball,2011-03-11 03:00:00
+429,michigan-state,2011-03-11,CTOURN,Purdue (9),Big Ten,W,74,56,,19,13,W 2,Conseco Fieldhouse,-,,PURDUE,IND.,2011-03-11 18:30:00,9,basketball,2011-03-12 04:30:00
+430,michigan-state,2011-03-12,CTOURN,Penn State,Big Ten,L,48,61,,19,14,L 1,,-,,PENN STATE,IND.,2011-03-12 16:15:00,,basketball,2011-03-13 02:15:00
+431,michigan-state,2011-03-17,NCAA,UCLA,Pac-10,L,76,78,,19,15,L 2,St. Pete Times Forum,,,UCLA,FLA.,2011-03-17 21:20:00,,basketball,2011-03-18 07:20:00
+432,michigan-state,2011-11-11,REG,North Carolina (1),ACC,L,55,67,,0,1,L 1,USS Carl Vinson,-,,NORTH CAROLINA,CALIF.,2011-11-11 19:00:00,1,basketball,2011-11-12 05:00:00
+433,michigan-state,2011-11-15,REG,Duke (6),ACC,L,69,74,,0,2,L 2,,-,,DUKE,N.Y.,2011-11-15 19:00:00,6,basketball,2011-11-16 05:00:00
+434,michigan-state,2011-11-18,REG,Texas Southern,SWAC,W,76,41,,1,2,W 1,Breslin Events Center,-,,TEXAS SOUTHERN,MICH.,2011-11-18 18:30:00,,basketball,2011-11-19 04:30:00
+435,michigan-state,2011-11-20,REG,Little Rock,Sun Belt,W,69,47,,2,2,W 2,Breslin Events Center,-,,ARKANSAS-LITTLE ROCK,MICH.,2011-11-20 18:00:00,,basketball,2011-11-21 04:00:00
+436,michigan-state,2011-11-23,REG,Milwaukee,Horizon,W,68,55,,3,2,W 3,Breslin Events Center,-,,MILWAUKEE,MICH.,2011-11-23 19:00:00,,basketball,2011-11-24 05:00:00
+437,michigan-state,2011-11-27,REG,Eastern Michigan,MAC,W,72,40,,4,2,W 4,Convocation Center,-,,EASTERN MICHIGAN,MICH.,2011-11-27 12:00:00,,basketball,2011-11-27 22:00:00
+438,michigan-state,2011-11-30,REG,Florida State,ACC,W,65,49,,5,2,W 5,Breslin Events Center,-,,FLORIDA STATE,MICH.,2011-11-30 19:30:00,,basketball,2011-12-01 05:30:00
+439,michigan-state,2011-12-04,REG,Omaha,,W,110,68,,6,2,W 6,Breslin Events Center,-,,NEBRASKA-OMAHA,MICH.,2011-12-04 14:00:00,,basketball,2011-12-05 00:00:00
+440,michigan-state,2011-12-07,REG,Central Connecticut State,NEC,W,89,69,,7,2,W 7,Breslin Events Center,-,,CENTRAL CONNECTICUT,MICH.,2011-12-07 19:00:00,,basketball,2011-12-08 05:00:00
+441,michigan-state,2011-12-10,REG,Gonzaga (23),WCC,W,74,67,,8,2,W 8,McCarthey Athletic Center,-,,GONZAGA,WASH.,2011-12-10 21:00:00,23,basketball,2011-12-11 07:00:00
+442,michigan-state,2011-12-17,REG,Bowling Green State,MAC,W,74,60,,9,2,W 9,Breslin Events Center,21,,BOWLING GREEN,MICH.,2011-12-17 19:00:00,,basketball,2011-12-18 05:00:00
+443,michigan-state,2011-12-19,REG,Kansas City,Summit,W,89,54,,10,2,W 10,Breslin Events Center,19,,UMKC,MICH.,2011-12-19 20:30:00,,basketball,2011-12-20 06:30:00
+444,michigan-state,2011-12-22,REG,Lehigh,Patriot,W,90,81,,11,2,W 11,Breslin Events Center,19,,LEHIGH,MICH.,2011-12-22 21:00:00,,basketball,2011-12-23 07:00:00
+445,michigan-state,2011-12-28,REG,Indiana (13),Big Ten,W,80,65,,12,2,W 12,Breslin Events Center,16,,INDIANA,MICH.,2011-12-28 19:30:00,13,basketball,2011-12-29 05:30:00
+446,michigan-state,2011-12-31,REG,Nebraska,Big Ten,W,68,55,,13,2,W 13,Bob Devaney Sports Center,16,,NEBRASKA,NEB.,2011-12-31 15:00:00,,basketball,2012-01-01 01:00:00
+447,michigan-state,2012-01-03,REG,Wisconsin (18),Big Ten,W,63,60,OT,14,2,W 14,Kohl Center,10,,WISCONSIN,WIS.,2012-01-03 19:00:00,18,basketball,2012-01-04 05:00:00
+448,michigan-state,2012-01-10,REG,Iowa,Big Ten,W,95,61,,15,2,W 15,Breslin Events Center,6,,IOWA,MICH.,2012-01-10 19:00:00,,basketball,2012-01-11 05:00:00
+449,michigan-state,2012-01-14,REG,Northwestern,Big Ten,L,74,81,,15,3,L 1,Welsh-Ryan Arena,6,,NORTHWESTERN,ILL.,2012-01-14 15:00:00,,basketball,2012-01-15 01:00:00
+450,michigan-state,2012-01-17,REG,Michigan (20),Big Ten,L,59,60,,15,4,L 2,Crisler Arena,9,,MICHIGAN,MICH.,2012-01-17 19:00:00,20,basketball,2012-01-18 05:00:00
+451,michigan-state,2012-01-21,REG,Purdue,Big Ten,W,83,58,,16,4,W 1,Breslin Events Center,9,,PURDUE,MICH.,2012-01-21 12:00:00,,basketball,2012-01-21 22:00:00
+452,michigan-state,2012-01-25,REG,Minnesota,Big Ten,W,68,52,,17,4,W 2,Breslin Events Center,10,,MINNESOTA,MICH.,2012-01-25 20:30:00,,basketball,2012-01-26 06:30:00
+453,michigan-state,2012-01-31,REG,Illinois,Big Ten,L,41,42,,17,5,L 1,Assembly Hall,9,,ILLINOIS,ILL.,2012-01-31 19:00:00,,basketball,2012-02-01 05:00:00
+454,michigan-state,2012-02-05,REG,Michigan (23),Big Ten,W,64,54,,18,5,W 1,Breslin Events Center,9,,MICHIGAN,MICH.,2012-02-05 13:00:00,23,basketball,2012-02-05 23:00:00
+455,michigan-state,2012-02-08,REG,Penn State,Big Ten,W,77,57,,19,5,W 2,Breslin Events Center,11,,PENN STATE,MICH.,2012-02-08 18:30:00,,basketball,2012-02-09 04:30:00
+456,michigan-state,2012-02-11,REG,Ohio State (3),Big Ten,W,58,48,,20,5,W 3,Value City Arena,11,,OHIO STATE,OHIO,2012-02-11 18:00:00,3,basketball,2012-02-12 04:00:00
+457,michigan-state,2012-02-16,REG,Wisconsin (15),Big Ten,W,69,55,,21,5,W 4,Breslin Events Center,7,,WISCONSIN,MICH.,2012-02-16 19:00:00,15,basketball,2012-02-17 05:00:00
+458,michigan-state,2012-02-19,REG,Purdue,Big Ten,W,76,62,,22,5,W 5,Mackey Arena,7,,PURDUE,IND.,2012-02-19 13:00:00,,basketball,2012-02-19 23:00:00
+459,michigan-state,2012-02-22,REG,Minnesota,Big Ten,W,66,61,,23,5,W 6,Williams Arena,6,,MINNESOTA,MINN.,2012-02-22 20:30:00,,basketball,2012-02-23 06:30:00
+460,michigan-state,2012-02-25,REG,Nebraska,Big Ten,W,62,34,,24,5,W 7,Breslin Events Center,6,,NEBRASKA,MICH.,2012-02-25 20:00:00,,basketball,2012-02-26 06:00:00
+461,michigan-state,2012-02-28,REG,Indiana (18),Big Ten,L,55,70,,24,6,L 1,Assembly Hall,5,,INDIANA,IND.,2012-02-28 19:00:00,18,basketball,2012-02-29 05:00:00
+462,michigan-state,2012-03-04,REG,Ohio State (10),Big Ten,L,70,72,,24,7,L 2,Breslin Events Center,5,,OHIO STATE,MICH.,2012-03-04 16:00:00,10,basketball,2012-03-05 02:00:00
+463,michigan-state,2012-03-09,CTOURN,Iowa,Big Ten,W,92,75,,25,7,W 1,Conseco Fieldhouse,8,,IOWA,IND.,2012-03-09 12:00:00,,basketball,2012-03-09 22:00:00
+464,michigan-state,2012-03-10,CTOURN,Wisconsin (14),Big Ten,W,65,52,,26,7,W 2,,8,,WISCONSIN,IND.,2012-03-10 13:40:00,14,basketball,2012-03-10 23:40:00
+465,michigan-state,2012-03-11,CTOURN,Ohio State (7),Big Ten,W,68,64,,27,7,W 3,,8,,OHIO STATE,IND.,2012-03-11 15:30:00,7,basketball,2012-03-12 01:30:00
+466,michigan-state,2012-03-16,NCAA,Long Island University,NEC,W,89,67,,28,7,W 4,Nationwide Arena,,,LIU BROOKLYN,OHIO,2012-03-16 21:20:00,,basketball,2012-03-17 07:20:00
+467,michigan-state,2012-03-18,NCAA,Saint Louis,A-10,W,65,61,,29,7,W 5,Nationwide Arena,,,SAINT LOUIS,OHIO,2012-03-18 14:45:00,,basketball,2012-03-19 00:45:00
+468,michigan-state,2012-03-22,NCAA,Louisville (17),Big East,L,44,57,,29,8,L 1,US Airways Center,,,LOUISVILLE,ARIZ.,2012-03-22 19:47:00,17,basketball,2012-03-23 05:47:00
+469,michigan-state,2012-11-09,REG,Connecticut,Big East,L,62,66,,0,1,L 1,Harry A. Gampel Pavilion,14,,NORTHWOOD (FLA.) (EXH.),MICH.,2012-11-09 19:00:00,,basketball,2012-11-10 05:00:00
+470,michigan-state,2012-11-13,REG,Kansas (7),Big 12,W,67,64,,1,1,W 1,Georgia Dome,21,,ST. CLOUD STATE (EXH.),MICH.,2012-11-13 20:30:00,7,basketball,2012-11-14 06:30:00
+471,michigan-state,2012-11-18,REG,Texas Southern,SWAC,W,69,41,,2,1,W 2,Breslin Events Center,21,,CONNECTICUT,GERMANY,2012-11-18 17:30:00,,basketball,2012-11-19 03:30:00
+472,michigan-state,2012-11-20,REG,Boise State,MWC,W,74,70,,3,1,W 3,Breslin Events Center,15,,KANSAS,GA.,2012-11-20 19:00:00,,basketball,2012-11-21 05:00:00
+473,michigan-state,2012-11-23,REG,Oakland,Summit,W,70,52,,4,1,W 4,Breslin Events Center,15,,TEXAS SOUTHERN,MICH.,2012-11-23 12:00:00,,basketball,2012-11-23 22:00:00
+474,michigan-state,2012-11-25,REG,Louisiana,Sun Belt,W,63,60,,5,1,W 5,Breslin Events Center,15,,BOISE STATE,MICH.,2012-11-25 20:00:00,,basketball,2012-11-26 06:00:00
+475,michigan-state,2012-11-28,REG,Miami (FL),ACC,L,59,67,,5,2,L 1,BankUnited Center,13,,OAKLAND,MICH.,2012-11-28 20:15:00,,basketball,2012-11-29 06:15:00
+476,michigan-state,2012-12-01,REG,Nicholls State,Southland,W,84,39,,6,2,W 1,Breslin Events Center,13,,LOUISIANA-LAFAYETTE,MICH.,2012-12-01 12:00:00,,basketball,2012-12-01 22:00:00
+477,michigan-state,2012-12-05,REG,Arkansas-Pine Bluff,SWAC,W,76,44,,7,2,W 2,Breslin Events Center,19,,MIAMI,FLA.,2012-12-05 19:30:00,,basketball,2012-12-06 05:30:00
+478,michigan-state,2012-12-08,REG,Loyola (IL),Horizon,W,73,61,,8,2,W 3,Breslin Events Center,19,,LOYOLA CHICAGO,MICH.,2012-12-08 14:00:00,,basketball,2012-12-09 00:00:00
+479,michigan-state,2012-12-15,REG,Tuskegee,,W,92,56,,9,2,W 4,Breslin Events Center,19,,TUSKEGEE,MICH.,2012-12-15 21:00:00,,basketball,2012-12-16 07:00:00
+480,michigan-state,2012-12-18,REG,Bowling Green State,MAC,W,64,53,,10,2,W 5,Stroh Center,20,,BOWLING GREEN,OHIO,2012-12-18 19:00:00,,basketball,2012-12-19 05:00:00
+481,michigan-state,2012-12-22,REG,Texas,Big 12,W,67,56,,11,2,W 6,Breslin Events Center,20,,TEXAS,MICH.,2012-12-22 14:00:00,,basketball,2012-12-23 00:00:00
+482,michigan-state,2012-12-31,REG,Minnesota (9),Big Ten,L,63,76,,11,3,L 1,Williams Arena,18,,MINNESOTA,MINN.,2012-12-31 14:00:00,9,basketball,2013-01-01 00:00:00
+483,michigan-state,2013-01-05,REG,Purdue,Big Ten,W,84,61,,12,3,W 1,Breslin Events Center,18,,PURDUE,MICH.,2013-01-05 12:00:00,,basketball,2013-01-05 22:00:00
+484,michigan-state,2013-01-10,REG,Iowa,Big Ten,W,62,59,,13,3,W 2,Carver-Hawkeye Arena,22,,IOWA,IOWA,2013-01-10 19:00:00,,basketball,2013-01-11 05:00:00
+485,michigan-state,2013-01-13,REG,Nebraska,Big Ten,W,66,56,,14,3,W 3,Breslin Events Center,22,,NEBRASKA,MICH.,2013-01-13 18:00:00,,basketball,2013-01-14 04:00:00
+486,michigan-state,2013-01-16,REG,Penn State,Big Ten,W,81,72,,15,3,W 4,Bryce Jordan Center,18,,PENN STATE,PA.,2013-01-16 19:00:00,,basketball,2013-01-17 05:00:00
+487,michigan-state,2013-01-19,REG,Ohio State (11),Big Ten,W,59,56,,16,3,W 5,Breslin Events Center,18,,OHIO STATE,MICH.,2013-01-19 18:00:00,11,basketball,2013-01-20 04:00:00
+488,michigan-state,2013-01-22,REG,Wisconsin,Big Ten,W,49,47,,17,3,W 6,Kohl Center,13,,WISCONSIN,WIS.,2013-01-22 19:00:00,,basketball,2013-01-23 05:00:00
+489,michigan-state,2013-01-27,REG,Indiana (7),Big Ten,L,70,75,,17,4,L 1,Assembly Hall,13,,INDIANA,IND.,2013-01-27 13:00:00,7,basketball,2013-01-27 23:00:00
+490,michigan-state,2013-01-31,REG,Illinois,Big Ten,W,80,75,,18,4,W 1,Breslin Events Center,13,,ILLINOIS,MICH.,2013-01-31 19:00:00,,basketball,2013-02-01 05:00:00
+491,michigan-state,2013-02-06,REG,Minnesota (18),Big Ten,W,61,50,,19,4,W 2,Breslin Events Center,12,,MINNESOTA,MICH.,2013-02-06 19:00:00,18,basketball,2013-02-07 05:00:00
+492,michigan-state,2013-02-09,REG,Purdue,Big Ten,W,78,65,,20,4,W 3,Mackey Arena,12,,PURDUE,IND.,2013-02-09 19:00:00,,basketball,2013-02-10 05:00:00
+493,michigan-state,2013-02-12,REG,Michigan (4),Big Ten,W,75,52,,21,4,W 4,Breslin Events Center,8,,MICHIGAN,MICH.,2013-02-12 21:00:00,4,basketball,2013-02-13 07:00:00
+494,michigan-state,2013-02-16,REG,Nebraska,Big Ten,W,73,64,,22,4,W 5,Bob Devaney Sports Center,8,,NEBRASKA,NEB.,2013-02-16 20:00:00,,basketball,2013-02-17 06:00:00
+495,michigan-state,2013-02-19,REG,Indiana (1),Big Ten,L,68,72,,22,5,L 1,Breslin Events Center,4,,INDIANA,MICH.,2013-02-19 19:00:00,1,basketball,2013-02-20 05:00:00
+496,michigan-state,2013-02-24,REG,Ohio State (18),Big Ten,L,60,68,,22,6,L 2,Value City Arena,4,,OHIO STATE,OHIO,2013-02-24 16:00:00,18,basketball,2013-02-25 02:00:00
+497,michigan-state,2013-03-03,REG,Michigan (4),Big Ten,L,57,58,,22,7,L 3,Crisler Arena,9,,MICHIGAN,MICH.,2013-03-03 16:00:00,4,basketball,2013-03-04 02:00:00
+498,michigan-state,2013-03-07,REG,Wisconsin (22),Big Ten,W,58,43,,23,7,W 1,Breslin Events Center,10,,WISCONSIN,MICH.,2013-03-07 21:00:00,22,basketball,2013-03-08 07:00:00
+499,michigan-state,2013-03-10,REG,Northwestern,Big Ten,W,71,61,,24,7,W 2,Breslin Events Center,10,,NORTHWESTERN,MICH.,2013-03-10 18:00:00,,basketball,2013-03-11 04:00:00
+500,michigan-state,2013-03-15,CTOURN,Iowa,Big Ten,W,59,56,,25,7,W 3,United Center,8,,IOWA,ILL.,2013-03-15 21:00:00,,basketball,2013-03-16 07:00:00
+501,michigan-state,2013-03-16,CTOURN,Ohio State (10),Big Ten,L,58,61,,25,8,L 1,United Center,8,,OHIO STATE,ILL.,2013-03-16 16:10:00,10,basketball,2013-03-17 02:10:00
+502,michigan-state,2013-03-21,NCAA,Valparaiso,Horizon,W,65,54,,26,8,W 1,Palace of Auburn Hills,,,VALPARAISO,MICH.,2013-03-21 12:15:00,,basketball,2013-03-21 22:15:00
+503,michigan-state,2013-03-23,NCAA,Memphis (19),CUSA,W,70,48,,27,8,W 2,Palace of Auburn Hills,,,MEMPHIS,MICH.,2013-03-23 14:45:00,19,basketball,2013-03-24 00:45:00
+504,michigan-state,2013-03-29,NCAA,Duke (6),ACC,L,61,71,,27,9,L 1,Lucas Oil Stadium,,,DUKE,IND.,2013-03-29 21:45:00,6,basketball,2013-03-30 07:45:00
+505,michigan-state,2013-11-08,REG,McNeese State,Southland,W,98,56,,1,0,W 1,Breslin Events Center,2,,MCNEESE STATE,MICH.,2013-11-08 19:00:00,,basketball,2013-11-09 05:00:00
+506,michigan-state,2013-11-12,REG,Kentucky (1),SEC,W,78,74,,2,0,W 2,United Center,2,,KENTUCKY (CHAMPIONS CLASSIC),ILL. (UNITED CENTER),2013-11-12 19:30:00,1,basketball,2013-11-13 05:30:00
+507,michigan-state,2013-11-15,REG,Columbia,Ivy,W,62,53,,3,0,W 3,Breslin Events Center,2,,COLUMBIA (COACHES VS. CANCER CLASSIC),MICH.,2013-11-15 21:00:00,,basketball,2013-11-16 07:00:00
+508,michigan-state,2013-11-18,REG,Portland,WCC,W,82,67,,4,0,W 4,Breslin Events Center,1,,PORTLAND (COACHES VS. CANCER CLASSIC),MICH.,2013-11-18 19:00:00,,basketball,2013-11-19 05:00:00
+509,michigan-state,2013-11-22,REG,Virginia Tech,ACC,W,96,77,,5,0,W 5,Barclays Center,1,,VIRGINIA TECH (COACHES VS. CANCER CLASSIC),N.Y.,2013-11-22 21:30:00,,basketball,2013-11-23 07:30:00
+510,michigan-state,2013-11-23,REG,Oklahoma,Big 12,W,87,76,,6,0,W 6,Barclays Center,1,,OKLAHOMA (COACHES VS. CANCER CLASSIC),N.Y.,2013-11-23 21:30:00,,basketball,2013-11-24 07:30:00
+511,michigan-state,2013-11-29,REG,Mount St. Mary's,NEC,W,98,65,,7,0,W 7,Breslin Events Center,1,,MOUNT ST. MARY'S,MICH.,2013-11-29 13:00:00,,basketball,2013-11-29 23:00:00
+512,michigan-state,2013-12-04,REG,North Carolina,ACC,L,65,79,,7,1,L 1,Breslin Events Center,1,,NORTH CAROLINA (BIG TEN-ACC CHALLENGE),MICH.,2013-12-04 21:00:00,,basketball,2013-12-05 07:00:00
+513,michigan-state,2013-12-14,REG,Oakland,Horizon,W,67,63,,8,1,W 1,,5,,OAKLAND,MICH.,2013-12-14 16:00:00,,basketball,2013-12-15 02:00:00
+514,michigan-state,2013-12-17,REG,North Florida,A-Sun,W,78,48,,9,1,W 2,Breslin Events Center,5,,NORTH FLORIDA,MICH.,2013-12-17 19:00:00,,basketball,2013-12-18 05:00:00
+515,michigan-state,2013-12-21,REG,Texas,Big 12,W,92,78,,10,1,W 3,Frank Erwin Center,5,,TEXAS,TEXAS,2013-12-21 16:00:00,,basketball,2013-12-22 02:00:00
+516,michigan-state,2013-12-28,REG,New Orleans,Southland,W,101,48,,11,1,W 4,Breslin Events Center,5,,NEW ORLEANS,MICH.,2013-12-28 16:15:00,,basketball,2013-12-29 02:15:00
+517,michigan-state,2013-12-31,REG,Penn State,Big Ten,W,79,63,,12,1,W 5,Bryce Jordan Center,5,,PENN STATE,PA.,2013-12-31 17:00:00,,basketball,2014-01-01 03:00:00
+518,michigan-state,2014-01-04,REG,Indiana,Big Ten,W,73,56,,13,1,W 6,Assembly Hall,5,,INDIANA,IND.,2014-01-04 14:00:00,,basketball,2014-01-05 00:00:00
+519,michigan-state,2014-01-07,REG,Ohio State (3),Big Ten,W,72,68,OT,14,1,W 7,Breslin Events Center,5,,OHIO STATE,MICH.,2014-01-07 21:00:00,3,basketball,2014-01-08 07:00:00
+520,michigan-state,2014-01-11,REG,Minnesota,Big Ten,W,87,75,OT,15,1,W 8,Breslin Events Center,5,,MINNESOTA,MICH.,2014-01-11 14:15:00,,basketball,2014-01-12 00:15:00
+521,michigan-state,2014-01-15,REG,Northwestern,Big Ten,W,54,40,,16,1,W 9,Welsh-Ryan Arena,4,,NORTHWESTERN,ILL.,2014-01-15 19:00:00,,basketball,2014-01-16 05:00:00
+522,michigan-state,2014-01-18,REG,Illinois,Big Ten,W,78,62,,17,1,W 10,Assembly Hall,4,,ILLINOIS,ILL.,2014-01-18 20:00:00,,basketball,2014-01-19 06:00:00
+523,michigan-state,2014-01-21,REG,Indiana,Big Ten,W,71,66,,18,1,W 11,Breslin Events Center,3,,INDIANA,MICH.,2014-01-21 19:00:00,,basketball,2014-01-22 05:00:00
+524,michigan-state,2014-01-25,REG,Michigan (21),Big Ten,L,75,80,,18,2,L 1,Breslin Events Center,3,,MICHIGAN,MICH.,2014-01-25 19:00:00,21,basketball,2014-01-26 05:00:00
+525,michigan-state,2014-01-28,REG,Iowa (15),Big Ten,W,71,69,OT,19,2,W 1,Carver-Hawkeye Arena,7,,IOWA,IOWA,2014-01-28 19:00:00,15,basketball,2014-01-29 05:00:00
+526,michigan-state,2014-02-01,REG,Georgetown,Big East,L,60,64,,19,3,L 1,,7,,GEORGETOWN,N.Y.,2014-02-01 15:00:00,,basketball,2014-02-02 01:00:00
+527,michigan-state,2014-02-06,REG,Penn State,Big Ten,W,82,67,,20,3,W 1,Breslin Events Center,9,,PENN STATE,MICH.,2014-02-06 21:00:00,,basketball,2014-02-07 07:00:00
+528,michigan-state,2014-02-09,REG,Wisconsin,Big Ten,L,58,60,,20,4,L 1,Kohl Center,9,,WISCONSIN,WIS.,2014-02-09 13:00:00,,basketball,2014-02-09 23:00:00
+529,michigan-state,2014-02-13,REG,Northwestern,Big Ten,W,85,70,,21,4,W 1,Breslin Events Center,9,,NORTHWESTERN,MICH.,2014-02-13 19:00:00,,basketball,2014-02-14 05:00:00
+530,michigan-state,2014-02-16,REG,Nebraska,Big Ten,L,51,60,,21,5,L 1,Breslin Events Center,9,,NEBRASKA,MICH.,2014-02-16 15:00:00,,basketball,2014-02-17 01:00:00
+531,michigan-state,2014-02-20,REG,Purdue,Big Ten,W,94,79,,22,5,W 1,Mackey Arena,13,,PURDUE,IND.,2014-02-20 19:00:00,,basketball,2014-02-21 05:00:00
+532,michigan-state,2014-02-23,REG,Michigan (20),Big Ten,L,70,79,,22,6,L 1,Crisler Arena,13,,MICHIGAN,MICH.,2014-02-23 12:00:00,20,basketball,2014-02-23 22:00:00
+533,michigan-state,2014-03-01,REG,Illinois,Big Ten,L,46,53,,22,7,L 2,Breslin Events Center,18,,ILLINOIS,MICH.,2014-03-01 16:00:00,,basketball,2014-03-02 02:00:00
+534,michigan-state,2014-03-06,REG,Iowa (24),Big Ten,W,86,76,,23,7,W 1,Breslin Events Center,22,,IOWA,MICH.,2014-03-06 21:00:00,24,basketball,2014-03-07 07:00:00
+535,michigan-state,2014-03-09,REG,Ohio State,Big Ten,L,67,69,,23,8,L 1,Value City Arena,22,,OHIO STATE,OHIO,2014-03-09 16:30:00,,basketball,2014-03-10 02:30:00
+536,michigan-state,2014-03-14,CTOURN,Northwestern,Big Ten,W,67,51,,24,8,W 1,,22,,NORTHWESTERN,IND.,2014-03-14 21:00:00,,basketball,2014-03-15 07:00:00
+537,michigan-state,2014-03-15,CTOURN,Wisconsin (12),Big Ten,W,83,75,,25,8,W 2,,22,,WISCONSIN,IND.,2014-03-15 16:10:00,12,basketball,2014-03-16 02:10:00
+538,michigan-state,2014-03-16,CTOURN,Michigan (8),Big Ten,W,69,55,,26,8,W 3,Conseco Fieldhouse,22,,MICHIGAN,IND.,2014-03-16 15:30:00,8,basketball,2014-03-17 01:30:00
+539,michigan-state,2014-03-20,NCAA,Delaware,CAA,W,93,78,,27,8,W 4,Spokane Veterans Memorial Arena,,,DELAWARE,WASH.,2014-03-20 16:40:00,,basketball,2014-03-21 02:40:00
+540,michigan-state,2014-03-22,NCAA,Harvard,Ivy,W,80,73,,28,8,W 5,Spokane Veterans Memorial Arena,,,HARVARD,WASH.,2014-03-22 20:40:00,,basketball,2014-03-23 06:40:00
+541,michigan-state,2014-03-28,NCAA,Virginia (3),ACC,W,61,59,,29,8,W 6,Madison Square Garden (IV),,,VIRGINIA,N.Y.,2014-03-28 21:57:00,3,basketball,2014-03-29 07:57:00
+542,michigan-state,2014-03-30,NCAA,Connecticut (18),AAC,L,54,60,,29,9,L 1,Madison Square Garden (IV),,,CONNECTICUT,N.Y.,2014-03-30 14:20:00,18,basketball,2014-03-31 00:20:00
+543,michigan-state,2014-11-14,REG,Navy,Patriot,W,64,59,,1,0,W 1,Alumni Hall,18,9:40p,NAVY,MD.,2014-11-14 21:00:00,,basketball,2014-11-15 07:00:00
+544,michigan-state,2014-11-18,REG,Duke (4),ACC,L,71,81,,1,1,L 1,Bankers Life Fieldhouse,19,7:00p,DUKE (CHAMPIONS CLASSIC),IND.,2014-11-18 19:00:00,4,basketball,2014-11-19 05:00:00
+545,michigan-state,2014-11-21,REG,Loyola (IL),MVC,W,87,52,,2,1,W 1,Breslin Events Center,19,7:00p,LOYOLA (CHICAGO),MICH.,2014-11-21 19:00:00,,basketball,2014-11-22 05:00:00
+546,michigan-state,2014-11-24,REG,Santa Clara,WCC,W,79,52,,3,1,W 2,Breslin Events Center,20,7:00p,SANTA CLARA (ORLANDO CLASSIC),MICH.,2014-11-24 19:00:00,,basketball,2014-11-25 05:00:00
+547,michigan-state,2014-11-27,REG,Rider,MAAC,W,77,45,,4,1,W 3,HP Field House,20,6:35p,RIDER (ORLANDO CLASSIC),FLA.,2014-11-27 18:30:00,,basketball,2014-11-28 04:30:00
+548,michigan-state,2014-11-28,REG,Marquette,Big East,W,79,68,,5,1,W 4,HP Field House,20,9:00p,MICHIGAN STATE @ MARQUETTE,FLORIDA,2014-11-28 21:00:00,,basketball,2014-11-29 07:00:00
+549,michigan-state,2014-11-30,REG,Kansas (11),Big 12,L,56,61,,5,2,L 1,HP Field House,20,1:00p,KANSAS,FLA.,2014-11-30 13:00:00,11,basketball,2014-11-30 23:00:00
+550,michigan-state,2014-12-03,REG,Notre Dame,ACC,L,78,79,OT,5,3,L 2,Purcell Pavilion at the Joyce Center,19,7:15p,NOTRE DAME (ACC/BIG TEN CHALLENGE),IND.,2014-12-03 19:15:00,,basketball,2014-12-04 05:15:00
+551,michigan-state,2014-12-06,REG,Arkansas-Pine Bluff,SWAC,W,85,52,,6,3,W 1,Breslin Events Center,19,2:15p,ARKANSAS-PINE BLUFF,MICH.,2014-12-06 14:15:00,,basketball,2014-12-07 00:15:00
+552,michigan-state,2014-12-14,REG,Oakland,Horizon,W,87,61,,7,3,W 2,Breslin Events Center,-,8:00p,OAKLAND,MICH.,2014-12-14 20:00:00,,basketball,2014-12-15 06:00:00
+553,michigan-state,2014-12-17,REG,Eastern Michigan,MAC,W,66,46,,8,3,W 3,Breslin Events Center,25,9:00p,EASTERN MICHIGAN,MICH.,2014-12-17 21:00:00,,basketball,2014-12-18 07:00:00
+554,michigan-state,2014-12-20,REG,Texas Southern,SWAC,L,64,71,OT,8,4,L 1,Breslin Events Center,25,5:00p,TEXAS SOUTHERN,MICH.,2014-12-20 17:00:00,,basketball,2014-12-21 03:00:00
+555,michigan-state,2014-12-22,REG,The Citadel,Southern,W,82,56,,9,4,W 1,Breslin Events Center,-,6:00p,THE CITADEL,MICH.,2014-12-22 18:00:00,,basketball,2014-12-23 04:00:00
+556,michigan-state,2014-12-30,REG,Maryland (12),Big Ten,L,66,68,2OT,9,5,L 1,Breslin Events Center,-,5:00p,MARYLAND,MICH.,2014-12-30 17:00:00,12,basketball,2014-12-31 03:00:00
+557,michigan-state,2015-01-05,REG,Indiana,Big Ten,W,70,50,,10,5,W 1,Breslin Events Center,-,7:00p,INDIANA,MICH.,2015-01-05 19:00:00,,basketball,2015-01-06 05:00:00
+558,michigan-state,2015-01-08,REG,Iowa,Big Ten,W,75,61,,11,5,W 2,Carver-Hawkeye Arena,-,7:00p,IOWA,IOWA,2015-01-08 19:00:00,,basketball,2015-01-09 05:00:00
+559,michigan-state,2015-01-11,REG,Northwestern,Big Ten,W,84,77,OT,12,5,W 3,Breslin Events Center,-,12:00p,NORTHWESTERN,MICH.,2015-01-11 12:00:00,,basketball,2015-01-11 22:00:00
+560,michigan-state,2015-01-17,REG,Maryland (14),Big Ten,L,59,75,,12,6,L 1,Xfinity Center,-,4:00p,MARYLAND,MD.,2015-01-17 16:00:00,14,basketball,2015-01-18 02:00:00
+561,michigan-state,2015-01-21,REG,Penn State,Big Ten,W,66,60,,13,6,W 1,Breslin Events Center,-,7:00p,PENN STATE,MICH.,2015-01-21 19:00:00,,basketball,2015-01-22 05:00:00
+562,michigan-state,2015-01-24,REG,Nebraska,Big Ten,L,77,79,,13,7,L 1,Pinnacle Bank Arena,-,4:00p,NEBRASKA,NEB.,2015-01-24 16:00:00,,basketball,2015-01-25 02:00:00
+563,michigan-state,2015-01-29,REG,Rutgers,Big Ten,W,71,51,,14,7,W 1,Louis Brown Athletic Center,-,6:00p,RUTGERS,N.J.,2015-01-29 18:00:00,,basketball,2015-01-30 04:00:00
+564,michigan-state,2015-02-01,REG,Michigan,Big Ten,W,76,66,OT,15,7,W 2,Breslin Events Center,-,1:00p,MICHIGAN,MICH.,2015-02-01 13:00:00,,basketball,2015-02-01 23:00:00
+565,michigan-state,2015-02-07,REG,Illinois,Big Ten,L,54,59,,15,8,L 1,Breslin Events Center,-,12:00p,ILLINOIS,MICH.,2015-02-07 12:00:00,,basketball,2015-02-07 22:00:00
+566,michigan-state,2015-02-10,REG,Northwestern,Big Ten,W,68,44,,16,8,W 1,Welsh-Ryan Arena,-,7:00p,NORTHWESTERN,ILL.,2015-02-10 19:00:00,,basketball,2015-02-11 05:00:00
+567,michigan-state,2015-02-14,REG,Ohio State (23),Big Ten,W,59,56,,17,8,W 2,Breslin Events Center,-,12:00p,OHIO STATE,MICH.,2015-02-14 12:00:00,23,basketball,2015-02-14 22:00:00
+568,michigan-state,2015-02-17,REG,Michigan,Big Ten,W,80,67,,18,8,W 3,Crisler Arena,-,9:00p,MICHIGAN,MICH.,2015-02-17 21:00:00,,basketball,2015-02-18 07:00:00
+569,michigan-state,2015-02-22,REG,Illinois,Big Ten,W,60,53,,19,8,W 4,State Farm Center,-,7:30p,ILLINOIS,ILL.,2015-02-22 19:30:00,,basketball,2015-02-23 05:30:00
+570,michigan-state,2015-02-26,REG,Minnesota,Big Ten,L,90,96,OT,19,9,L 1,Breslin Events Center,-,7:00p,MINNESOTA,MICH.,2015-02-26 19:00:00,,basketball,2015-02-27 05:00:00
+571,michigan-state,2015-03-01,REG,Wisconsin (5),Big Ten,L,61,68,,19,10,L 2,Kohl Center,-,4:00p,WISCONSIN,WIS.,2015-03-01 16:00:00,5,basketball,2015-03-02 02:00:00
+572,michigan-state,2015-03-04,REG,Purdue,Big Ten,W,72,66,,20,10,W 1,Breslin Events Center,-,8:00p,PURDUE,MICH.,2015-03-04 20:00:00,,basketball,2015-03-05 06:00:00
+573,michigan-state,2015-03-07,REG,Indiana,Big Ten,W,74,72,,21,10,W 2,Assembly Hall,-,12:00p,INDIANA,IND.,2015-03-07 12:00:00,,basketball,2015-03-07 22:00:00
+574,michigan-state,2015-03-13,CTOURN,Ohio State,Big Ten,W,76,67,,22,10,W 3,United Center,-,9:15p,OHIO STATE,ILL.,2015-03-13 21:00:00,,basketball,2015-03-14 07:00:00
+575,michigan-state,2015-03-14,CTOURN,Maryland (8),Big Ten,W,62,58,,23,10,W 4,United Center,-,3:25p,MARYLAND,ILL.,2015-03-14 15:30:00,8,basketball,2015-03-15 01:30:00
+576,michigan-state,2015-03-15,CTOURN,Wisconsin (6),Big Ten,L,69,80,OT,23,11,L 1,United Center,-,3:30p,WISCONSIN,ILL.,2015-03-15 15:30:00,6,basketball,2015-03-16 01:30:00
+577,michigan-state,2015-03-20,NCAA,Georgia,SEC,W,70,63,,24,11,W 1,Spectrum Center,,12:40p,GEORGIA,N.C.,2015-03-20 12:40:00,,basketball,2015-03-20 22:40:00
+578,michigan-state,2015-03-22,NCAA,Virginia (6),ACC,W,60,54,,25,11,W 2,Spectrum Center,,12:10p,VIRGINIA,N.C.,2015-03-22 12:10:00,6,basketball,2015-03-22 22:10:00
+579,michigan-state,2015-03-27,NCAA,Oklahoma (13),Big 12,W,62,58,,26,11,W 3,Carrier Dome,,10:16p,OKLAHOMA,N.Y.,2015-03-27 22:07:00,13,basketball,2015-03-28 08:07:00
+580,michigan-state,2015-03-29,NCAA,Louisville (17),ACC,W,76,70,OT,27,11,W 4,Carrier Dome,,2:20p,LOUISVILLE,N.Y.,2015-03-29 14:20:00,17,basketball,2015-03-30 00:20:00
+581,michigan-state,2015-04-04,NCAA,Duke (4),ACC,L,61,81,,27,12,L 1,Lucas Oil Stadium,,6:09p,DUKE,IND.,2015-04-04 18:09:00,4,basketball,2015-04-05 04:09:00
+582,michigan-state,2015-11-13,REG,Florida Atlantic,CUSA,W,82,55,,1,0,W 1,Breslin Events Center,13,7:00p,FLORIDA ATLANTIC,MICH.,2015-11-13 19:00:00,,basketball,2015-11-14 05:00:00
+583,michigan-state,2015-11-17,REG,Kansas (4),Big 12,W,79,73,,2,0,W 2,United Center,13,10:00p,KANSAS,ILL.,2015-11-17 22:00:00,4,basketball,2015-11-18 08:00:00
+584,michigan-state,2015-11-20,REG,Arkansas-Pine Bluff,SWAC,W,92,46,,3,0,W 3,Breslin Events Center,13,7:00p,ARKANSAS-PINE BLUFF,MICH.,2015-11-20 19:00:00,,basketball,2015-11-21 05:00:00
+585,michigan-state,2015-11-23,REG,Eastern Michigan,MAC,W,89,65,,4,0,W 4,Breslin Events Center,3,7:00p,EASTERN MICHIGAN,MICH.,2015-11-23 19:00:00,,basketball,2015-11-24 05:00:00
+586,michigan-state,2015-11-26,REG,Boston College,ACC,W,99,68,,5,0,W 5,Titan Gym,3,6:30p,BOSTON COLLEGE,CALIF.,2015-11-26 18:30:00,,basketball,2015-11-27 04:30:00
+587,michigan-state,2015-11-27,REG,Boise State,MWC,W,77,67,,6,0,W 6,Titan Gym,3,5:30p,BOISE STATE,CALIF.,2015-11-27 17:30:00,,basketball,2015-11-28 03:30:00
+588,michigan-state,2015-11-29,REG,Providence,Big East,W,77,64,,7,0,W 7,Honda Center,3,10:00p,PROVIDENCE,CALIF.,2015-11-29 22:00:00,,basketball,2015-11-30 08:00:00
+589,michigan-state,2015-12-02,REG,Louisville (24),ACC,W,71,67,,8,0,W 8,Breslin Events Center,3,7:15p,LOUISVILLE,MICH.,2015-12-02 19:15:00,24,basketball,2015-12-03 05:15:00
+590,michigan-state,2015-12-05,REG,Binghamton,AEC,W,76,33,,9,0,W 9,Breslin Events Center,3,12:00p,BINGHAMTON,MICH.,2015-12-05 12:00:00,,basketball,2015-12-05 22:00:00
+591,michigan-state,2015-12-09,REG,Maryland-Eastern Shore,MEAC,W,78,35,,10,0,W 10,Breslin Events Center,1,7:00p,MARYLAND-EASTERN SHORE,MICH.,2015-12-09 19:00:00,,basketball,2015-12-10 05:00:00
+592,michigan-state,2015-12-12,REG,Florida,SEC,W,58,52,,11,0,W 11,Breslin Events Center,1,6:00p,FLORIDA,MICH.,2015-12-12 18:00:00,,basketball,2015-12-13 04:00:00
+593,michigan-state,2015-12-19,REG,Northeastern,CAA,W,78,58,,12,0,W 12,Matthews Arena,1,12:30p,NORTHEASTERN,MASS.,2015-12-19 12:30:00,,basketball,2015-12-19 22:30:00
+594,michigan-state,2015-12-22,REG,Oakland,Horizon,W,99,93,OT,13,0,W 13,Palace of Auburn Hills,1,7:00p,OAKLAND,MICH.,2015-12-22 19:00:00,,basketball,2015-12-23 05:00:00
+595,michigan-state,2015-12-29,REG,Iowa,Big Ten,L,70,83,,13,1,L 1,Carver-Hawkeye Arena,1,9:00p,IOWA,IOWA,2015-12-29 21:00:00,,basketball,2015-12-30 07:00:00
+596,michigan-state,2016-01-02,REG,Minnesota,Big Ten,W,69,61,,14,1,W 1,Williams Arena,1,3:00p,MINNESOTA,MINN.,2016-01-02 15:00:00,,basketball,2016-01-03 01:00:00
+597,michigan-state,2016-01-07,REG,Illinois,Big Ten,W,79,54,,15,1,W 2,Breslin Events Center,5,9:00p,ILLINOIS,MICH.,2016-01-07 21:00:00,,basketball,2016-01-08 07:00:00
+598,michigan-state,2016-01-10,REG,Penn State,Big Ten,W,92,65,,16,1,W 3,Bryce Jordan Center,5,12:00p,PENN STATE,PA.,2016-01-10 12:00:00,,basketball,2016-01-10 22:00:00
+599,michigan-state,2016-01-14,REG,Iowa (16),Big Ten,L,59,76,,16,2,L 1,Breslin Events Center,4,7:00p,IOWA,MICH.,2016-01-14 19:00:00,16,basketball,2016-01-15 05:00:00
+600,michigan-state,2016-01-17,REG,Wisconsin,Big Ten,L,76,77,,16,3,L 2,Kohl Center,4,1:30p,WISCONSIN,WIS.,2016-01-17 13:30:00,,basketball,2016-01-17 23:30:00
+601,michigan-state,2016-01-20,REG,Nebraska,Big Ten,L,71,72,,16,4,L 3,Breslin Events Center,11,6:30p,NEBRASKA,MICH.,2016-01-20 18:30:00,,basketball,2016-01-21 04:30:00
+602,michigan-state,2016-01-23,REG,Maryland (7),Big Ten,W,74,65,,17,4,W 1,Breslin Events Center,11,6:30p,MARYLAND,MICH.,2016-01-23 18:30:00,7,basketball,2016-01-24 04:30:00
+603,michigan-state,2016-01-28,REG,Northwestern,Big Ten,W,76,45,,18,4,W 2,Welsh-Ryan Arena,12,9:00p,NORTHWESTERN,ILL.,2016-01-28 21:00:00,,basketball,2016-01-29 07:00:00
+604,michigan-state,2016-01-31,REG,Rutgers,Big Ten,W,96,62,,19,4,W 3,Breslin Events Center,12,5:15p,RUTGERS,MICH.,2016-01-31 17:15:00,,basketball,2016-02-01 03:15:00
+605,michigan-state,2016-02-06,REG,Michigan,Big Ten,W,89,73,,20,4,W 4,Crisler Arena,10,2:00p,MICHIGAN,MICH.,2016-02-06 14:00:00,,basketball,2016-02-07 00:00:00
+606,michigan-state,2016-02-09,REG,Purdue (18),Big Ten,L,81,82,OT,20,5,L 1,Mackey Arena,8,7:00p,PURDUE,IND.,2016-02-09 19:00:00,18,basketball,2016-02-10 05:00:00
+607,michigan-state,2016-02-14,REG,Indiana,Big Ten,W,88,69,,21,5,W 1,Breslin Events Center,8,1:00p,INDIANA,MICH.,2016-02-14 13:00:00,,basketball,2016-02-14 23:00:00
+608,michigan-state,2016-02-18,REG,Wisconsin,Big Ten,W,69,57,,22,5,W 2,Breslin Events Center,8,9:00p,WISCONSIN,MICH.,2016-02-18 21:00:00,,basketball,2016-02-19 07:00:00
+609,michigan-state,2016-02-23,REG,Ohio State,Big Ten,W,81,62,,23,5,W 3,Value City Arena,6,9:00p,OHIO STATE,OHIO,2016-02-23 21:00:00,,basketball,2016-02-24 07:00:00
+610,michigan-state,2016-02-28,REG,Penn State,Big Ten,W,88,57,,24,5,W 4,Breslin Events Center,6,12:00p,PENN STATE,MICH.,2016-02-28 12:00:00,,basketball,2016-02-28 22:00:00
+611,michigan-state,2016-03-02,REG,Rutgers,Big Ten,W,97,66,,25,5,W 5,Louis Brown Athletic Center,2,7:00p,RUTGERS,N.J.,2016-03-02 19:00:00,,basketball,2016-03-03 05:00:00
+612,michigan-state,2016-03-05,REG,Ohio State,Big Ten,W,91,76,,26,5,W 6,Breslin Events Center,2,12:00p,OHIO STATE,MICH.,2016-03-05 12:00:00,,basketball,2016-03-05 22:00:00
+613,michigan-state,2016-03-11,CTOURN,Ohio State,Big Ten,W,81,54,,27,5,W 7,Bankers Life Fieldhouse,2,6:30p,OHIO STATE,IND.,2016-03-11 18:30:00,,basketball,2016-03-12 04:30:00
+614,michigan-state,2016-03-12,CTOURN,Maryland (18),Big Ten,W,64,61,,28,5,W 8,Bankers Life Fieldhouse,2,3:30p,MARYLAND,IND.,2016-03-12 15:30:00,18,basketball,2016-03-13 01:30:00
+615,michigan-state,2016-03-13,CTOURN,Purdue (13),Big Ten,W,66,62,,29,5,W 9,Bankers Life Fieldhouse,2,3:00p,PURDUE,IND.,2016-03-13 15:00:00,13,basketball,2016-03-14 01:00:00
+616,michigan-state,2016-03-18,NCAA,Middle Tennessee,CUSA,L,81,90,,29,6,L 1,Scottrade Center,,2:45p,MIDDLE TENNESSEE STATE,MO.,2016-03-18 14:45:00,,basketball,2016-03-19 00:45:00
+617,michigan-state,2016-11-11,REG,Arizona (10),Pac-12,L,63,65,,0,1,L 1,Stan Sheriff Center,12,7:00p,ARIZONA,HAWAII,2016-11-11 19:00:00,10,basketball,2016-11-12 05:00:00
+618,michigan-state,2016-11-15,REG,Kentucky (2),SEC,L,48,69,,0,2,L 2,Madison Square Garden (IV),13,7:00p,KENTUCKY,N.Y.,2016-11-15 19:00:00,2,basketball,2016-11-16 05:00:00
+619,michigan-state,2016-11-18,REG,Mississippi Valley State,SWAC,W,100,53,,1,2,W 1,Breslin Events Center,13,7:00p,MISSISSIPPI VALLEY STATE,MICH.,2016-11-18 19:00:00,,basketball,2016-11-19 05:00:00
+620,michigan-state,2016-11-20,REG,Florida Gulf Coast,A-Sun,W,78,77,,2,2,W 2,Breslin Events Center,13,7:00p,FLORIDA GULF COAST,MICH.,2016-11-20 19:00:00,,basketball,2016-11-21 05:00:00
+621,michigan-state,2016-11-23,REG,St. John's (NY),Big East,W,73,62,,3,2,W 3,Imperial Arena at Atlantis Resort,24,7:00p,ST. JOHN'S,BAHAMAS,2016-11-23 19:00:00,,basketball,2016-11-24 05:00:00
+622,michigan-state,2016-11-24,REG,Baylor (20),Big 12,L,58,73,,3,3,L 1,Imperial Arena at Atlantis Resort,24,12:00p,VS. BAYLOR,BAHAMAS,2016-11-24 12:00:00,20,basketball,2016-11-24 22:00:00
+623,michigan-state,2016-11-25,REG,Wichita State,MVC,W,77,72,,4,3,W 1,Imperial Arena at Atlantis Resort,24,1:00p,WICHITA STATE,BAHAMAS,2016-11-25 13:00:00,,basketball,2016-11-25 23:00:00
+624,michigan-state,2016-11-29,REG,Duke (5),ACC,L,69,78,,4,4,L 1,Cameron Indoor Stadium,-,9:30p,DUKE,N.C.,2016-11-29 21:30:00,5,basketball,2016-11-30 07:30:00
+625,michigan-state,2016-12-03,REG,Oral Roberts,Summit,W,80,76,,5,4,W 1,Breslin Events Center,-,4:30p,ORAL ROBERTS,MICH.,2016-12-03 16:30:00,,basketball,2016-12-04 02:30:00
+626,michigan-state,2016-12-06,REG,Youngstown State,Horizon,W,77,57,,6,4,W 2,Breslin Events Center,-,7:00p,YOUNGSTOWN STATE,MICH.,2016-12-06 19:00:00,,basketball,2016-12-07 05:00:00
+627,michigan-state,2016-12-10,REG,Tennessee Tech,OVC,W,71,63,,7,4,W 3,Breslin Events Center,-,2:00p,TENNESSEE TECH,MICH.,2016-12-10 14:00:00,,basketball,2016-12-11 00:00:00
+628,michigan-state,2016-12-18,REG,Northeastern,CAA,L,73,81,,7,5,L 1,Breslin Events Center,-,7:00p,NORTHEASTERN,MICH.,2016-12-18 19:00:00,,basketball,2016-12-19 05:00:00
+629,michigan-state,2016-12-21,REG,Oakland,Horizon,W,77,65,,8,5,W 1,Breslin Events Center,-,7:00p,OAKLAND,MICH.,2016-12-21 19:00:00,,basketball,2016-12-22 05:00:00
+630,michigan-state,2016-12-27,REG,Minnesota,Big Ten,W,75,74,OT,9,5,W 2,Williams Arena,-,9:00p,MINNESOTA,MINN.,2016-12-27 21:00:00,,basketball,2016-12-28 07:00:00
+631,michigan-state,2016-12-30,REG,Northwestern,Big Ten,W,61,52,,10,5,W 3,Breslin Events Center,-,6:00p,NORTHWESTERN,MICH.,2016-12-30 18:00:00,,basketball,2016-12-31 04:00:00
+632,michigan-state,2017-01-04,REG,Rutgers,Big Ten,W,93,65,,11,5,W 4,Breslin Events Center,-,6:30p,RUTGERS,MICH.,2017-01-04 18:30:00,,basketball,2017-01-05 04:30:00
+633,michigan-state,2017-01-07,REG,Penn State,Big Ten,L,63,72,,11,6,L 1,The Palestra,-,1:00p,PENN STATE,PA.,2017-01-07 13:00:00,,basketball,2017-01-07 23:00:00
+634,michigan-state,2017-01-11,REG,Minnesota (24),Big Ten,W,65,47,,12,6,W 1,Breslin Events Center,-,7:00p,MINNESOTA,MICH.,2017-01-11 19:00:00,24,basketball,2017-01-12 05:00:00
+635,michigan-state,2017-01-15,REG,Ohio State,Big Ten,L,67,72,,12,7,L 1,Value City Arena,-,1:30p,OHIO STATE,OHIO,2017-01-15 13:30:00,,basketball,2017-01-15 23:30:00
+636,michigan-state,2017-01-21,REG,Indiana,Big Ten,L,75,82,,12,8,L 2,Assembly Hall,-,4:00p,INDIANA,IND.,2017-01-21 16:00:00,,basketball,2017-01-22 02:00:00
+637,michigan-state,2017-01-24,REG,Purdue (20),Big Ten,L,73,84,,12,9,L 3,Breslin Events Center,-,7:00p,PURDUE,MICH.,2017-01-24 19:00:00,20,basketball,2017-01-25 05:00:00
+638,michigan-state,2017-01-29,REG,Michigan,Big Ten,W,70,62,,13,9,W 1,Breslin Events Center,-,1:00p,MICHIGAN,MICH.,2017-01-29 13:00:00,,basketball,2017-01-29 23:00:00
+639,michigan-state,2017-02-02,REG,Nebraska,Big Ten,W,72,61,,14,9,W 2,Pinnacle Bank Arena,-,7:00p,NEBRASKA,NEB.,2017-02-02 19:00:00,,basketball,2017-02-03 05:00:00
+640,michigan-state,2017-02-07,REG,Michigan,Big Ten,L,57,86,,14,10,L 1,Crisler Arena,-,9:00p,MICHIGAN,MICH.,2017-02-07 21:00:00,,basketball,2017-02-08 07:00:00
+641,michigan-state,2017-02-11,REG,Iowa,Big Ten,W,77,66,,15,10,W 1,Breslin Events Center,-,6:00p,IOWA,MICH.,2017-02-11 18:00:00,,basketball,2017-02-12 04:00:00
+642,michigan-state,2017-02-14,REG,Ohio State,Big Ten,W,74,66,,16,10,W 2,Breslin Events Center,-,9:00p,OHIO STATE,MICH.,2017-02-14 21:00:00,,basketball,2017-02-15 07:00:00
+643,michigan-state,2017-02-18,REG,Purdue (16),Big Ten,L,63,80,,16,11,L 1,Mackey Arena,-,4:00p,PURDUE,IND.,2017-02-18 16:00:00,16,basketball,2017-02-19 02:00:00
+644,michigan-state,2017-02-23,REG,Nebraska,Big Ten,W,88,72,,17,11,W 1,Breslin Events Center,-,7:00p,NEBRASKA,MICH.,2017-02-23 19:00:00,,basketball,2017-02-24 05:00:00
+645,michigan-state,2017-02-26,REG,Wisconsin (16),Big Ten,W,84,74,,18,11,W 2,Breslin Events Center,-,4:00p,WISCONSIN,MICH.,2017-02-26 16:00:00,16,basketball,2017-02-27 02:00:00
+646,michigan-state,2017-03-01,REG,Illinois,Big Ten,L,70,73,,18,12,L 1,State Farm Center,-,9:00p,ILLINOIS,ILL.,2017-03-01 21:00:00,,basketball,2017-03-02 07:00:00
+647,michigan-state,2017-03-04,REG,Maryland,Big Ten,L,60,63,,18,13,L 2,Xfinity Center,-,2:00p,MARYLAND,MD.,2017-03-04 14:00:00,,basketball,2017-03-05 00:00:00
+648,michigan-state,2017-03-09,CTOURN,Penn State,Big Ten,W,78,51,,19,13,W 1,Verizon Center,-,2:25p,PENN STATE,D.C.,2017-03-09 14:30:00,,basketball,2017-03-10 00:30:00
+649,michigan-state,2017-03-10,CTOURN,Minnesota,Big Ten,L,58,63,,19,14,L 1,Verizon Center,-,2:45p,MINNESOTA,D.C.,2017-03-10 14:30:00,,basketball,2017-03-11 00:30:00
+650,michigan-state,2017-03-17,NCAA,Miami (FL),ACC,W,78,58,,20,14,W 1,BOK Center,,9:20p,MIAMI,OKLA.,2017-03-17 21:20:00,,basketball,2017-03-18 07:20:00
+651,michigan-state,2017-03-19,NCAA,Kansas (3),Big 12,L,70,90,,20,15,L 1,BOK Center,,5:15p,KANSAS,OKLA.,2017-03-19 17:15:00,3,basketball,2017-03-20 03:15:00
+652,michigan-state,2017-11-10,REG,North Florida,A-Sun,W,98,66,,1,0,W 1,Breslin Events Center,2,8:00p,NORTH FLORIDA,MICH.,2017-11-10 20:00:00,,basketball,2017-11-11 06:00:00
+653,michigan-state,2017-11-14,REG,Duke (1),ACC,L,81,88,,1,1,L 1,United Center,2,7:00p,DUKE (CHAMPIONS CLASSIC),ILL.,2017-11-14 19:00:00,1,basketball,2017-11-15 05:00:00
+654,michigan-state,2017-11-19,REG,Stony Brook,AEC,W,93,71,,2,1,W 1,Breslin Events Center,2,4:00p,STONY BROOK (PK80),MICH.,2017-11-19 16:00:00,,basketball,2017-11-20 02:00:00
+655,michigan-state,2017-11-23,REG,DePaul,Big East,W,73,51,,3,1,W 2,Moda Center,4,11:30p,DEPAUL (PK80),ORE.,2017-11-23 23:30:00,,basketball,2017-11-24 09:30:00
+656,michigan-state,2017-11-25,REG,Connecticut,AAC,W,77,57,,4,1,W 3,Memorial Coliseum,4,12:00a,UCONN (PK80),ORE.,2017-11-25 00:00:00,,basketball,2017-11-25 10:00:00
+657,michigan-state,2017-11-26,REG,North Carolina (9),ACC,W,63,45,,5,1,W 4,Moda Center,4,8:30p,NORTH CAROLINA (PK80),ORE.,2017-11-26 20:30:00,9,basketball,2017-11-27 06:30:00
+658,michigan-state,2017-11-30,REG,Notre Dame (5),ACC,W,81,63,,6,1,W 5,Breslin Events Center,3,7:00p,NOTRE DAME,MICH.,2017-11-30 19:00:00,5,basketball,2017-12-01 05:00:00
+659,michigan-state,2017-12-03,REG,Nebraska,Big Ten,W,86,57,,7,1,W 6,Breslin Events Center,3,4:30p,NEBRASKA,MICH.,2017-12-03 16:30:00,,basketball,2017-12-04 02:30:00
+660,michigan-state,2017-12-05,REG,Rutgers,Big Ten,W,62,52,,8,1,W 7,Louis Brown Athletic Center,3,7:00p,RUTGERS,N.J.,2017-12-05 19:00:00,,basketball,2017-12-06 05:00:00
+661,michigan-state,2017-12-09,REG,Southern Utah,Big Sky,W,88,63,,9,1,W 8,Breslin Events Center,3,6:00p,SOUTHERN UTAH,MICH.,2017-12-09 18:00:00,,basketball,2017-12-10 04:00:00
+662,michigan-state,2017-12-16,REG,Oakland,Horizon,W,86,73,,10,1,W 9,Little Caesars Arena,2,2:00p,OAKLAND,MICH.,2017-12-16 14:30:00,,basketball,2017-12-17 00:30:00
+663,michigan-state,2017-12-18,REG,Houston Baptist,Southland,W,107,62,,11,1,W 10,Breslin Events Center,2,6:00p,HOUSTON BAPTIST,MICH.,2017-12-18 18:00:00,,basketball,2017-12-19 04:00:00
+664,michigan-state,2017-12-21,REG,Long Beach State,Big West,W,102,60,,12,1,W 11,Breslin Events Center,2,7:00p,LONG BEACH STATE,MICH.,2017-12-21 19:00:00,,basketball,2017-12-22 05:00:00
+665,michigan-state,2017-12-29,REG,Cleveland State,Horizon,W,111,61,,13,1,W 12,Breslin Events Center,2,6:00p,CLEVELAND STATE,MICH.,2017-12-29 18:00:00,,basketball,2017-12-30 04:00:00
+666,michigan-state,2017-12-31,REG,Savannah State,MEAC,W,108,52,,14,1,W 13,Breslin Events Center,2,12:00p,SAVANNAH STATE,MICH.,2017-12-31 12:00:00,,basketball,2017-12-31 22:00:00
+667,michigan-state,2018-01-04,REG,Maryland,Big Ten,W,91,61,,15,1,W 14,Breslin Events Center,1,8:00p,MARYLAND,MICH.,2018-01-04 20:00:00,,basketball,2018-01-05 06:00:00
+668,michigan-state,2018-01-07,REG,Ohio State,Big Ten,L,64,80,,15,2,L 1,Value City Arena,1,4:30p,OHIO STATE,OHIO,2018-01-07 16:30:00,,basketball,2018-01-08 02:30:00
+669,michigan-state,2018-01-10,REG,Rutgers,Big Ten,W,76,72,OT,16,2,W 1,Breslin Events Center,4,7:00p,RUTGERS,MICH.,2018-01-10 19:00:00,,basketball,2018-01-11 05:00:00
+670,michigan-state,2018-01-13,REG,Michigan,Big Ten,L,72,82,,16,3,L 1,Breslin Events Center,4,12:00p,MICHIGAN,MICH.,2018-01-13 12:00:00,,basketball,2018-01-13 22:00:00
+671,michigan-state,2018-01-19,REG,Indiana,Big Ten,W,85,57,,17,3,W 1,Breslin Events Center,9,7:00p,INDIANA,MICH.,2018-01-19 19:00:00,,basketball,2018-01-20 05:00:00
+672,michigan-state,2018-01-22,REG,Illinois,Big Ten,W,87,74,,18,3,W 2,State Farm Center,6,9:00p,ILLINOIS,ILL.,2018-01-22 21:00:00,,basketball,2018-01-23 07:00:00
+673,michigan-state,2018-01-26,REG,Wisconsin,Big Ten,W,76,61,,19,3,W 3,Breslin Events Center,6,8:00p,WISCONSIN,MICH.,2018-01-26 20:00:00,,basketball,2018-01-27 06:00:00
+674,michigan-state,2018-01-28,REG,Maryland,Big Ten,W,74,68,,20,3,W 4,Xfinity Center,6,1:00p,MARYLAND,MD.,2018-01-28 13:00:00,,basketball,2018-01-28 23:00:00
+675,michigan-state,2018-01-31,REG,Penn State,Big Ten,W,76,68,,21,3,W 5,Breslin Events Center,5,6:30p,PENN STATE,MICH.,2018-01-31 18:30:00,,basketball,2018-02-01 04:30:00
+676,michigan-state,2018-02-03,REG,Indiana,Big Ten,W,63,60,,22,3,W 6,Assembly Hall,5,8:15p,INDIANA,IND.,2018-02-03 20:20:00,,basketball,2018-02-04 06:20:00
+677,michigan-state,2018-02-06,REG,Iowa,Big Ten,W,96,93,,23,3,W 7,Carver-Hawkeye Arena,4,9:00p,IOWA,IOWA,2018-02-06 21:00:00,,basketball,2018-02-07 07:00:00
+678,michigan-state,2018-02-10,REG,Purdue (3),Big Ten,W,68,65,,24,3,W 8,Breslin Events Center,4,4:00p,PURDUE,MICH.,2018-02-10 16:00:00,3,basketball,2018-02-11 02:00:00
+679,michigan-state,2018-02-13,REG,Minnesota,Big Ten,W,87,57,,25,3,W 9,Williams Arena,2,9:00p,MINNESOTA,MINN.,2018-02-13 21:00:00,,basketball,2018-02-14 07:00:00
+680,michigan-state,2018-02-17,REG,Northwestern,Big Ten,W,65,60,,26,3,W 10,Allstate Arena,2,2:00p,NORTHWESTERN,ILL.,2018-02-17 14:00:00,,basketball,2018-02-18 00:00:00
+681,michigan-state,2018-02-20,REG,Illinois,Big Ten,W,81,61,,27,3,W 11,Breslin Events Center,2,7:00p,ILLINOIS,MICH.,2018-02-20 19:00:00,,basketball,2018-02-21 05:00:00
+682,michigan-state,2018-02-25,REG,Wisconsin,Big Ten,W,68,63,,28,3,W 12,Kohl Center,2,1:00p,WISCONSIN,WIS.,2018-02-25 13:00:00,,basketball,2018-02-25 23:00:00
+683,michigan-state,2018-03-02,CTOURN,Wisconsin,Big Ten,W,63,60,,29,3,W 13,Madison Square Garden (IV),2,12:00p,WISCONSIN,"NEW YORK, N.Y.",2018-03-02 12:00:00,,basketball,2018-03-02 22:00:00
+684,michigan-state,2018-03-03,CTOURN,Michigan (15),Big Ten,L,64,75,,29,4,L 1,Madison Square Garden (IV),2,2:00p,MICHIGAN,"NEW YORK, N.Y.",2018-03-03 14:00:00,15,basketball,2018-03-04 00:00:00
+685,michigan-state,2018-03-16,NCAA,Bucknell,Patriot,W,82,78,,30,4,W 1,Little Caesars Arena,,7:10p,BUCKNELL,MICH. (LITTLE CAESARS ARENA),2018-03-16 19:10:00,,basketball,2018-03-17 05:10:00
+686,michigan-state,2018-03-18,NCAA,Syracuse,ACC,L,53,55,,30,5,L 1,Little Caesars Arena,,2:40p,SYRACUSE,MICH. (LITTLE CAESARS ARENA),2018-03-18 14:40:00,,basketball,2018-03-19 00:40:00
+687,michigan-state,2018-11-06,REG,Kansas (1),Big 12,L,87,92,,0,1,L 1,Bankers Life Fieldhouse,10,7:00p,#1 KANSAS,IND.,2018-11-06 19:00:00,1,basketball,2018-11-07 05:00:00
+688,michigan-state,2018-11-11,REG,Florida Gulf Coast,A-Sun,W,106,82,,1,1,W 1,Breslin Events Center,10,6:00p,FLORIDA GULF COAST,MICH. BRESLIN CENTER,2018-11-11 18:00:00,,basketball,2018-11-12 04:00:00
+689,michigan-state,2018-11-14,REG,Louisiana-Monroe,Sun Belt,W,80,59,,2,1,W 2,Breslin Events Center,11,7:00p,LOUISIANA MONROE,MICH. BRESLIN CENTER,2018-11-14 19:00:00,,basketball,2018-11-15 05:00:00
+690,michigan-state,2018-11-18,REG,Tennessee Tech,OVC,W,101,33,,3,1,W 3,Breslin Events Center,11,6:00p,TENNESSEE TECH,MICH. BRESLIN CENTER,2018-11-18 18:00:00,,basketball,2018-11-19 04:00:00
+691,michigan-state,2018-11-22,REG,UCLA (17),Pac-12,W,87,67,,4,1,W 4,Orleans Arena,11,10:00p,#17 UCLA,NEV.,2018-11-22 22:00:00,17,basketball,2018-11-23 08:00:00
+692,michigan-state,2018-11-23,REG,Texas,Big 12,W,78,68,,5,1,W 5,Orleans Arena,11,6:30p,TEXAS,NEV.,2018-11-23 18:30:00,,basketball,2018-11-24 04:30:00
+693,michigan-state,2018-11-27,REG,Louisville,ACC,L,78,82,OT,5,2,L 1,KFC Yum! Center,9,7:30p,LOUISVILLE,KY.,2018-11-27 19:30:00,,basketball,2018-11-28 05:30:00
+694,michigan-state,2018-11-30,REG,Rutgers,Big Ten,W,78,67,,6,2,W 1,Louis Brown Athletic Center,9,6:00p,RUTGERS,N.J.,2018-11-30 18:00:00,,basketball,2018-12-01 04:00:00
+695,michigan-state,2018-12-03,REG,Iowa (18),Big Ten,W,90,68,,7,2,W 2,Breslin Events Center,10,6:30p,#18 IOWA,MICH. BRESLIN CENTER,2018-12-03 18:30:00,18,basketball,2018-12-04 04:30:00
+696,michigan-state,2018-12-08,REG,Florida,SEC,W,63,59,,8,2,W 3,Stephen C. O'Connell Center,10,12:00p,FLORIDA,FLA.,2018-12-08 12:00:00,,basketball,2018-12-08 22:00:00
+697,michigan-state,2018-12-16,REG,Green Bay,Horizon,W,104,83,,9,2,W 4,Breslin Events Center,9,5:00p,GREEN BAY,MICH. BRESLIN CENTER,2018-12-16 17:00:00,,basketball,2018-12-17 03:00:00
+698,michigan-state,2018-12-21,REG,Oakland,Horizon,W,99,69,,10,2,W 5,Breslin Events Center,10,7:00p,OAKLAND,MICH. BRESLIN CENTER,2018-12-21 19:00:00,,basketball,2018-12-22 05:00:00
+699,michigan-state,2018-12-29,REG,Northern Illinois,MAC,W,88,60,,11,2,W 6,Breslin Events Center,8,2:00p,NORTHERN ILLINOIS,MICH. BRESLIN CENTER,2018-12-29 14:00:00,,basketball,2018-12-30 00:00:00
+700,michigan-state,2019-01-02,REG,Northwestern,Big Ten,W,81,55,,12,2,W 7,Breslin Events Center,8,8:30p,NORTHWESTERN,MICH. BRESLIN CENTER,2019-01-02 20:30:00,,basketball,2019-01-03 06:30:00
+701,michigan-state,2019-01-05,REG,Ohio State (14),Big Ten,W,86,77,,13,2,W 8,Value City Arena,8,12:00p,#14 OHIO STATE,OHIO,2019-01-05 12:00:00,14,basketball,2019-01-05 22:00:00
+702,michigan-state,2019-01-08,REG,Purdue,Big Ten,W,77,59,,14,2,W 9,Breslin Events Center,6,9:00p,PURDUE,MICH. BRESLIN CENTER,2019-01-08 21:00:00,,basketball,2019-01-09 07:00:00
+703,michigan-state,2019-01-13,REG,Penn State,Big Ten,W,71,56,,15,2,W 10,Bryce Jordan Center,6,4:30p,PENN STATE,PA.,2019-01-13 16:30:00,,basketball,2019-01-14 02:30:00
+704,michigan-state,2019-01-17,REG,Nebraska,Big Ten,W,70,64,,16,2,W 11,Pinnacle Bank Arena,6,8:00p,NEBRASKA,NEB.,2019-01-17 20:00:00,,basketball,2019-01-18 06:00:00
+705,michigan-state,2019-01-21,REG,Maryland (13),Big Ten,W,69,55,,17,2,W 12,Breslin Events Center,6,6:30p,#13 MARYLAND,MICH. BRESLIN CENTER,2019-01-21 18:30:00,13,basketball,2019-01-22 04:30:00
+706,michigan-state,2019-01-24,REG,Iowa (19),Big Ten,W,82,67,,18,2,W 13,Carver-Hawkeye Arena,6,7:00p,#19 IOWA,IOWA,2019-01-24 19:00:00,19,basketball,2019-01-25 05:00:00
+707,michigan-state,2019-01-27,REG,Purdue,Big Ten,L,63,73,,18,3,L 1,Mackey Arena,6,1:00p,PURDUE,IND.,2019-01-27 13:00:00,,basketball,2019-01-27 23:00:00
+708,michigan-state,2019-02-02,REG,Indiana,Big Ten,L,75,79,OT,18,4,L 2,Breslin Events Center,6,6:00p,INDIANA,MICH. BRESLIN CENTER,2019-02-02 18:00:00,,basketball,2019-02-03 04:00:00
+709,michigan-state,2019-02-05,REG,Illinois,Big Ten,L,74,79,,18,5,L 3,State Farm Center,9,7:00p,ILLINOIS,ILL.,2019-02-05 19:00:00,,basketball,2019-02-06 05:00:00
+710,michigan-state,2019-02-09,REG,Minnesota,Big Ten,W,79,55,,19,5,W 1,Breslin Events Center,9,2:00p,MINNESOTA,MICH. BRESLIN CENTER,2019-02-09 14:00:00,,basketball,2019-02-10 00:00:00
+711,michigan-state,2019-02-12,REG,Wisconsin (20),Big Ten,W,67,59,,20,5,W 2,Kohl Center,11,7:00p,#20 WISCONSIN,WIS.,2019-02-12 19:00:00,20,basketball,2019-02-13 05:00:00
+712,michigan-state,2019-02-17,REG,Ohio State,Big Ten,W,62,44,,21,5,W 3,Breslin Events Center,11,1:00p,OHIO STATE,MICH. BRESLIN CENTER,2019-02-17 13:00:00,,basketball,2019-02-17 23:00:00
+713,michigan-state,2019-02-20,REG,Rutgers,Big Ten,W,71,60,,22,5,W 4,Breslin Events Center,10,6:30p,RUTGERS,MICH. BRESLIN CENTER,2019-02-20 18:30:00,,basketball,2019-02-21 04:30:00
+714,michigan-state,2019-02-24,REG,Michigan (7),Big Ten,W,77,70,,23,5,W 5,Crisler Arena,10,3:45p,#7 MICHIGAN,MICH.,2019-02-24 15:45:00,7,basketball,2019-02-25 01:45:00
+715,michigan-state,2019-03-02,REG,Indiana,Big Ten,L,62,63,,23,6,L 1,Assembly Hall,6,12:00p,INDIANA,IND.,2019-03-02 12:00:00,,basketball,2019-03-02 22:00:00
+716,michigan-state,2019-03-05,REG,Nebraska,Big Ten,W,91,76,,24,6,W 1,Breslin Events Center,9,7:00p,NEBRASKA,MICH. BRESLIN CENTER,2019-03-05 19:00:00,,basketball,2019-03-06 05:00:00
+717,michigan-state,2019-03-09,REG,Michigan (7),Big Ten,W,75,63,,25,6,W 2,Breslin Events Center,9,8:00p,#7 MICHIGAN,MICH. BRESLIN CENTER,2019-03-09 20:00:00,7,basketball,2019-03-10 06:00:00
+718,michigan-state,2019-03-15,CTOURN,Ohio State,Big Ten,W,77,70,,26,6,W 3,United Center,6,12:30p,OHIO STATE,ILL. / UNITED CENTER,2019-03-15 12:30:00,,basketball,2019-03-15 22:30:00
+719,michigan-state,2019-03-16,CTOURN,Wisconsin (19),Big Ten,W,67,55,,27,6,W 4,United Center,6,1:00p,#19 WISCONSIN,ILL. / UNITED CENTER,2019-03-16 13:00:00,19,basketball,2019-03-16 23:00:00
+720,michigan-state,2019-03-17,CTOURN,Michigan (10),Big Ten,W,65,60,,28,6,W 5,United Center,6,3:30p,#10 MICHIGAN,ILL. / UNITED CENTER,2019-03-17 15:30:00,10,basketball,2019-03-18 01:30:00
+721,michigan-state,2019-03-21,NCAA,Bradley,MVC,W,76,65,,29,6,W 6,Wells Fargo Arena,,2:45p,BRADLEY,IOWA / WELLS FARGO ARENA,2019-03-21 14:45:00,,basketball,2019-03-22 00:45:00
+722,michigan-state,2019-03-23,NCAA,Minnesota,Big Ten,W,70,50,,30,6,W 7,Wells Fargo Arena,,7:45p,MINNESOTA,IOWA / WELLS FARGO ARENA,2019-03-23 19:45:00,,basketball,2019-03-24 05:45:00
+723,michigan-state,2019-03-29,NCAA,Louisiana State (12),SEC,W,80,63,,31,6,W 8,Capital One Arena,,7:09p,#12 LSU,D.C. / CAPITAL ONE ARENA,2019-03-29 19:00:00,12,basketball,2019-03-30 05:00:00
+724,michigan-state,2019-03-31,NCAA,Duke (1),ACC,W,68,67,,32,6,W 9,Capital One Arena,,5:05p,#1 DUKE,D.C. / CAPITAL ONE ARENA,2019-03-31 17:05:00,1,basketball,2019-04-01 03:05:00
+725,michigan-state,2019-04-06,NCAA,Texas Tech (9),Big 12,L,51,61,,32,7,L 1,U.S. Bank Stadium,,8:49p,#9 TEXAS TECH,MINN. / U.S. BANK STADIUM,2019-04-06 20:49:00,9,basketball,2019-04-07 06:49:00
