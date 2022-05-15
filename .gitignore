@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# NIBRS uncompressed
+/00_nibrs_downloads/MI-2009
+/00_nibrs_downloads/MI-2010
+/00_nibrs_downloads/MI-2011
+/00_nibrs_downloads/MI-2012
+/00_nibrs_downloads/MI-2013
+/00_nibrs_downloads/MI-2014
+/00_nibrs_downloads/MI-2015
+/00_nibrs_downloads/MI-2016
+/00_nibrs_downloads/MI-2017
+/00_nibrs_downloads/MI-2018
+/00_nibrs_downloads/MI-2019
