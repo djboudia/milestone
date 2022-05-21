@@ -1,271 +1,271 @@
 game_id,school,sport,start_dt,season_type,opponent,result,team_points,opp_points,ot,rank,opponent_rank,end_inc_window,attendance,venue,excitement_index
-0,michigan,football,2010-09-04 19:30:00+00:00,regular,connecticut,1,30,10,0,,,2010-09-05 06:30:00+00:00,0.0,Michigan Stadium,
-1,michigan,football,2010-09-11 19:30:00+00:00,regular,notre dame,1,28,24,0,,,2010-09-12 06:30:00+00:00,0.0,Notre Dame Stadium,
-2,michigan,football,2010-09-18 16:00:00+00:00,regular,umass,1,42,37,0,20.0,,2010-09-19 03:00:00+00:00,0.0,Michigan Stadium,
-3,michigan,football,2010-09-25 16:00:00+00:00,regular,bowling green,1,65,21,0,21.0,,2010-09-26 03:00:00+00:00,0.0,Michigan Stadium,
-4,michigan,football,2010-10-02 19:30:00+00:00,regular,indiana,1,42,35,0,19.0,,2010-10-03 06:30:00+00:00,0.0,Memorial Stadium,
-5,michigan,football,2010-10-09 19:30:00+00:00,regular,michigan state,0,17,34,0,18.0,17.0,2010-10-10 06:30:00+00:00,0.0,Michigan Stadium,
-6,michigan,football,2010-10-16 19:30:00+00:00,regular,iowa,0,28,38,0,,15.0,2010-10-17 06:30:00+00:00,0.0,Michigan Stadium,
-7,michigan,football,2010-10-31 00:00:00+00:00,regular,penn state,0,31,41,0,,,2010-10-31 11:00:00+00:00,0.0,Beaver Stadium,
-8,michigan,football,2010-11-06 16:00:00+00:00,regular,illinois,1,67,65,1,,,2010-11-07 03:00:00+00:00,0.0,Michigan Stadium,
-9,michigan,football,2010-11-13 17:00:00+00:00,regular,purdue,1,27,16,0,,,2010-11-14 04:00:00+00:00,0.0,Ross-Ade Stadium,
-10,michigan,football,2010-11-20 17:00:00+00:00,regular,wisconsin,0,28,48,0,,7.0,2010-11-21 04:00:00+00:00,0.0,Michigan Stadium,
-11,michigan,football,2010-11-27 17:00:00+00:00,regular,ohio state,0,7,37,0,,8.0,2010-11-28 04:00:00+00:00,0.0,Ohio Stadium,
-12,michigan,football,2019-08-31 23:30:00+00:00,regular,middle tennessee,1,40,21,0,7.0,,2019-09-01 10:30:00+00:00,110811.0,Michigan Stadium,0.635657455299999
-13,michigan,football,2019-09-07 16:00:00+00:00,regular,army,1,24,21,1,7.0,,2019-09-08 03:00:00+00:00,111747.0,Michigan Stadium,7.65488039
-14,michigan,football,2019-09-21 16:00:00+00:00,regular,wisconsin,0,14,35,0,11.0,13.0,2019-09-22 03:00:00+00:00,80245.0,Camp Randall Stadium,1.5613870332
-15,michigan,football,2019-09-28 16:00:00+00:00,regular,rutgers,1,52,0,0,20.0,,2019-09-29 03:00:00+00:00,110662.0,Michigan Stadium,0.172601285399999
-16,michigan,football,2019-10-05 16:00:00+00:00,regular,iowa,1,10,3,0,19.0,14.0,2019-10-06 03:00:00+00:00,111519.0,Michigan Stadium,5.7541884332
-17,michigan,football,2019-10-12 16:00:00+00:00,regular,illinois,1,42,25,0,16.0,,2019-10-13 03:00:00+00:00,37275.0,Memorial Stadium,1.1339127634
-18,michigan,football,2019-10-19 23:30:00+00:00,regular,penn state,0,21,28,0,16.0,7.0,2019-10-20 10:30:00+00:00,110669.0,Beaver Stadium,4.0725947433
-19,michigan,football,2019-10-26 23:30:00+00:00,regular,notre dame,1,45,14,0,19.0,8.0,2019-10-27 10:30:00+00:00,111909.0,Michigan Stadium,3.0150092493
-20,michigan,football,2019-11-02 16:00:00+00:00,regular,maryland,1,38,7,0,14.0,,2019-11-03 03:00:00+00:00,40701.0,Maryland Stadium,0.5390413113
-21,michigan,football,2019-11-16 17:00:00+00:00,regular,michigan state,1,44,10,0,15.0,,2019-11-17 04:00:00+00:00,111496.0,Michigan Stadium,2.29015208989999
-22,michigan,football,2019-11-23 20:30:00+00:00,regular,indiana,1,39,14,0,13.0,,2019-11-24 07:30:00+00:00,43671.0,Memorial Stadium,3.1968380374
-23,michigan,football,2019-11-30 17:00:00+00:00,regular,ohio state,0,27,56,0,10.0,2.0,2019-12-01 04:00:00+00:00,112071.0,Michigan Stadium,2.6940397338
-24,michigan,football,2009-09-05 19:30:00+00:00,regular,western michigan,1,31,7,0,,,2009-09-06 06:30:00+00:00,0.0,Michigan Stadium,
-25,michigan,football,2009-09-12 19:30:00+00:00,regular,notre dame,1,38,34,0,,18.0,2009-09-13 06:30:00+00:00,0.0,Michigan Stadium,
-26,michigan,football,2009-09-19 16:00:00+00:00,regular,eastern michigan,1,45,17,0,25.0,,2009-09-20 03:00:00+00:00,0.0,Michigan Stadium,
-27,michigan,football,2009-09-26 16:00:00+00:00,regular,indiana,1,36,33,0,23.0,,2009-09-27 03:00:00+00:00,0.0,Michigan Stadium,
-28,michigan,football,2009-10-03 16:00:00+00:00,regular,michigan state,0,20,26,1,22.0,,2009-10-04 03:00:00+00:00,0.0,Spartan Stadium,
-29,michigan,football,2009-10-11 00:05:00+00:00,regular,iowa,0,28,30,0,,12.0,2009-10-11 11:05:00+00:00,0.0,Kinnick Stadium,
-30,michigan,football,2009-10-17 16:00:00+00:00,regular,delaware state,1,63,6,0,,,2009-10-18 03:00:00+00:00,0.0,Michigan Stadium,
-31,michigan,football,2009-10-24 19:30:00+00:00,regular,penn state,0,10,35,0,,13.0,2009-10-25 06:30:00+00:00,0.0,Michigan Stadium,
-32,michigan,football,2009-10-31 19:30:00+00:00,regular,illinois,0,13,38,0,,,2009-11-01 06:30:00+00:00,0.0,Memorial Stadium,
-33,michigan,football,2009-11-07 17:00:00+00:00,regular,purdue,0,36,38,0,,,2009-11-08 04:00:00+00:00,0.0,Michigan Stadium,
-34,michigan,football,2009-11-14 17:00:00+00:00,regular,wisconsin,0,24,45,0,,20.0,2009-11-15 04:00:00+00:00,0.0,Camp Randall Stadium,
-35,michigan,football,2009-11-21 17:00:00+00:00,regular,ohio state,0,10,21,0,,10.0,2009-11-22 04:00:00+00:00,0.0,Michigan Stadium,
-36,michigan,football,2015-09-04 00:30:00+00:00,regular,utah,0,17,24,0,,,2015-09-04 11:30:00+00:00,47825.0,Rice-Eccles Stadium,4.6176711164
-37,michigan,football,2015-09-12 16:00:00+00:00,regular,oregon state,1,35,7,0,,,2015-09-13 03:00:00+00:00,109651.0,Michigan Stadium,3.56509965119999
-38,michigan,football,2015-09-19 16:00:00+00:00,regular,unlv,1,28,7,0,,,2015-09-20 03:00:00+00:00,108683.0,Michigan Stadium,0.247736650199999
-39,michigan,football,2015-09-26 16:00:00+00:00,regular,byu,1,31,0,0,,22.0,2015-09-27 03:00:00+00:00,108940.0,Michigan Stadium,1.81035507409999
-40,michigan,football,2015-10-03 16:00:00+00:00,regular,maryland,1,28,0,0,22.0,,2015-10-04 03:00:00+00:00,51802.0,Maryland Stadium,3.3616752942
-41,michigan,football,2015-10-10 19:30:00+00:00,regular,northwestern,1,38,0,0,18.0,13.0,2015-10-11 06:30:00+00:00,110452.0,Michigan Stadium,0.805903607199999
-42,michigan,football,2015-10-17 19:30:00+00:00,regular,michigan state,0,23,27,0,12.0,7.0,2015-10-18 06:30:00+00:00,111740.0,Michigan Stadium,8.37285859919999
-43,michigan,football,2015-10-31 23:00:00+00:00,regular,minnesota,1,29,26,0,15.0,,2015-11-01 10:00:00+00:00,50709.0,TCF Bank Stadium,8.4821006495
-44,michigan,football,2015-11-07 20:30:00+00:00,regular,rutgers,1,49,16,0,17.0,,2015-11-08 07:30:00+00:00,109879.0,Michigan Stadium,0.660158327999999
-45,michigan,football,2015-11-14 20:30:00+00:00,regular,indiana,1,48,41,1,14.0,,2015-11-15 07:30:00+00:00,49557.0,Memorial Stadium,8.0822552742
-46,michigan,football,2015-11-21 17:00:00+00:00,regular,penn state,1,28,16,0,12.0,,2015-11-22 04:00:00+00:00,107418.0,Beaver Stadium,4.6346752565
-47,michigan,football,2015-11-28 17:00:00+00:00,regular,ohio state,0,13,42,0,10.0,8.0,2015-11-29 04:00:00+00:00,111829.0,Michigan Stadium,2.8441349819
-48,michigan,football,2016-09-03 16:00:00+00:00,regular,hawai'i,1,63,3,0,7.0,,2016-09-04 03:00:00+00:00,110222.0,Michigan Stadium,0.0772373791000002
-49,michigan,football,2016-09-10 16:00:00+00:00,regular,ucf,1,51,14,0,5.0,,2016-09-11 03:00:00+00:00,109295.0,Michigan Stadium,0.176153318799999
-50,michigan,football,2016-09-17 19:30:00+00:00,regular,colorado,1,45,28,0,4.0,,2016-09-18 06:30:00+00:00,110042.0,Michigan Stadium,4.88337496669999
-51,michigan,football,2016-09-24 19:30:00+00:00,regular,penn state,1,49,10,0,4.0,,2016-09-25 06:30:00+00:00,110319.0,Michigan Stadium,0.8863726458
-52,michigan,football,2016-10-01 19:30:00+00:00,regular,wisconsin,1,14,7,0,4.0,8.0,2016-10-02 06:30:00+00:00,111846.0,Michigan Stadium,5.92496912229999
-53,michigan,football,2016-10-08 23:00:00+00:00,regular,rutgers,1,78,0,0,4.0,,2016-10-09 10:00:00+00:00,53292.0,High Point Solutions Stadium,0.6202654367
-54,michigan,football,2016-10-22 19:30:00+00:00,regular,illinois,1,41,8,0,3.0,,2016-10-23 06:30:00+00:00,111103.0,Michigan Stadium,0.2423911092
-55,michigan,football,2016-10-29 16:00:00+00:00,regular,michigan state,1,32,23,0,2.0,,2016-10-30 03:00:00+00:00,75802.0,Spartan Stadium,2.2884563912
-56,michigan,football,2016-11-05 19:30:00+00:00,regular,maryland,1,59,3,0,3.0,,2016-11-06 06:30:00+00:00,110626.0,Michigan Stadium,0.281209923399998
-57,michigan,football,2016-11-13 01:00:00+00:00,regular,iowa,0,13,14,0,3.0,,2016-11-13 12:00:00+00:00,70585.0,Kinnick Stadium,5.9531047043
-58,michigan,football,2016-11-19 20:30:00+00:00,regular,indiana,1,20,10,0,3.0,,2016-11-20 07:30:00+00:00,110288.0,Michigan Stadium,3.1280453615
-59,michigan,football,2016-11-26 17:00:00+00:00,regular,ohio state,0,27,30,1,3.0,2.0,2016-11-27 04:00:00+00:00,110045.0,Ohio Stadium,10.0082023141
-60,michigan,football,2013-08-31 19:30:00+00:00,regular,central michigan,1,59,9,0,17.0,,2013-09-01 06:30:00+00:00,112618.0,Michigan Stadium,2.7794810387715
-61,michigan,football,2013-09-08 00:00:00+00:00,regular,notre dame,1,41,30,0,17.0,14.0,2013-09-08 11:00:00+00:00,115109.0,Michigan Stadium,4.72563456026111
-62,michigan,football,2013-09-14 16:00:00+00:00,regular,akron,1,28,24,0,11.0,,2013-09-15 03:00:00+00:00,107120.0,Michigan Stadium,6.57237731390854
-63,michigan,football,2013-09-22 00:00:00+00:00,regular,connecticut,1,24,21,0,15.0,,2013-09-22 11:00:00+00:00,42704.0,Rentschler Field,5.95668791430775
-64,michigan,football,2013-10-05 19:30:00+00:00,regular,minnesota,1,42,13,0,19.0,,2013-10-06 06:30:00+00:00,111079.0,Michigan Stadium,2.2646227762359
-65,michigan,football,2013-10-12 21:00:00+00:00,regular,penn state,0,40,43,1,18.0,,2013-10-13 08:00:00+00:00,107884.0,Beaver Stadium,6.30726746883631
-66,michigan,football,2013-10-19 19:30:00+00:00,regular,indiana,1,63,47,0,,,2013-10-20 06:30:00+00:00,109503.0,Michigan Stadium,4.68855088561251
-67,michigan,football,2013-11-02 19:30:00+00:00,regular,michigan state,0,6,29,0,21.0,22.0,2013-11-03 06:30:00+00:00,76306.0,Spartan Stadium,4.59804366434955
-68,michigan,football,2013-11-09 20:30:00+00:00,regular,nebraska,0,13,17,0,,,2013-11-10 07:30:00+00:00,112204.0,Michigan Stadium,6.96818194479199
-69,michigan,football,2013-11-16 20:30:00+00:00,regular,northwestern,1,27,19,1,,,2013-11-17 07:30:00+00:00,47330.0,Ryan Field,6.08080364643002
-70,michigan,football,2013-11-23 17:00:00+00:00,regular,iowa,0,21,24,0,,,2013-11-24 04:00:00+00:00,65708.0,Kinnick Stadium,7.45366520013952
-71,michigan,football,2013-11-30 17:00:00+00:00,regular,ohio state,0,41,42,0,,3.0,2013-12-01 04:00:00+00:00,113511.0,Michigan Stadium,8.69621753903609
-72,michigan,football,2014-08-30 16:00:00+00:00,regular,appalachian state,1,52,14,0,,,2014-08-31 03:00:00+00:00,106811.0,Michigan Stadium,0.2166280697
-73,michigan,football,2014-09-06 23:30:00+00:00,regular,notre dame,0,0,31,0,,16.0,2014-09-07 10:30:00+00:00,80795.0,Notre Dame Stadium,2.5994330272
-74,michigan,football,2014-09-13 19:30:00+00:00,regular,miami (oh),1,34,10,0,,,2014-09-14 06:30:00+00:00,102824.0,Michigan Stadium,0.677575567399999
-75,michigan,football,2014-09-20 19:30:00+00:00,regular,utah,0,10,26,0,,,2014-09-21 06:30:00+00:00,103890.0,Michigan Stadium,4.5750327256
-76,michigan,football,2014-09-27 19:30:00+00:00,regular,minnesota,0,14,30,0,,,2014-09-28 06:30:00+00:00,102926.0,Michigan Stadium,4.7917135206
-77,michigan,football,2014-10-04 23:00:00+00:00,regular,rutgers,0,24,26,0,,,2014-10-05 10:00:00+00:00,53327.0,High Point Solutions Stadium,8.04130262189999
-78,michigan,football,2014-10-11 23:00:00+00:00,regular,penn state,1,18,13,0,,,2014-10-12 10:00:00+00:00,113085.0,Michigan Stadium,7.2230313128
-79,michigan,football,2014-10-25 19:30:00+00:00,regular,michigan state,0,11,35,0,,8.0,2014-10-26 06:30:00+00:00,76331.0,Spartan Stadium,1.37687022519999
-80,michigan,football,2014-11-01 19:30:00+00:00,regular,indiana,1,34,10,0,,,2014-11-02 06:30:00+00:00,103111.0,Michigan Stadium,1.489488031
-81,michigan,football,2014-11-08 20:30:00+00:00,regular,northwestern,1,10,9,0,,,2014-11-09 07:30:00+00:00,42429.0,Ryan Field,6.834501118
-82,michigan,football,2014-11-22 20:30:00+00:00,regular,maryland,0,16,23,0,,,2014-11-23 07:30:00+00:00,101717.0,Michigan Stadium,5.6010929345
-83,michigan,football,2014-11-29 17:00:00+00:00,regular,ohio state,0,28,42,0,,6.0,2014-11-30 04:00:00+00:00,108610.0,Ohio Stadium,3.2622351416
-84,michigan,football,2018-09-01 23:30:00+00:00,regular,notre dame,0,17,24,0,14.0,12.0,2018-09-02 10:30:00+00:00,0.0,Notre Dame Stadium,4.2446507286
-85,michigan,football,2018-09-08 16:00:00+00:00,regular,western michigan,1,49,3,0,21.0,,2018-09-09 03:00:00+00:00,0.0,Michigan Stadium,0.298619872199999
-86,michigan,football,2018-09-15 19:30:00+00:00,regular,smu,1,45,20,0,19.0,,2018-09-16 06:30:00+00:00,0.0,Michigan Stadium,0.4473367567
-87,michigan,football,2018-09-22 16:00:00+00:00,regular,nebraska,1,56,10,0,19.0,,2018-09-23 03:00:00+00:00,0.0,Michigan Stadium,0.5878271411
-88,michigan,football,2018-09-29 20:47:00+00:00,regular,northwestern,1,20,17,0,14.0,,2018-09-30 07:47:00+00:00,0.0,Ryan Field,7.81958186589999
-89,michigan,football,2018-10-06 16:00:00+00:00,regular,maryland,1,42,21,0,15.0,,2018-10-07 03:00:00+00:00,0.0,Michigan Stadium,2.1552756343
-90,michigan,football,2018-10-13 23:30:00+00:00,regular,wisconsin,1,38,13,0,12.0,15.0,2018-10-14 10:30:00+00:00,0.0,Michigan Stadium,2.47517378049999
-91,michigan,football,2018-10-20 16:00:00+00:00,regular,michigan state,1,21,7,0,6.0,24.0,2018-10-21 03:00:00+00:00,0.0,Spartan Stadium,4.9480972354
-92,michigan,football,2018-11-03 19:45:00+00:00,regular,penn state,1,42,7,0,5.0,14.0,2018-11-04 06:45:00+00:00,0.0,Michigan Stadium,1.70005490699999
-93,michigan,football,2018-11-10 20:30:00+00:00,regular,rutgers,1,42,7,0,4.0,,2018-11-11 07:30:00+00:00,0.0,High Point Solutions Stadium,0.3740481259
-94,michigan,football,2018-11-17 21:00:00+00:00,regular,indiana,1,31,20,0,4.0,,2018-11-18 08:00:00+00:00,0.0,Michigan Stadium,2.33106909749999
-95,michigan,football,2018-11-24 17:00:00+00:00,regular,ohio state,0,39,62,0,4.0,10.0,2018-11-25 04:00:00+00:00,0.0,Ohio Stadium,5.2021552625
-96,michigan,football,2011-09-03 19:30:00+00:00,regular,western michigan,1,34,10,1,,,2011-09-04 06:30:00+00:00,0.0,Michigan Stadium,3.41170313976107
-97,michigan,football,2011-09-11 00:00:00+00:00,regular,notre dame,1,35,31,0,,,2011-09-11 11:00:00+00:00,0.0,Michigan Stadium,6.21574285869222
-98,michigan,football,2011-09-17 16:00:00+00:00,regular,eastern michigan,1,31,3,0,,,2011-09-18 03:00:00+00:00,0.0,Michigan Stadium,3.28899566344527
-99,michigan,football,2011-09-24 16:00:00+00:00,regular,san diego state,1,28,7,0,22.0,,2011-09-25 03:00:00+00:00,0.0,Michigan Stadium,1.9797403847834
-100,michigan,football,2011-10-01 16:00:00+00:00,regular,minnesota,1,58,0,0,19.0,,2011-10-02 03:00:00+00:00,0.0,Michigan Stadium,4.83738216735322
-101,michigan,football,2011-10-08 23:00:00+00:00,regular,northwestern,1,42,24,0,12.0,,2011-10-09 10:00:00+00:00,0.0,Ryan Field,4.78640727047835
-102,michigan,football,2011-10-15 16:00:00+00:00,regular,michigan state,0,14,28,0,11.0,23.0,2011-10-16 03:00:00+00:00,0.0,Spartan Stadium,4.21176523411938
-103,michigan,football,2011-10-29 16:00:00+00:00,regular,purdue,1,36,14,0,18.0,,2011-10-30 03:00:00+00:00,0.0,Michigan Stadium,3.03588944106312
-104,michigan,football,2011-11-05 16:00:00+00:00,regular,iowa,0,16,24,0,15.0,,2011-11-06 03:00:00+00:00,0.0,Kinnick Stadium,3.93884687933872
-105,michigan,football,2011-11-12 20:30:00+00:00,regular,illinois,1,31,14,0,24.0,,2011-11-13 07:30:00+00:00,0.0,Memorial Stadium,2.19487037938032
-106,michigan,football,2011-11-19 17:00:00+00:00,regular,nebraska,1,45,17,0,18.0,16.0,2011-11-20 04:00:00+00:00,0.0,Michigan Stadium,2.50823995934404
-107,michigan,football,2011-11-26 17:00:00+00:00,regular,ohio state,1,40,34,0,15.0,,2011-11-27 04:00:00+00:00,0.0,Michigan Stadium,3.79981189872517
-108,michigan,football,2012-09-02 00:00:00+00:00,regular,alabama,0,14,41,0,8.0,2.0,2012-09-02 11:00:00+00:00,90413.0,,1.73802458108005
-109,michigan,football,2012-09-08 19:30:00+00:00,regular,air force,1,31,25,0,19.0,,2012-09-09 06:30:00+00:00,112522.0,Michigan Stadium,3.74204900633508
-110,michigan,football,2012-09-15 19:30:00+00:00,regular,umass,1,63,13,0,17.0,,2012-09-16 06:30:00+00:00,110708.0,Michigan Stadium,2.02958068564611
-111,michigan,football,2012-09-22 23:30:00+00:00,regular,notre dame,0,6,13,0,18.0,11.0,2012-09-23 10:30:00+00:00,80795.0,Notre Dame Stadium,4.00833036400199
-112,michigan,football,2012-10-06 20:00:00+00:00,regular,purdue,1,44,13,0,,,2012-10-07 07:00:00+00:00,50105.0,Ross-Ade Stadium,3.59436376501568
-113,michigan,football,2012-10-13 19:30:00+00:00,regular,illinois,1,45,0,0,25.0,,2012-10-14 06:30:00+00:00,110922.0,Michigan Stadium,1.4789754191792
-114,michigan,football,2012-10-20 19:30:00+00:00,regular,michigan state,1,12,10,0,,,2012-10-21 06:30:00+00:00,113833.0,Michigan Stadium,6.59781281717875
-115,michigan,football,2012-10-28 00:00:00+00:00,regular,nebraska,0,9,23,0,22.0,,2012-10-28 11:00:00+00:00,86160.0,Memorial Stadium,4.08138579360471
-116,michigan,football,2012-11-03 16:00:00+00:00,regular,minnesota,1,35,13,0,,,2012-11-04 03:00:00+00:00,48801.0,TCF Bank Stadium,4.3731788144488
-117,michigan,football,2012-11-10 17:00:00+00:00,regular,northwestern,1,38,31,1,,24.0,2012-11-11 04:00:00+00:00,112510.0,Michigan Stadium,6.90298316607636
-118,michigan,football,2012-11-17 17:00:00+00:00,regular,iowa,1,42,17,0,21.0,,2012-11-18 04:00:00+00:00,113016.0,Michigan Stadium,1.93028987024353
-119,michigan,football,2012-11-24 17:00:00+00:00,regular,ohio state,0,21,26,0,19.0,,2012-11-25 04:00:00+00:00,105899.0,Ohio Stadium,4.5623857877538
-120,michigan,football,2017-09-02 19:30:00+00:00,regular,florida,1,33,17,0,11.0,17.0,2017-09-03 06:30:00+00:00,75802.0,AT&T Stadium,5.5379279086
-121,michigan,football,2017-09-09 16:00:00+00:00,regular,cincinnati,1,36,14,0,8.0,,2017-09-10 03:00:00+00:00,111384.0,Michigan Stadium,0.944125665099999
-122,michigan,football,2017-09-16 16:00:00+00:00,regular,air force,1,29,13,0,7.0,,2017-09-17 03:00:00+00:00,111387.0,Michigan Stadium,2.17797382589999
-123,michigan,football,2017-09-23 20:00:00+00:00,regular,purdue,1,28,10,0,8.0,,2017-09-24 07:00:00+00:00,60042.0,Ross-Ade Stadium,5.1773008808
-124,michigan,football,2017-10-07 23:30:00+00:00,regular,michigan state,0,10,14,0,7.0,,2017-10-08 10:30:00+00:00,112432.0,Michigan Stadium,8.2066226901
-125,michigan,football,2017-10-14 16:00:00+00:00,regular,indiana,1,27,20,1,17.0,,2017-10-15 03:00:00+00:00,52929.0,Memorial Stadium,6.2868640798
-126,michigan,football,2017-10-21 23:30:00+00:00,regular,penn state,0,13,42,0,19.0,2.0,2017-10-22 10:30:00+00:00,110823.0,Beaver Stadium,2.42990673559999
-127,michigan,football,2017-10-28 16:00:00+00:00,regular,rutgers,1,35,14,0,,,2017-10-29 03:00:00+00:00,111213.0,Michigan Stadium,1.3186910895
-128,michigan,football,2017-11-05 00:30:00+00:00,regular,minnesota,1,33,10,0,,,2017-11-05 11:30:00+00:00,111090.0,Michigan Stadium,1.2001421187
-129,michigan,football,2017-11-11 20:30:00+00:00,regular,maryland,1,35,10,0,,,2017-11-12 07:30:00+00:00,44325.0,Maryland Stadium,1.25831257099999
-130,michigan,football,2017-11-18 17:00:00+00:00,regular,wisconsin,0,10,24,0,24.0,5.0,2017-11-19 04:00:00+00:00,81216.0,Camp Randall Stadium,5.8503318544
-131,michigan,football,2017-11-25 17:00:00+00:00,regular,ohio state,0,20,31,0,,9.0,2017-11-26 04:00:00+00:00,112028.0,Michigan Stadium,6.38759082479999
-132,michigan state,football,2010-09-04 16:00:00+00:00,regular,western michigan,1,38,14,0,,,2010-09-05 03:00:00+00:00,0.0,Spartan Stadium,
-133,michigan state,football,2010-09-11 16:00:00+00:00,regular,florida atlantic,1,30,17,0,,,2010-09-12 03:00:00+00:00,0.0,,
-134,michigan state,football,2010-09-19 00:00:00+00:00,regular,notre dame,1,34,31,1,,,2010-09-19 11:00:00+00:00,0.0,Spartan Stadium,
-135,michigan state,football,2010-09-25 16:00:00+00:00,regular,northern colorado,1,45,7,0,25.0,,2010-09-26 03:00:00+00:00,0.0,Spartan Stadium,
-136,michigan state,football,2010-10-02 19:30:00+00:00,regular,wisconsin,1,34,24,0,24.0,11.0,2010-10-03 06:30:00+00:00,0.0,Spartan Stadium,
-137,michigan state,football,2010-10-09 19:30:00+00:00,regular,michigan,1,34,17,0,17.0,18.0,2010-10-10 06:30:00+00:00,0.0,Michigan Stadium,
-138,michigan state,football,2010-10-16 16:00:00+00:00,regular,illinois,1,26,6,0,13.0,,2010-10-17 03:00:00+00:00,0.0,Spartan Stadium,
-139,michigan state,football,2010-10-23 16:00:00+00:00,regular,northwestern,1,35,27,0,7.0,,2010-10-24 03:00:00+00:00,0.0,Ryan Field,
-140,michigan state,football,2010-10-30 19:30:00+00:00,regular,iowa,0,6,37,0,5.0,18.0,2010-10-31 06:30:00+00:00,0.0,Kinnick Stadium,
-141,michigan state,football,2010-11-06 16:00:00+00:00,regular,minnesota,1,31,8,0,14.0,,2010-11-07 03:00:00+00:00,0.0,Spartan Stadium,
-142,michigan state,football,2010-11-20 17:00:00+00:00,regular,purdue,1,35,31,0,12.0,,2010-11-21 04:00:00+00:00,0.0,Spartan Stadium,
-143,michigan state,football,2010-11-27 17:00:00+00:00,regular,penn state,1,28,22,0,10.0,,2010-11-28 04:00:00+00:00,0.0,Beaver Stadium,
-144,michigan state,football,2019-08-30 23:00:00+00:00,regular,tulsa,1,28,7,0,18.0,,2019-08-31 10:00:00+00:00,72005.0,Spartan Stadium,0.6125123066
-145,michigan state,football,2019-09-07 23:30:00+00:00,regular,western michigan,1,51,17,0,19.0,,2019-09-08 10:30:00+00:00,73113.0,Spartan Stadium,0.9360172957
-146,michigan state,football,2019-09-14 20:00:00+00:00,regular,arizona state,0,7,10,0,18.0,,2019-09-15 07:00:00+00:00,73531.0,Spartan Stadium,7.2995017468
-147,michigan state,football,2019-09-21 16:00:00+00:00,regular,northwestern,1,31,10,0,,,2019-09-22 03:00:00+00:00,40114.0,Ryan Field,3.0353201171
-148,michigan state,football,2019-09-28 19:30:00+00:00,regular,indiana,1,40,31,0,25.0,,2019-09-29 06:30:00+00:00,71048.0,Spartan Stadium,6.6153972155
-149,michigan state,football,2019-10-05 23:30:00+00:00,regular,ohio state,0,10,34,0,25.0,4.0,2019-10-06 10:30:00+00:00,104797.0,Ohio Stadium,1.2566887765
-150,michigan state,football,2019-10-12 19:30:00+00:00,regular,wisconsin,0,0,38,0,,8.0,2019-10-13 06:30:00+00:00,80470.0,Camp Randall Stadium,1.36349714189999
-151,michigan state,football,2019-10-26 19:30:00+00:00,regular,penn state,0,7,28,0,,6.0,2019-10-27 06:30:00+00:00,70298.0,Spartan Stadium,2.2829302891
-152,michigan state,football,2019-11-09 20:30:00+00:00,regular,illinois,0,34,37,0,,,2019-11-10 07:30:00+00:00,63370.0,Spartan Stadium,3.7908518628
-153,michigan state,football,2019-11-16 17:00:00+00:00,regular,michigan,0,10,44,0,,15.0,2019-11-17 04:00:00+00:00,111496.0,Michigan Stadium,2.29015208989999
-154,michigan state,football,2019-11-23 17:00:00+00:00,regular,rutgers,1,27,0,0,,,2019-11-24 04:00:00+00:00,24641.0,High Point Solutions Stadium,1.1951435053
-155,michigan state,football,2019-11-30 20:30:00+00:00,regular,maryland,1,19,16,0,,,2019-12-01 07:30:00+00:00,51366.0,Spartan Stadium,5.27291221909999
-156,michigan state,football,2009-09-05 16:00:00+00:00,regular,montana state,1,44,3,0,,,2009-09-06 03:00:00+00:00,0.0,Spartan Stadium,
-157,michigan state,football,2009-09-12 16:00:00+00:00,regular,central michigan,0,27,29,0,,,2009-09-13 03:00:00+00:00,0.0,Spartan Stadium,
-158,michigan state,football,2009-09-19 19:30:00+00:00,regular,notre dame,0,30,33,0,,,2009-09-20 06:30:00+00:00,0.0,Notre Dame Stadium,
-159,michigan state,football,2009-09-26 16:00:00+00:00,regular,wisconsin,0,30,38,0,,,2009-09-27 03:00:00+00:00,0.0,Camp Randall Stadium,
-160,michigan state,football,2009-10-03 16:00:00+00:00,regular,michigan,1,26,20,1,,22.0,2009-10-04 03:00:00+00:00,0.0,Spartan Stadium,
-161,michigan state,football,2009-10-10 16:00:00+00:00,regular,illinois,1,24,14,0,,,2009-10-11 03:00:00+00:00,0.0,Memorial Stadium,
-162,michigan state,football,2009-10-17 16:00:00+00:00,regular,northwestern,1,24,14,0,,,2009-10-18 03:00:00+00:00,0.0,Spartan Stadium,
-163,michigan state,football,2009-10-24 23:00:00+00:00,regular,iowa,0,13,15,0,,6.0,2009-10-25 10:00:00+00:00,0.0,Spartan Stadium,
-164,michigan state,football,2009-11-01 00:00:00+00:00,regular,minnesota,0,34,42,0,,,2009-11-01 11:00:00+00:00,0.0,TCF Bank Stadium,
-165,michigan state,football,2009-11-07 17:00:00+00:00,regular,western michigan,1,49,14,0,,,2009-11-08 04:00:00+00:00,0.0,Spartan Stadium,
-166,michigan state,football,2009-11-14 17:00:00+00:00,regular,purdue,1,40,37,0,,,2009-11-15 04:00:00+00:00,0.0,Ross-Ade Stadium,
-167,michigan state,football,2009-11-21 20:30:00+00:00,regular,penn state,0,14,42,0,,14.0,2009-11-22 07:30:00+00:00,0.0,Spartan Stadium,
-168,michigan state,football,2015-09-04 23:00:00+00:00,regular,western michigan,1,37,24,0,5.0,,2015-09-05 10:00:00+00:00,30885.0,Waldo Stadium,1.2308073913
-169,michigan state,football,2015-09-13 00:00:00+00:00,regular,oregon,1,31,28,0,5.0,7.0,2015-09-13 11:00:00+00:00,76526.0,Spartan Stadium,6.56049610689999
-170,michigan state,football,2015-09-19 16:00:00+00:00,regular,air force,1,35,21,0,4.0,,2015-09-20 03:00:00+00:00,74211.0,Spartan Stadium,0.524569535699999
-171,michigan state,football,2015-09-26 16:00:00+00:00,regular,central michigan,1,30,10,0,2.0,,2015-09-27 03:00:00+00:00,75218.0,Spartan Stadium,1.18477568309999
-172,michigan state,football,2015-10-03 16:00:00+00:00,regular,purdue,1,24,21,0,2.0,,2015-10-04 03:00:00+00:00,74418.0,Spartan Stadium,2.49100477099999
-173,michigan state,football,2015-10-11 00:00:00+00:00,regular,rutgers,1,31,24,0,4.0,,2015-10-11 11:00:00+00:00,50373.0,High Point Solutions Stadium,4.9001101617
-174,michigan state,football,2015-10-17 19:30:00+00:00,regular,michigan,1,27,23,0,7.0,12.0,2015-10-18 06:30:00+00:00,111740.0,Michigan Stadium,8.37285859919999
-175,michigan state,football,2015-10-24 19:30:00+00:00,regular,indiana,1,52,26,0,7.0,,2015-10-25 06:30:00+00:00,74144.0,Spartan Stadium,5.0838017606
-176,michigan state,football,2015-11-08 00:00:00+00:00,regular,nebraska,0,38,39,0,7.0,,2015-11-08 11:00:00+00:00,90094.0,Memorial Stadium,6.2928227126
-177,michigan state,football,2015-11-14 17:00:00+00:00,regular,maryland,1,24,7,0,13.0,,2015-11-15 04:00:00+00:00,73406.0,Spartan Stadium,3.2915766538
-178,michigan state,football,2015-11-21 20:30:00+00:00,regular,ohio state,1,17,14,0,9.0,3.0,2015-11-22 07:30:00+00:00,108975.0,Ohio Stadium,6.5789758562
-179,michigan state,football,2015-11-28 20:30:00+00:00,regular,penn state,1,55,16,0,5.0,,2015-11-29 07:30:00+00:00,74705.0,Spartan Stadium,1.91492241679999
-180,michigan state,football,2015-12-06 01:00:00+00:00,regular,iowa,1,16,13,0,5.0,4.0,2015-12-06 12:00:00+00:00,66985.0,Lucas Oil Stadium,7.7791631218
-181,michigan state,football,2016-09-02 23:00:00+00:00,regular,furman,1,28,13,0,12.0,,2016-09-03 10:00:00+00:00,74516.0,Spartan Stadium,0.4020657328
-182,michigan state,football,2016-09-17 23:30:00+00:00,regular,notre dame,1,36,28,0,12.0,18.0,2016-09-18 10:30:00+00:00,80795.0,Notre Dame Stadium,4.5435825078
-183,michigan state,football,2016-09-24 16:00:00+00:00,regular,wisconsin,0,6,30,0,8.0,11.0,2016-09-25 03:00:00+00:00,75505.0,Spartan Stadium,3.8522703656
-184,michigan state,football,2016-10-02 00:00:00+00:00,regular,indiana,0,21,24,1,17.0,,2016-10-02 11:00:00+00:00,43971.0,Memorial Stadium,7.2468708604
-185,michigan state,football,2016-10-08 19:30:00+00:00,regular,byu,0,14,31,0,,,2016-10-09 06:30:00+00:00,74214.0,Spartan Stadium,4.9758366519
-186,michigan state,football,2016-10-15 19:30:00+00:00,regular,northwestern,0,40,54,0,,,2016-10-16 06:30:00+00:00,75625.0,Spartan Stadium,5.88482854509999
-187,michigan state,football,2016-10-22 23:30:00+00:00,regular,maryland,0,17,28,0,,,2016-10-23 10:30:00+00:00,41235.0,Maryland Stadium,7.1177043288
-188,michigan state,football,2016-10-29 16:00:00+00:00,regular,michigan,0,23,32,0,,2.0,2016-10-30 03:00:00+00:00,75802.0,Spartan Stadium,2.2884563912
-189,michigan state,football,2016-11-05 16:00:00+00:00,regular,illinois,0,27,31,0,,,2016-11-06 03:00:00+00:00,47144.0,Memorial Stadium,8.796648115
-190,michigan state,football,2016-11-12 17:00:00+00:00,regular,rutgers,1,49,0,0,,,2016-11-13 04:00:00+00:00,73701.0,Spartan Stadium,0.565525243999999
-191,michigan state,football,2016-11-19 17:00:00+00:00,regular,ohio state,0,16,17,0,,2.0,2016-11-20 04:00:00+00:00,73303.0,Spartan Stadium,4.3896877058
-192,michigan state,football,2016-11-26 20:30:00+00:00,regular,penn state,0,12,45,0,,7.0,2016-11-27 07:30:00+00:00,97418.0,Beaver Stadium,3.18578837359999
-193,michigan state,football,2013-08-31 00:00:00+00:00,regular,western michigan,1,26,13,0,,,2013-08-31 11:00:00+00:00,71214.0,Spartan Stadium,4.86719017919486
-194,michigan state,football,2013-09-07 16:00:00+00:00,regular,south florida,1,21,6,0,,,2013-09-08 03:00:00+00:00,70401.0,Spartan Stadium,6.11392855922986
-195,michigan state,football,2013-09-14 18:00:00+00:00,regular,youngstown state,1,55,17,0,,,2013-09-15 05:00:00+00:00,71626.0,Spartan Stadium,1.94106890966762
-196,michigan state,football,2013-09-21 19:30:00+00:00,regular,notre dame,0,13,17,0,,22.0,2013-09-22 06:30:00+00:00,80795.0,Notre Dame Stadium,7.22625208802526
-197,michigan state,football,2013-10-05 16:00:00+00:00,regular,iowa,1,26,14,0,,,2013-10-06 03:00:00+00:00,69025.0,Kinnick Stadium,5.09899284435925
-198,michigan state,football,2013-10-12 16:00:00+00:00,regular,indiana,1,42,28,0,,,2013-10-13 03:00:00+00:00,73815.0,Spartan Stadium,3.93665879536203
-199,michigan state,football,2013-10-19 16:00:00+00:00,regular,purdue,1,14,0,0,,,2013-10-20 03:00:00+00:00,71514.0,Spartan Stadium,3.05909012616212
-200,michigan state,football,2013-10-26 19:30:00+00:00,regular,illinois,1,42,3,0,,,2013-10-27 06:30:00+00:00,45895.0,Memorial Stadium,3.82911727523221
-201,michigan state,football,2013-11-02 19:30:00+00:00,regular,michigan,1,29,6,0,22.0,21.0,2013-11-03 06:30:00+00:00,76306.0,Spartan Stadium,4.59804366434955
-202,michigan state,football,2013-11-16 20:30:00+00:00,regular,nebraska,1,41,28,0,16.0,,2013-11-17 07:30:00+00:00,90872.0,Memorial Stadium,5.58503003995049
-203,michigan state,football,2013-11-23 17:00:00+00:00,regular,northwestern,1,30,6,0,13.0,,2013-11-24 04:00:00+00:00,40013.0,Ryan Field,3.20073055967766
-204,michigan state,football,2013-11-30 17:00:00+00:00,regular,minnesota,1,14,3,0,11.0,,2013-12-01 04:00:00+00:00,71418.0,Spartan Stadium,3.05393059042602
-205,michigan state,football,2013-12-08 01:17:00+00:00,regular,ohio state,1,34,24,0,10.0,2.0,2013-12-08 12:17:00+00:00,66002.0,,5.03109936717497
-206,michigan state,football,2014-08-29 23:30:00+00:00,regular,jacksonville state,1,45,7,0,8.0,,2014-08-30 10:30:00+00:00,75127.0,Spartan Stadium,0.2224963838
-207,michigan state,football,2014-09-06 22:30:00+00:00,regular,oregon,0,27,46,0,7.0,3.0,2014-09-07 09:30:00+00:00,59496.0,Autzen Stadium,6.1315718765
-208,michigan state,football,2014-09-20 16:00:00+00:00,regular,eastern michigan,1,73,14,0,11.0,,2014-09-21 03:00:00+00:00,73846.0,Spartan Stadium,0.0226749998999995
-209,michigan state,football,2014-09-27 16:00:00+00:00,regular,wyoming,1,56,14,0,9.0,,2014-09-28 03:00:00+00:00,74227.0,Spartan Stadium,0.1472912521
-210,michigan state,football,2014-10-05 00:00:00+00:00,regular,nebraska,1,27,22,0,10.0,19.0,2014-10-05 11:00:00+00:00,75923.0,Spartan Stadium,2.88541559739999
-211,michigan state,football,2014-10-11 19:30:00+00:00,regular,purdue,1,45,31,0,8.0,,2014-10-12 06:30:00+00:00,40217.0,Ross-Ade Stadium,2.1134404437
-212,michigan state,football,2014-10-18 19:30:00+00:00,regular,indiana,1,56,17,0,8.0,,2014-10-19 06:30:00+00:00,44403.0,Memorial Stadium,2.67350065269999
-213,michigan state,football,2014-10-25 19:30:00+00:00,regular,michigan,1,35,11,0,8.0,,2014-10-26 06:30:00+00:00,76331.0,Spartan Stadium,1.37687022519999
-214,michigan state,football,2014-11-09 01:00:00+00:00,regular,ohio state,0,37,49,0,8.0,14.0,2014-11-09 12:00:00+00:00,76409.0,Spartan Stadium,5.17976726739999
-215,michigan state,football,2014-11-16 01:00:00+00:00,regular,maryland,1,37,15,0,12.0,,2014-11-16 12:00:00+00:00,51802.0,Maryland Stadium,3.63737509879999
-216,michigan state,football,2014-11-22 17:00:00+00:00,regular,rutgers,1,45,3,0,11.0,,2014-11-23 04:00:00+00:00,70902.0,Spartan Stadium,0.4695424005
-217,michigan state,football,2014-11-29 20:30:00+00:00,regular,penn state,1,34,10,0,10.0,,2014-11-30 07:30:00+00:00,99902.0,Beaver Stadium,2.2639241633
-218,michigan state,football,2018-08-31 23:00:00+00:00,regular,utah state,1,38,31,0,11.0,,2018-09-01 10:00:00+00:00,0.0,Spartan Stadium,4.1366972475
-219,michigan state,football,2018-09-09 02:45:00+00:00,regular,arizona state,0,13,16,0,15.0,,2018-09-09 13:45:00+00:00,0.0,Sun Devil Stadium,7.8041556334
-220,michigan state,football,2018-09-22 23:30:00+00:00,regular,indiana,1,35,21,0,24.0,,2018-09-23 10:30:00+00:00,0.0,Memorial Stadium,3.0982747115
-221,michigan state,football,2018-09-29 16:00:00+00:00,regular,central michigan,1,31,20,0,21.0,,2018-09-30 03:00:00+00:00,0.0,Spartan Stadium,3.1949065044
-222,michigan state,football,2018-10-06 16:00:00+00:00,regular,northwestern,0,19,29,0,20.0,,2018-10-07 03:00:00+00:00,0.0,Spartan Stadium,8.5150324998
-223,michigan state,football,2018-10-13 19:30:00+00:00,regular,penn state,1,21,17,0,,8.0,2018-10-14 06:30:00+00:00,0.0,Beaver Stadium,7.1749069096
-224,michigan state,football,2018-10-20 16:00:00+00:00,regular,michigan,0,7,21,0,24.0,6.0,2018-10-21 03:00:00+00:00,0.0,Spartan Stadium,4.9480972354
-225,michigan state,football,2018-10-27 16:00:00+00:00,regular,purdue,1,23,13,0,,,2018-10-28 03:00:00+00:00,0.0,Spartan Stadium,7.7845100768
-226,michigan state,football,2018-11-03 16:00:00+00:00,regular,maryland,1,24,3,0,,,2018-11-04 03:00:00+00:00,0.0,Maryland Stadium,3.4197558846
-227,michigan state,football,2018-11-10 17:00:00+00:00,regular,ohio state,0,6,26,0,18.0,10.0,2018-11-11 04:00:00+00:00,0.0,Spartan Stadium,6.0547208426
-228,michigan state,football,2018-11-17 17:00:00+00:00,regular,nebraska,0,6,9,0,,,2018-11-18 04:00:00+00:00,0.0,Memorial Stadium,8.2254778155
-229,michigan state,football,2018-11-24 21:00:00+00:00,regular,rutgers,1,14,10,0,,,2018-11-25 08:00:00+00:00,0.0,Spartan Stadium,6.53818389
-230,michigan state,football,2011-09-02 23:30:00+00:00,regular,youngstown state,1,28,6,0,17.0,,2011-09-03 10:30:00+00:00,0.0,Spartan Stadium,2.94322210507425
-231,michigan state,football,2011-09-10 16:00:00+00:00,regular,florida atlantic,1,44,0,0,17.0,,2011-09-11 03:00:00+00:00,0.0,Spartan Stadium,2.37030721571796
-232,michigan state,football,2011-09-17 19:30:00+00:00,regular,notre dame,0,13,31,0,15.0,,2011-09-18 06:30:00+00:00,0.0,Notre Dame Stadium,2.61483388758182
-233,michigan state,football,2011-09-24 16:00:00+00:00,regular,central michigan,1,45,7,0,,,2011-09-25 03:00:00+00:00,0.0,Spartan Stadium,2.80781603797589
-234,michigan state,football,2011-10-01 19:30:00+00:00,regular,ohio state,1,10,7,0,,,2011-10-02 06:30:00+00:00,0.0,Ohio Stadium,4.90776927725148
-235,michigan state,football,2011-10-15 16:00:00+00:00,regular,michigan,1,28,14,0,23.0,11.0,2011-10-16 03:00:00+00:00,0.0,Spartan Stadium,4.21176523411938
-236,michigan state,football,2011-10-23 00:00:00+00:00,regular,wisconsin,1,37,31,0,16.0,6.0,2011-10-23 11:00:00+00:00,0.0,Spartan Stadium,3.92885088945205
-237,michigan state,football,2011-10-29 16:00:00+00:00,regular,nebraska,0,3,24,0,11.0,14.0,2011-10-30 03:00:00+00:00,0.0,Memorial Stadium,2.40379606275448
-238,michigan state,football,2011-11-05 16:00:00+00:00,regular,minnesota,1,31,24,0,17.0,,2011-11-06 03:00:00+00:00,0.0,Spartan Stadium,6.93189675885208
-239,michigan state,football,2011-11-12 17:00:00+00:00,regular,iowa,1,37,21,0,17.0,,2011-11-13 04:00:00+00:00,0.0,Kinnick Stadium,1.98022549288817
-240,michigan state,football,2011-11-19 17:00:00+00:00,regular,indiana,1,55,3,0,15.0,,2011-11-20 04:00:00+00:00,0.0,Spartan Stadium,1.55460419936899
-241,michigan state,football,2011-11-26 17:00:00+00:00,regular,northwestern,1,31,17,0,14.0,,2011-11-27 04:00:00+00:00,0.0,Ryan Field,3.93388454320523
-242,michigan state,football,2011-12-04 01:17:00+00:00,regular,wisconsin,0,39,42,0,17.0,10.0,2011-12-04 12:17:00+00:00,0.0,,5.53225221628291
-243,michigan state,football,2012-09-01 00:00:00+00:00,regular,boise state,1,17,13,0,13.0,24.0,2012-09-01 11:00:00+00:00,78709.0,Spartan Stadium,6.98990098962132
-244,michigan state,football,2012-09-08 19:30:00+00:00,regular,central michigan,1,41,7,0,11.0,,2012-09-09 06:30:00+00:00,35127.0,Kelly/Shorts Stadium,2.50139243458228
-245,michigan state,football,2012-09-16 00:00:00+00:00,regular,notre dame,0,3,20,0,10.0,20.0,2012-09-16 11:00:00+00:00,79219.0,Spartan Stadium,3.48512513998202
-246,michigan state,football,2012-09-22 19:30:00+00:00,regular,eastern michigan,1,23,7,0,21.0,,2012-09-23 06:30:00+00:00,74204.0,Spartan Stadium,5.36064682632658
-247,michigan state,football,2012-09-29 19:30:00+00:00,regular,ohio state,0,16,17,0,20.0,14.0,2012-09-30 06:30:00+00:00,76705.0,Spartan Stadium,7.47521536557361
-248,michigan state,football,2012-10-06 16:00:00+00:00,regular,indiana,1,31,27,0,,,2012-10-07 03:00:00+00:00,45979.0,Memorial Stadium,4.51995593917189
-249,michigan state,football,2012-10-13 16:00:00+00:00,regular,iowa,0,16,19,1,,,2012-10-14 03:00:00+00:00,70211.0,Spartan Stadium,4.42692406908106
-250,michigan state,football,2012-10-20 19:30:00+00:00,regular,michigan,0,10,12,0,,,2012-10-21 06:30:00+00:00,113833.0,Michigan Stadium,6.59781281717875
-251,michigan state,football,2012-10-27 19:30:00+00:00,regular,wisconsin,1,16,13,1,,25.0,2012-10-28 06:30:00+00:00,80538.0,Camp Randall Stadium,4.68357131750199
-252,michigan state,football,2012-11-03 19:30:00+00:00,regular,nebraska,0,24,28,0,,20.0,2012-11-04 06:30:00+00:00,73522.0,Spartan Stadium,6.83012146016534
-253,michigan state,football,2012-11-17 17:00:00+00:00,regular,northwestern,0,20,23,0,,,2012-11-18 04:00:00+00:00,75101.0,Spartan Stadium,8.83039862778473
-254,michigan state,football,2012-11-24 20:30:00+00:00,regular,minnesota,1,26,10,0,,,2012-11-25 07:30:00+00:00,44194.0,TCF Bank Stadium,3.92714472427656
-255,michigan state,football,2017-09-02 16:00:00+00:00,regular,bowling green,1,35,10,0,,,2017-09-03 03:00:00+00:00,71202.0,Spartan Stadium,2.13648702639999
-256,michigan state,football,2017-09-09 19:30:00+00:00,regular,western michigan,1,28,14,0,,,2017-09-10 06:30:00+00:00,72910.0,Spartan Stadium,2.93628456419999
-257,michigan state,football,2017-09-24 00:00:00+00:00,regular,notre dame,0,18,38,0,,,2017-09-24 11:00:00+00:00,74023.0,Spartan Stadium,2.2865633443
-258,michigan state,football,2017-09-30 20:00:00+00:00,regular,iowa,1,17,10,0,,,2017-10-01 07:00:00+00:00,73331.0,Spartan Stadium,4.2867321965
-259,michigan state,football,2017-10-07 23:30:00+00:00,regular,michigan,1,14,10,0,,7.0,2017-10-08 10:30:00+00:00,112432.0,Michigan Stadium,8.2066226901
-260,michigan state,football,2017-10-15 00:00:00+00:00,regular,minnesota,1,30,27,0,21.0,,2017-10-15 11:00:00+00:00,47541.0,TCF Bank Stadium,3.0882198875
-261,michigan state,football,2017-10-21 19:30:00+00:00,regular,indiana,1,17,9,0,18.0,,2017-10-22 06:30:00+00:00,74111.0,Spartan Stadium,8.7606457019
-262,michigan state,football,2017-10-28 19:30:00+00:00,regular,northwestern,0,31,39,1,16.0,,2017-10-29 06:30:00+00:00,39369.0,Ryan Field,8.5312202879
-263,michigan state,football,2017-11-04 16:00:00+00:00,regular,penn state,1,27,24,0,24.0,7.0,2017-11-05 03:00:00+00:00,71605.0,Spartan Stadium,8.4900095465
-264,michigan state,football,2017-11-11 17:00:00+00:00,regular,ohio state,0,3,48,0,12.0,13.0,2017-11-12 04:00:00+00:00,107011.0,Ohio Stadium,0.7828138123
-265,michigan state,football,2017-11-18 21:00:00+00:00,regular,maryland,1,17,7,0,17.0,,2017-11-19 08:00:00+00:00,70216.0,Spartan Stadium,1.5702145
-266,michigan state,football,2017-11-25 21:00:00+00:00,regular,rutgers,1,40,7,0,16.0,,2017-11-26 08:00:00+00:00,35021.0,High Point Solutions Stadium,1.7562760463
+0,michigan,football,2009-09-05 19:30:00+00:00,regular,western michigan,1,31,7,0,,,2009-09-06 06:30:00+00:00,0.0,Michigan Stadium,
+1,michigan,football,2009-09-12 19:30:00+00:00,regular,notre dame,1,38,34,0,,18.0,2009-09-13 06:30:00+00:00,0.0,Michigan Stadium,
+2,michigan,football,2009-09-19 16:00:00+00:00,regular,eastern michigan,1,45,17,0,25.0,,2009-09-20 03:00:00+00:00,0.0,Michigan Stadium,
+3,michigan,football,2009-09-26 16:00:00+00:00,regular,indiana,1,36,33,0,23.0,,2009-09-27 03:00:00+00:00,0.0,Michigan Stadium,
+4,michigan,football,2009-10-03 16:00:00+00:00,regular,michigan state,0,20,26,1,22.0,,2009-10-04 03:00:00+00:00,0.0,Spartan Stadium,
+5,michigan,football,2009-10-11 00:05:00+00:00,regular,iowa,0,28,30,0,,12.0,2009-10-11 11:05:00+00:00,0.0,Kinnick Stadium,
+6,michigan,football,2009-10-17 16:00:00+00:00,regular,delaware state,1,63,6,0,,,2009-10-18 03:00:00+00:00,0.0,Michigan Stadium,
+7,michigan,football,2009-10-24 19:30:00+00:00,regular,penn state,0,10,35,0,,13.0,2009-10-25 06:30:00+00:00,0.0,Michigan Stadium,
+8,michigan,football,2009-10-31 19:30:00+00:00,regular,illinois,0,13,38,0,,,2009-11-01 06:30:00+00:00,0.0,Memorial Stadium,
+9,michigan,football,2009-11-07 17:00:00+00:00,regular,purdue,0,36,38,0,,,2009-11-08 04:00:00+00:00,0.0,Michigan Stadium,
+10,michigan,football,2009-11-14 17:00:00+00:00,regular,wisconsin,0,24,45,0,,20.0,2009-11-15 04:00:00+00:00,0.0,Camp Randall Stadium,
+11,michigan,football,2009-11-21 17:00:00+00:00,regular,ohio state,0,10,21,0,,10.0,2009-11-22 04:00:00+00:00,0.0,Michigan Stadium,
+12,michigan,football,2010-09-04 19:30:00+00:00,regular,connecticut,1,30,10,0,,,2010-09-05 06:30:00+00:00,0.0,Michigan Stadium,
+13,michigan,football,2010-09-11 19:30:00+00:00,regular,notre dame,1,28,24,0,,,2010-09-12 06:30:00+00:00,0.0,Notre Dame Stadium,
+14,michigan,football,2010-09-18 16:00:00+00:00,regular,umass,1,42,37,0,20.0,,2010-09-19 03:00:00+00:00,0.0,Michigan Stadium,
+15,michigan,football,2010-09-25 16:00:00+00:00,regular,bowling green,1,65,21,0,21.0,,2010-09-26 03:00:00+00:00,0.0,Michigan Stadium,
+16,michigan,football,2010-10-02 19:30:00+00:00,regular,indiana,1,42,35,0,19.0,,2010-10-03 06:30:00+00:00,0.0,Memorial Stadium,
+17,michigan,football,2010-10-09 19:30:00+00:00,regular,michigan state,0,17,34,0,18.0,17.0,2010-10-10 06:30:00+00:00,0.0,Michigan Stadium,
+18,michigan,football,2010-10-16 19:30:00+00:00,regular,iowa,0,28,38,0,,15.0,2010-10-17 06:30:00+00:00,0.0,Michigan Stadium,
+19,michigan,football,2010-10-31 00:00:00+00:00,regular,penn state,0,31,41,0,,,2010-10-31 11:00:00+00:00,0.0,Beaver Stadium,
+20,michigan,football,2010-11-06 16:00:00+00:00,regular,illinois,1,67,65,1,,,2010-11-07 03:00:00+00:00,0.0,Michigan Stadium,
+21,michigan,football,2010-11-13 17:00:00+00:00,regular,purdue,1,27,16,0,,,2010-11-14 04:00:00+00:00,0.0,Ross-Ade Stadium,
+22,michigan,football,2010-11-20 17:00:00+00:00,regular,wisconsin,0,28,48,0,,7.0,2010-11-21 04:00:00+00:00,0.0,Michigan Stadium,
+23,michigan,football,2010-11-27 17:00:00+00:00,regular,ohio state,0,7,37,0,,8.0,2010-11-28 04:00:00+00:00,0.0,Ohio Stadium,
+24,michigan,football,2011-09-03 19:30:00+00:00,regular,western michigan,1,34,10,1,,,2011-09-04 06:30:00+00:00,0.0,Michigan Stadium,3.41170313976107
+25,michigan,football,2011-09-11 00:00:00+00:00,regular,notre dame,1,35,31,0,,,2011-09-11 11:00:00+00:00,0.0,Michigan Stadium,6.21574285869222
+26,michigan,football,2011-09-17 16:00:00+00:00,regular,eastern michigan,1,31,3,0,,,2011-09-18 03:00:00+00:00,0.0,Michigan Stadium,3.28899566344527
+27,michigan,football,2011-09-24 16:00:00+00:00,regular,san diego state,1,28,7,0,22.0,,2011-09-25 03:00:00+00:00,0.0,Michigan Stadium,1.9797403847834
+28,michigan,football,2011-10-01 16:00:00+00:00,regular,minnesota,1,58,0,0,19.0,,2011-10-02 03:00:00+00:00,0.0,Michigan Stadium,4.83738216735322
+29,michigan,football,2011-10-08 23:00:00+00:00,regular,northwestern,1,42,24,0,12.0,,2011-10-09 10:00:00+00:00,0.0,Ryan Field,4.78640727047835
+30,michigan,football,2011-10-15 16:00:00+00:00,regular,michigan state,0,14,28,0,11.0,23.0,2011-10-16 03:00:00+00:00,0.0,Spartan Stadium,4.21176523411938
+31,michigan,football,2011-10-29 16:00:00+00:00,regular,purdue,1,36,14,0,18.0,,2011-10-30 03:00:00+00:00,0.0,Michigan Stadium,3.03588944106312
+32,michigan,football,2011-11-05 16:00:00+00:00,regular,iowa,0,16,24,0,15.0,,2011-11-06 03:00:00+00:00,0.0,Kinnick Stadium,3.93884687933872
+33,michigan,football,2011-11-12 20:30:00+00:00,regular,illinois,1,31,14,0,24.0,,2011-11-13 07:30:00+00:00,0.0,Memorial Stadium,2.19487037938032
+34,michigan,football,2011-11-19 17:00:00+00:00,regular,nebraska,1,45,17,0,18.0,16.0,2011-11-20 04:00:00+00:00,0.0,Michigan Stadium,2.50823995934404
+35,michigan,football,2011-11-26 17:00:00+00:00,regular,ohio state,1,40,34,0,15.0,,2011-11-27 04:00:00+00:00,0.0,Michigan Stadium,3.79981189872517
+36,michigan,football,2012-09-02 00:00:00+00:00,regular,alabama,0,14,41,0,8.0,2.0,2012-09-02 11:00:00+00:00,90413.0,,1.73802458108005
+37,michigan,football,2012-09-08 19:30:00+00:00,regular,air force,1,31,25,0,19.0,,2012-09-09 06:30:00+00:00,112522.0,Michigan Stadium,3.74204900633508
+38,michigan,football,2012-09-15 19:30:00+00:00,regular,umass,1,63,13,0,17.0,,2012-09-16 06:30:00+00:00,110708.0,Michigan Stadium,2.02958068564611
+39,michigan,football,2012-09-22 23:30:00+00:00,regular,notre dame,0,6,13,0,18.0,11.0,2012-09-23 10:30:00+00:00,80795.0,Notre Dame Stadium,4.00833036400199
+40,michigan,football,2012-10-06 20:00:00+00:00,regular,purdue,1,44,13,0,,,2012-10-07 07:00:00+00:00,50105.0,Ross-Ade Stadium,3.59436376501568
+41,michigan,football,2012-10-13 19:30:00+00:00,regular,illinois,1,45,0,0,25.0,,2012-10-14 06:30:00+00:00,110922.0,Michigan Stadium,1.4789754191792
+42,michigan,football,2012-10-20 19:30:00+00:00,regular,michigan state,1,12,10,0,,,2012-10-21 06:30:00+00:00,113833.0,Michigan Stadium,6.59781281717875
+43,michigan,football,2012-10-28 00:00:00+00:00,regular,nebraska,0,9,23,0,22.0,,2012-10-28 11:00:00+00:00,86160.0,Memorial Stadium,4.08138579360471
+44,michigan,football,2012-11-03 16:00:00+00:00,regular,minnesota,1,35,13,0,,,2012-11-04 03:00:00+00:00,48801.0,TCF Bank Stadium,4.3731788144488
+45,michigan,football,2012-11-10 17:00:00+00:00,regular,northwestern,1,38,31,1,,24.0,2012-11-11 04:00:00+00:00,112510.0,Michigan Stadium,6.90298316607636
+46,michigan,football,2012-11-17 17:00:00+00:00,regular,iowa,1,42,17,0,21.0,,2012-11-18 04:00:00+00:00,113016.0,Michigan Stadium,1.93028987024353
+47,michigan,football,2012-11-24 17:00:00+00:00,regular,ohio state,0,21,26,0,19.0,,2012-11-25 04:00:00+00:00,105899.0,Ohio Stadium,4.5623857877538
+48,michigan,football,2013-08-31 19:30:00+00:00,regular,central michigan,1,59,9,0,17.0,,2013-09-01 06:30:00+00:00,112618.0,Michigan Stadium,2.7794810387715
+49,michigan,football,2013-09-08 00:00:00+00:00,regular,notre dame,1,41,30,0,17.0,14.0,2013-09-08 11:00:00+00:00,115109.0,Michigan Stadium,4.72563456026111
+50,michigan,football,2013-09-14 16:00:00+00:00,regular,akron,1,28,24,0,11.0,,2013-09-15 03:00:00+00:00,107120.0,Michigan Stadium,6.57237731390854
+51,michigan,football,2013-09-22 00:00:00+00:00,regular,connecticut,1,24,21,0,15.0,,2013-09-22 11:00:00+00:00,42704.0,Rentschler Field,5.95668791430775
+52,michigan,football,2013-10-05 19:30:00+00:00,regular,minnesota,1,42,13,0,19.0,,2013-10-06 06:30:00+00:00,111079.0,Michigan Stadium,2.2646227762359
+53,michigan,football,2013-10-12 21:00:00+00:00,regular,penn state,0,40,43,1,18.0,,2013-10-13 08:00:00+00:00,107884.0,Beaver Stadium,6.30726746883631
+54,michigan,football,2013-10-19 19:30:00+00:00,regular,indiana,1,63,47,0,,,2013-10-20 06:30:00+00:00,109503.0,Michigan Stadium,4.68855088561251
+55,michigan,football,2013-11-02 19:30:00+00:00,regular,michigan state,0,6,29,0,21.0,22.0,2013-11-03 06:30:00+00:00,76306.0,Spartan Stadium,4.59804366434955
+56,michigan,football,2013-11-09 20:30:00+00:00,regular,nebraska,0,13,17,0,,,2013-11-10 07:30:00+00:00,112204.0,Michigan Stadium,6.96818194479199
+57,michigan,football,2013-11-16 20:30:00+00:00,regular,northwestern,1,27,19,1,,,2013-11-17 07:30:00+00:00,47330.0,Ryan Field,6.08080364643002
+58,michigan,football,2013-11-23 17:00:00+00:00,regular,iowa,0,21,24,0,,,2013-11-24 04:00:00+00:00,65708.0,Kinnick Stadium,7.45366520013952
+59,michigan,football,2013-11-30 17:00:00+00:00,regular,ohio state,0,41,42,0,,3.0,2013-12-01 04:00:00+00:00,113511.0,Michigan Stadium,8.69621753903609
+60,michigan,football,2014-08-30 16:00:00+00:00,regular,appalachian state,1,52,14,0,,,2014-08-31 03:00:00+00:00,106811.0,Michigan Stadium,0.2166280697
+61,michigan,football,2014-09-06 23:30:00+00:00,regular,notre dame,0,0,31,0,,16.0,2014-09-07 10:30:00+00:00,80795.0,Notre Dame Stadium,2.5994330272
+62,michigan,football,2014-09-13 19:30:00+00:00,regular,miami (oh),1,34,10,0,,,2014-09-14 06:30:00+00:00,102824.0,Michigan Stadium,0.677575567399999
+63,michigan,football,2014-09-20 19:30:00+00:00,regular,utah,0,10,26,0,,,2014-09-21 06:30:00+00:00,103890.0,Michigan Stadium,4.5750327256
+64,michigan,football,2014-09-27 19:30:00+00:00,regular,minnesota,0,14,30,0,,,2014-09-28 06:30:00+00:00,102926.0,Michigan Stadium,4.7917135206
+65,michigan,football,2014-10-04 23:00:00+00:00,regular,rutgers,0,24,26,0,,,2014-10-05 10:00:00+00:00,53327.0,High Point Solutions Stadium,8.04130262189999
+66,michigan,football,2014-10-11 23:00:00+00:00,regular,penn state,1,18,13,0,,,2014-10-12 10:00:00+00:00,113085.0,Michigan Stadium,7.2230313128
+67,michigan,football,2014-10-25 19:30:00+00:00,regular,michigan state,0,11,35,0,,8.0,2014-10-26 06:30:00+00:00,76331.0,Spartan Stadium,1.37687022519999
+68,michigan,football,2014-11-01 19:30:00+00:00,regular,indiana,1,34,10,0,,,2014-11-02 06:30:00+00:00,103111.0,Michigan Stadium,1.489488031
+69,michigan,football,2014-11-08 20:30:00+00:00,regular,northwestern,1,10,9,0,,,2014-11-09 07:30:00+00:00,42429.0,Ryan Field,6.834501118
+70,michigan,football,2014-11-22 20:30:00+00:00,regular,maryland,0,16,23,0,,,2014-11-23 07:30:00+00:00,101717.0,Michigan Stadium,5.6010929345
+71,michigan,football,2014-11-29 17:00:00+00:00,regular,ohio state,0,28,42,0,,6.0,2014-11-30 04:00:00+00:00,108610.0,Ohio Stadium,3.2622351416
+72,michigan,football,2015-09-04 00:30:00+00:00,regular,utah,0,17,24,0,,,2015-09-04 11:30:00+00:00,47825.0,Rice-Eccles Stadium,4.6176711164
+73,michigan,football,2015-09-12 16:00:00+00:00,regular,oregon state,1,35,7,0,,,2015-09-13 03:00:00+00:00,109651.0,Michigan Stadium,3.56509965119999
+74,michigan,football,2015-09-19 16:00:00+00:00,regular,unlv,1,28,7,0,,,2015-09-20 03:00:00+00:00,108683.0,Michigan Stadium,0.247736650199999
+75,michigan,football,2015-09-26 16:00:00+00:00,regular,byu,1,31,0,0,,22.0,2015-09-27 03:00:00+00:00,108940.0,Michigan Stadium,1.81035507409999
+76,michigan,football,2015-10-03 16:00:00+00:00,regular,maryland,1,28,0,0,22.0,,2015-10-04 03:00:00+00:00,51802.0,Maryland Stadium,3.3616752942
+77,michigan,football,2015-10-10 19:30:00+00:00,regular,northwestern,1,38,0,0,18.0,13.0,2015-10-11 06:30:00+00:00,110452.0,Michigan Stadium,0.805903607199999
+78,michigan,football,2015-10-17 19:30:00+00:00,regular,michigan state,0,23,27,0,12.0,7.0,2015-10-18 06:30:00+00:00,111740.0,Michigan Stadium,8.37285859919999
+79,michigan,football,2015-10-31 23:00:00+00:00,regular,minnesota,1,29,26,0,15.0,,2015-11-01 10:00:00+00:00,50709.0,TCF Bank Stadium,8.4821006495
+80,michigan,football,2015-11-07 20:30:00+00:00,regular,rutgers,1,49,16,0,17.0,,2015-11-08 07:30:00+00:00,109879.0,Michigan Stadium,0.660158327999999
+81,michigan,football,2015-11-14 20:30:00+00:00,regular,indiana,1,48,41,1,14.0,,2015-11-15 07:30:00+00:00,49557.0,Memorial Stadium,8.0822552742
+82,michigan,football,2015-11-21 17:00:00+00:00,regular,penn state,1,28,16,0,12.0,,2015-11-22 04:00:00+00:00,107418.0,Beaver Stadium,4.6346752565
+83,michigan,football,2015-11-28 17:00:00+00:00,regular,ohio state,0,13,42,0,10.0,8.0,2015-11-29 04:00:00+00:00,111829.0,Michigan Stadium,2.8441349819
+84,michigan,football,2016-09-03 16:00:00+00:00,regular,hawai'i,1,63,3,0,7.0,,2016-09-04 03:00:00+00:00,110222.0,Michigan Stadium,0.0772373791000002
+85,michigan,football,2016-09-10 16:00:00+00:00,regular,ucf,1,51,14,0,5.0,,2016-09-11 03:00:00+00:00,109295.0,Michigan Stadium,0.176153318799999
+86,michigan,football,2016-09-17 19:30:00+00:00,regular,colorado,1,45,28,0,4.0,,2016-09-18 06:30:00+00:00,110042.0,Michigan Stadium,4.88337496669999
+87,michigan,football,2016-09-24 19:30:00+00:00,regular,penn state,1,49,10,0,4.0,,2016-09-25 06:30:00+00:00,110319.0,Michigan Stadium,0.8863726458
+88,michigan,football,2016-10-01 19:30:00+00:00,regular,wisconsin,1,14,7,0,4.0,8.0,2016-10-02 06:30:00+00:00,111846.0,Michigan Stadium,5.92496912229999
+89,michigan,football,2016-10-08 23:00:00+00:00,regular,rutgers,1,78,0,0,4.0,,2016-10-09 10:00:00+00:00,53292.0,High Point Solutions Stadium,0.6202654367
+90,michigan,football,2016-10-22 19:30:00+00:00,regular,illinois,1,41,8,0,3.0,,2016-10-23 06:30:00+00:00,111103.0,Michigan Stadium,0.2423911092
+91,michigan,football,2016-10-29 16:00:00+00:00,regular,michigan state,1,32,23,0,2.0,,2016-10-30 03:00:00+00:00,75802.0,Spartan Stadium,2.2884563912
+92,michigan,football,2016-11-05 19:30:00+00:00,regular,maryland,1,59,3,0,3.0,,2016-11-06 06:30:00+00:00,110626.0,Michigan Stadium,0.281209923399998
+93,michigan,football,2016-11-13 01:00:00+00:00,regular,iowa,0,13,14,0,3.0,,2016-11-13 12:00:00+00:00,70585.0,Kinnick Stadium,5.9531047043
+94,michigan,football,2016-11-19 20:30:00+00:00,regular,indiana,1,20,10,0,3.0,,2016-11-20 07:30:00+00:00,110288.0,Michigan Stadium,3.1280453615
+95,michigan,football,2016-11-26 17:00:00+00:00,regular,ohio state,0,27,30,1,3.0,2.0,2016-11-27 04:00:00+00:00,110045.0,Ohio Stadium,10.0082023141
+96,michigan,football,2017-09-02 19:30:00+00:00,regular,florida,1,33,17,0,11.0,17.0,2017-09-03 06:30:00+00:00,75802.0,AT&T Stadium,5.5379279086
+97,michigan,football,2017-09-09 16:00:00+00:00,regular,cincinnati,1,36,14,0,8.0,,2017-09-10 03:00:00+00:00,111384.0,Michigan Stadium,0.944125665099999
+98,michigan,football,2017-09-16 16:00:00+00:00,regular,air force,1,29,13,0,7.0,,2017-09-17 03:00:00+00:00,111387.0,Michigan Stadium,2.17797382589999
+99,michigan,football,2017-09-23 20:00:00+00:00,regular,purdue,1,28,10,0,8.0,,2017-09-24 07:00:00+00:00,60042.0,Ross-Ade Stadium,5.1773008808
+100,michigan,football,2017-10-07 23:30:00+00:00,regular,michigan state,0,10,14,0,7.0,,2017-10-08 10:30:00+00:00,112432.0,Michigan Stadium,8.2066226901
+101,michigan,football,2017-10-14 16:00:00+00:00,regular,indiana,1,27,20,1,17.0,,2017-10-15 03:00:00+00:00,52929.0,Memorial Stadium,6.2868640798
+102,michigan,football,2017-10-21 23:30:00+00:00,regular,penn state,0,13,42,0,19.0,2.0,2017-10-22 10:30:00+00:00,110823.0,Beaver Stadium,2.42990673559999
+103,michigan,football,2017-10-28 16:00:00+00:00,regular,rutgers,1,35,14,0,,,2017-10-29 03:00:00+00:00,111213.0,Michigan Stadium,1.3186910895
+104,michigan,football,2017-11-05 00:30:00+00:00,regular,minnesota,1,33,10,0,,,2017-11-05 11:30:00+00:00,111090.0,Michigan Stadium,1.2001421187
+105,michigan,football,2017-11-11 20:30:00+00:00,regular,maryland,1,35,10,0,,,2017-11-12 07:30:00+00:00,44325.0,Maryland Stadium,1.25831257099999
+106,michigan,football,2017-11-18 17:00:00+00:00,regular,wisconsin,0,10,24,0,24.0,5.0,2017-11-19 04:00:00+00:00,81216.0,Camp Randall Stadium,5.8503318544
+107,michigan,football,2017-11-25 17:00:00+00:00,regular,ohio state,0,20,31,0,,9.0,2017-11-26 04:00:00+00:00,112028.0,Michigan Stadium,6.38759082479999
+108,michigan,football,2018-09-01 23:30:00+00:00,regular,notre dame,0,17,24,0,14.0,12.0,2018-09-02 10:30:00+00:00,0.0,Notre Dame Stadium,4.2446507286
+109,michigan,football,2018-09-08 16:00:00+00:00,regular,western michigan,1,49,3,0,21.0,,2018-09-09 03:00:00+00:00,0.0,Michigan Stadium,0.298619872199999
+110,michigan,football,2018-09-15 19:30:00+00:00,regular,smu,1,45,20,0,19.0,,2018-09-16 06:30:00+00:00,0.0,Michigan Stadium,0.4473367567
+111,michigan,football,2018-09-22 16:00:00+00:00,regular,nebraska,1,56,10,0,19.0,,2018-09-23 03:00:00+00:00,0.0,Michigan Stadium,0.5878271411
+112,michigan,football,2018-09-29 20:47:00+00:00,regular,northwestern,1,20,17,0,14.0,,2018-09-30 07:47:00+00:00,0.0,Ryan Field,7.81958186589999
+113,michigan,football,2018-10-06 16:00:00+00:00,regular,maryland,1,42,21,0,15.0,,2018-10-07 03:00:00+00:00,0.0,Michigan Stadium,2.1552756343
+114,michigan,football,2018-10-13 23:30:00+00:00,regular,wisconsin,1,38,13,0,12.0,15.0,2018-10-14 10:30:00+00:00,0.0,Michigan Stadium,2.47517378049999
+115,michigan,football,2018-10-20 16:00:00+00:00,regular,michigan state,1,21,7,0,6.0,24.0,2018-10-21 03:00:00+00:00,0.0,Spartan Stadium,4.9480972354
+116,michigan,football,2018-11-03 19:45:00+00:00,regular,penn state,1,42,7,0,5.0,14.0,2018-11-04 06:45:00+00:00,0.0,Michigan Stadium,1.70005490699999
+117,michigan,football,2018-11-10 20:30:00+00:00,regular,rutgers,1,42,7,0,4.0,,2018-11-11 07:30:00+00:00,0.0,High Point Solutions Stadium,0.3740481259
+118,michigan,football,2018-11-17 21:00:00+00:00,regular,indiana,1,31,20,0,4.0,,2018-11-18 08:00:00+00:00,0.0,Michigan Stadium,2.33106909749999
+119,michigan,football,2018-11-24 17:00:00+00:00,regular,ohio state,0,39,62,0,4.0,10.0,2018-11-25 04:00:00+00:00,0.0,Ohio Stadium,5.2021552625
+120,michigan,football,2019-08-31 23:30:00+00:00,regular,middle tennessee,1,40,21,0,7.0,,2019-09-01 10:30:00+00:00,110811.0,Michigan Stadium,0.635657455299999
+121,michigan,football,2019-09-07 16:00:00+00:00,regular,army,1,24,21,1,7.0,,2019-09-08 03:00:00+00:00,111747.0,Michigan Stadium,7.65488039
+122,michigan,football,2019-09-21 16:00:00+00:00,regular,wisconsin,0,14,35,0,11.0,13.0,2019-09-22 03:00:00+00:00,80245.0,Camp Randall Stadium,1.5613870332
+123,michigan,football,2019-09-28 16:00:00+00:00,regular,rutgers,1,52,0,0,20.0,,2019-09-29 03:00:00+00:00,110662.0,Michigan Stadium,0.172601285399999
+124,michigan,football,2019-10-05 16:00:00+00:00,regular,iowa,1,10,3,0,19.0,14.0,2019-10-06 03:00:00+00:00,111519.0,Michigan Stadium,5.7541884332
+125,michigan,football,2019-10-12 16:00:00+00:00,regular,illinois,1,42,25,0,16.0,,2019-10-13 03:00:00+00:00,37275.0,Memorial Stadium,1.1339127634
+126,michigan,football,2019-10-19 23:30:00+00:00,regular,penn state,0,21,28,0,16.0,7.0,2019-10-20 10:30:00+00:00,110669.0,Beaver Stadium,4.0725947433
+127,michigan,football,2019-10-26 23:30:00+00:00,regular,notre dame,1,45,14,0,19.0,8.0,2019-10-27 10:30:00+00:00,111909.0,Michigan Stadium,3.0150092493
+128,michigan,football,2019-11-02 16:00:00+00:00,regular,maryland,1,38,7,0,14.0,,2019-11-03 03:00:00+00:00,40701.0,Maryland Stadium,0.5390413113
+129,michigan,football,2019-11-16 17:00:00+00:00,regular,michigan state,1,44,10,0,15.0,,2019-11-17 04:00:00+00:00,111496.0,Michigan Stadium,2.29015208989999
+130,michigan,football,2019-11-23 20:30:00+00:00,regular,indiana,1,39,14,0,13.0,,2019-11-24 07:30:00+00:00,43671.0,Memorial Stadium,3.1968380374
+131,michigan,football,2019-11-30 17:00:00+00:00,regular,ohio state,0,27,56,0,10.0,2.0,2019-12-01 04:00:00+00:00,112071.0,Michigan Stadium,2.6940397338
+132,michigan state,football,2009-09-05 16:00:00+00:00,regular,montana state,1,44,3,0,,,2009-09-06 03:00:00+00:00,0.0,Spartan Stadium,
+133,michigan state,football,2009-09-12 16:00:00+00:00,regular,central michigan,0,27,29,0,,,2009-09-13 03:00:00+00:00,0.0,Spartan Stadium,
+134,michigan state,football,2009-09-19 19:30:00+00:00,regular,notre dame,0,30,33,0,,,2009-09-20 06:30:00+00:00,0.0,Notre Dame Stadium,
+135,michigan state,football,2009-09-26 16:00:00+00:00,regular,wisconsin,0,30,38,0,,,2009-09-27 03:00:00+00:00,0.0,Camp Randall Stadium,
+136,michigan state,football,2009-10-03 16:00:00+00:00,regular,michigan,1,26,20,1,,22.0,2009-10-04 03:00:00+00:00,0.0,Spartan Stadium,
+137,michigan state,football,2009-10-10 16:00:00+00:00,regular,illinois,1,24,14,0,,,2009-10-11 03:00:00+00:00,0.0,Memorial Stadium,
+138,michigan state,football,2009-10-17 16:00:00+00:00,regular,northwestern,1,24,14,0,,,2009-10-18 03:00:00+00:00,0.0,Spartan Stadium,
+139,michigan state,football,2009-10-24 23:00:00+00:00,regular,iowa,0,13,15,0,,6.0,2009-10-25 10:00:00+00:00,0.0,Spartan Stadium,
+140,michigan state,football,2009-11-01 00:00:00+00:00,regular,minnesota,0,34,42,0,,,2009-11-01 11:00:00+00:00,0.0,TCF Bank Stadium,
+141,michigan state,football,2009-11-07 17:00:00+00:00,regular,western michigan,1,49,14,0,,,2009-11-08 04:00:00+00:00,0.0,Spartan Stadium,
+142,michigan state,football,2009-11-14 17:00:00+00:00,regular,purdue,1,40,37,0,,,2009-11-15 04:00:00+00:00,0.0,Ross-Ade Stadium,
+143,michigan state,football,2009-11-21 20:30:00+00:00,regular,penn state,0,14,42,0,,14.0,2009-11-22 07:30:00+00:00,0.0,Spartan Stadium,
+144,michigan state,football,2010-09-04 16:00:00+00:00,regular,western michigan,1,38,14,0,,,2010-09-05 03:00:00+00:00,0.0,Spartan Stadium,
+145,michigan state,football,2010-09-11 16:00:00+00:00,regular,florida atlantic,1,30,17,0,,,2010-09-12 03:00:00+00:00,0.0,,
+146,michigan state,football,2010-09-19 00:00:00+00:00,regular,notre dame,1,34,31,1,,,2010-09-19 11:00:00+00:00,0.0,Spartan Stadium,
+147,michigan state,football,2010-09-25 16:00:00+00:00,regular,northern colorado,1,45,7,0,25.0,,2010-09-26 03:00:00+00:00,0.0,Spartan Stadium,
+148,michigan state,football,2010-10-02 19:30:00+00:00,regular,wisconsin,1,34,24,0,24.0,11.0,2010-10-03 06:30:00+00:00,0.0,Spartan Stadium,
+149,michigan state,football,2010-10-09 19:30:00+00:00,regular,michigan,1,34,17,0,17.0,18.0,2010-10-10 06:30:00+00:00,0.0,Michigan Stadium,
+150,michigan state,football,2010-10-16 16:00:00+00:00,regular,illinois,1,26,6,0,13.0,,2010-10-17 03:00:00+00:00,0.0,Spartan Stadium,
+151,michigan state,football,2010-10-23 16:00:00+00:00,regular,northwestern,1,35,27,0,7.0,,2010-10-24 03:00:00+00:00,0.0,Ryan Field,
+152,michigan state,football,2010-10-30 19:30:00+00:00,regular,iowa,0,6,37,0,5.0,18.0,2010-10-31 06:30:00+00:00,0.0,Kinnick Stadium,
+153,michigan state,football,2010-11-06 16:00:00+00:00,regular,minnesota,1,31,8,0,14.0,,2010-11-07 03:00:00+00:00,0.0,Spartan Stadium,
+154,michigan state,football,2010-11-20 17:00:00+00:00,regular,purdue,1,35,31,0,12.0,,2010-11-21 04:00:00+00:00,0.0,Spartan Stadium,
+155,michigan state,football,2010-11-27 17:00:00+00:00,regular,penn state,1,28,22,0,10.0,,2010-11-28 04:00:00+00:00,0.0,Beaver Stadium,
+156,michigan state,football,2011-09-02 23:30:00+00:00,regular,youngstown state,1,28,6,0,17.0,,2011-09-03 10:30:00+00:00,0.0,Spartan Stadium,2.94322210507425
+157,michigan state,football,2011-09-10 16:00:00+00:00,regular,florida atlantic,1,44,0,0,17.0,,2011-09-11 03:00:00+00:00,0.0,Spartan Stadium,2.37030721571796
+158,michigan state,football,2011-09-17 19:30:00+00:00,regular,notre dame,0,13,31,0,15.0,,2011-09-18 06:30:00+00:00,0.0,Notre Dame Stadium,2.61483388758182
+159,michigan state,football,2011-09-24 16:00:00+00:00,regular,central michigan,1,45,7,0,,,2011-09-25 03:00:00+00:00,0.0,Spartan Stadium,2.80781603797589
+160,michigan state,football,2011-10-01 19:30:00+00:00,regular,ohio state,1,10,7,0,,,2011-10-02 06:30:00+00:00,0.0,Ohio Stadium,4.90776927725148
+161,michigan state,football,2011-10-15 16:00:00+00:00,regular,michigan,1,28,14,0,23.0,11.0,2011-10-16 03:00:00+00:00,0.0,Spartan Stadium,4.21176523411938
+162,michigan state,football,2011-10-23 00:00:00+00:00,regular,wisconsin,1,37,31,0,16.0,6.0,2011-10-23 11:00:00+00:00,0.0,Spartan Stadium,3.92885088945205
+163,michigan state,football,2011-10-29 16:00:00+00:00,regular,nebraska,0,3,24,0,11.0,14.0,2011-10-30 03:00:00+00:00,0.0,Memorial Stadium,2.40379606275448
+164,michigan state,football,2011-11-05 16:00:00+00:00,regular,minnesota,1,31,24,0,17.0,,2011-11-06 03:00:00+00:00,0.0,Spartan Stadium,6.93189675885208
+165,michigan state,football,2011-11-12 17:00:00+00:00,regular,iowa,1,37,21,0,17.0,,2011-11-13 04:00:00+00:00,0.0,Kinnick Stadium,1.98022549288817
+166,michigan state,football,2011-11-19 17:00:00+00:00,regular,indiana,1,55,3,0,15.0,,2011-11-20 04:00:00+00:00,0.0,Spartan Stadium,1.55460419936899
+167,michigan state,football,2011-11-26 17:00:00+00:00,regular,northwestern,1,31,17,0,14.0,,2011-11-27 04:00:00+00:00,0.0,Ryan Field,3.93388454320523
+168,michigan state,football,2011-12-04 01:17:00+00:00,regular,wisconsin,0,39,42,0,17.0,10.0,2011-12-04 12:17:00+00:00,0.0,,5.53225221628291
+169,michigan state,football,2012-09-01 00:00:00+00:00,regular,boise state,1,17,13,0,13.0,24.0,2012-09-01 11:00:00+00:00,78709.0,Spartan Stadium,6.98990098962132
+170,michigan state,football,2012-09-08 19:30:00+00:00,regular,central michigan,1,41,7,0,11.0,,2012-09-09 06:30:00+00:00,35127.0,Kelly/Shorts Stadium,2.50139243458228
+171,michigan state,football,2012-09-16 00:00:00+00:00,regular,notre dame,0,3,20,0,10.0,20.0,2012-09-16 11:00:00+00:00,79219.0,Spartan Stadium,3.48512513998202
+172,michigan state,football,2012-09-22 19:30:00+00:00,regular,eastern michigan,1,23,7,0,21.0,,2012-09-23 06:30:00+00:00,74204.0,Spartan Stadium,5.36064682632658
+173,michigan state,football,2012-09-29 19:30:00+00:00,regular,ohio state,0,16,17,0,20.0,14.0,2012-09-30 06:30:00+00:00,76705.0,Spartan Stadium,7.47521536557361
+174,michigan state,football,2012-10-06 16:00:00+00:00,regular,indiana,1,31,27,0,,,2012-10-07 03:00:00+00:00,45979.0,Memorial Stadium,4.51995593917189
+175,michigan state,football,2012-10-13 16:00:00+00:00,regular,iowa,0,16,19,1,,,2012-10-14 03:00:00+00:00,70211.0,Spartan Stadium,4.42692406908106
+176,michigan state,football,2012-10-20 19:30:00+00:00,regular,michigan,0,10,12,0,,,2012-10-21 06:30:00+00:00,113833.0,Michigan Stadium,6.59781281717875
+177,michigan state,football,2012-10-27 19:30:00+00:00,regular,wisconsin,1,16,13,1,,25.0,2012-10-28 06:30:00+00:00,80538.0,Camp Randall Stadium,4.68357131750199
+178,michigan state,football,2012-11-03 19:30:00+00:00,regular,nebraska,0,24,28,0,,20.0,2012-11-04 06:30:00+00:00,73522.0,Spartan Stadium,6.83012146016534
+179,michigan state,football,2012-11-17 17:00:00+00:00,regular,northwestern,0,20,23,0,,,2012-11-18 04:00:00+00:00,75101.0,Spartan Stadium,8.83039862778473
+180,michigan state,football,2012-11-24 20:30:00+00:00,regular,minnesota,1,26,10,0,,,2012-11-25 07:30:00+00:00,44194.0,TCF Bank Stadium,3.92714472427656
+181,michigan state,football,2013-08-31 00:00:00+00:00,regular,western michigan,1,26,13,0,,,2013-08-31 11:00:00+00:00,71214.0,Spartan Stadium,4.86719017919486
+182,michigan state,football,2013-09-07 16:00:00+00:00,regular,south florida,1,21,6,0,,,2013-09-08 03:00:00+00:00,70401.0,Spartan Stadium,6.11392855922986
+183,michigan state,football,2013-09-14 18:00:00+00:00,regular,youngstown state,1,55,17,0,,,2013-09-15 05:00:00+00:00,71626.0,Spartan Stadium,1.94106890966762
+184,michigan state,football,2013-09-21 19:30:00+00:00,regular,notre dame,0,13,17,0,,22.0,2013-09-22 06:30:00+00:00,80795.0,Notre Dame Stadium,7.22625208802526
+185,michigan state,football,2013-10-05 16:00:00+00:00,regular,iowa,1,26,14,0,,,2013-10-06 03:00:00+00:00,69025.0,Kinnick Stadium,5.09899284435925
+186,michigan state,football,2013-10-12 16:00:00+00:00,regular,indiana,1,42,28,0,,,2013-10-13 03:00:00+00:00,73815.0,Spartan Stadium,3.93665879536203
+187,michigan state,football,2013-10-19 16:00:00+00:00,regular,purdue,1,14,0,0,,,2013-10-20 03:00:00+00:00,71514.0,Spartan Stadium,3.05909012616212
+188,michigan state,football,2013-10-26 19:30:00+00:00,regular,illinois,1,42,3,0,,,2013-10-27 06:30:00+00:00,45895.0,Memorial Stadium,3.82911727523221
+189,michigan state,football,2013-11-02 19:30:00+00:00,regular,michigan,1,29,6,0,22.0,21.0,2013-11-03 06:30:00+00:00,76306.0,Spartan Stadium,4.59804366434955
+190,michigan state,football,2013-11-16 20:30:00+00:00,regular,nebraska,1,41,28,0,16.0,,2013-11-17 07:30:00+00:00,90872.0,Memorial Stadium,5.58503003995049
+191,michigan state,football,2013-11-23 17:00:00+00:00,regular,northwestern,1,30,6,0,13.0,,2013-11-24 04:00:00+00:00,40013.0,Ryan Field,3.20073055967766
+192,michigan state,football,2013-11-30 17:00:00+00:00,regular,minnesota,1,14,3,0,11.0,,2013-12-01 04:00:00+00:00,71418.0,Spartan Stadium,3.05393059042602
+193,michigan state,football,2013-12-08 01:17:00+00:00,regular,ohio state,1,34,24,0,10.0,2.0,2013-12-08 12:17:00+00:00,66002.0,,5.03109936717497
+194,michigan state,football,2014-08-29 23:30:00+00:00,regular,jacksonville state,1,45,7,0,8.0,,2014-08-30 10:30:00+00:00,75127.0,Spartan Stadium,0.2224963838
+195,michigan state,football,2014-09-06 22:30:00+00:00,regular,oregon,0,27,46,0,7.0,3.0,2014-09-07 09:30:00+00:00,59496.0,Autzen Stadium,6.1315718765
+196,michigan state,football,2014-09-20 16:00:00+00:00,regular,eastern michigan,1,73,14,0,11.0,,2014-09-21 03:00:00+00:00,73846.0,Spartan Stadium,0.0226749998999995
+197,michigan state,football,2014-09-27 16:00:00+00:00,regular,wyoming,1,56,14,0,9.0,,2014-09-28 03:00:00+00:00,74227.0,Spartan Stadium,0.1472912521
+198,michigan state,football,2014-10-05 00:00:00+00:00,regular,nebraska,1,27,22,0,10.0,19.0,2014-10-05 11:00:00+00:00,75923.0,Spartan Stadium,2.88541559739999
+199,michigan state,football,2014-10-11 19:30:00+00:00,regular,purdue,1,45,31,0,8.0,,2014-10-12 06:30:00+00:00,40217.0,Ross-Ade Stadium,2.1134404437
+200,michigan state,football,2014-10-18 19:30:00+00:00,regular,indiana,1,56,17,0,8.0,,2014-10-19 06:30:00+00:00,44403.0,Memorial Stadium,2.67350065269999
+201,michigan state,football,2014-10-25 19:30:00+00:00,regular,michigan,1,35,11,0,8.0,,2014-10-26 06:30:00+00:00,76331.0,Spartan Stadium,1.37687022519999
+202,michigan state,football,2014-11-09 01:00:00+00:00,regular,ohio state,0,37,49,0,8.0,14.0,2014-11-09 12:00:00+00:00,76409.0,Spartan Stadium,5.17976726739999
+203,michigan state,football,2014-11-16 01:00:00+00:00,regular,maryland,1,37,15,0,12.0,,2014-11-16 12:00:00+00:00,51802.0,Maryland Stadium,3.63737509879999
+204,michigan state,football,2014-11-22 17:00:00+00:00,regular,rutgers,1,45,3,0,11.0,,2014-11-23 04:00:00+00:00,70902.0,Spartan Stadium,0.4695424005
+205,michigan state,football,2014-11-29 20:30:00+00:00,regular,penn state,1,34,10,0,10.0,,2014-11-30 07:30:00+00:00,99902.0,Beaver Stadium,2.2639241633
+206,michigan state,football,2015-09-04 23:00:00+00:00,regular,western michigan,1,37,24,0,5.0,,2015-09-05 10:00:00+00:00,30885.0,Waldo Stadium,1.2308073913
+207,michigan state,football,2015-09-13 00:00:00+00:00,regular,oregon,1,31,28,0,5.0,7.0,2015-09-13 11:00:00+00:00,76526.0,Spartan Stadium,6.56049610689999
+208,michigan state,football,2015-09-19 16:00:00+00:00,regular,air force,1,35,21,0,4.0,,2015-09-20 03:00:00+00:00,74211.0,Spartan Stadium,0.524569535699999
+209,michigan state,football,2015-09-26 16:00:00+00:00,regular,central michigan,1,30,10,0,2.0,,2015-09-27 03:00:00+00:00,75218.0,Spartan Stadium,1.18477568309999
+210,michigan state,football,2015-10-03 16:00:00+00:00,regular,purdue,1,24,21,0,2.0,,2015-10-04 03:00:00+00:00,74418.0,Spartan Stadium,2.49100477099999
+211,michigan state,football,2015-10-11 00:00:00+00:00,regular,rutgers,1,31,24,0,4.0,,2015-10-11 11:00:00+00:00,50373.0,High Point Solutions Stadium,4.9001101617
+212,michigan state,football,2015-10-17 19:30:00+00:00,regular,michigan,1,27,23,0,7.0,12.0,2015-10-18 06:30:00+00:00,111740.0,Michigan Stadium,8.37285859919999
+213,michigan state,football,2015-10-24 19:30:00+00:00,regular,indiana,1,52,26,0,7.0,,2015-10-25 06:30:00+00:00,74144.0,Spartan Stadium,5.0838017606
+214,michigan state,football,2015-11-08 00:00:00+00:00,regular,nebraska,0,38,39,0,7.0,,2015-11-08 11:00:00+00:00,90094.0,Memorial Stadium,6.2928227126
+215,michigan state,football,2015-11-14 17:00:00+00:00,regular,maryland,1,24,7,0,13.0,,2015-11-15 04:00:00+00:00,73406.0,Spartan Stadium,3.2915766538
+216,michigan state,football,2015-11-21 20:30:00+00:00,regular,ohio state,1,17,14,0,9.0,3.0,2015-11-22 07:30:00+00:00,108975.0,Ohio Stadium,6.5789758562
+217,michigan state,football,2015-11-28 20:30:00+00:00,regular,penn state,1,55,16,0,5.0,,2015-11-29 07:30:00+00:00,74705.0,Spartan Stadium,1.91492241679999
+218,michigan state,football,2015-12-06 01:00:00+00:00,regular,iowa,1,16,13,0,5.0,4.0,2015-12-06 12:00:00+00:00,66985.0,Lucas Oil Stadium,7.7791631218
+219,michigan state,football,2016-09-02 23:00:00+00:00,regular,furman,1,28,13,0,12.0,,2016-09-03 10:00:00+00:00,74516.0,Spartan Stadium,0.4020657328
+220,michigan state,football,2016-09-17 23:30:00+00:00,regular,notre dame,1,36,28,0,12.0,18.0,2016-09-18 10:30:00+00:00,80795.0,Notre Dame Stadium,4.5435825078
+221,michigan state,football,2016-09-24 16:00:00+00:00,regular,wisconsin,0,6,30,0,8.0,11.0,2016-09-25 03:00:00+00:00,75505.0,Spartan Stadium,3.8522703656
+222,michigan state,football,2016-10-02 00:00:00+00:00,regular,indiana,0,21,24,1,17.0,,2016-10-02 11:00:00+00:00,43971.0,Memorial Stadium,7.2468708604
+223,michigan state,football,2016-10-08 19:30:00+00:00,regular,byu,0,14,31,0,,,2016-10-09 06:30:00+00:00,74214.0,Spartan Stadium,4.9758366519
+224,michigan state,football,2016-10-15 19:30:00+00:00,regular,northwestern,0,40,54,0,,,2016-10-16 06:30:00+00:00,75625.0,Spartan Stadium,5.88482854509999
+225,michigan state,football,2016-10-22 23:30:00+00:00,regular,maryland,0,17,28,0,,,2016-10-23 10:30:00+00:00,41235.0,Maryland Stadium,7.1177043288
+226,michigan state,football,2016-10-29 16:00:00+00:00,regular,michigan,0,23,32,0,,2.0,2016-10-30 03:00:00+00:00,75802.0,Spartan Stadium,2.2884563912
+227,michigan state,football,2016-11-05 16:00:00+00:00,regular,illinois,0,27,31,0,,,2016-11-06 03:00:00+00:00,47144.0,Memorial Stadium,8.796648115
+228,michigan state,football,2016-11-12 17:00:00+00:00,regular,rutgers,1,49,0,0,,,2016-11-13 04:00:00+00:00,73701.0,Spartan Stadium,0.565525243999999
+229,michigan state,football,2016-11-19 17:00:00+00:00,regular,ohio state,0,16,17,0,,2.0,2016-11-20 04:00:00+00:00,73303.0,Spartan Stadium,4.3896877058
+230,michigan state,football,2016-11-26 20:30:00+00:00,regular,penn state,0,12,45,0,,7.0,2016-11-27 07:30:00+00:00,97418.0,Beaver Stadium,3.18578837359999
+231,michigan state,football,2017-09-02 16:00:00+00:00,regular,bowling green,1,35,10,0,,,2017-09-03 03:00:00+00:00,71202.0,Spartan Stadium,2.13648702639999
+232,michigan state,football,2017-09-09 19:30:00+00:00,regular,western michigan,1,28,14,0,,,2017-09-10 06:30:00+00:00,72910.0,Spartan Stadium,2.93628456419999
+233,michigan state,football,2017-09-24 00:00:00+00:00,regular,notre dame,0,18,38,0,,,2017-09-24 11:00:00+00:00,74023.0,Spartan Stadium,2.2865633443
+234,michigan state,football,2017-09-30 20:00:00+00:00,regular,iowa,1,17,10,0,,,2017-10-01 07:00:00+00:00,73331.0,Spartan Stadium,4.2867321965
+235,michigan state,football,2017-10-07 23:30:00+00:00,regular,michigan,1,14,10,0,,7.0,2017-10-08 10:30:00+00:00,112432.0,Michigan Stadium,8.2066226901
+236,michigan state,football,2017-10-15 00:00:00+00:00,regular,minnesota,1,30,27,0,21.0,,2017-10-15 11:00:00+00:00,47541.0,TCF Bank Stadium,3.0882198875
+237,michigan state,football,2017-10-21 19:30:00+00:00,regular,indiana,1,17,9,0,18.0,,2017-10-22 06:30:00+00:00,74111.0,Spartan Stadium,8.7606457019
+238,michigan state,football,2017-10-28 19:30:00+00:00,regular,northwestern,0,31,39,1,16.0,,2017-10-29 06:30:00+00:00,39369.0,Ryan Field,8.5312202879
+239,michigan state,football,2017-11-04 16:00:00+00:00,regular,penn state,1,27,24,0,24.0,7.0,2017-11-05 03:00:00+00:00,71605.0,Spartan Stadium,8.4900095465
+240,michigan state,football,2017-11-11 17:00:00+00:00,regular,ohio state,0,3,48,0,12.0,13.0,2017-11-12 04:00:00+00:00,107011.0,Ohio Stadium,0.7828138123
+241,michigan state,football,2017-11-18 21:00:00+00:00,regular,maryland,1,17,7,0,17.0,,2017-11-19 08:00:00+00:00,70216.0,Spartan Stadium,1.5702145
+242,michigan state,football,2017-11-25 21:00:00+00:00,regular,rutgers,1,40,7,0,16.0,,2017-11-26 08:00:00+00:00,35021.0,High Point Solutions Stadium,1.7562760463
+243,michigan state,football,2018-08-31 23:00:00+00:00,regular,utah state,1,38,31,0,11.0,,2018-09-01 10:00:00+00:00,0.0,Spartan Stadium,4.1366972475
+244,michigan state,football,2018-09-09 02:45:00+00:00,regular,arizona state,0,13,16,0,15.0,,2018-09-09 13:45:00+00:00,0.0,Sun Devil Stadium,7.8041556334
+245,michigan state,football,2018-09-22 23:30:00+00:00,regular,indiana,1,35,21,0,24.0,,2018-09-23 10:30:00+00:00,0.0,Memorial Stadium,3.0982747115
+246,michigan state,football,2018-09-29 16:00:00+00:00,regular,central michigan,1,31,20,0,21.0,,2018-09-30 03:00:00+00:00,0.0,Spartan Stadium,3.1949065044
+247,michigan state,football,2018-10-06 16:00:00+00:00,regular,northwestern,0,19,29,0,20.0,,2018-10-07 03:00:00+00:00,0.0,Spartan Stadium,8.5150324998
+248,michigan state,football,2018-10-13 19:30:00+00:00,regular,penn state,1,21,17,0,,8.0,2018-10-14 06:30:00+00:00,0.0,Beaver Stadium,7.1749069096
+249,michigan state,football,2018-10-20 16:00:00+00:00,regular,michigan,0,7,21,0,24.0,6.0,2018-10-21 03:00:00+00:00,0.0,Spartan Stadium,4.9480972354
+250,michigan state,football,2018-10-27 16:00:00+00:00,regular,purdue,1,23,13,0,,,2018-10-28 03:00:00+00:00,0.0,Spartan Stadium,7.7845100768
+251,michigan state,football,2018-11-03 16:00:00+00:00,regular,maryland,1,24,3,0,,,2018-11-04 03:00:00+00:00,0.0,Maryland Stadium,3.4197558846
+252,michigan state,football,2018-11-10 17:00:00+00:00,regular,ohio state,0,6,26,0,18.0,10.0,2018-11-11 04:00:00+00:00,0.0,Spartan Stadium,6.0547208426
+253,michigan state,football,2018-11-17 17:00:00+00:00,regular,nebraska,0,6,9,0,,,2018-11-18 04:00:00+00:00,0.0,Memorial Stadium,8.2254778155
+254,michigan state,football,2018-11-24 21:00:00+00:00,regular,rutgers,1,14,10,0,,,2018-11-25 08:00:00+00:00,0.0,Spartan Stadium,6.53818389
+255,michigan state,football,2019-08-30 23:00:00+00:00,regular,tulsa,1,28,7,0,18.0,,2019-08-31 10:00:00+00:00,72005.0,Spartan Stadium,0.6125123066
+256,michigan state,football,2019-09-07 23:30:00+00:00,regular,western michigan,1,51,17,0,19.0,,2019-09-08 10:30:00+00:00,73113.0,Spartan Stadium,0.9360172957
+257,michigan state,football,2019-09-14 20:00:00+00:00,regular,arizona state,0,7,10,0,18.0,,2019-09-15 07:00:00+00:00,73531.0,Spartan Stadium,7.2995017468
+258,michigan state,football,2019-09-21 16:00:00+00:00,regular,northwestern,1,31,10,0,,,2019-09-22 03:00:00+00:00,40114.0,Ryan Field,3.0353201171
+259,michigan state,football,2019-09-28 19:30:00+00:00,regular,indiana,1,40,31,0,25.0,,2019-09-29 06:30:00+00:00,71048.0,Spartan Stadium,6.6153972155
+260,michigan state,football,2019-10-05 23:30:00+00:00,regular,ohio state,0,10,34,0,25.0,4.0,2019-10-06 10:30:00+00:00,104797.0,Ohio Stadium,1.2566887765
+261,michigan state,football,2019-10-12 19:30:00+00:00,regular,wisconsin,0,0,38,0,,8.0,2019-10-13 06:30:00+00:00,80470.0,Camp Randall Stadium,1.36349714189999
+262,michigan state,football,2019-10-26 19:30:00+00:00,regular,penn state,0,7,28,0,,6.0,2019-10-27 06:30:00+00:00,70298.0,Spartan Stadium,2.2829302891
+263,michigan state,football,2019-11-09 20:30:00+00:00,regular,illinois,0,34,37,0,,,2019-11-10 07:30:00+00:00,63370.0,Spartan Stadium,3.7908518628
+264,michigan state,football,2019-11-16 17:00:00+00:00,regular,michigan,0,10,44,0,,15.0,2019-11-17 04:00:00+00:00,111496.0,Michigan Stadium,2.29015208989999
+265,michigan state,football,2019-11-23 17:00:00+00:00,regular,rutgers,1,27,0,0,,,2019-11-24 04:00:00+00:00,24641.0,High Point Solutions Stadium,1.1951435053
+266,michigan state,football,2019-11-30 20:30:00+00:00,regular,maryland,1,19,16,0,,,2019-12-01 07:30:00+00:00,51366.0,Spartan Stadium,5.27291221909999
 267,michigan,basketball,2009-11-14 19:00:00,regular,northern michigan,1,97,50,0,15,,2009-11-15 05:00:00,,,
 268,michigan,basketball,2009-11-20 19:00:00,regular,houston baptist,1,77,55,0,15,,2009-11-21 05:00:00,,,
 269,michigan,basketball,2009-11-26 12:00:00,regular,creighton,1,83,76,1,15,,2009-11-26 22:00:00,,,
