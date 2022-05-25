@@ -12,7 +12,8 @@ Our repo is structured with the following:
 02_sports_rawdata/ 
   -	 Contains college football and college basketball data for University of Michigan and Michigan State University
 
-03_notebooks/ 
+03_notebooks/
+
 Contains our Jupyter Notebooks used to compile data sources, merge data sets, and explore data:
   -	 01_nibrs_data - the notebook that combines nibrs data across the 10 year span
   -	 02_baskeball_data - web-scraping of college basketball data and extraction of gametimes using selenium 
