@@ -7,8 +7,11 @@ Please reach out if you have any questions about the data, inquiries about the a
 \
 Our repo is structured with the following:\
 \
+00_nibrs_downloads/
+-  NIBRS data downloaded from https://crime-data-explorer.fr.cloud.gov/pages/downloads, representing Michigan incidents/crimes. Each year’s data is stored as ‘MI-year’ (e.g. MI-2009)
+
 01_nibrs_rawdata/
--	 NIBRS data downloaded from https://crime-data-explorer.fr.cloud.gov/pages/downloads,  representing Michigan incidents/crimes. Each year’s data is stored as ‘MI-year’ (e.g. MI-2009).
+-  Contains each year's incidents and offenses concatenated together for the full list of each 
 -	 Contains guides and illustrations from NIBRS relevant interest to our analysis.
 
 02_sports_rawdata/ 
