@@ -20,7 +20,7 @@ Contains our Jupyter Notebooks used to compile data sources, merge data sets, an
   -	 01_nibrs_data - the notebook that combines nibrs data across the 10 year span
   -	 02_baskeball_data - web-scraping of college basketball data and extraction of gametimes using selenium 
   -	 03_eda_baseline - a notebook to evaluate the michigan crime data statewide with an attempt to get an understanding of criminal offenses that occur at the university locations. 
-  -  04_join- data cleaning, manipulation and combining of the sports and crime data
+  -  04_join - data cleaning, manipulation and combining of the sports and crime data
   -	 05_sports_incidents_eda - our exploration of the data and creation of variables of interest that help us understand the relationships between aspects of the two universities and crime.
 
 04_finaldata/
