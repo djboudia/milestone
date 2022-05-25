@@ -13,7 +13,7 @@ Our repo is structured with the following:
   -	 Contains college football and college basketball data for University of Michigan and Michigan State University
 
 03_notebooks/ 
--  Contains our Jupyter Notebooks used to compile data sources, merge data sets, and explore data:
+Contains our Jupyter Notebooks used to compile data sources, merge data sets, and explore data:
   -	 01_nibrs_data - the notebook that combines nibrs data across the 10 year span
   -	 02_baskeball_data - web-scraping of college basketball data and extraction of gametimes using selenium 
   -	 03_eda_baseline - a notebook to evaluate the michigan crime data statewide with an attempt to get an understanding of criminal offenses that occur at the university locations. 
