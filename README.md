@@ -1,10 +1,12 @@
-We are University of Michigan Master of Applied Data Science students interested in understanding correlations between college sports and crime incidents for University of Michigan’s and Michigan State University’s Football and Basketball teams.
-
+We are University of Michigan Master of Applied Data Science students interested in understanding correlations between college sports and crime incidents for University of Michigan’s and Michigan State University’s Football and Basketball teams.\
+\
 This repo contains ten seasons of college football and basketball game data and Michigan criminal data from NIBRS (National Incident-Based Reporting System), 2009 to 2019.\
 \
+Please reach out if you have any questions about the data, inquiries about the analysis, or are curious to know more. Thanks!\
 \
-Our repo is structured with the following:
-
+\
+Our repo is structured with the following:\
+\
 01_nibrs_rawdata/
 -	 NIBRS data downloaded from https://crime-data-explorer.fr.cloud.gov/pages/downloads,  representing Michigan incidents/crimes. Each year’s data is stored as ‘MI-year’ (e.g. MI-2009).
 -	 Contains guides and illustrations from NIBRS relevant interest to our analysis.
@@ -26,7 +28,3 @@ Contains our Jupyter Notebooks used to compile data sources, merge data sets, an
 
 05_report/
   -	 .pptx and .pdf copies of final report
-
-\
-\
-Please reach out if you have any questions about the data, inquiries about the analysis, or are curious to know more. Thanks!
