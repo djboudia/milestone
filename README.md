@@ -26,7 +26,6 @@ Contains our Jupyter Notebooks used to compile data sources, merge data sets, an
 
 05_report/
   -	 .pptx and .pdf copies of final report
-
 \
 \
 Please reach out if you have any questions about the data, inquiries about the analysis, or are curious to know more. Thanks!
